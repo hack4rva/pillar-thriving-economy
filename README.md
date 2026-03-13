@@ -1,41 +1,60 @@
+<div align="center">
+
 # Thriving Economy — Decision Funnel
 
-This repo is a guided decision environment for teams working on the Thriving Economy pillar at the Richmond Civic Hackathon (March 27–29, 2026).
+Richmond Civic Hackathon • March 27–29, 2026
 
-Journey stages
-- Land → Orient → Choose → Run focused research → Compare MVP shapes → Lock scope → Build → Validate → Demo → Hand off
+[![Pillar](https://img.shields.io/badge/Pillar-Thriving_Economy-4c68d7)](#)  
+[![Stage](https://img.shields.io/badge/Stage-Decision_Funnel-00a38f)](#)  
+[![Focus](https://img.shields.io/badge/Focus-From_Idea_%E2%86%92_MVP-ff7a59)](#)
 
-Three questions to answer fast
-1) What problem are we actually solving? 2) Can we build something credible by Sunday? 3) What should we refuse to build?
+</div>
+
+This is a guided decision environment for teams working on the Thriving Economy pillar. It’s designed to help you quickly choose a credible, source‑linked, weekend‑buildable MVP—and avoid fantasy software.
+
+Journey stages: Land → Orient → Choose → Research → Compare MVPs → Lock Scope → Build → Validate → Demo → Hand‑off
+
+Three questions to answer fast: 1) What problem are we actually solving? 2) Can we credibly demo by Sunday? 3) What should we refuse to build?
 
 ---
 
-## Phase 0: Landing and Framing
+## Table of Contents
 
-Goal
-- Understand what this repo is and how to use it without “exploring” for two hours.
+1. Quick Start
+2. Repo Map
+3. Guardrails
+4. Decision Phases
+   - Phase 0: Landing & Framing
+   - Phase 1: Rapid Orientation
+   - Phase 2: Problem Selection
+   - Phase 3: Research Spin‑Up
+   - Phase 4: Opportunity Framing
+   - Phase 5: Scope Lock
+   - Phases 6–9: Build → Validate → Demo
+5. Verification Workflow
+6. Hackbot Helper
+7. Appendix: Pillar Context & Rubric
 
-What this pillar is about
-- Equitable access to City contracting opportunities and small-business formation/navigation; workforce pathways and entrepreneurship support under Thriving Economy.
+---
 
-What kinds of teams succeed here
-- Teams that pick one user, one workflow, one credible data/doc base, and aim for a Sunday demo grounded in sources.
+## Quick Start
 
-What this repo contains
-- Pillar overview/alignment, problem statements, data/indexes, research prompts + runner, build guides, decision templates.
+Do these first 15–30 minutes to get moving:
 
-How to use it with a coding CLI
-- Read just enough to decide, then use the Perplexity runner for evidence gathering, not research theater.
+1) Read: `QUICKSTART.md`  
+2) Skim: `00_core/00_pillar_overview.md` and `01_problem_space/02_targeted_problem_statements.md`  
+3) Capture a 5‑bullet “Working Direction” using `99_templates/working_direction_note.md`  
+4) Decide your path:
+   - Path A — already have a rough problem: jump to Phase 2 and Phase 4
+   - Path B — need help choosing: start at Phase 1 and proceed in order
 
-What a good project looks like
-- Source-linked, narrow scope, credible demo, explicit limits.
+---
 
-What a bad project looks like
-- Platform claims, eligibility/legal decisions, policy/integration dependencies, private data needs.
+## Repo Map
 
-Admin quick links
-- Master research hub: `research_notes.md`
+- Research hub: `research_notes.md`
 - Evidence tracker: `evidence_log.md`
+- Data index: `02_data/00_index.md`
 - Source inventory (CSV): `02_data/source_inventory.csv`
 - Artifacts: `03_artifacts/`
   - Journeys: `03_artifacts/user_journeys.md`
@@ -44,24 +63,49 @@ Admin quick links
   - Benchmark scan: `03_artifacts/benchmark_scan.md`
   - Prototype recommendations: `03_artifacts/prototype_recommendations.md`
   - Continuation plan: `03_artifacts/continuation_plan.md`
-
-Verification workflow
-- Add official URLs and dates in `evidence_log.md`; flip status to verified.
-- Mirror verified sources into `02_data/source_inventory.csv` with access mode and key fields.
-- Only after verification, promote content from research intake to the Executive Brief in `research_notes.md`.
-
-Call to action
-- Choose one: “I already know the rough problem” (Path A) or “I need help choosing” (Path B).
-
-Path A — I already know the rough problem
-- Skim Rapid Orientation (Phase 1), then go to Problem Selection (Phase 2) and Opportunity Framing (Phase 4).
-
-Path B — I need help choosing a problem
-- Start with Rapid Orientation (Phase 1) and proceed in order.
+- Build guides: `04_build_guides/`
+- Prompts + runners: `05_prompts/`
+- Templates: `99_templates/`
 
 ---
 
-## Phase 1: Rapid Orientation (20–30 min)
+## Guardrails
+
+- Pick one user, one workflow, and one credible data/doc base.
+- Avoid eligibility/legal determinations and policy/integration dependencies.
+- Always cite official sources. Log every claim in `evidence_log.md`.
+- Keep AI constrained to explanation, retrieval, comparison, and guidance.
+
+---
+
+## Decision Phases
+
+<details open>
+<summary><strong>Phase 0 — Landing & Framing</strong></summary>
+
+Goal: understand what this repo is and how to use it without “exploring” for two hours.
+
+What this pillar is about:
+- Equitable access to City contracting opportunities and small‑business formation/navigation; workforce pathways and entrepreneurship support under Thriving Economy.
+
+Success patterns:
+- Source‑linked, narrow scope, credible demo, explicit limits.
+
+Anti‑patterns:
+- Platform claims; eligibility/legal decisions; policy/integration dependencies; private data needs.
+
+Admin quick links:
+- Research hub: `research_notes.md`
+- Evidence tracker: `evidence_log.md`
+- Source inventory (CSV): `02_data/source_inventory.csv`
+- Artifacts: see Repo Map below
+
+Call to action: choose Path A or Path B.
+
+</details>
+
+<details open>
+<summary><strong>Phase 1 — Rapid Orientation (20–30 min)</strong></summary>
 
 Read just enough to build a shared mental model:
 - `QUICKSTART.md`
@@ -70,10 +114,10 @@ Read just enough to build a shared mental model:
 - `01_problem_space/02_targeted_problem_statements.md`
 
 Filter for:
-- user groups, pain points, what the City actually cares about
-- problems that are software-shaped vs policy-shaped
+- user groups; pain points; what the City actually cares about
+- problems that are software‑shaped vs policy‑shaped
 
-Team checkpoint: draft a Working Direction note (keep it short)
+Team checkpoint — Working Direction (use `99_templates/working_direction_note.md`):
 
 ```
 ## Working Direction
@@ -81,17 +125,16 @@ Team checkpoint: draft a Working Direction note (keep it short)
 - Candidate problem:
 - Likely user:
 - Why it matters:
-- Why it seems weekend-buildable:
+- Why it seems weekend‑buildable:
 - Biggest uncertainty:
 ```
 
-You can use `99_templates/working_direction_note.md` to capture this.
+</details>
 
----
+<details>
+<summary><strong>Phase 2 — Problem Selection (30–45 min)</strong></summary>
 
-## Phase 2: Problem Selection (30–45 min)
-
-Files
+Files:
 - `01_problem_space/01_bluesky_problem_statements.md`
 - `01_problem_space/02_targeted_problem_statements.md`
 - `01_problem_space/03_user_personas.md`
@@ -99,11 +142,11 @@ Files
 - `05_prompts/01_problem_selection_prompt.md`
 
 Decision rule — choose only if the problem has:
-- a real user, an understandable workflow
+- a real user and understandable workflow
 - a plausible public data/document base
 - a demoable artifact by Sunday
 
-Output: a Decision Memo
+Output: Decision Memo (`99_templates/decision_memo.md`)
 
 ```
 ## Chosen Problem
@@ -113,20 +156,19 @@ Output: a Decision Memo
 ## Risks
 ```
 
-Template: `99_templates/decision_memo.md`
+</details>
 
----
-
-## Phase 3: Research Spin‑Up (60–90 min)
+<details>
+<summary><strong>Phase 3 — Research Spin‑Up (60–90 min)</strong></summary>
 
 Goal: gather just enough evidence to avoid fantasy software.
 
 Use the runner to execute targeted prompts and capture findings:
-- Perplexity runner: `05_prompts/perplexity_runner/` (see README)
+- Perplexity runner: `05_prompts/perplexity_runner/` (see its README)
 - Research plan: `05_prompts/research/99_research_plan.md`
 - Data index: `02_data/00_index.md`
 
-Evidence Log format
+Evidence Log structure (log in `evidence_log.md`):
 
 ```
 ## Evidence Log
@@ -141,19 +183,20 @@ Evidence Log format
 
 Tip: parse URLs from API metadata; don’t ask for URLs in prompt text.
 
----
+</details>
 
-## Phase 4: Opportunity Framing (45–60 min)
+<details>
+<summary><strong>Phase 4 — Opportunity Framing (45–60 min)</strong></summary>
 
 Compare at least two MVP shapes before choosing.
 
-Files
+Files:
 - `04_build_guides/01_mvp_shapes.md`
 - `04_build_guides/02_recommended_architectures.md`
 - `05_prompts/03_mvp_scoping_prompt.md`
 - `05_prompts/06_risk_review_prompt.md`
 
-Output
+Output:
 
 ```
 ## MVP Options
@@ -166,38 +209,65 @@ Output
 ## What we are explicitly not building
 ```
 
----
+</details>
 
-## Phase 5: Scope Lock (45–60 min)
+<details>
+<summary><strong>Phase 5 — Scope Lock (45–60 min)</strong></summary>
 
 Pin down must‑haves, mockables, data, AI role, limits, and demo path.
 
-Files
+Files:
 - `99_templates/project_one_pager_template.md`
-- `04_build_guides/03_ai_usage_guidance.md`
-- `00_core/03_guardrails.md`
-- `04_build_guides/06_pitch_structure.md`
 
-Key sentence
+Key sentence:
+
 > By Sunday, we will show a prototype that helps [user] do [specific thing] using [specific data/docs], without pretending to do [dangerous overclaim].
 
----
+</details>
 
-## Phase 6–9: Build → Validate → Demo
+<details>
+<summary><strong>Phases 6–9 — Build → Validate → Demo</strong></summary>
 
-Build
+Build:
 - Break work into FE/BE/data/content; assign source verification and demo owner.
 - Keep AI constrained to explanation, retrieval, comparison, and guidance.
 
-Validate
+Validate:
 - Use risk review prompts and red flags; check source links and clarity.
 
-Demo
-- Follow `04_build_guides/05_demo_advice.md` and `04_build_guides/06_pitch_structure.md`.
+Demo:
+- Follow `04_build_guides/05_demo_advice.md`.
+
+</details>
 
 ---
 
-## Appendix: Pillar Context and Rubric
+## Verification Workflow
+
+1) Add official URLs and dates in `evidence_log.md`; flip status to Verified.  
+2) Mirror verified sources into `02_data/source_inventory.csv` with access mode and key fields.  
+3) After verification, promote findings into the Executive Brief inside `research_notes.md`.
+
+---
+
+## Hackbot Helper
+
+You can use Hackbot to reconstruct context, run research, and shape an MVP.
+
+- Boot prompt: `HACKBOT_BOOT_PROMPT.md`
+- Skills: `skills/**/SKILL.md` (repo_memory, problem_scoping, research_runner, dataset_mapper, opportunity_mapper, mvp_designer, risk_review, demo_coach, repo_librarian, continuity_planner)
+- Team profile (recommended): `99_templates/team_profile_template.md`
+
+Notes:
+- Hackbot never invents government programs or legal eligibility. It cites official sources and encourages verification.
+- For best results, create a team profile so Hackbot can map tasks to roles and follow your communication preferences.
+
+---
+
+## Appendix: Pillar Context & Rubric
+
+<details>
+<summary>Open context from the Pillar Committee session (March 11, 2026)</summary>
 
 Prepared by: Christian Markow, et al. (March 11, 2026)
 
@@ -206,35 +276,37 @@ Pillar Committee & Working Session
 - Location: Lost Office Collaborative, 5000 Old Main St, Henrico, VA 23231
 
 Participants
-| Role               | Name                      | Organization / Title | Contact                   |
-|--------------------|---------------------------|----------------------|---------------------------|
-| Nonprofit Partner  | Martha Shickle            | PlanRVA              | martha@PlanRVA.org        |
-| Nonprofit Partner  | Heather Lyne              | 1717 Collective      | hlyne@1717collective.org  |
-| City Representative| Sharon Ebert              | DCAO                 | Sharon.Ebert@rva.gov      |
-| Hack RVA           | Christian, Heather, Michael | Organizer team     | —                         |
+| Role               | Name                        | Organization / Title | Contact                  |
+|--------------------|-----------------------------|----------------------|--------------------------|
+| Nonprofit Partner  | Martha Shickle              | PlanRVA              | martha@PlanRVA.org       |
+| Nonprofit Partner  | Heather Lyne                | 1717 Collective      | hlyne@1717collective.org |
+| City Representative| Sharon Ebert                | DCAO                 | Sharon.Ebert@rva.gov     |
+| Hack RVA           | Christian, Heather, Michael | Organizer team       | —                        |
 
 Rubric Score Summary
-| Statement                   | D1 | D2 | D3 | D4 | D5 | D6 | D7 | D8 | Total | Band   |
-|----------------------------|----|----|----|----|----|----|----|----|-------|--------|
-| MBE Contracting            | 4  | 4  | 3  | 2  | 4  | 3  | 3  | 3  | 26    | Strong |
-| Small Business Navigation  | 4  | 3  | 2  | 2  | 4  | 3  | 3  | 3  | 24    | Strong |
+| Statement                  | D1 | D2 | D3 | D4 | D5 | D6 | D7 | D8 | Total | Band   |
+|---------------------------|----|----|----|----|----|----|----|----|-------|--------|
+| MBE Contracting           | 4  | 4  | 3  | 2  | 4  | 3  | 3  | 3  | 26    | Strong |
+| Small Business Navigation | 4  | 3  | 2  | 2  | 4  | 3  | 3  | 3  | 24    | Strong |
 
 Dimension key: D1 Clarity | D2 Scope | D3 Data readiness | D4 Champion | D5 Population & impact | D6 Operating environment | D7 Success criteria | D8 Accessibility
 
 Quick‑kill flags: both targeted statements lack a continuation pathway; Small Business Navigation has a procedural data gap.
 
 Targeted Statement 1: Helping Minority‑Owned Businesses Identify Relevant City Contract Opportunities (Score 26/32 — Strong)
-- Problem, context, constraints, success, gaps, and relevant open data are detailed in `01_problem_space/02_targeted_problem_statements.md`.
+- Problem, context, constraints, success, gaps, and relevant open data are in `01_problem_space/02_targeted_problem_statements.md`.
 
 Targeted Statement 2: Small Business Navigation & Business Setup Friction (Score 24/32 — Strong)
-- Problem, context, constraints, success, gaps, and relevant open data are detailed in `01_problem_space/02_targeted_problem_statements.md`.
+- Problem, context, constraints, success, gaps, and relevant open data are in `01_problem_space/02_targeted_problem_statements.md`.
 
 Blue Sky Statements
 - See `01_problem_space/01_bluesky_problem_statements.md`.
 
 Prioritized Actions Before March 27, 2026
-1) Document the business registration decision tree (turns Strong → Exceptional)
-2) Name a departmental champion (continuation pathway)
-3) Clarify procurement portal data format (API/CSV/scrape)
-4) Link City Contracts Registry into the MBE statement
+1) Document the business registration decision tree (turns Strong → Exceptional)  
+2) Name a departmental champion (continuation pathway)  
+3) Clarify procurement portal data format (API/CSV/scrape)  
+4) Link City Contracts Registry into the MBE statement  
 5) Specify expected output types in each statement
+
+</details>
