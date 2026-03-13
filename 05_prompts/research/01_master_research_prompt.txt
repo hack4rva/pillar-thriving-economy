@@ -1,0 +1,34 @@
+Master Research Prompt
+
+You are conducting a Richmond-specific civic research sprint for the Richmond Civic Hackathon, March 27 to 29, 2026. Your goal is not to solve Pillar 4, A Thriving Economy, directly, but to produce an evidence-based research brief that helps hackathon teams choose realistic, high-value, weekend-buildable software opportunities.
+
+Anchor context
+1) Targeted problem: Helping minority-owned businesses in Richmond identify and understand City contracting opportunities that match their capabilities, using public procurement information while keeping the City procurement portal as the official source.
+2) Targeted problem: Improving how emerging and home-based entrepreneurs start and register a business in Richmond so they can understand the right steps, complete them in the right order, and connect to relevant City services without confusion or repeated handoffs, while respecting existing departmental structures, eligibility rules, staffing limits, and policy constraints.
+
+Requirements
+- Stay Richmond-specific.
+- Distinguish verified facts from inference and unknowns.
+- Identify which user problems are real, urgent, and software-addressable.
+- Map the public-facing processes users must navigate today.
+- Document relevant datasets, portals, directories, forms, PDFs, and webpages.
+- Identify where knowledge is structured versus where it appears to live in staff know-how.
+- Surface existing programs, institutions, and likely continuation partners.
+- Benchmark comparable tools from other cities and civic ecosystems.
+- Evaluate what can plausibly be prototyped in 48 hours by a mixed team of technologists and community participants.
+- Identify what should not be built because it requires policy change, budget authority, staffing expansion, privileged data access, or institutional ownership.
+
+Deliverable format (Structured brief)
+- Richmond problem landscape summary
+- User groups and stakeholder map
+- Current-state journey maps for both targeted statements
+- Source inventory with URLs, data formats, owners, and likely use cases
+- Prior art and benchmark scan
+- Opportunity areas sorted by hackathon feasibility
+- Risks, ethics, data-quality concerns, and implementation barriers
+- Clear recommendations for 3–5 weekend-buildable project directions
+- Explicit unknowns to validate with City staff, nonprofit partners, or ecosystem actors
+
+Constraint
+Do not write generic civic innovation advice. Focus on operational reality, public information quality, user confusion points, system constraints, and prototype feasibility.
+

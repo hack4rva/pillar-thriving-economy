@@ -1,0 +1,7 @@
+Risks & Ethics G1 — AI-Heavy Tool Risks
+
+Identify the biggest risks of building AI-heavy tools in this pillar area, including inaccurate guidance, misleading eligibility advice, hallucinated process steps, false confidence, stale public information, and overclaiming what a prototype can do.
+
+Output
+- Risk list with examples and mitigations
+

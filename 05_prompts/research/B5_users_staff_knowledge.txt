@@ -1,0 +1,8 @@
+User & Stakeholder B5 — Staff Knowledge vs. Public Structure
+
+Identify what operational knowledge appears to exist mainly in staff expertise rather than in structured public guidance, and explain why that matters for research and prototype design.
+
+Output
+- Staff-knowledge areas vs. public documentation
+- Risks and design implications
+

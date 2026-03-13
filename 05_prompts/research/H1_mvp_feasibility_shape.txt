@@ -1,0 +1,7 @@
+MVP Feasibility H1 — Credible 48-Hour MVPs
+
+Determine what a credible 48-hour MVP looks like for each targeted problem statement. Be concrete about scope, inputs, outputs, content requirements, and what can be mocked versus what must be real.
+
+Output
+- Two MVP shapes with must-have vs. mockable elements
+

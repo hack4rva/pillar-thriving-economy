@@ -1,0 +1,8 @@
+Risks & Ethics G2 — Harmful Use Cases
+
+Determine which use cases could create harm if users treat a hackathon prototype as authoritative legal, regulatory, or procurement advice.
+
+Output
+- Harm scenarios and why they’re risky
+- Guidance on safe framing and disclaimers
+

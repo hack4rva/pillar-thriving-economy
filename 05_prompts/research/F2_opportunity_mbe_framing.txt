@@ -1,0 +1,7 @@
+Opportunities F2 — MBE Contracting Framing
+
+For the minority-business contracting statement, determine whether the strongest hackathon opportunity is better framed as search, relevance ranking, plain-language interpretation, matching, alerts, or guided next steps. Explain why.
+
+Output
+- Recommended framing with rationale, risks, and data needs
+

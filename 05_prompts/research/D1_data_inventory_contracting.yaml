@@ -1,0 +1,12 @@
+model: sonar-pro
+preset: pro-search
+instructions: |
+  Inventory Richmond procurement-related public sources. For each, capture: title, owner, content type,
+  format (CSV/JSON/OData/web table/PDF), access method, update pattern (if visible), and likely hackathon use.
+  Label each row as Verified (from search results) or Inference. Do not include URLs in text.
+search_domain_filter:
+  - mvendor.cgieva.com
+  - virginia.gov
+  - rva.gov
+web_search_options:
+  search_context_size: high

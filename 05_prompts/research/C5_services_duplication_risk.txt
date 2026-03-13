@@ -1,0 +1,8 @@
+Existing Services C5 — Duplication Risk
+
+Determine where a hackathon team risks duplicating an existing service instead of filling a real gap.
+
+Output
+- Potential duplication areas
+- How to differentiate or partner
+

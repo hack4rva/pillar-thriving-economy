@@ -1,0 +1,8 @@
+User & Stakeholder B1 — Personas (Contracting)
+
+Identify the likely primary user personas for the minority-business contracting statement in Richmond. Include first-time contractors, small service providers, specialty trades, and firms with limited government procurement familiarity. Describe what each persona is trying to do, what they likely know already, and what they likely do not know.
+
+Output
+- 3–5 personas with goals, knowledge, gaps
+- Example scenarios and first-step questions
+

@@ -1,0 +1,8 @@
+Data & Sources D5 — Data Quality Assessment
+
+Evaluate the data quality, completeness, and likely reliability of all major public sources teams might use. Note missing fields, outdated language, ambiguous categories, broken links, or lack of machine-readable structure.
+
+Output
+- Issues log by source with examples
+- Mitigations for weekend demo scope
+

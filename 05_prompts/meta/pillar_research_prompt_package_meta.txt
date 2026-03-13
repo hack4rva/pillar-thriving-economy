@@ -1,0 +1,163 @@
+Use the pillar problem statement outline and all attached/source materials to synthesize a high-quality research prompt package for the Richmond Civic Hackathon.
+
+Your task is not to answer the pillar problem itself. Your task is to produce the best possible **research prompts** that a researcher, analyst, or AI system could use to deeply investigate the pillar and generate actionable inputs for hackathon teams.
+
+Context:
+
+* Event: Richmond Civic Hackathon
+* Date: March 27–29, 2026
+* Purpose: help teams build credible, community-centered, weekend-buildable civic solutions aligned to Mayor Danny Avula’s Mayoral Action Plan
+* Output should support one pillar at a time
+* The pillar problem statement outline may include BlueSky framing, targeted problem statements, stakeholders, constraints, known data sources, desired outcomes, and evaluation criteria
+
+Instructions:
+
+1. Read and absorb the full pillar problem statement outline and any supporting material.
+2. Extract the core research dimensions embedded in the outline, including:
+
+   * user groups affected
+   * pain points and unmet needs
+   * existing programs, services, and interventions
+   * policy, process, and operational constraints
+   * available public datasets and source systems
+   * local Richmond context
+   * institutional actors and stakeholders
+   * risks, tradeoffs, and implementation barriers
+   * signals of what could plausibly be prototyped in a weekend
+3. Based on that material, generate a **research prompt set** that is organized into clear sections.
+4. The prompts should be designed to produce research that is:
+
+   * Richmond-specific
+   * grounded in evidence
+   * useful for teams building software prototypes
+   * realistic within hackathon constraints
+   * explicit about uncertainty where facts are missing
+5. Do not produce vague brainstorm prompts. Produce prompts that force useful, concrete research.
+6. Favor questions that help teams decide:
+
+   * what problem is real and urgent
+   * who the user is
+   * what data exists
+   * what has already been tried
+   * where software can genuinely help
+   * what should not be built
+7. Include prompts that distinguish between:
+
+   * problems suitable for software
+   * problems that require policy change, budget, staffing, or institutional authority
+8. Include prompts that surface prior art from other cities, nonprofits, civic tech groups, universities, and hackathons.
+9. Include prompts that help identify:
+
+   * high-value service navigation opportunities
+   * transparency and public information gaps
+   * workflow inefficiencies inside nonprofits or government
+   * opportunities for document translation, summarization, matching, dashboards, maps, and public-facing search tools
+10. Include prompts that test feasibility, ethics, and data quality.
+11. Assume the final audience is a mix of technologists, nonprofit leaders, city stakeholders, mentors, and judges.
+
+Output format:
+Produce the result in the following exact structure.
+
+# Pillar Research Prompt Package
+
+## 1. Pillar Summary
+
+Provide a concise synthesis of the pillar based only on the provided materials:
+
+* core challenge
+* likely users
+* likely civic opportunity areas
+* major constraints
+* likely categories of viable hackathon solutions
+
+## 2. Master Research Prompt
+
+Write one excellent master prompt that could be given to a senior researcher or advanced AI system to produce a full research brief for this pillar.
+
+## 3. Sub-Prompts by Category
+
+Create strong prompts under each of these headings:
+
+### A. Problem Landscape
+
+Prompts to investigate the true shape of the problem in Richmond.
+
+### B. User and Stakeholder Research
+
+Prompts to identify who is affected, who serves them, and who holds relevant operational knowledge.
+
+### C. Existing Services, Programs, and Interventions
+
+Prompts to map what already exists and where the gaps are.
+
+### D. Data and Source Inventory
+
+Prompts to find public datasets, source systems, directories, documents, and structured information that teams could use.
+
+### E. Prior Art and Comparable Solutions
+
+Prompts to find similar tools, pilots, civic products, or hackathon projects from other places.
+
+### F. Opportunity Framing for Hackathon Teams
+
+Prompts to identify the most buildable, high-value software opportunities.
+
+### G. Risks, Ethics, and Guardrails
+
+Prompts to identify privacy issues, harmful automation risks, legal concerns, and misleading product patterns.
+
+### H. MVP Feasibility
+
+Prompts to determine what can realistically be built and demoed in 48 hours.
+
+### I. Demo and Judging Alignment
+
+Prompts to help teams shape ideas that will be understandable, credible, and impressive on demo day.
+
+## 4. Top 10 Research Questions
+
+Distill the entire pillar into the 10 most important research questions.
+
+## 5. Top 10 Hypotheses to Test
+
+Write 10 concrete hypotheses that good research could validate or disprove.
+
+## 6. Red Flags
+
+List the most likely ways teams could misunderstand the problem, misuse data, overclaim impact, or build something unrealistic.
+
+## 7. High-Probability Project Archetypes
+
+Based on the materials, propose 5 to 10 likely project archetypes that could emerge from the research, such as:
+
+* service navigator
+* public information explainer
+* eligibility guide
+* dashboard
+* map
+* workflow assistant
+* document translator
+* search or matching tool
+
+For each archetype, include:
+
+* why it fits the pillar
+* likely user
+* likely required data
+* likely risks
+* why it is or is not feasible in a weekend
+
+## 8. Missing Information
+
+Explicitly identify what the provided pillar materials do not contain that would be important to gather before the hackathon.
+
+Quality bar:
+
+* Be specific
+* Be Richmond-aware
+* Be skeptical of generic AI hype
+* Do not invent facts
+* If a claim cannot be verified from the materials, label it clearly
+* Prefer prompts that produce actionable civic intelligence, not academic filler
+* Write with enough precision that the output could immediately guide repo content, chatbot instructions, mentor briefings, and team project selection
+

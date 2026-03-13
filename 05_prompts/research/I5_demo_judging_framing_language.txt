@@ -1,0 +1,7 @@
+Demo & Judging I5 — Judging-Oriented Framing Language
+
+Propose a judging-oriented framing language for teams: what user problem they are solving, what source material backs it up, what specific confusion or burden they reduce, and what would be needed to take the prototype further after the event.
+
+Output
+- Framing template and examples
+

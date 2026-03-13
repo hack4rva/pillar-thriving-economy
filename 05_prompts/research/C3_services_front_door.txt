@@ -1,0 +1,8 @@
+Existing Services C3 — Current Front Doors
+
+Identify any existing “front door” experiences for starting a business in Richmond. Assess whether they are centralized, fragmented, department-specific, or only partially useful for first-time users.
+
+Output
+- Front-door inventory with URLs
+- Assessment of centralization and effectiveness
+

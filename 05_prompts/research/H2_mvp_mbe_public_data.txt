@@ -1,0 +1,8 @@
+MVP Feasibility H2 — MBE Prototype on Public Data
+
+For the minority-business contracting statement, assess whether a useful prototype can be built using only public data. Explain what fields and logic would be sufficient for a demo and what would remain brittle or manual.
+
+Output
+- Minimal fields, logic, and demo flow
+- Brittle areas and workarounds
+

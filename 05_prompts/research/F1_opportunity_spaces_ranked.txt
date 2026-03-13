@@ -1,0 +1,7 @@
+Opportunities F1 — Highest-Value Spaces (Ranked)
+
+Based on Richmond’s actual constraints, identify the 5 to 10 highest-value software opportunity spaces within Pillar 4. Rank them by user value, feasibility, dependence on public information, and demo clarity.
+
+Output
+- Ranked list with rationale and scoring notes
+

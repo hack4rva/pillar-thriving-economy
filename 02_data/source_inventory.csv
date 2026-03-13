@@ -1,0 +1,8 @@
+source_name,url,owner,format,public_access,update_frequency,key_fields,reliability_notes,recommended_use
+City of Richmond Contracts/Spending (Socrata),[ADD URL],City of Richmond,api|odata|csv,open,[TBD],agency,contract_id,vendor,amount,status,Needs verification,matching|historical trend|plain-language summaries
+OpenGov Procurement Portal (Active Bids),[ADD URL],City of Richmond via OpenGov,html|export?,open|account,[TBD],solicitation_id,title,category,deadline,attachments,Needs verification,discovery|deadline reminders|explainers
+Virginia eVA (State Procurement),[ADD URL],Commonwealth of Virginia,html|csv?,open|account,[TBD],solicitation_id,agency,category,deadline,Needs verification,regional scan|partnering opportunities
+City Vendor iSupplier Portal,[ADD URL],City of Richmond,html|pdf forms,account,[TBD],vendor_id,documents_required,status,Needs verification,registration checklist guidance
+OMBD MBE/ESB Directory,[ADD URL],City of Richmond OMBD,html|csv?,open,[TBD],business_name,cert_type,naics/nigp,contact,Needs verification,partner discovery|equity metrics
+SBSD SWaM Directory,[ADD URL],Virginia SBSD,search|csv?,open,[TBD],business_name,cert_type,naics,location,Needs verification,partner discovery|reciprocity guidance
+RVA Business Portal (BPOL/BPP),[ADD URL],City of Richmond,html|forms,account,[TBD],account_id,license_type,status,Needs verification,setup guidance|checklist

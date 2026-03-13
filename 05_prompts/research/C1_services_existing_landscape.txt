@@ -1,0 +1,8 @@
+Existing Services C1 — Public-Facing Resources (Entrepreneurs)
+
+Map the existing public-facing services and resources that Richmond entrepreneurs and small businesses can already use today. Include City pages, nonprofit supports, economic development programs, minority business resources, licensing information, and any known guidance materials.
+
+Output
+- Catalog with URLs, owners, descriptions
+- Notes on discoverability and clarity
+

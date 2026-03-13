@@ -1,0 +1,7 @@
+Demo & Judging I4 — Strongest Archetypes
+
+Determine which project archetypes create the strongest combination of civic relevance, technical clarity, and continuation potential.
+
+Output
+- Top archetypes with rationale and continuation notes
+

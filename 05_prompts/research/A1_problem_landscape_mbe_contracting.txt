@@ -1,0 +1,10 @@
+Problem Landscape A1 — Minority-Business Contracting Reality
+
+Investigate the real-world shape of Richmond’s minority-business contracting problem. Using only verifiable public information and clearly labeled inferences, explain where the difficulty actually occurs for a first-time or small minority-owned business: finding relevant opportunities, understanding procurement language, assessing eligibility, deciding whether to pursue an opportunity, or preparing to contact procurement staff.
+
+Output
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Unknowns (what cannot be verified publicly)
+- Assessment of primary friction points
+

@@ -1,0 +1,8 @@
+User & Stakeholder B2 — Personas (Business Setup)
+
+Identify the likely primary user personas for the small-business navigation statement, including at minimum a home-based service business, a food-related or regulated business, and a brick-and-mortar small business. For each, map likely questions, fears, and failure points.
+
+Output
+- 3–4 personas with questions, fears, failure points
+- Example user journeys
+

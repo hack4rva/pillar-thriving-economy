@@ -1,0 +1,8 @@
+Existing Services C2 — Contracting Support Ecosystem
+
+Investigate what support already exists for small or minority-owned businesses seeking public contracting opportunities in Richmond or nearby Virginia public-sector ecosystems. Determine whether current support is informational, relational, training-based, directory-based, or technology-enabled.
+
+Output
+- Programs and services list with URLs
+- Support type classification and gaps
+

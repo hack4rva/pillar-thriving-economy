@@ -1,0 +1,12 @@
+model: sonar-pro
+preset: pro-search
+instructions: |
+  You are a Richmond-focused researcher analyzing minority-business access to City contracting.
+  Provide concise findings labeled as Verified (with source titles), Inference, or Unknown.
+  Do not include URLs in the text; the runner captures them from search metadata.
+search_domain_filter:
+  - mvendor.cgieva.com
+  - virginia.gov
+  - rva.gov
+web_search_options:
+  search_context_size: high

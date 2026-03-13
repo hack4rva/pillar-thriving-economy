@@ -1,0 +1,7 @@
+Prior Art E3 — Archetype Mapping
+
+Identify which comparable solutions are service navigators, explainers, match tools, eligibility guides, resource hubs, workflow assistants, or public dashboards. Compare those archetypes to Richmond’s constraints.
+
+Output
+- Archetype mapping with pros/cons under constraints
+

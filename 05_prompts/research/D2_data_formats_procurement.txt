@@ -1,0 +1,8 @@
+Data & Sources D2 — Procurement Data Formats
+
+Verify the actual data formats and access patterns for procurement-related Richmond sources. Determine whether they are available as web tables, CSV, JSON, OData, downloadable files, searchable documents, or scrape-only pages.
+
+Output
+- Format verification per source with evidence (URLs)
+- Implications for weekend ingestion
+

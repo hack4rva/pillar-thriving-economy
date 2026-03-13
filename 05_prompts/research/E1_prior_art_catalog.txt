@@ -1,0 +1,7 @@
+Prior Art E1 — Comparable Tools Catalog
+
+Find comparable tools from other cities, counties, states, universities, civic tech organizations, and hackathons that help small businesses navigate government processes, identify procurement opportunities, or understand licensing steps. Focus on practical patterns rather than branding.
+
+Output
+- Catalog: name | jurisdiction | URL | what it does | audience | data/content basis
+

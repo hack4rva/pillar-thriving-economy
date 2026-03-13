@@ -1,0 +1,7 @@
+MVP Feasibility H5 — Scope Boundaries
+
+Recommend scoping boundaries that would keep teams from trying to model all of Richmond government in a weekend.
+
+Output
+- Boundary list and examples of safe cuts
+

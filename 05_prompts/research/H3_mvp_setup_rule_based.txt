@@ -1,0 +1,7 @@
+MVP Feasibility H3 — Rule-Based Business Setup
+
+For the small-business navigation statement, determine whether a rule-based decision support tool is realistic using public materials alone or whether the lack of structured process documentation makes the safest MVP more content-driven than automated.
+
+Output
+- Rule-based vs. content-guided recommendation with rationale
+

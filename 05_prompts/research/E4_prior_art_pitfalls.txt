@@ -1,0 +1,7 @@
+Prior Art E4 — Failures and Pitfalls
+
+Find examples of failed or weak civic tools in this space, if available, and identify what made them weak: stale data, over-automation, low trust, unclear ownership, or no continuation path.
+
+Output
+- Pitfall examples with causes and lessons
+

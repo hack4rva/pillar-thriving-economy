@@ -1,0 +1,7 @@
+Data & Sources D3 — Business Setup Source Inventory
+
+Produce a source inventory for the small-business navigation statement. Include departmental webpages, permit or license pages, process PDFs, ordinances or guidance documents, contact pages, and any step-by-step public materials relevant to starting a business in Richmond.
+
+Output
+- Table or structured list with fields: URL | Owner | Content type | Format | Likely use
+

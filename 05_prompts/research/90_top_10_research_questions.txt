@@ -1,0 +1,13 @@
+Top 10 Research Questions
+
+1) Which of the two targeted Pillar 4 statements reflects the clearest, most research-ready Richmond problem for a weekend software prototype?
+2) Where exactly do minority-owned businesses get stuck when trying to identify and interpret Richmond City contracting opportunities?
+3) What public procurement data and documents actually exist in usable form for a contracting-discovery or interpretation tool?
+4) What sequence of steps must a first-time Richmond entrepreneur follow today, and where does that sequence become unclear or error-prone?
+5) Which critical parts of the small-business startup journey are publicly documented, and which seem to depend on tacit staff knowledge?
+6) Which Richmond institutions already support these users, and where are the gaps between public information, service delivery, and user understanding?
+7) What types of Pillar 4 problems are well-suited to software prototypes, and which ones mainly require policy, staffing, or organizational change?
+8) What comparable tools or service models from other places offer patterns Richmond teams could realistically adapt?
+9) What minimum viable product could credibly reduce confusion or improve access within 48 hours without pretending to be an official government system?
+10) What evidence and framing would make a Pillar 4 prototype feel trustworthy, community-centered, and continuation-worthy to judges and stakeholders?
+

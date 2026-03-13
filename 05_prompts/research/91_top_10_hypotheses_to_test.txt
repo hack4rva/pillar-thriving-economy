@@ -1,0 +1,13 @@
+Top 10 Hypotheses to Test
+
+1) A major barrier for minority-owned businesses is not the lack of posted opportunities, but the difficulty of understanding relevance and first steps from the current procurement presentation.
+2) Plain-language summaries and service-category matching would be more useful to first-time vendors than raw portal search alone.
+3) Public data from Richmond’s procurement-related sources is sufficient to support a meaningful discovery or explainer prototype, even if not sufficient for a full production-grade tool.
+4) The biggest friction in starting a small business in Richmond is sequencing confusion across multiple departments rather than absence of any single program.
+5) A rule-based navigation tool could reduce entrepreneur confusion even without deep system integration, if the public process logic can be reconstructed well enough.
+6) The most important information for the small-business navigation problem is currently fragmented across webpages and staff know-how rather than centralized in one usable public flow.
+7) Teams that focus on narrowing scope to one user persona and one journey branch will produce stronger demos than teams trying to solve “starting a business” broadly.
+8) Judges and stakeholders will respond more positively to prototypes that improve clarity and navigation than to ambitious systems that claim to automate government decisions.
+9) The strongest continuation pathway will come from prototypes that produce useful artifacts for staff or partners, not just polished user interfaces.
+10) A high-trust Pillar 4 prototype will need to foreground official-source links and explicit limits, because users are likely to over-trust confident-sounding civic software.
+

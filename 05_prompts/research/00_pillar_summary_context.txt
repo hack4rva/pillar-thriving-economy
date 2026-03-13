@@ -1,0 +1,17 @@
+Pillar Summary (Context Only)
+
+Core challenge
+Pillar 4, A Thriving Economy, centers on two practical Richmond problems that are strong enough for hackathon use but still have serious continuity and information gaps: helping minority-owned businesses identify relevant City contracting opportunities, and helping emerging or home-based entrepreneurs navigate the business setup process without confusion, repeated handoffs, or avoidable compliance mistakes.
+
+Likely users
+Minority-owned businesses, first-time government contractors, emerging entrepreneurs, home-based business owners, and first-time small-scale business operators in Richmond. Secondary users include City procurement staff, licensing and regulatory staff, minority business support staff, economic development staff, nonprofit intermediaries, and mentors helping participants understand the systems.
+
+Likely civic opportunity areas
+Procurement opportunity matching, plain-language contracting explainers, service navigation, business setup decision support, intake wizards, process maps, document summarization, public information overlays, and staff burden reduction through better front-door guidance.
+
+Major constraints
+The official procurement portal must remain the source of truth. Existing procurement rules, licensing policies, departmental roles, program eligibility rules, and limited interdepartmental data-sharing cannot be changed. Both targeted statements lack a clearly named continuation champion. The small business navigation statement also has a major procedural-data problem because much of the needed knowledge appears to live in staff expertise rather than structured systems.
+
+Likely categories of viable hackathon solutions
+Weekend-buildable prototypes such as procurement search overlays, relevance/matching tools, plain-language bid explainers, guided business setup navigators, rule-based intake tools, chatbot-style front doors, decision trees, service blueprints, searchable resource hubs, and structured process guides. Less viable: large workflow automation systems, authoritative eligibility engines, or anything requiring policy reform or internal systems integration.
+

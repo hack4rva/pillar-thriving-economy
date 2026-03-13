@@ -1,0 +1,7 @@
+Demo & Judging I2 — Evidence of Credibility
+
+Determine what evidence would make a Pillar 4 prototype feel credible on demo day: verified source links, a realistic user journey, a working search flow, a clear before-and-after friction reduction, or a grounded process map.
+
+Output
+- Evidence checklist and example demo beats
+

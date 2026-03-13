@@ -1,0 +1,7 @@
+Data & Sources D1 — Contracting Source Inventory
+
+Produce a source inventory for the minority-business contracting statement. Include the Richmond procurement portal, the City Contracts Registry, any open data entries, vendor registration resources, procurement documents, contracting notices, certification directories, and any public minority-business or supplier-diversity resources. For each source, capture URL, owner, format, accessibility, update pattern if visible, and likely hackathon use.
+
+Output
+- Table or structured list with fields: URL | Owner | Format | Access | Update pattern | Likely use
+

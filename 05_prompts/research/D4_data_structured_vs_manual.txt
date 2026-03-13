@@ -1,0 +1,9 @@
+Data & Sources D4 — Structured vs. Manual Extraction
+
+Identify which information needed for an entrepreneur decision tree is actually available in structured public form and which parts appear to require manual extraction from webpages, PDFs, or staff interviews.
+
+Output
+- Structured data elements
+- Unstructured/manual extraction areas
+- Impact on prototype design
+

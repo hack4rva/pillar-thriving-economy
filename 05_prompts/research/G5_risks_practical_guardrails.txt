@@ -1,0 +1,7 @@
+Risks & Ethics G5 — Practical Guardrails
+
+Propose practical guardrails for teams, such as source-linked explanations, confidence labeling, “official source” reminders, human escalation paths, and transparent limits on what the tool can and cannot tell users.
+
+Output
+- Guardrail checklist with examples
+

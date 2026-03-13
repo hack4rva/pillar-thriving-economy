@@ -1,0 +1,7 @@
+Opportunities F4 — Where Software Truly Helps
+
+Identify where software can genuinely reduce confusion or time-to-understanding, and where software would merely decorate a deeper institutional problem without solving it.
+
+Output
+- Do/Don’t build list with reasons
+

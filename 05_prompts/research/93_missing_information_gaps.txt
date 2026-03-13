@@ -1,0 +1,13 @@
+Missing Information (Research targets and validation needs)
+
+- A named continuation champion for each targeted statement who is willing to review outputs and potentially carry work forward after March 29, 2026.
+- Verified details on the procurement portal’s actual technical accessibility, including whether it exposes structured data or only scrapeable web pages.
+- A confirmed public source, if any, for minority-owned business certification or business directory data relevant to Richmond.
+- Current Richmond department URLs and a clean inventory of all relevant pages for licensing, Minority Business, Economic Development, code enforcement, workforce-related services, and any other startup-related offices.
+- A documented entrepreneur journey example showing what a real Richmond resident had to do to start a business and where they got stuck.
+- A compiled business registration decision tree showing which permits, licenses, and rules apply to which business types and in what order.
+- Clear output expectations for teams beyond general “success would mean” language (e.g., prototype, service blueprint, data tool, or hybrid).
+- Information about target-user device patterns, digital literacy, language needs, and whether users rely on mobile, desktop, phone support, or in-person help.
+- Examples of what current staff most often get asked or have to explain repeatedly, to focus on real friction.
+- Any evidence of existing Richmond or regional initiatives already addressing these issues, to reduce duplication and improve continuation chances.
+

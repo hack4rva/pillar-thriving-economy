@@ -1,0 +1,9 @@
+User & Stakeholder B3 — Stakeholder Map
+
+Identify the Richmond institutional actors relevant to each problem, including City departments, nonprofit partners, ecosystem intermediaries, and potential champions. Explain who likely holds operational knowledge, who likely owns policy, who likely fields confused user questions, and who could plausibly continue work after the hackathon.
+
+Output
+- Stakeholder list and roles
+- Knowledge ownership vs. policy ownership vs. frontline support
+- Likely continuation partners
+

@@ -1,0 +1,9 @@
+Problem Landscape A5 — Primary Problem Diagnosis
+
+Analyze whether the biggest problem in each targeted statement is lack of data, lack of clarity, lack of sequence, lack of confidence, or lack of a trusted front door.
+
+Output
+- Root-cause assessment for each statement
+- Evidence and examples (URLs)
+- Suggested focus areas for prototypes
+

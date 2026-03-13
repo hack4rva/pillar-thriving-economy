@@ -1,0 +1,8 @@
+Prior Art E5 — Weekend Viability Patterns
+
+Determine which patterns seem most compatible with a weekend prototype and which patterns depend on long-term staffing, integration, or policy authority.
+
+Output
+- Ranked patterns by weekend feasibility
+- Non-weekend patterns with rationale
+

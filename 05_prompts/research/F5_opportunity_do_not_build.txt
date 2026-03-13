@@ -1,0 +1,7 @@
+Opportunities F5 — Do Not Build List
+
+Identify what teams should explicitly not build because it would require authority they do not have, data they cannot access, or claims they cannot support.
+
+Output
+- Explicit “don’t build” items with rationale
+

@@ -1,0 +1,7 @@
+Risks & Ethics G4 — Matching/Recommendation Bias
+
+Evaluate whether matching or recommendation tools could introduce bias, especially if they infer “fit” from incomplete data or historical patterns.
+
+Output
+- Bias risks and checks (e.g., show features used, avoid proxy variables)
+

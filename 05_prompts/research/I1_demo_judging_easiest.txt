@@ -1,0 +1,7 @@
+Demo & Judging I1 — Easiest Project Types to Judge
+
+Identify which Pillar 4 project types would be easiest for judges, nonprofit partners, and City stakeholders to understand immediately during a short demo.
+
+Output
+- Ranked archetypes with why they’re clear in demos
+

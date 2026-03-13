@@ -1,0 +1,9 @@
+Problem Landscape A3 — Compare Targeted Statements
+
+Compare the two targeted problem statements on urgency, buildability, information quality, and likely user pain. Identify which one appears more immediately ready for a hackathon team and why.
+
+Output
+- Comparison table or bullets
+- Readiness ranking with rationale
+- Key gaps to close for the less-ready statement
+

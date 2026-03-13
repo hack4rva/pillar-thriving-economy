@@ -1,0 +1,8 @@
+Existing Services C4 — Hidden or Hard-to-Use Interventions
+
+Identify what interventions seem already available but hard to discover, hard to interpret, or hard to connect into one coherent path.
+
+Output
+- List of interventions with issues noted
+- Suggestions for surfacing or sequencing
+

@@ -1,0 +1,9 @@
+Problem Landscape A4 — Problem Type Classification
+
+Determine which parts of these problems are primarily information-access problems, which are navigation problems, which are interpretation problems, and which are institutional process problems that software alone probably cannot fix.
+
+Output
+- Classification by problem type with examples
+- Software-addressable vs. non-software constraints
+- Implications for MVP scope
+

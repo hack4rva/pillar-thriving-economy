@@ -1,0 +1,8 @@
+User & Stakeholder B4 — Priority Signals
+
+Determine which stakeholders are likely to care most about reduced staff burden, better public information, increased minority-business participation, fewer abandoned business registrations, or improved compliance sequencing.
+
+Output
+- Priority matrix by stakeholder
+- Implications for demo positioning
+

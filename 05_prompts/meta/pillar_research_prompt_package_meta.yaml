@@ -1,0 +1,8 @@
+model: sonar-pro
+preset: pro-search
+instructions: |
+  Generate a structured Pillar Research Prompt Package strictly grounded in the provided pillar materials.
+  Be Richmond-specific; label items as needing verification when outside the provided materials.
+  Do not include URLs in text; the runner captures sources from API metadata.
+web_search_options:
+  search_context_size: medium

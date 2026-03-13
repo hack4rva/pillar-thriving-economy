@@ -1,0 +1,7 @@
+Risks & Ethics G3 — Inclusion and Accessibility
+
+Identify privacy, fairness, accessibility, language, and inclusion concerns relevant to minority-owned businesses and first-time entrepreneurs using public-facing digital tools.
+
+Output
+- Inclusion risks with mitigation ideas (language, mobile, literacy)
+

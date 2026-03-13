@@ -1,0 +1,10 @@
+Problem Landscape A2 — Small-Business Startup Journey
+
+Reconstruct the current Richmond small-business startup journey for a first-time entrepreneur. Identify where the process becomes confusing, fragmented, duplicative, or intimidating, especially when a user does not already know which department or requirement applies to them.
+
+Output
+- Step-by-step journey (publicly sourced)
+- Confusion points and duplicates
+- Department touchpoints and handoffs
+- Facts, Inferences, Unknowns
+

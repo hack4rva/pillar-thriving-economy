@@ -1,0 +1,7 @@
+Opportunities F3 — Business Setup Framing
+
+For the small-business navigation statement, determine whether the strongest hackathon opportunity is better framed as a decision tree, service navigator, guided intake, chatbot, process map, eligibility explainer, or resource sequencing tool. Explain why.
+
+Output
+- Recommended framing with rationale, risks, and content needs
+

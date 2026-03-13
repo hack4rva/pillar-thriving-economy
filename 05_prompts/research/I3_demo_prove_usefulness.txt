@@ -1,0 +1,7 @@
+Demo & Judging I3 — Proving Usefulness Without Overclaiming
+
+Identify what teams should show in a demo to prove usefulness without overclaiming impact, such as sample user scenarios, document-backed logic, transparent caveats, and source-of-truth handoff points.
+
+Output
+- Demo script outline and do/don’t claims
+

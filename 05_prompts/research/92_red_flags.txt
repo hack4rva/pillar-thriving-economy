@@ -1,0 +1,15 @@
+Red Flags (Use as guardrails while researching or scoping)
+
+- Treating a hackathon prototype as if it can provide authoritative legal, licensing, regulatory, or procurement advice.
+- Assuming all needed Richmond business-startup logic is already available in structured data.
+- Building a chatbot that sounds helpful but cannot cite actual Richmond pages, forms, rules, or portal entries.
+- Confusing public transparency with user usability.
+- Assuming minority-owned businesses need “AI” in the abstract instead of better interpretation, sequencing, and clarity.
+- Building an end-to-end entrepreneur concierge that depends on interdepartmental integration, policy authority, or internal data-sharing that is limited.
+- Using “matching” language without explaining what data supports the match and what the limitations are.
+- Overclaiming likely impact (e.g., increased contracting, improved compliance, or staff time savings) without evidence.
+- Ignoring mobile access, digital literacy, plain-language needs, or translation needs.
+- Failing to identify a likely continuation owner, which is a known weakness.
+- Treating historical contract or licensing data as current guidance without checking recency and relevance.
+- Producing a glossy front end with no grounded Richmond service map underneath it.
+

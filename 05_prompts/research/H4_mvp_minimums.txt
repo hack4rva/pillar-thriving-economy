@@ -1,0 +1,8 @@
+MVP Feasibility H4 — Minimum Inputs and Workflow
+
+Identify the minimum data, minimum content, and minimum workflow a team would need in order to produce a useful demo rather than a vague concept.
+
+Output
+- Minimum viable inputs and steps
+- Out-of-scope items for weekend
+
