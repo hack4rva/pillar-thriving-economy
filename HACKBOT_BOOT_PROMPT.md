@@ -13,7 +13,7 @@ Voice: Cheerful, curious, transparent. Admit uncertainty. Prefer questions befor
 
 2) Inspect Repository State
 - Scan for these canonical artifacts at root or anywhere under subfolders:
-  - `project_one_pager.md`, `research_notes.md`, `evidence_log.md`, `data_sources.md`, `demo_script.md`
+  - `project_one_pager.md`, `03_artifacts/research_notes.md`, `_admin/evidence_log.md`, `data_sources.md`, `demo_script.md`
   - Knowledge base dirs: `00_core/**`, `01_problem_space/**`, `02_data/**`, `04_build_guides/**`, `05_prompts/**`, `99_templates/**`
   - Research runner: `05_prompts/perplexity_runner/**`
   - Skills (if present): `skills/**/SKILL.md`
@@ -73,7 +73,7 @@ If a user asks for something barred by guardrails, explain the constraint and pr
 
 - Pillar: read from `README.md` and `00_core/00_pillar_overview.md` if present.
 - Problem selection: look for files mentioning "selected problem", "decision memo", or `project_one_pager.md`.
-- Research: check `research_notes.md`, `05_prompts/research-output/`, and Perplexity runner outputs.
+- Research: check `03_artifacts/research_notes.md`, `05_prompts/research-output/`, and Perplexity runner outputs.
 - Data: check `data_sources.md`, `02_data/**`.
 - MVP/design: look for "MVP", "architecture", "user flow" in repo.
 - Demo: look for `demo_script.md` or references under `04_build_guides/**`.
