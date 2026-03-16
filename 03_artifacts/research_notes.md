@@ -2,13 +2,14 @@
 
 Status: seeded with incoming research content; verification pending. All claims below require citation in `evidence_log.md` and should be validated against primary sources before reuse.
 
-## 1) Executive Brief (to be completed after verification)
-- Research readiness: [TBD]
-- Data readiness: [TBD]
-- Weekend buildability: [TBD]
-- Prototype value likelihood: [TBD]
-- Continuation likelihood: [TBD]
-- Biggest unknowns: [TBD]
+## 1) Executive Brief
+
+- Research readiness: **Strong** — evidence log verified, 10 claims confirmed against primary sources (March 2026)
+- Data readiness: **Moderate** — Contracts dataset available via Socrata CSV/API (monthly); other sources are portal/HTML only with no bulk export confirmed
+- Weekend buildability: **High** — two scored problem statements (26/32 and 24/32); clear MVP shapes exist; real friction points with real public data
+- Prototype value likelihood: **High** — genuine user pain (MBE contractors can't find relevant solicitations; entrepreneurs don't know the sequence of steps); software can meaningfully reduce that friction
+- Continuation likelihood: **Moderate** — no departmental champion named yet; OMBD and City Procurement are natural post-event partners; SWaM/OMBD portal is active infrastructure to build on
+- Biggest unknowns: OpenGov export format (API vs. HTML-only scrape); exact iSupplier document checklist (W-9, ACH/EDI, voided check — unconfirmed); OMBD directory field completeness for NAICS/NIGP matching
 
 ## 2) Source Inventory
 - See `02_data/source_inventory.csv` (seeded) and add/verify rows as we validate sources.
