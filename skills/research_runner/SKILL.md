@@ -7,15 +7,15 @@ Purpose: Execute research prompts and collect findings with sources.
 - Before MVP design or when claims require citations.
 
 ## Inputs
-- Prompt IDs or folder under `05_prompts/research/**`.
-- Perplexity runner: `05_prompts/perplexity_runner/**` (config, API key).
+- Prompt IDs or folder under `_admin/05_prompts/research/**`.
+- Perplexity runner: `_admin/05_prompts/perplexity_runner/**` (config, API key).
 - Optional per-prompt overrides (YAML or front matter).
 - Specific research questions or hypotheses (if provided by user).
 
 ## Outputs
 - Brief findings summary per prompt with Richmond-specific sources.
 - Consolidated evidence log with links and short notes.
-- Saved raw outputs to `05_prompts/perplexity_runner/research-output/` (if approved).
+- Saved raw outputs to `_admin/05_prompts/perplexity_runner/research-output/` (if approved).
 
 ## Process
 1) Confirm prompts to run and any overrides; verify API key availability.

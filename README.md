@@ -56,11 +56,10 @@ Land → Orient → Choose → Research → Frame MVPs → Lock Scope → Build 
 | `02_data/` | Data index, source inventory |
 | `03_artifacts/` | User journeys, decision trees, prototype recommendations, research notes |
 | `04_build_guides/` | MVP shapes, architectures, demo advice |
-| `05_prompts/` | Research prompts + Perplexity runner |
 | `skills/` | Hackbot skill modules |
 | `99_templates/` | Working direction, decision memo, project one-pager, team profile |
 | `getting-started/` | Event-day OpenCode + Featherless setup |
-| `_admin/` | Internal tracking (evidence log, verification checklist) |
+| `_admin/` | Internal tracking, research prompts, Perplexity runner |
 
 ---
 
@@ -130,7 +129,7 @@ Biggest uncertainty:
 **Files:**
 - `01_problem_space/01_bluesky_problem_statements.md`
 - `01_problem_space/02_targeted_problem_statements.md`
-- `05_prompts/01_problem_selection_prompt.md`
+- `_admin/05_prompts/01_problem_selection_prompt.md`
 
 **Decision rule — choose only if the problem has:**
 - A real user with an understandable workflow
@@ -156,8 +155,8 @@ Risks:
 
 | Resource | Location |
 |----------|----------|
-| Perplexity runner | `05_prompts/perplexity_runner/` |
-| Research plan | `05_prompts/research/99_research_plan.md` |
+| Perplexity runner | `_admin/05_prompts/perplexity_runner/` |
+| Research plan | `_admin/05_prompts/research/99_research_plan.md` |
 | Data index | `02_data/00_index.md` |
 
 **Evidence log structure** (`_admin/evidence_log.md`):
@@ -180,7 +179,7 @@ Useful datasets · Useful source documents · Prior art · Risks
 |----------|----------|
 | MVP shape templates | `04_build_guides/01_mvp_shapes.md` |
 | Recommended architectures | `04_build_guides/02_recommended_architectures.md` |
-| Risk review prompt | `05_prompts/06_risk_review_prompt.md` |
+| Risk review prompt | `_admin/05_prompts/06_risk_review_prompt.md` |
 
 **Output:**
 
@@ -213,7 +212,7 @@ Use `99_templates/project_one_pager_template.md` to pin down must-haves, mockabl
 
 **Build:** Break work into FE / BE / data / content. Assign source verification and demo owner. Keep AI constrained to explanation, retrieval, comparison, and guidance.
 
-**Validate:** Use `05_prompts/06_risk_review_prompt.md`. Check source links and clarity.
+**Validate:** Use `_admin/05_prompts/06_risk_review_prompt.md`. Check source links and clarity.
 
 **Demo:** Follow `04_build_guides/05_demo_advice.md`. 90 seconds: problem → user → flow → sources → limits → next.
 

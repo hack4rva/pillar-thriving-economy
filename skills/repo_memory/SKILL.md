@@ -8,7 +8,7 @@ Purpose: Reconstruct repository state and current stage.
 
 ## Inputs
 - Repository files: `project_one_pager.md`, `research_notes.md`, `evidence_log.md`, `data_sources.md`, `demo_script.md`.
-- Knowledge dirs: `00_core/**`, `01_problem_space/**`, `02_data/**`, `04_build_guides/**`, `05_prompts/**`, `99_templates/**`.
+- Knowledge dirs: `00_core/**`, `01_problem_space/**`, `02_data/**`, `04_build_guides/**`, `_admin/05_prompts/**`, `99_templates/**`.
 - Optional: user-provided hints (pillar, intended stage).
 
 ## Outputs
