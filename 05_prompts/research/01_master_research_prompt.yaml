@@ -1,0 +1,12 @@
+model: sonar-deep-research
+preset: pro-search
+
+# Optional: you can uncomment to constrain domains for a focused pass
+# search_domain_filter:
+#   - rva.gov
+#   - virginia.gov
+#   - planrva.org
+
+web_search_options:
+  search_context_size: high
+

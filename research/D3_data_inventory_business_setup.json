@@ -1,0 +1,390 @@
+{
+  "id": "1bf504da-363d-443b-8523-43b632a770fd",
+  "model": "sonar-deep-research",
+  "created": 1773566864,
+  "usage": {
+    "prompt_tokens": 83,
+    "completion_tokens": 3185,
+    "total_tokens": 3268,
+    "citation_tokens": 49346,
+    "num_search_queries": 61,
+    "reasoning_tokens": 301625,
+    "cost": {
+      "input_tokens_cost": 0.00017,
+      "output_tokens_cost": 0.02548,
+      "citation_tokens_cost": 0.09869,
+      "reasoning_tokens_cost": 0.90487,
+      "search_queries_cost": 0.305,
+      "total_cost": 1.33421
+    }
+  },
+  "citations": [
+    "https://www.rva.gov/finance/business",
+    "https://www.rva.gov/finance/bpol-tax",
+    "https://data.richmondgov.com/Economic-Growth/Business-Licenses/hy5d-7dcv",
+    "https://www.rva.gov/sites/default/files/2020-09/NEW%20BUSINESS%20LICENSE%20CHECKLIST%20OF%20DOCUMENTS.pdf",
+    "https://sbsd.virginia.gov",
+    "https://bos.sbsd.virginia.gov/Home/BusinessResources",
+    "https://library.municode.com/va/richmond/codes/code_of_ordinances",
+    "https://www.dcjs.virginia.gov/content/how-do-i-apply-business-license",
+    "https://www.rva.gov/planning-development-review",
+    "http://www.rva.gov/sites/default/files/2024-02/PDR%20Website%20Staff%20Contact%20Directory%20-%20February%2013%202024.pdf",
+    "https://www.rva.gov/planning-development-review/sidewalk-cafes",
+    "https://www.rva.gov/sites/default/files/Planning/PDFDocuments/Forms/OccupancyAPP.pdf",
+    "https://permits.virginia.gov/Permit/Search",
+    "http://rvapay.rva.gov/prd/r/corfin/bpp-customer-portal/login",
+    "https://www.vdh.virginia.gov/content/uploads/sites/119/2023/12/Opening-a-Food-Establishment-Procedures-Checklist-Final-Inspection-Checklist-RCHD.pdf",
+    "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27EXINFO.pdf",
+    "https://www.henricocitizen.com/notice-of-virginia-abc-application-16/",
+    "https://www.rva.gov/planning-development-review/online-permit-portal",
+    "https://rva.gov/sites/default/files/2025-07/RESMP%20Permit%20Process%20Quick%20Sheet_Final_6.25.2025.pdf",
+    "https://www.rva.gov/minority-business/resources",
+    "https://bos.sbsd.virginia.gov",
+    "https://www.rva.gov/planning-development-review/zoning-administration",
+    "https://www.tax.virginia.gov/businesses",
+    "https://www.rva.gov/finance",
+    "https://www.rva.gov/sites/default/files/2022-01/RenewalBusinessLicense2022.pdf",
+    "https://sccvirginiagov-lb01-production.terminalfour.net/media/sccvirginiagov-home/business-home/forms-and-fees/scc591-70in.pdf",
+    "https://www.tax.virginia.gov/register-business-virginia",
+    "https://www.rva.gov/fire-emergency-services/permits",
+    "https://www.virginiaregisteredagent.com/how-to-start-a-business-in-virginia/richmond/",
+    "https://www.vdh.virginia.gov/richmond-city/environmental-health/",
+    "https://www.rva.gov/planning-development-review/faq",
+    "https://codelibrary.amlegal.com/codes/richmondcounty/latest/richmondcounty_va/0-0-0-3779",
+    "https://www.rva.gov/sites/default/files/2024-01/Customer%20Guide%20-%20COs%20and%20HCOs.pdf",
+    "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+    "https://www.vdh.virginia.gov/content/uploads/sites/119/2023/12/Mobile-Unit-GuidelinesOEHS-2017.pdf",
+    "https://www.rva.gov/planning-development-review/city-center",
+    "https://go.chamberrva.com/list/searchalpha/a",
+    "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "https://workcomp.virginia.gov/sites/default/files/documents/Workers-Compensation-Information-Sheet-for-Employers.pdf",
+    "https://www.rva.gov/economic-development/about-us",
+    "https://www.sba.gov/district/virginia",
+    "https://rvalibrary.org/richmond-room/small-business-resources/",
+    "https://www.rva.gov/mbd/about-us",
+    "https://library.municode.com/ca/richmond/codes/code_of_ordinances?nodeId=ARTIXHE_CH9.38MAESSE&showChanges=true",
+    "https://www.argentplacelaw.com/richmond-va-services/new-business-formation-in-richmond-va/",
+    "https://rva.gov/finance-press-releases-and-announcements/news/city-richmond-launches-upgraded-rva-business-portal",
+    "https://www.rva.gov/sites/default/files/2024-07/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Residential_0.pdf",
+    "https://rva.gov/finance/directory",
+    "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+    "https://www.bnbcalc.com/blog/short-term-rental-regulation/Richmond-Virginia-guide"
+  ],
+  "search_results": [
+    {
+      "title": "Department of Finance for Businesses - RVA.gov",
+      "url": "https://www.rva.gov/finance/business",
+      "snippet": "In this section you will find tax, fee, license, and other program information from the City of Richmond's Department of Finance specifically tailored to the ...",
+      "source": "web"
+    },
+    {
+      "title": "Business, Professional, and Occupational License (BPOL) Tax",
+      "url": "https://www.rva.gov/finance/bpol-tax",
+      "snippet": "New businesses must obtain a license within 30 days of the date of opening. Before you make the business license renewal, you must obtain your Certificate of ...",
+      "source": "web"
+    },
+    {
+      "title": "Business Licenses | Open Data Portal | City of Richmond, Virginia",
+      "url": "https://data.richmondgov.com/Economic-Growth/Business-Licenses/hy5d-7dcv",
+      "snippet": "Skip to main content Skip to footer.",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] CITY OF RICHMOND - RVA.gov",
+      "url": "https://www.rva.gov/sites/default/files/2020-09/NEW%20BUSINESS%20LICENSE%20CHECKLIST%20OF%20DOCUMENTS.pdf",
+      "snippet": "Additional Requirements for Restaurants, Meal Merchants, Food Sellers, Etc. Filing of Certificate of Assumed Name & Partnership, LLC, and Corporations- State.",
+      "source": "web"
+    },
+    {
+      "title": "Virginia Department of Small Business and Supplier Diversity",
+      "url": "https://sbsd.virginia.gov",
+      "snippet": "The Department of Small Business and Supplier Diversity. 101 N. 14th Street, 11th floor. Richmond, VA 23219. Phone: (804) 786-6585 | Fax: (804)-786-9736.",
+      "source": "web"
+    },
+    {
+      "title": "Business Resources - Virginia Business One Stop",
+      "url": "https://bos.sbsd.virginia.gov/Home/BusinessResources",
+      "snippet": "Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business.",
+      "source": "web"
+    },
+    {
+      "title": "Code of Ordinances | Richmond, VA | Municode Library",
+      "url": "https://library.municode.com/va/richmond/codes/code_of_ordinances",
+      "snippet": "The listing below includes all legislation received by Municipal Code since the last update (printed or electronic) to the Code of Ordinances. This legislation ...",
+      "source": "web"
+    },
+    {
+      "title": "How do I apply for a business license? | Virginia Department of ...",
+      "url": "https://www.dcjs.virginia.gov/content/how-do-i-apply-business-license",
+      "snippet": "How do I apply for a business license? ... Please see our Lotus Resources page for more information, including a Self-Service Guide.",
+      "source": "web"
+    },
+    {
+      "title": "Planning & Development Review | Richmond - RVA.gov",
+      "url": "https://www.rva.gov/planning-development-review",
+      "snippet": "PDR has begun the process to re-write the City's zoning ordinance. Click here to learn more. ... Click HERE to read the final Cultural Heritage Stewardship plan.",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] Staff Directory Department of Planning and Development Review",
+      "url": "http://www.rva.gov/sites/default/files/2024-02/PDR%20Website%20Staff%20Contact%20Directory%20-%20February%2013%202024.pdf",
+      "snippet": "646-6349. 814-5387 Kristina-Daniel-Thiem@rva.gov. Leonard A. Mantey. Planning and Development Review. Deputy Director, Senior - Development Review. 646-4468.",
+      "source": "web"
+    },
+    {
+      "title": "Sidewalk Caf\u00e9s | Richmond - RVA.gov",
+      "url": "https://www.rva.gov/planning-development-review/sidewalk-cafes",
+      "snippet": "Permits and Inspections Office 900 E. Broad St., Room 108. Richmond, VA 23219. Permit Center Open for Walk-in: Monday-Friday 8:00 a.m. - 1:00 p.m.. Phone Line ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] CERTIFICATE OF OCCUPANCY APPLICATION - RVA.gov",
+      "url": "https://www.rva.gov/sites/default/files/Planning/PDFDocuments/Forms/OccupancyAPP.pdf",
+      "snippet": "In this space your permit number will be hand-written by intake personnel after you have paid the application fee. There is also a capital B, this is where you ...",
+      "source": "web"
+    },
+    {
+      "title": "Search Applications - Virginia Permit Transparency",
+      "url": "https://permits.virginia.gov/Permit/Search",
+      "snippet": "Search and filter to see the status of applications by Application Number, Agency, Locality, or other details.",
+      "source": "web"
+    },
+    {
+      "title": "RVA Business Portal - Customer Portal - Log In",
+      "url": "http://rvapay.rva.gov/prd/r/corfin/bpp-customer-portal/login",
+      "snippet": "RVA Business Portal. Sign in to manage your business account. Username. Password. Remember username Forgot Password? Sign In. OR. Register BPP/BPOL.",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] Opening-a-Food-Establishment-Procedures-Checklist-Final ...",
+      "url": "https://www.vdh.virginia.gov/content/uploads/sites/119/2023/12/Opening-a-Food-Establishment-Procedures-Checklist-Final-Inspection-Checklist-RCHD.pdf",
+      "snippet": "This packet contains information regarding the requirements of applying for a food establishment health permit. If you have questions, ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] Board for Contractors REQUIREMENTS FOR QUALIFIED ...",
+      "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27EXINFO.pdf",
+      "snippet": "Upon issuance of a valid Virginia Professional Engineer License OR a NICET. Level III certificate or higher, submit a Contractor's License ...",
+      "source": "web"
+    },
+    {
+      "title": "NOTICE OF VIRGINIA ABC APPLICATION - Henrico Citizen",
+      "url": "https://www.henricocitizen.com/notice-of-virginia-abc-application-16/",
+      "snippet": "NOTE: Objections to the issuance of this license must be submitted to ABC no later than 30 days from the publishing date of the first of two ...",
+      "source": "web"
+    },
+    {
+      "title": "Online Permit Portal | Richmond - RVA.gov",
+      "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+      "snippet": "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] Richmond Water Resources RESMP Permit Process - RVA.gov",
+      "url": "https://rva.gov/sites/default/files/2025-07/RESMP%20Permit%20Process%20Quick%20Sheet_Final_6.25.2025.pdf",
+      "snippet": "This quick sheet provides a simplified version for applying for a Richmond Erosion & Stormwater Program permit. (RESMP). For more detailed information, ...",
+      "source": "web"
+    },
+    {
+      "title": "Resources | Richmond - RVA.gov",
+      "url": "https://www.rva.gov/minority-business/resources",
+      "snippet": "Business Tools and Resources. In an effort to provide minority businesses ... To contact City of Richmond Customer Service, please call 804-646-7000 or ...",
+      "source": "web"
+    },
+    {
+      "title": "Virginia Business One Stop: Home",
+      "url": "https://bos.sbsd.virginia.gov",
+      "snippet": "Register today to create a business and have all the steps organized in one place online. There is a one-time registration fee of $20 (you may be charged ...",
+      "source": "web"
+    },
+    {
+      "title": "Zoning Administration | Richmond - RVA.gov",
+      "url": "https://www.rva.gov/planning-development-review/zoning-administration",
+      "snippet": "Zoning Administration. The Online Permit Portal (OPP) shall be used for submitting applications for all Certificates of Zoning Compliances (CZCs).",
+      "source": "web"
+    },
+    {
+      "title": "Businesses | Virginia Tax",
+      "url": "https://www.tax.virginia.gov/businesses",
+      "snippet": "Register & Manage. Register a Business \u00b7 Create a Business Online Services Account \u00b7 Update my Business Information \u00b7 Close Your Business ...",
+      "source": "web"
+    },
+    {
+      "title": "Finance | Richmond - RVA.gov",
+      "url": "https://www.rva.gov/finance",
+      "snippet": "To contact City of Richmond Customer Service, please call 804-646-7000 or 3-1-1.",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] LICENSE YEAR 2022 - RVA.gov",
+      "url": "https://www.rva.gov/sites/default/files/2022-01/RenewalBusinessLicense2022.pdf",
+      "snippet": "Effective January 1, 2019, installment payments for. Business Licenses were discontinued. Effective January 1, 2019 both Business License and Business Tangible ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] INSTRUCTIONS FOR CERTIFICATE OF ASSUMED OR FICTITIOUS ...",
+      "url": "https://sccvirginiagov-lb01-production.terminalfour.net/media/sccvirginiagov-home/business-home/forms-and-fees/scc591-70in.pdf",
+      "snippet": "A certificate of assumed or fictitious name must be prepared on a form prescribed by the commission. \u2022 No person may conduct or transact business in. Virginia ...",
+      "source": "web"
+    },
+    {
+      "title": "Register a Business in Virginia",
+      "url": "https://www.tax.virginia.gov/register-business-virginia",
+      "snippet": "What you need before you start your registration. Federal Employer Identification number (FEIN). Don't have a FEIN? You can get one through the IRS website.",
+      "source": "web"
+    },
+    {
+      "title": "Permits | Richmond - RVA.gov",
+      "url": "https://www.rva.gov/fire-emergency-services/permits",
+      "snippet": "The use of any hazardous materials in exhibits requires the approval of the Fire Marshal and a request accompanied by the Material Safety Data Sheets (MSDS) ...",
+      "source": "web"
+    },
+    {
+      "title": "How to Start a Business in Richmond, Virginia",
+      "url": "https://www.virginiaregisteredagent.com/how-to-start-a-business-in-virginia/richmond/",
+      "snippet": "Guide to Starting a Business in Richmond, Virginia \u00b7 1. File your Initial Formation Documents \u00b7 2. Get an EIN (Employer Identification Number) \u00b7 3. Register with ...",
+      "source": "web"
+    },
+    {
+      "title": "Environmental Health Division - Richmond City Health Department",
+      "url": "https://www.vdh.virginia.gov/richmond-city/environmental-health/",
+      "snippet": "Environmental Health Division. FOOD SAFETY | LODGING FACILITIES PERMITS & BEDBUG CONTROL |HEALTHY SWIMMING RVA | INSECT & RODENT BORNE ...",
+      "source": "web"
+    },
+    {
+      "title": "FAQ | Richmond - RVA.gov",
+      "url": "https://www.rva.gov/planning-development-review/faq",
+      "snippet": "Can I operate a business out of my home? A business operated within a house or apartment is known as a Home Occupation and is a permitted accessory use ...",
+      "source": "web"
+    },
+    {
+      "title": "\u00a7 157.075 HOME OCCUPATIONS. - American Legal Publishing",
+      "url": "https://codelibrary.amlegal.com/codes/richmondcounty/latest/richmondcounty_va/0-0-0-3779",
+      "snippet": "(A) A home occupation is an accessory use of any dwelling unit for gainful employment by the home occupant. It may involve the manufacture, provision or ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] COs and HCOs - RVA.gov",
+      "url": "https://www.rva.gov/sites/default/files/2024-01/Customer%20Guide%20-%20COs%20and%20HCOs.pdf",
+      "snippet": "At the end of the inspection process on that permit, a Certificate of Occupancy is issued. Most commonly a Final Building Permit CO is used for new buildings, ...",
+      "source": "web"
+    },
+    {
+      "title": "About RVA 311 | Richmond",
+      "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+      "snippet": "Our RVA311 call center team includes 24 specially trained and knowledgeable customer service representatives. Each representative may answer 50 to 60 calls per ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] MOBILE FOOD UNIT GUIDELINES RICHMOND CITY HEALTH ...",
+      "url": "https://www.vdh.virginia.gov/content/uploads/sites/119/2023/12/Mobile-Unit-GuidelinesOEHS-2017.pdf",
+      "snippet": "This document is intended as a guide to assist potential owners and operators of mobile food establishments in meeting the requirements of the Commonwealth ...",
+      "source": "web"
+    },
+    {
+      "title": "City Center Innovation District Small Area Plan - RVA.gov",
+      "url": "https://www.rva.gov/planning-development-review/city-center",
+      "snippet": "The City Center Innovation District Small Area Plan was adopted by City Council on January 24th, 2022. Next step: implementation!",
+      "source": "web"
+    },
+    {
+      "title": "Business Directory Search - Richmond - ChamberRVA",
+      "url": "https://go.chamberrva.com/list/searchalpha/a",
+      "snippet": "Business Directory Search ; Alliance Group \u00b7 2201 West Main Street \u00b7 23220 ; Altria. P.O. Box 26603 \u00b7 23261 ; Atlantic Union Bank. 1051 E. Cary St., Suite 1200 \u00b7 23219.",
+      "source": "web"
+    },
+    {
+      "title": "Permits and Inspections | Richmond - RVA.gov",
+      "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+      "snippet": "Permits and Inspections Office 900 E. Broad St., Room 108. Richmond, VA 23219. Permit Center Open for Walk-in: Monday-Friday 8:00 a.m. - 1:00 p.m.. Phone Line ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] Workers' Compensation Insurance Information for Employers",
+      "url": "https://workcomp.virginia.gov/sites/default/files/documents/Workers-Compensation-Information-Sheet-for-Employers.pdf",
+      "snippet": "Virginia law requires that an employer who regularly employs more than two part-time or full- time employees carry Virginia workers' compensation coverage. If a ...",
+      "source": "web"
+    },
+    {
+      "title": "Department Of Economic Development - RVA.gov",
+      "url": "https://www.rva.gov/economic-development/about-us",
+      "snippet": "Rick Winston. Economic Development Programs Administrator. (804) 646-5036 ; George Bolos. Economic Development Business Services Manager. (804) 646-0477.",
+      "source": "web"
+    },
+    {
+      "title": "Virginia | U.S. Small Business Administration",
+      "url": "https://www.sba.gov/district/virginia",
+      "snippet": "Our office provides help with SBA services including funding programs, counseling, federal contracting certifications, and disaster recovery.",
+      "source": "web"
+    },
+    {
+      "title": "Small Business Resources - Richmond Public Library",
+      "url": "https://rvalibrary.org/richmond-room/small-business-resources/",
+      "snippet": "The library's collection includes many free online and print resources. We have sample business documents, operating agreements, and contracts that are ...",
+      "source": "web"
+    },
+    {
+      "title": "About Us | Richmond - RVA.gov",
+      "url": "https://www.rva.gov/mbd/about-us",
+      "snippet": "The Office of Minority Business Development (OMBD) works towards embedding ... To contact City of Richmond Customer Service, please call 804-646-7000 ...",
+      "source": "web"
+    },
+    {
+      "title": "Chapter 9.38 | Code of Ordinances | Richmond, CA",
+      "url": "https://library.municode.com/ca/richmond/codes/code_of_ordinances?nodeId=ARTIXHE_CH9.38MAESSE&showChanges=true",
+      "snippet": "Upon receipt of a satisfactorily completed application and required fee, the Richmond Police Department shall investigate to determine whether a permit should ...",
+      "source": "web"
+    },
+    {
+      "title": "Starting a New Business in Richmond - Argent Place Law",
+      "url": "https://www.argentplacelaw.com/richmond-va-services/new-business-formation-in-richmond-va/",
+      "snippet": "Staring your own business in Richmond? Let Argent Place guide you through the legal aspects every step of the way. Contact Us Today For a Consultation!",
+      "source": "web"
+    },
+    {
+      "title": "City of Richmond Launches Upgraded RVA Business Portal for 2026",
+      "url": "https://rva.gov/finance-press-releases-and-announcements/news/city-richmond-launches-upgraded-rva-business-portal",
+      "snippet": "For Business Personal Property filers, a new \"Copy from 2025\" button lets you bring forward all your 2025 assets as a starting point.",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] City of Richmond Zoning Administration - RVA.gov",
+      "url": "https://www.rva.gov/sites/default/files/2024-07/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Residential_0.pdf",
+      "snippet": "Address/Location/Tenancy of the business \u25aa Name of the business \u25aa Ownership of the business \u25aa Use/Function of the business \u25aa Starting a Second ...",
+      "source": "web"
+    },
+    {
+      "title": "City of Richmond Finance Directory - RVA.gov",
+      "url": "https://rva.gov/finance/directory",
+      "snippet": "City of Richmond Finance Directory ; Customer Service, (804) 646-7000. Director's Office, (804) 646-5829. Accounts Payable ; Assessment of Real Estate (City ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] City of Richmond - New Business License Application ... - RVA.gov",
+      "url": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+      "snippet": "City of Richmond. New Business License Application. 900 E. Broad St, Room 102, Richmond, VA 23219. Office: 804-646-6662 \u25ab Fax: 804-646-5848. (Form BLI-23).",
+      "source": "web"
+    },
+    {
+      "title": "Richmond Short Term Rental Regulation: A Guide For ...",
+      "url": "https://www.bnbcalc.com/blog/short-term-rental-regulation/Richmond-Virginia-guide",
+      "snippet": "To legally operate a short-term rental in Richmond, hosts must obtain a Short-Term Rental Permit from the city's Zoning Administration Division.",
+      "source": "web"
+    }
+  ],
+  "object": "chat.completion",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "# Source Inventory: Small-Business Navigation in Richmond\n\n## Comprehensive Resource Guide for Starting a Business in Richmond, Virginia\n\nThe following source inventory consolidates all relevant materials for entrepreneurs and small-business owners navigating the Richmond business setup process. This inventory organizes municipal, state, and community resources by function and format, providing a complete reference for compliance, licensing, permitting, and operational requirements.\n\n## Primary Departmental Resources and Webpages\n\n| URL | Owner | Content Type | Format | Likely Use |\n|---|---|---|---|---|\n| www.rva.gov/finance/business | City of Richmond Department of Finance | Departmental landing page | Web portal | Entry point for all business tax and licensing information |\n| www.rva.gov/finance/bpol-tax | City of Richmond Department of Finance | Business licensing requirements | Web page with FAQs | Primary resource for BPOL tax requirements and license renewal |\n| www.rva.gov/planning-development-review | City of Richmond Planning & Development Review | Departmental homepage | Web portal | Zoning, permits, and development review information |\n| www.rva.gov/planning-development-review/zoning-administration | City of Richmond Zoning Administration | Zoning services | Web page | Certificate of Zoning Compliance applications and zoning verification |\n| www.rva.gov/planning-development-review/permits-and-inspections | City of Richmond Permits & Inspections | Permit services overview | Web page | Building permits, inspections, and application timelines |\n| www.rva.gov/fire-emergency-services/permits | City of Richmond Fire Department | Fire safety permits | Web page with forms | Fire permits, hazardous materials, and food truck compliance |\n| www.rva.gov/minority-business/resources | Office of Minority Business Development | MBE resources and programs | Web page | Minority-owned business certification and development support |\n| www.rva.gov/economic-development/about-us | Department of Economic Development | Economic development services | Web page with directory | Business investment, job creation, and development incentives |\n| www.rva.gov/citizen-service-and-response/about-rva-311 | City of Richmond RVA 311 | Service request and customer support | Web page | Non-emergency service requests and information routing |\n| www.tax.virginia.gov/register-business-virginia | Virginia Department of Taxation | Business registration | Web page with online portal | State tax registration and compliance |\n| www.sbsd.virginia.gov | Virginia Department of Small Business and Supplier Diversity | State business support | Web portal | Certification programs, financing, and business development |\n| bos.sbsd.virginia.gov/Home/BusinessResources | Virginia Business One Stop | Centralized business resources | Web portal | Comprehensive business setup guidance and resource directory |\n| www.sba.gov/district/virginia | U.S. Small Business Administration Virginia District | Federal business support | Web portal with events | SBA funding, counseling, and federal contracting |\n\n## Online Portals and Digital Filing Systems\n\n| URL | Owner | Content Type | Format | Likely Use |\n|---|---|---|---|---|\n| rvapay.rva.gov/bpp | City of Richmond Department of Finance | Business Portal | Web application | Business Personal Property and BPOL tax filing and payment |\n| www.rva.gov/planning-development-review/online-permit-portal | City of Richmond Permits & Inspections | Online Permit Portal | Web application | Building permits, zoning compliance, and inspection requests |\n| permits.virginia.gov/Permit/Search | Virginia Department | Permit Transparency Portal | Web application | Statewide permit application tracking and status |\n| cis.scc.virginia.gov | Virginia State Corporation Commission | Corporate Information System | Web application | Business formation filings and assumed name registration |\n| rvalibrary.org/richmond-room/small-business-resources | Richmond Public Library | Business resource database | Web portal | Access to legal forms, business planning templates, and online learning |\n\n## Official Forms and Application Documents (PDF)\n\n| URL | Owner | Content Type | Format | Likely Use |\n|---|---|---|---|---|\n| www.rva.gov/sites/default/files/2020-09/NEW%20BUSINESS%20LICENSE%20CHECKLIST%20OF%20DOCUMENTS.pdf | City of Richmond Finance | Business license requirements checklist | PDF form | Verification of all required documentation before business license issuance |\n| www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf | City of Richmond Finance | New Business License Application | PDF form | Initial business license application (Form BLI-23) |\n| www.rva.gov/sites/default/files/2022-01/RenewalBusinessLicense2022.pdf | City of Richmond Finance | Business License Renewal Form | PDF form | Annual BPOL and business tangible personal property renewal |\n| www.rva.gov/sites/default/files/Planning/PDFDocuments/Forms/OccupancyAPP.pdf | City of Richmond Planning & Development | Certificate of Occupancy Application | PDF form | Applications for new business occupancy approval (HCO application) |\n| www.rva.gov/sites/default/files/2024-07/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Residential_0.pdf | City of Richmond Zoning Administration | Certificate of Zoning Compliance Guide | PDF with instructions | Step-by-step guidance for CZC applications for home occupations |\n| www.rva.gov/sites/default/files/2024-01/Customer%20Guide%20-%20COs%20and%20HCOs.pdf | City of Richmond Permits & Inspections | Certificate of Occupancy Customer Guide | PDF guide | Comprehensive guide to CO and HCO processes, fees, and requirements |\n| rva.gov/sites/default/files/2025-07/RESMP%20Permit%20Process%20Quick%20Sheet_Final_6.25.2025.pdf | City of Richmond Water Resources | Stormwater Permit Process | PDF quick reference | Richmond Erosion & Stormwater Management Program (RESMP) permit requirements |\n| www.vdh.virginia.gov/content/uploads/sites/119/2023/12/Opening-a-Food-Establishment-Procedures-Checklist-Final-Inspection-Checklist-RCHD.pdf | Richmond City Health District | Food Establishment Opening Checklist | PDF checklist | Health permit requirements and procedures for food service businesses |\n| www.vdh.virginia.gov/content/uploads/sites/119/2023/12/Mobile-Unit-GuidelinesOEHS-2017.pdf | Richmond City Health District | Mobile Food Unit Guidelines | PDF guide | Requirements for mobile food establishments and food trucks |\n| www.rva.gov/sites/default/files/2020-09/Fire%20Truck%20Safety%20Checklist.pdf | City of Richmond Fire Department | Food Truck Fire Safety Checklist | PDF checklist | Fire safety and equipment requirements for mobile food operations |\n| sccvirginiagov-lb01-production.terminalfour.net/media/sccvirginiagov-home/business-home/forms-and-fees/scc591-70in.pdf | Virginia State Corporation Commission | Certificate of Assumed or Fictitious Name Instructions | PDF form | Instructions for registering business trade names and fictitious names |\n| www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27EXINFO.pdf | Virginia Department of Professional & Occupational Regulation | Contractor License Requirements | PDF document | Qualified individual requirements for contractor licensing classifications |\n| workcomp.virginia.gov/sites/default/files/documents/Workers-Compensation-Information-Sheet-for-Employers.pdf | Virginia Workers' Compensation Commission | Workers' Compensation Information | PDF fact sheet | Employer requirements for workers' compensation insurance coverage |\n| www.rva.gov/sites/default/files/2024-02/PDR%20Website%20Staff%20Contact%20Directory%20-%20February%2013%202024.pdf | City of Richmond Planning & Development Review | PDR Staff Directory | PDF directory | Contact information for all planning and zoning staff members |\n\n## Regulatory and Ordinance Documents\n\n| URL | Owner | Content Type | Format | Likely Use |\n|---|---|---|---|---|\n| library.municode.com/va/richmond/codes/code_of_ordinances | City of Richmond | Municipal Code and Ordinances | Web-based code library | Zoning regulations, licensing requirements, and business ordinances |\n| library.municode.com/ca/richmond/codes/code_of_ordinances?nodeId=ARTIXHE_CH9.38MAESSE | Richmond County Code | Home Occupations Regulations | Web code section | Specific regulatory requirements for home-based businesses (Note: County code example) |\n\n## Specialized Business Type Guidance and Resources\n\n| URL | Owner | Content Type | Format | Likely Use |\n|---|---|---|---|---|\n| www.rva.gov/planning-development-review/short-term-rentals | City of Richmond Zoning Administration | Short-Term Rental Regulations | Web page | STR licensing requirements, occupancy limits, and compliance rules |\n| www.rva.gov/planning-development-review/sidewalk-cafes | City of Richmond Planning & Development | Sidewalk Caf\u00e9 Requirements | Web page with brochures | Guidelines for outdoor dining and sidewalk caf\u00e9 permits |\n| data.richmondgov.com/Economic-Growth/Business-Licenses/hy5d-7dcv | City of Richmond Open Data Portal | Business License Data | Web database | Public dataset of active business licenses in Richmond |\n| www.rva.gov/planning-development-review/faq | City of Richmond Planning & Development | Planning FAQ | Web page | Frequently asked questions about permits, zoning, and home occupations |\n| www.rva.gov/planning-development-review/city-center | City of Richmond Planning & Development | City Center Innovation District Plan | Web page with presentations | Development framework and rezoning information for downtown innovation district |\n\n## Statewide and Federal Business Support Resources\n\n| URL | Owner | Content Type | Format | Likely Use |\n|---|---|---|---|---|\n| www.tax.virginia.gov/businesses | Virginia Department of Taxation | General business tax information | Web portal | Tax registration, filing requirements, and compliance |\n| www.dpor.virginia.gov | Virginia Department of Professional & Occupational Regulation | Licensed professions directory | Web portal | Professional licensing requirements for regulated occupations |\n| www.dpor.virginia.gov/ProfessionsAndOccupations | DPOR Professions Index | Regulated professions list | Web page | Complete listing of all regulated professions in Virginia |\n| go.chamberrva.com/list/searchalpha/a | Richmond Chamber of Commerce | Business Directory | Web database | Searchable directory of Richmond-area businesses |\n| www.vdh.virginia.gov/richmond-city/environmental-health/ | Richmond City Health District | Environmental Health Division | Web page | Food safety, lodging permits, and environmental inspections |\n| www.abc.virginia.gov | Virginia Alcoholic Beverage Control Authority | Alcohol License Information | Web portal | ABC licensing requirements and application procedures |\n\n## Community and Nonprofit Support Organizations\n\n| URL | Owner | Content Type | Format | Likely Use |\n|---|---|---|---|---|\n| rvalibrary.org/richmond-room/small-business-resources | Richmond Public Library | Business resource guide | Web page | Free business planning resources, legal forms, and research databases |\n\n## Contact and Customer Service Resources\n\n| URL | Owner | Content Type | Format | Likely Use |\n|---|---|---|---|---|\n| www.rva.gov/finance | City of Richmond Finance Department | Finance homepage | Web portal with contact info | Entry point for all tax, licensing, and payment inquiries |\n| www.rva.gov/planning-development-review/contact-information | City of Richmond Planning & Development | Contact directory | Web page | Department phone numbers, emails, and office locations |\n| www.rva.gov/finance/directory | City of Richmond Finance Directory | Finance department contacts | Web page with directory | Specific contacts by area (real estate, BPOL, collections, etc.) |\n| RVA311.com | City of Richmond | Service request portal | Web application | 24/7 non-emergency service request submission and tracking |\n\n## Information Summary Table: Recommended Resource Navigation by Business Phase\n\nThe following table organizes resources by the typical stages of business formation and operation in Richmond:\n\n| Business Phase | Primary Resources | Key Contacts | Estimated Timeline |\n|---|---|---|---|\n| **Pre-Formation Planning** | Virginia Business One Stop (bos.sbsd.virginia.gov), SBA Virginia (sba.gov/district/virginia), Richmond Library Business Resources (rvalibrary.org) | Virginia SBSD (804-786-6585), SBA Richmond (804-771-2400) | Varies by complexity |\n| **Business Formation** | Virginia State Corporation Commission (cis.scc.virginia.gov), Virginia Tax Registration (tax.virginia.gov/register-business-virginia), IRS EIN application | VSCC Clerk's Office (804-371-9733), Virginia Tax (804-367-8031) | 1-2 weeks |\n| **Zoning & Location Verification** | RVA Online Permit Portal (www.rva.gov/planning-development-review/online-permit-portal), Zoning Administration (www.rva.gov/planning-development-review/zoning-administration) | Zoning Administration (804-646-6340), RVA 311 (804-646-7000) | 1-2 weeks |\n| **Permits & Inspections** | Online Permit Portal (www.rva.gov/planning-development-review/online-permit-portal), Building Permits (www.rva.gov/planning-development-review/permits-and-inspections), Fire Permits (www.rva.gov/fire-emergency-services/permits) | Permits & Inspections (804-646-4169), Fire Marshal (804-646-4436) | 2-6 weeks depending on complexity |\n| **Business Licensing** | RVA Business Portal (rvapay.rva.gov/bpp), BPOL Tax Page (www.rva.gov/finance/bpol-tax), New Business Checklist (PDF reference) | Finance Department (804-646-7000), RVA 311 (3-1-1 locally) | 1-2 weeks after compliance |\n| **Specialized Requirements** | Industry-specific portals (Food: www.vdh.virginia.gov, Alcohol: www.abc.virginia.gov, Contractors: www.dpor.virginia.gov) | Health District (804-205-3912), ABC (804-213-4400), DPOR (804-367-8511) | Varies by industry |\n| **Ongoing Compliance** | RVA Business Portal (annual renewal), RVA 311 (issue reporting), Zoning Administration (ongoing compliance) | Finance Department, Planning & Development Review | Annual renewal by March 1 |\n\nThis source inventory provides a comprehensive reference for small-business navigation in Richmond. The materials span formation, licensing, permitting, compliance, and ongoing operational support across municipal, state, and federal agencies. Most resources are accessible online through web portals, with telephone support available through RVA 311 (804-646-7000 or dial 3-1-1 locally) during business hours Monday through Friday, 8:00 AM to 5:00 PM."
+      },
+      "delta": {
+        "role": "assistant",
+        "content": ""
+      },
+      "finish_reason": "stop"
+    }
+  ]
+}

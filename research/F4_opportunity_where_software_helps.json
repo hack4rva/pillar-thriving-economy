@@ -1,0 +1,34 @@
+{
+  "id": "74f50683-2cc7-4302-be98-0a4a096af586",
+  "model": "sonar-deep-research",
+  "created": 1773568225,
+  "usage": {
+    "prompt_tokens": 51,
+    "completion_tokens": 543,
+    "total_tokens": 594,
+    "num_search_queries": 10,
+    "cost": {
+      "input_tokens_cost": 0.0001,
+      "output_tokens_cost": 0.00434,
+      "search_queries_cost": 0.05,
+      "total_cost": 0.05445
+    }
+  },
+  "citations": [],
+  "search_results": [],
+  "object": "chat.completion",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "# Where Software Genuinely Helps vs. Decorates Problems\n\n## \u2705 DO BUILD \u2014 Software Solves Real Confusion\n\n| Opportunity | Why It Works |\n|---|---|\n| **Scattered information in one mind** | Software consolidates what exists but lives across emails, documents, heads. Reduces re-explanation time. |\n| **Coordination at scale** | Software synchronizes when humans can't hold all dependencies. Scheduling, task handoffs, dependencies. |\n| **Cognitive load on decision points** | Software surfaces what matters when a human needs to decide. Dashboards, alerts, prioritized lists. Decision clarity improves. |\n| **Version/audit confusion** | Software tracks \"what changed and who did it.\" Eliminates argument about history. |\n| **Latency in feedback loops** | Software shows impact immediately rather than monthly reports. Faster course correction. |\n| **Pattern spotting in noise** | Software finds signal humans would miss (anomalies, trends, correlations in large datasets). |\n| **Workflow bottlenecks with clear handoffs** | Software sequences dependent steps reliably when the logic is deterministic. |\n\n## \u274c DON'T BUILD \u2014 Software Won't Fix These\n\n| Problem | Why Software Fails |\n|---|---|\n| **Misaligned incentives** | Software can't make people care about the right outcome. A faster system just accelerates the wrong behavior. |\n| **Undefined process** | Software formalizes and locks confusion. Automating an unclear workflow embeds it. Fix the process first. |\n| **Trust gaps** | Software can't build trust between teams who don't believe each other. It can only expose the conflict faster. |\n| **Leadership clarity missing** | Software won't tell people what they should actually be doing. That's a strategy problem, not an information problem. |\n| **Authority disputes** | Software can't decide who decides. If ownership is unclear, software just creates new bottlenecks around \"who approves in the system?\" |\n| **Resource scarcity** | Software can't create time or money. Efficiency theater for a fundamentally under-resourced function. |\n| **Cultural resistance** | Software adds friction if the org isn't ready to change behavior. The system becomes \"the thing people work around.\" |\n| **Rare, novel decisions** | Software can't replace judgment when each situation is unique. It just produces compliance theater. |\n\n---\n\n## Key Test\n**Ask:** \"If we removed the software, would the problem still exist?\" \n- **Yes** \u2192 Don't build. Fix the underlying issue first.\n- **No** \u2192 Proceed. Software genuinely solves it."
+      },
+      "delta": {
+        "role": "assistant",
+        "content": ""
+      },
+      "finish_reason": "stop"
+    }
+  ]
+}

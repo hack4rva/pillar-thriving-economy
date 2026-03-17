@@ -1,0 +1,390 @@
+{
+  "id": "2ddee003-2695-491b-bc58-b64d1fd24447",
+  "model": "sonar-deep-research",
+  "created": 1773565969,
+  "usage": {
+    "prompt_tokens": 63,
+    "completion_tokens": 6142,
+    "total_tokens": 6205,
+    "citation_tokens": 56380,
+    "num_search_queries": 60,
+    "reasoning_tokens": 329067,
+    "cost": {
+      "input_tokens_cost": 0.00013,
+      "output_tokens_cost": 0.04914,
+      "citation_tokens_cost": 0.11276,
+      "reasoning_tokens_cost": 0.9872,
+      "search_queries_cost": 0.3,
+      "total_cost": 1.44922
+    }
+  },
+  "citations": [
+    "https://slick.plus/blog/explicit-vs-tacit-knowledge-understanding-the-differences-and-their-impact-on-organizations/",
+    "https://www.docsie.io/blog/glossary/knowledge-gaps/",
+    "https://www.imd.org/blog/leadership/knowledge-transfer/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3173304/",
+    "https://bloomfire.com/blog/knowledge-silos-in-workplace/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11230601/",
+    "https://www.endgame.io/blog/the-prototype-gap",
+    "https://www.modernhealth.com/post/organizational-resilience-a-smarter-approach-to-workforce-risk",
+    "https://en.wikipedia.org/wiki/Knowledge_transfer",
+    "https://eoxs.com/new_blog/common-documentation-gaps-in-risk-management-and-how-to-address-them/",
+    "https://www.nngroup.com/articles/stakeholder-interviews/",
+    "https://arxiv.org/abs/2602.14357",
+    "https://www.delve.com/insights/the-magic-of-rapid-prototyping-for-user-research-much-more-than-smoke-and-mirrors",
+    "https://www.nngroup.com/articles/contextual-inquiry/",
+    "https://rookqs.com/blog/design-transfer",
+    "https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/",
+    "https://seerist.com/blog/how-to-assess-risk-threat-vulnerability-in-your-organization/",
+    "https://www.cjournal.cz/files/69.pdf",
+    "https://journals.aom.org/doi/10.5465/ambpp.1993.10315222",
+    "https://www.diligent.com/resources/blog/what-is-regulatory-compliance",
+    "https://mybrainisopen.net/procedural-knowledge",
+    "https://www.oasis-open.org/committees/uima/charter.php",
+    "https://www.coveo.com/blog/knowledge-hoarding/",
+    "https://prelaunch.com/blog/product-validation",
+    "https://morealtitude.wordpress.com/2011/07/19/systems-complexity-and-staff-realities/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7470745/",
+    "https://researcher-help.prolific.com/en/articles/445228-domain-experts",
+    "https://journals.sagepub.com/doi/10.1177/1609406920926904",
+    "https://www.nngroup.com/articles/stakeholders-study-guide/",
+    "https://www.nngroup.com/articles/mental-models/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10162514/",
+    "https://flagshipfintech.com/knowledge-base/product-requirements-and-gap-analysis/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11975774/",
+    "https://www.infoq.com/news/2026/02/dropbox-context-engine/",
+    "https://mha-it.com/blog/cross-departmental-dependencies-business-impact-analysis",
+    "https://www.uwgb.edu/sbdc/articles/eliminating-communication-silos/",
+    "https://www.searchunify.com/resource-center/blog/10-best-enterprise-knowledge-management-solutions-in-2025/",
+    "https://lauriewang.com/the-hidden-skill-that-outperforms-expertise/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10322198/",
+    "https://www.tandfonline.com/doi/full/10.1080/13504622.2026.2636179",
+    "https://dockyard.com/blog/2015/12/22/how-to-uncover-hidden-assumptions",
+    "https://measuringu.com/novice-expert-issues/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11850679/",
+    "https://www.qualityze.com/blogs/consequences-of-poor-documentation",
+    "https://www.prosci.com/change-readiness",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7274400/",
+    "https://www.usertesting.com/blog/feedback-drives-design-iteration",
+    "https://www.dcs.warwick.ac.uk/~arshad/0809/cs333/powell95failure-1.pdf",
+    "https://knowwithoutborders.org/design-thinking-improves-stakeholder-engagement/",
+    "https://digital.gov/guides/hcd/discovery-operations/interviews"
+  ],
+  "search_results": [
+    {
+      "title": "Explicit vs. Tacit Knowledge: Understanding the Differences and ...",
+      "url": "https://slick.plus/blog/explicit-vs-tacit-knowledge-understanding-the-differences-and-their-impact-on-organizations/",
+      "snippet": "Context-Specific: Tacit knowledge is often tied to specific tasks, roles, or environments within an organization. \u00b7 Hard to Document: Unlike explicit knowledge, ...",
+      "source": "web"
+    },
+    {
+      "title": "Knowledge Gaps: Definition, Examples & Best Practices (2025)",
+      "url": "https://www.docsie.io/blog/glossary/knowledge-gaps/",
+      "snippet": "Knowledge gaps in documentation represent critical missing pieces in an organization's information ecosystem. These gaps can manifest as incomplete ...",
+      "source": "web"
+    },
+    {
+      "title": "8 Strategies for Successful Knowledge Transfer - IMD",
+      "url": "https://www.imd.org/blog/leadership/knowledge-transfer/",
+      "snippet": "1. Develop a knowledge transfer plan \u00b7 2. Utilize mentorship and shadowing programs \u00b7 3. Onboard new leaders for a smooth transition \u00b7 4. Leverage knowledge ...",
+      "source": "web"
+    },
+    {
+      "title": "Uncovering Tacit Knowledge: A Pilot Study to Broaden the Concept ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3173304/",
+      "snippet": "The role of tacit knowledge has important implications for knowledge translation strategies, which until now have emphasized needs related to acquiring, ...",
+      "source": "web"
+    },
+    {
+      "title": "A Guide to Knowledge Silos in the Workplace - Bloomfire",
+      "url": "https://bloomfire.com/blog/knowledge-silos-in-workplace/",
+      "snippet": "A knowledge silo is a situation in which one individual or team holds information that's not shared or distributed with others. Instead of ...",
+      "source": "web"
+    },
+    {
+      "title": "The Procedures for Documenting Organizational Knowledge and ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11230601/",
+      "snippet": "In the knowledge management cycle, knowledge recording entails documenting the organization's existing knowledge. This category includes storing organizational ...",
+      "source": "web"
+    },
+    {
+      "title": "The Prototype Gap: How to build Endgame yourself",
+      "url": "https://www.endgame.io/blog/the-prototype-gap",
+      "snippet": "Andrej Karpathy describes it as \"the delicate art and science of filling the context window with just the right information for the next step.\".",
+      "source": "web"
+    },
+    {
+      "title": "Organizational Resilience: A Smarter Approach to Workforce Risk",
+      "url": "https://www.modernhealth.com/post/organizational-resilience-a-smarter-approach-to-workforce-risk",
+      "snippet": "Organizational resilience depends on proactive mental health support, leadership readiness, and early intervention.",
+      "source": "web"
+    },
+    {
+      "title": "Knowledge transfer - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Knowledge_transfer",
+      "snippet": "Knowledge transfer provides the opportunity to replace old technologies with new ones;; Knowledge transfer contributes to reducing research and development time ...",
+      "source": "web"
+    },
+    {
+      "title": "Common Documentation Gaps in Risk Management and How to A...",
+      "url": "https://eoxs.com/new_blog/common-documentation-gaps-in-risk-management-and-how-to-address-them/",
+      "snippet": "Gap: Many organizations fail to conduct comprehensive risk assessments, leaving out crucial details about potential threats and vulnerabilities. ... \u2013 ...",
+      "source": "web"
+    },
+    {
+      "title": "Stakeholder Interviews 101 - NN/G",
+      "url": "https://www.nngroup.com/articles/stakeholder-interviews/",
+      "snippet": "A stakeholder interview is a conversation with a person who has a vested interested in a project with a goal of gathering insights to drive the project's ...",
+      "source": "web"
+    },
+    {
+      "title": "Key Considerations for Domain Expert Involvement in LLM Design ...",
+      "url": "https://arxiv.org/abs/2602.14357",
+      "snippet": "This paper examines the challenges and trade-offs in LLM development through a 12-week ethnographic study of a team building a pedagogical ...",
+      "source": "web"
+    },
+    {
+      "title": "The Magic of Rapid Prototyping for User Research - Delve",
+      "url": "https://www.delve.com/insights/the-magic-of-rapid-prototyping-for-user-research-much-more-than-smoke-and-mirrors",
+      "snippet": "Ideally, prototyping should occur as early as possible to be leveraged for user research so the design can be positively iterated with hard data ...",
+      "source": "web"
+    },
+    {
+      "title": "Contextual Inquiry: Inspire Design by Observing and Interviewing ...",
+      "url": "https://www.nngroup.com/articles/contextual-inquiry/",
+      "snippet": "One of the goals of contextual inquiry is to uncover the participant's mental model of a process. So, when you feel you have a fairly strong ...",
+      "source": "web"
+    },
+    {
+      "title": "Design Transfer Process: Key Steps & Regulations Guide",
+      "url": "https://rookqs.com/blog/design-transfer",
+      "snippet": "Design Transfer is the critical process of moving a medical device from prototype or early development to full-scale production.",
+      "source": "web"
+    },
+    {
+      "title": "An Easier Method for Extracting Tacit Knowledge - Commoncog",
+      "url": "https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/",
+      "snippet": "A set of four techniques that are much easier to use than CDM (and other related methodologies), and yet powerful enough for instructional designers or ...",
+      "source": "web"
+    },
+    {
+      "title": "How to Assess Risk, Threat, & Vulnerability in Your Organization",
+      "url": "https://seerist.com/blog/how-to-assess-risk-threat-vulnerability-in-your-organization/",
+      "snippet": "Learn how to assess risk, threat, & vulnerability to strengthen your organization's security posture with Seerist.",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] Staff Turnover as a Possible Threat to Knowledge Loss",
+      "url": "https://www.cjournal.cz/files/69.pdf",
+      "snippet": "Abstract. The article focuses on labour turnover as a potential threat to knowledge loss. Labour turnover.",
+      "source": "web"
+    },
+    {
+      "title": "COMPETITIVE ADVANTAGE FROM TACIT KNOWLEDGE ...",
+      "url": "https://journals.aom.org/doi/10.5465/ambpp.1993.10315222",
+      "snippet": "Ethnographic research suggests separating tacit knowledge into three sub-types: conscious, automatic and communal. Each has different strategic implication.",
+      "source": "web"
+    },
+    {
+      "title": "Regulatory compliance 101: A guide for governance leaders - Diligent",
+      "url": "https://www.diligent.com/resources/blog/what-is-regulatory-compliance",
+      "snippet": "Master regulatory compliance with expert guidance on requirements, frameworks and AI-powered solutions for managing evolving regulations.",
+      "source": "web"
+    },
+    {
+      "title": "Procedural knowledge in Merrill's First Principles of Instruction",
+      "url": "https://mybrainisopen.net/procedural-knowledge",
+      "snippet": "A procedural knowledge component skill provides ways for learners to act on their environment. This component skill is necessary when the subject matter ...",
+      "source": "web"
+    },
+    {
+      "title": "OASIS Unstructured Information Management Architecture (UIMA) TC",
+      "url": "https://www.oasis-open.org/committees/uima/charter.php",
+      "snippet": "Unstructured information represents the largest, most current and fastest growing source of knowledge available to businesses and governments worldwide.",
+      "source": "web"
+    },
+    {
+      "title": "9 Signs Your Organization Has a Knowledge Hoarding Problem",
+      "url": "https://www.coveo.com/blog/knowledge-hoarding/",
+      "snippet": "This behavior may stem from a desire to maintain control, gain a competitive advantage, or stand out among others working on the project.",
+      "source": "web"
+    },
+    {
+      "title": "Product Validation 101: Essential Steps and Expert Tips",
+      "url": "https://prelaunch.com/blog/product-validation",
+      "snippet": "Product validation is the process of testing your product concept, design, and features with potential customers before full-scale development or launch.",
+      "source": "web"
+    },
+    {
+      "title": "Systems, Complexity, and Staff Realities - WanderLust",
+      "url": "https://morealtitude.wordpress.com/2011/07/19/systems-complexity-and-staff-realities/",
+      "snippet": "Staff are deployed into highly Complex or Chaotic situations, and are expected largely to adhere to Simple or Complicated systems which do not ...",
+      "source": "web"
+    },
+    {
+      "title": "Ten simple rules on how to write a standard operating procedure",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7470745/",
+      "snippet": "This paper provides a standardized workflow that explains step by step how to write an SOP to be used as a starting point for appropriate research ...",
+      "source": "web"
+    },
+    {
+      "title": "Domain Experts - Prolific Research",
+      "url": "https://researcher-help.prolific.com/en/articles/445228-domain-experts",
+      "snippet": "Prolific's Domain Experts are vetted professionals and academics with proven subject matter expertise. Whether you're building, fine-tuning, or evaluating ...",
+      "source": "web"
+    },
+    {
+      "title": "Organizational Ethnographic Case Studies: Toward a New ...",
+      "url": "https://journals.sagepub.com/doi/10.1177/1609406920926904",
+      "snippet": "More specifically, organizational ethnography refers to the study of human lives in organizations, with a particular focus on the social culture ...",
+      "source": "web"
+    },
+    {
+      "title": "UX Stakeholders: Study Guide - NN/G",
+      "url": "https://www.nngroup.com/articles/stakeholders-study-guide/",
+      "snippet": "UX Stakeholders: Study Guide ; Stakeholder Analysis for UX Projects. Article. How to identify your key stakeholders and how they impact your work.",
+      "source": "web"
+    },
+    {
+      "title": "Mental Models and User Experience Design - NN/G",
+      "url": "https://www.nngroup.com/articles/mental-models/",
+      "snippet": "Mental models help the user predict how a system will work and, therefore, influence how they interact with an interface. A cycle depicting how ...",
+      "source": "web"
+    },
+    {
+      "title": "Practice, governance, and culture characteristics of lived experience ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10162514/",
+      "snippet": "This scoping review aims to identify key features of organizational practice and governance that facilitate the safe inclusion of lived experience.",
+      "source": "web"
+    },
+    {
+      "title": "Product requirements and gap analysis - Flagship Fintech",
+      "url": "https://flagshipfintech.com/knowledge-base/product-requirements-and-gap-analysis/",
+      "snippet": "The gap analysis stage allows you to evaluate the compatibility between your product requirements and the capabilities of the flagshipfintech Platform. Self- ...",
+      "source": "web"
+    },
+    {
+      "title": "Practical considerations for engaging staff in resource-constrained ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11975774/",
+      "snippet": "The primary purpose of this study was to assess perceived burdens and benefits of participating in implementation research among staff employed ...",
+      "source": "web"
+    },
+    {
+      "title": "How Dropbox Built a Scalable Context Engine for Enterprise ... - InfoQ",
+      "url": "https://www.infoq.com/news/2026/02/dropbox-context-engine/",
+      "snippet": "Dropbox engineers have detailed how the company built the context engine behind Dropbox Dash, revealing a shift toward index-based retrieval ...",
+      "source": "web"
+    },
+    {
+      "title": "The Overlooked Dependency That Could Derail Your Recovery Plan",
+      "url": "https://mha-it.com/blog/cross-departmental-dependencies-business-impact-analysis",
+      "snippet": "A cross-departmental dependency arises when one department needs another to be operational in order to carry out its own work. They typically ...",
+      "source": "web"
+    },
+    {
+      "title": "Eliminating Communication Silos within the Organization",
+      "url": "https://www.uwgb.edu/sbdc/articles/eliminating-communication-silos/",
+      "snippet": "To overcome the distance barrier, leadership must emphasize the value of consistent and timely communication between departments and work to establish ...",
+      "source": "web"
+    },
+    {
+      "title": "10 Best Enterprise Knowledge Management Solutions in 2025",
+      "url": "https://www.searchunify.com/resource-center/blog/10-best-enterprise-knowledge-management-solutions-in-2025/",
+      "snippet": "Cloud-based knowledge management solutions offer advantages like accessibility from any device, automatic updates, scalability, and lower ...",
+      "source": "web"
+    },
+    {
+      "title": "The Hidden Skill That Outperforms Expertise - Laurie Wang",
+      "url": "https://lauriewang.com/the-hidden-skill-that-outperforms-expertise/",
+      "snippet": "Because when you combine skills, stories, and perspectives from different worlds, you create something nobody else can copy. So let's explore ...",
+      "source": "web"
+    },
+    {
+      "title": "Dealing with information overload: a comprehensive review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10322198/",
+      "snippet": "The aim of this systematic literature review is to provide an insight into existing measures for prevention and intervention related to information overload.",
+      "source": "web"
+    },
+    {
+      "title": "Resilience and adaptive capacity: rethinking educational structures ...",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/13504622.2026.2636179",
+      "snippet": "It suggests that systems can cultivate adaptive capacities that preserve coherence while allowing the system to be responsive, learn, and even ...",
+      "source": "web"
+    },
+    {
+      "title": "How to uncover hidden assumptions - DockYard",
+      "url": "https://dockyard.com/blog/2015/12/22/how-to-uncover-hidden-assumptions",
+      "snippet": "To uncover hidden assumptions, designers must ensure open and frequent communication. It may feel like over-communicating at first, but will ...",
+      "source": "web"
+    },
+    {
+      "title": "Do Novices or Experts Uncover More Usability Issues? - MeasuringU",
+      "url": "https://measuringu.com/novice-expert-issues/",
+      "snippet": "Novices encountered more total problems/insights compared to experts and almost twice as many unique issues that experts didn't.",
+      "source": "web"
+    },
+    {
+      "title": "Direct observation systems for child behavior assessment in early ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11850679/",
+      "snippet": "This systematic literature review critically assessed the use of direct observation systems (DOSs) in early childhood educational research.",
+      "source": "web"
+    },
+    {
+      "title": "Consequences of Poor Documentation and How to Avoid It - Qualityze",
+      "url": "https://www.qualityze.com/blogs/consequences-of-poor-documentation",
+      "snippet": "Poor documentation causes confusion, errors & delays. Discover key consequences & practical tips to improve documentation & boost ...",
+      "source": "web"
+    },
+    {
+      "title": "The Comprehensive Guide To Mastering Change Readiness - Prosci",
+      "url": "https://www.prosci.com/change-readiness",
+      "snippet": "Organizational readiness \u2013 This includes having a change infrastructure in place, completed training, readily available resources for change, a committed ...",
+      "source": "web"
+    },
+    {
+      "title": "Barriers & facilitators to healthcare and social services among ... - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7274400/",
+      "snippet": "Our findings suggest that these undocumented clients encounter three phases of delay: delay in the decision to seek care, delay in identifying ...",
+      "source": "web"
+    },
+    {
+      "title": "How feedback accelerates design iteration and reduces rework",
+      "url": "https://www.usertesting.com/blog/feedback-drives-design-iteration",
+      "snippet": "Key takeaways \u00b7 Continuous feedback loops enable faster, smarter design iteration. \u00b7 Integrating user input early reduces rework by up to 25%.",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] Failure Mode Assumptions and Assumption Coverage*",
+      "url": "https://www.dcs.warwick.ac.uk/~arshad/0809/cs333/powell95failure-1.pdf",
+      "snippet": "This paper is concerned with assumptions about how components fail \u2014 i.e., the components' failure modes \u2014 independently of the actual cause or rate of failure.",
+      "source": "web"
+    },
+    {
+      "title": "Design Thinking Improves Stakeholder Engagement",
+      "url": "https://knowwithoutborders.org/design-thinking-improves-stakeholder-engagement/",
+      "snippet": "Design thinking offers an approach to stakeholder engagement for schools and universities. The University of Exeter in the UK is an example of what one ...",
+      "source": "web"
+    },
+    {
+      "title": "Interviews and observations | Digital.gov",
+      "url": "https://digital.gov/guides/hcd/discovery-operations/interviews",
+      "snippet": "Interviews are usually conducted with only one or two participants, and are structured more like guided conversations than formal interviews.",
+      "source": "web"
+    }
+  ],
+  "object": "chat.completion",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "# The Staff-Public Knowledge Divide: Operational Knowledge in Expertise Versus Structured Guidance and Its Implications for Research and Prototype Design\n\nThe fundamental challenge facing modern organizations is that the most critical operational knowledge frequently resides in the minds and lived experiences of individual staff members rather than in formally documented, publicly accessible structures.[1][1] Research demonstrates that tacit knowledge, the experiential and context-specific understanding held by practitioners, accounts for approximately eighty percent of an organization's total knowledge base, yet this crucial knowledge remains largely invisible to anyone outside the immediate team or individual possessing it.[1] This critical asymmetry between what staff know and what exists in formal documentation creates substantial risks for research initiatives, prototype development, and organizational continuity. Understanding the nature of this divide, why it matters for design and research processes, and what implications it carries for creating usable systems represents an essential area of investigation for anyone involved in translating organizational practice into scalable solutions.\n\n## The Architecture of Invisible Knowledge: Staff Expertise Versus Public Documentation\n\nThe distinction between staff knowledge and public structure represents one of the most consequential yet often overlooked aspects of organizational functioning. Staff knowledge encompasses the accumulated understanding, decision-making processes, situational awareness, and problem-solving strategies that practitioners develop through direct engagement with complex systems over extended periods.[4] This knowledge includes recognition of subtle cues that trigger particular responses, understanding of why certain procedures exist even when formal documentation does not explain them, awareness of workarounds and exceptions that have evolved over time, and tacit comprehension of organizational culture and unwritten norms that shape how work actually gets done.[16] In contrast, public structure refers to formally documented procedures, written policies, training materials, digital repositories, and officially sanctioned guidance that theoretically governs how work should be performed.[1][3][6]\n\nThe gap between these two forms of knowledge becomes apparent when examining how practitioners actually perform their work. When new employees arrive at an organization, they typically receive explicit documentation outlining procedures, policies, and processes. Yet experienced staff members recognize that this formal guidance represents only a partial picture of how work actually functions in practice. Research on public health practitioners revealed that while explicit knowledge sources such as research literature, formal assessments, legislation and regulations clearly influence their work, tacit knowledge drawn from past experiences, organization-specific understanding, and community contextual awareness often exerts equal or greater influence on their actual decisions and implementations.[4] The practitioners involved in the study noted that program planning sometimes proved more influenced by who was in the room, what they felt comfortable doing, and how much energy they possessed than by explicit knowledge obtained through analyzing data or following established best practices.[4]\n\nThis phenomenon occurs across virtually all organizational contexts because formal documentation necessarily simplifies and generalizes, while actual practice unfolds within layers of complexity that defies easy documentation. Healthcare settings provide particularly vivid examples of this dynamic. When front-line health workers make decisions about patient care, they draw simultaneously upon explicit knowledge from clinical guidelines and research evidence while also integrating tacit knowledge about their specific organizational context, their patient population's particular characteristics, regulatory constraints they navigate daily, and nuanced understandings of what interventions their specific community will actually accept.[4] The mental model that guides their decision-making exists partially in documented form but substantially in their lived experience and accumulated practical wisdom.\n\n## Why This Disparity Matters for Research and Prototype Design\n\nThe staff-public knowledge divide carries profound implications for anyone conducting research into organizational practices or designing systems that must actually work within those practice contexts. First, this divide creates what researchers call the knowledge-to-practice gap, a phenomenon where research findings and formal best practices fail to translate into improved outcomes because implementation occurs within contexts so complex and contextually specific that generic guidance cannot adequately address them.[4] When researchers develop prototypes or design systems based primarily on formal documentation, they risk creating solutions that fail to account for how work actually happens. This occurs not because practitioners are somehow ignoring or resisting formal guidance, but because the formal guidance cannot capture the full scope of knowledge necessary to perform complex work in messy, real-world environments.\n\nSecond, the existence of substantial tacit knowledge means that critical operational knowledge becomes vulnerable to loss whenever key staff members leave organizations. Staff turnover represents a serious threat not because organizations lose workers, but because they lose the accumulated expertise those workers carry.[18][23] When an experienced employee departs, their tacit knowledge\u2014their ability to recognize patterns that trigger specific responses, their understanding of why procedures exist, their mental models of how various systems interconnect, their knowledge of informal networks and relationships that facilitate work\u2014vanishes unless it has been deliberately captured and transferred.[18] This knowledge loss proves particularly consequential for critical processes that depend on rapid decision-making or handling of exceptional cases, activities that typically rely heavily on tacit expertise rather than formal procedures.\n\nThird, the staff-public knowledge divide directly impacts the effectiveness of research methodologies commonly employed to understand organizational practice. When researchers rely on interviews conducted in decontextualized settings or surveys that ask practitioners to summarize their processes, they obtain only partial information because practitioners cannot easily articulate the tacit elements of their work that have become automatic and invisible.[14][14] Research in contextual inquiry methodology demonstrates that important details regarding reasoning, motivation, underlying mental models, interruptions, and illogical processes emerge only when researchers observe practitioners actually performing their work in their natural environment, while work is happening.[14] Yet many research and design initiatives lack resources for this type of intensive observation, forcing researchers to rely on formal documentation and decontextualized interviews that necessarily miss the tacit dimensions of practice.\n\nFourth, this knowledge divide affects how organizations can effectively support innovation and adaptive capacity. When operating knowledge remains predominantly tacit and dispersed across individual staff members, organizations cannot systematically examine, test, refine, or improve their practices. Organizations cannot scale innovations when the knowledge underlying those innovations exists only in the minds of particular individuals. They cannot rapidly respond to changed circumstances when decision-making processes remain opaque. They cannot effectively train new staff or maintain organizational memory when crucial knowledge exists outside formal systems.[40] Organizations that cultivate adaptive capacity deliberately work to integrate complementary forms of knowledge by linking local experiential knowledge with broader insights, creating feedback mechanisms that connect actions to their outcomes, and facilitating horizontal knowledge flows across the organization.[40]\n\n## Identifying and Mapping the Staff-Knowledge Landscape\n\nRecognizing that substantial operational knowledge resides primarily in staff expertise rather than public documentation represents the first step toward addressing this divide. Organizations can systematically map areas where this disparity exists most acutely by examining several key indicators. The most obvious indicator appears when organizations conduct business impact analysis or dependency mapping and discover that critical processes depend heavily on specific individuals or small groups possessing particular expertise.[35] When a department's operational continuity would be severely compromised by the departure of one or two key personnel, this strongly suggests that critical knowledge for that function exists primarily in staff expertise rather than in documented form.\n\nA second indicator emerges through examining work situations that involve high exception rates, rapid decision-making requirements, or navigation of ambiguous circumstances. Healthcare decision-making, crisis response management, customer service interactions involving unexpected problems, and complex technical troubleshooting all exemplify work contexts where practitioners regularly encounter situations not fully covered by formal procedures, forcing them to draw heavily upon tacit knowledge and professional judgment.[4][25] Applied Cognitive Task Analysis provides a structured methodology for identifying these knowledge-intensive domains and extracting the tacit knowledge underlying expert decision-making.[16] By having experienced practitioners decompose their tasks into steps, discussing specific instances when they encountered difficulties or made critical decisions, and describing how they assessed novel situations, researchers can begin to surface tacit knowledge that formal procedures do not capture.[16]\n\nA third indicator appears through analysis of knowledge gaps documentation, customer support questions, and training effectiveness metrics. When customers or users repeatedly ask questions that should theoretically be answerable from formal documentation, when new employees struggle with aspects of their work despite completing training, or when quality problems trace back to people not following documented procedures correctly, these situations often indicate that formal documentation omits critical context or fails to adequately explain the reasoning behind procedures.[2] Knowledge gap analysis that maps the disparity between what organizations think they have documented and what practitioners actually require represents an essential step toward understanding where the staff-public knowledge divide proves most consequential.\n\nOrganizations can also identify staff-knowledge areas through examination of where workarounds flourish. When practitioners develop informal processes, shortcuts, or alternative approaches to accomplishing work, they frequently do so because formal procedures either do not adequately address the reality of their work environment or do not efficiently accommodate the constraints they face.[25] These workarounds, while sometimes reflecting problematic decision-making, often represent the accumulated wisdom of practitioners who have discovered more effective approaches than those specified in formal guidance. Understanding why these workarounds exist and what knowledge they embody becomes essential for designing systems that actually work in practice.\n\n## The Risks of Tacit Knowledge Dominance in Operations\n\nWhen organizations allow critical operational knowledge to remain predominantly tacit and embedded in staff expertise, they create several categories of organizational risk that extend far beyond simple inefficiency. The most immediate risk involves knowledge loss through staff turnover. The phenomenon appears particularly acute in contexts where experienced workers possess specialized expertise not readily available in the external labor market and where knowledge transfer proves difficult due to the tacit nature of what must be transferred.[18] When specialized staff depart to competitors or leave the industry entirely, organizations lose not merely the individual but the accumulated expertise that person carried. For organizations operating in knowledge economies, this represents a direct loss of competitive advantage.[18] Research on staff turnover specifically highlighted that organizations face potential existential threats when holders of necessary knowledge depart without having transferred their expertise, situating organizations in what researchers termed a \"knowledge preservation crisis.\"[18]\n\nA second category of risk involves operational inconsistency and reduced quality. When operational knowledge remains predominantly tacit, different staff members may interpret procedures differently, develop different mental models of how processes should function, or apply different standards in making decisions. This variation can prove adaptive when it allows practitioners to customize responses to specific circumstances, but it can also create problematic inconsistencies that compromise quality, create compliance problems, or result in customers receiving inconsistent experiences.[23] Organizations attempting to maintain quality standards or ensure regulatory compliance discover that formal procedures alone prove insufficient when implementation depends substantially on individual judgment and tacit understanding.[6][10]\n\nA third category of risk emerges through the knowledge silos phenomenon, whereby information that should be accessible organization-wide instead remains locked within individual knowledge workers or specific teams.[5][5][23] Knowledge hoarding, whether intentional or unintentional, creates barriers to collaboration, slows problem-solving, prevents cross-training and skill development, and inhibits innovation.[23] When experienced employees recognize that their specialized knowledge provides job security or competitive advantage, they may consciously restrict sharing. Even absent intentional hoarding, the tacit nature of knowledge makes sharing difficult; practitioners struggle to articulate what they know because much of their knowledge has become automatic and invisible.[1]\n\nA fourth category of risk involves organizational inflexibility and reduced adaptive capacity. When organizations cannot access, examine, and deliberately improve their operational knowledge, they struggle to adapt when circumstances change. Organizations unable to systematically identify and refine effective practices cannot scale innovations. Organizations whose decision-making processes remain opaque cannot easily trace why particular approaches succeed or fail, limiting their ability to learn and adjust.[40] This becomes particularly consequential in environments of rapid change or in situations requiring innovation and adaptation to new circumstances.\n\nA fifth risk category involves compliance, audit, and regulatory challenges. Many regulatory frameworks require organizations to document their procedures, maintain records of decision-making processes, and demonstrate that they operate according to established protocols.[6][10][20] When critical operational knowledge exists only in staff expertise, organizations struggle to demonstrate compliance and create substantial vulnerability during audits or regulatory investigations.[10] Regulators expect to see documented evidence of systematic processes; when documentation inadequately reflects actual practice, organizations face warnings, fines, or more serious sanctions.[10]\n\n## Design Implications: Why the Knowledge-Public Divide Reshapes Prototype Development\n\nUnderstanding the gap between staff knowledge and public documentation fundamentally alters how research should be conducted and how prototypes should be designed. First, this recognition demands that research initiatives incorporate methods specifically designed to uncover tacit knowledge rather than relying exclusively on formal documentation or decontextualized interviews. Contextual inquiry, wherein researchers observe practitioners in their natural work environments while work is actually occurring, becomes not a luxury but a necessity.[14][14] When researchers observe practitioners performing their work, they witness the actual complexity, the interruptions, the workarounds, the judgment calls, and the moment-by-moment decision-making that cannot be captured through formal procedures or interview summaries.[14] They see what people do, not what they think they do or what they believe they should be doing.\n\nThis methodological implication extends to design evaluation as well. When evaluating prototypes or proposed systems through usability testing or user research, designers must include both novice and expert users because these groups surface different types of issues.[42] Novice users frequently identify usability problems that experts have learned to work around or that experts no longer notice because they have developed mental models and strategies for compensating for design flaws. Expert users, by contrast, often identify problems that novices would never encounter because experts attempt more complex interactions or anticipate edge cases.[42] For prototype design specifically, including domain experts throughout the design process rather than only at the evaluation stage proves essential because domain experts possess the tacit knowledge necessary to identify when proposed solutions fail to account for actual complexity.\n\nA second design implication involves deliberate knowledge capture integrated into the design process itself. Research examining how teams build pedagogical systems using large language models revealed that successful teams employed several key practices: they created workarounds for data collection when formal channels proved inadequate, they engaged domain experts throughout design and evaluation, they co-developed evaluation criteria with experts rather than imposing external standards, and they adopted hybrid evaluation strategies combining expert judgment with systematic testing.[12] These practices emerged not from abstract design principles but from the concrete challenge of building systems that actually work when the knowledge required to make them work exists primarily in domain experts' tacit understanding.\n\nA third design implication concerns how prototypes must be validated in context. The prototyping gap concept illustrates this principle clearly: teams can readily build proof-of-concept prototypes that demonstrate a single narrow use case, but translating those prototypes into production-grade systems that handle the full complexity of real-world contexts requires building substantial infrastructure not captured in the prototype.[7] A prototype that works elegantly for simplified scenarios can fail catastrophically when encountering the messy reality of how knowledge workers actually need to use systems. For instance, researchers building AI systems for enterprise use discovered that single-use workflows handled by prototypes could not scale to addressing entire datasets or comprehensive use cases because the underlying infrastructure did not exist to manage the knowledge integration that real practice required.[7] This suggests that prototype design for knowledge-intensive work must explicitly test not merely whether the core concept works, but whether the prototype adequately reflects the actual complexity practitioners encounter.\n\nA fourth design implication involves treating domain experts as essential partners throughout development rather than as consultants brought in for specific phases. When teams build systems that must function within complex professional domains, domain experts should participate in defining the problem, shaping design concepts, establishing evaluation criteria, and assessing whether prototypes adequately reflect practice reality.[12][27] This differs from traditional expert consultation where domain experts validate others' work; instead, it positions experts as essential contributors to the design process itself because their tacit knowledge about what matters, why it matters, and what success actually looks like cannot be extracted through separate consultation but must be integrated throughout development.\n\n## Knowledge Extraction and the Challenge of Making Tacit Knowledge Explicit\n\nMaking tacit knowledge explicit without losing its essential character represents one of the central challenges in designing systems that must integrate staff expertise with public structure. Applied Cognitive Task Analysis offers a structured approach to this challenge through four specific techniques.[16] The first technique involves creating task diagrams that break down complex work into major steps while identifying which elements carry particular cognitive complexity.[16] This overview phase helps focus subsequent analysis on the aspects of work that truly require tacit expertise rather than treating all procedural steps as equally important.\n\nThe second technique, the knowledge audit, involves structured interviews that identify the ways expertise manifests in a domain through examples grounded in actual experience.[16] Rather than asking general questions about how people do their work, the knowledge audit uses specific probes drawn from common sources of expertise\u2014probing for situations where something unexpected happened, where the person had to make difficult decisions, where standard approaches would not have worked, where distinguishing between multiple possible interpretations of a situation proved important.[16] This approach surfaces knowledge that practitioners themselves may not recognize as expertise because it has become automatic.\n\nThe third technique, the simulation interview, presents experienced practitioners with realistic challenging scenarios and asks them to walk through how they would assess and respond to each situation as it unfolds.[16] Unlike the knowledge audit which asks about past experiences practitioners have already encountered, the simulation interview creates a controlled scenario allowing researchers to observe how practitioners actually think through novel problems, what cues they notice, what their decision points involve, and how they adjust their approach as situations evolve.[16] This technique proves particularly valuable for accessing tacit knowledge about situation assessment, decision-making processes, and adaptive responses that might not surface through conventional interviews.\n\nThe fourth technique involves sorting and verification, where researchers confirm their understanding by feeding back what they have learned to practitioners and asking them to validate whether the extracted knowledge actually represents how they work.[16] This validation step proves critical because researchers' interpretations of observed behavior or interview content may misrepresent practitioners' actual understanding; having practitioners confirm or correct the interpretation helps ensure that knowledge extraction captures reality rather than researchers' assumptions about what the work involves.\n\nThese techniques share a common principle: they recognize that practitioners often cannot articulate their tacit knowledge through direct questioning, but can instead ground their knowledge in specific examples, scenarios, and concrete instances where they actually performed their work.[16] By structuring conversations around these concrete examples rather than abstract principles, researchers access knowledge that practitioners struggle to express in general terms.\n\n## Bridging the Divide: Documentation, Knowledge Management, and Organizational Systems\n\nRecognizing the staff-knowledge divide naturally raises questions about how organizations can effectively bridge it. The most straightforward approach involves documentation and knowledge management initiatives designed to systematically capture, structure, and make accessible the knowledge that practitioners possess. Effective documentation does not simply transcribe what people say; rather, it requires deliberately extracting and structuring knowledge into forms that others can learn from and access.[26] Standard operating procedures represent one formalized approach where organizations establish systematic workflows that explain step-by-step how particular tasks should be performed.[26] However, quality SOPs require more than just listing steps; they must include the reasoning behind procedures, the context in which they apply, exceptions that might require different approaches, and the criteria by which successful completion can be assessed.[26]\n\nKnowledge management systems and repositories provide technological infrastructure through which organizations can structure, store, organize, and enable retrieval of captured knowledge.[37] The most effective systems employ multiple approaches simultaneously: centralized repositories that serve as single sources of truth for critical information, sophisticated search capabilities that help users find relevant information quickly, collaborative tools that enable knowledge sharing and discussion, integration with tools practitioners actually use in their work, and continuous analytics tracking how knowledge gets accessed and used so that systems can be improved over time.[37] However, technology alone does not solve the staff-knowledge divide; organizations implementing knowledge management systems discover that technology must be paired with deliberate efforts to capture knowledge, create a culture that values knowledge sharing rather than knowledge hoarding, provide training so people know how to use the systems, and establish processes ensuring that documented knowledge stays current.[1][3][23]\n\nOrganizations attempting to bridge the knowledge divide also benefit from deliberately cultivating what researchers call social memory\u2014the organizational capacity to retain lessons from past experiences and apply those lessons to guide future decisions.[40] This involves creating forums where staff can share experiences and discuss implications, establishing feedback mechanisms that connect actions to their outcomes so people can learn from results, creating opportunities for horizontal knowledge sharing across organizational boundaries, and deliberately integrating tacit knowledge from practitioners with explicit knowledge from research and formal guidance.[4][40] Organizations that succeed in this work tend to create communities of practice that bring together people engaged in similar work regardless of formal organizational boundaries, enabling peer learning and knowledge sharing that supplements formal documentation.[3][9]\n\n## Stakeholder Engagement and Knowledge Integration in Design Processes\n\nEffective design processes that appropriately navigate the staff-knowledge divide typically involve structured stakeholder engagement specifically designed to access and integrate the tacit knowledge stakeholders possess.[11][29][30] Stakeholder interviews conducted at project outset help design teams understand the context stakeholders care about, the business goals that matter to them, the constraints and dependencies they navigate, and their vision for successful outcomes.[11] Rather than viewing stakeholders as sources of requirements to be gathered and processed, this approach positions stakeholders as partners whose expertise and perspective remain essential throughout the design process.\n\nThis becomes particularly important when designing systems intended to support knowledge work. Users bring mental models\u2014their understanding of how systems work and what will happen when they take certain actions\u2014that significantly influence their interactions with designed systems.[30] Mental model mismatches, where users believe a system works differently than it actually does, create user frustration and errors even when the system functions as technically specified.[30] By engaging with users throughout design and prototype development rather than only at evaluation phases, designers can continuously align the system's behavior with users' mental models or deliberately shape mental models through clear communication about how the system actually works.\n\nContextual inquiry, a research method specifically designed to understand work practices in their natural context, provides a structured approach to integrating tacit knowledge into design.[14][14] Rather than asking users to summarize their work through interviews, contextual inquiry involves researchers observing users while they work, asking questions when something seems unclear, and developing shared interpretations of the work practices and underlying mental models.[14] This method proves particularly valuable when designing systems for complex knowledge work because it uncovers low-level details that have become habitual and invisible, reveals the actual interruptions and non-linear patterns that characterize real work, and exposes illogical processes that somehow function in practice but would not make sense in formal procedures.[14]\n\nDesign thinking approaches applied to stakeholder engagement provide another structured methodology for integrating tacit knowledge into design processes.[49] The empathy phase involves bringing stakeholders together to explore and visualize their attitudes, behaviors, needs, and concerns. The define phase moves beyond initial understanding to develop shared definitions of what actually needs to be addressed, recognizing that stakeholders often hold different understandings of problems and priorities. The ideate phase involves generating many possible approaches, deliberately including diverse perspectives and encouraging broad participation in solution generation. The prototype phase creates tangible representations of proposed solutions that help stakeholders visualize possibilities and provide concrete feedback rather than abstract comments. The test phase validates whether proposed solutions actually address the identified problems and work within the contexts where they will be used.[49] This structured engagement approach helps ensure that tacit knowledge becomes integrated throughout the design process rather than consulted only when external consultants are brought in.\n\n## Information Overload and the Limits of Structured Documentation\n\nWhile bridging the staff-knowledge divide through documentation and knowledge management systems offers real benefits, organizations must also recognize that excessive or poorly structured documentation creates its own problems. Research on information overload demonstrates that when information becomes too abundant, poorly organized, presented in excessive detail, or fragmented across multiple systems, cognitive load increases, people make more errors, decision-making slows, and information usefulness actually decreases.[39] Organizations that attempt to bridge the knowledge gap by documenting exhaustively without attention to organization, accessibility, and relevance risk creating information silos rather than solving them.\n\nEffective documentation and knowledge management requires actively curating information, maintaining relevance and currency, organizing materials logically for the people who need to use them, and providing multiple pathways to find needed information depending on how users search.[39] Dashboard approaches that visualize complex information in accessible formats, contextualized information delivery that surfaces relevant information at the moment people need it, and integration with the tools people actually use in their work all help reduce information overload while increasing information usefulness.[39] This suggests that bridging the staff-knowledge divide does not simply mean capturing and documenting more; it means structuring and delivering knowledge in ways that match how practitioners actually work and think.\n\n## Prototype Design at the Staff-Public Interface\n\nDesigning prototypes that must function at the intersection of staff expertise and public structure presents particular challenges. Such prototypes must accommodate the tacit knowledge that staff bring while also making that knowledge accessible, teachable, and replicable across the organization. Several design principles emerge from examining successful efforts to navigate this challenge. First, prototypes should acknowledge rather than attempt to eliminate the role of expert judgment. Well-designed systems for knowledge work typically do not attempt to fully automate decision-making or reduce professional judgment to algorithmic processes; instead, they augment professional judgment by providing information, highlighting patterns, surfacing relevant guidance, and enabling rapid access to needed knowledge.[34] This approach preserves the essential role of practitioners' tacit understanding while making their decision-making more informed and efficient.\n\nSecond, prototypes should be validated iteratively with actual practitioners performing actual work, not just with idealized versions of the work conducted in laboratory settings.[47] Early prototypes tested with low-fidelity mockups or wireframes can identify conceptual misalignments before substantial development effort. Testing should continue throughout development with increasingly refined prototypes, incorporating feedback from practitioners and adjusting designs based on how people actually attempt to use them.[47] This continuous feedback cycle proves particularly important when designing systems for complex knowledge work because the gap between how designers imagine work proceeding and how it actually unfolds often becomes apparent only when practitioners interact with prototypes in realistic contexts.\n\nThird, prototypes should be designed to reveal and gradually build shared understanding between designers and domain experts. Rather than designers developing complete specifications that experts then review, the design process can employ rapid prototyping where rough sketches, annotated wireframes, and flow diagrams help designers and experts develop shared mental models of what needs to be built.[41] These visual representations surface hidden assumptions that different stakeholders hold unconsciously; by creating tangible artifacts that represent their understanding, designers and experts can identify misalignments early and discuss what the work actually requires before substantial development investment.\n\nFourth, prototype testing should assess not only whether the prototype works for ideal cases but also how it handles edge cases, exceptional situations, and the complexity that real practitioners encounter.[42] Novice users testing prototypes often identify usability problems that experts would work around or not even notice, while expert users often identify problems that only emerge when attempting more complex work or edge cases.[42] Including both user types in prototype testing provides more comprehensive insight into how prototypes might actually function when deployed in practice.\n\n## The Human Cost of Knowledge-Structure Misalignment\n\nBeyond the organizational risks created by the staff-knowledge divide, the gap between what practitioners know and what public structures capture creates significant human costs. When employees struggle to perform their work because available guidance does not reflect actual practice, frustration and stress increase. When experienced workers find that their expertise is not recognized or valued because performance gets measured against formal procedures that do not capture what actually matters, engagement and retention suffer.[25] When communication breaks down because information exists in multiple forms and people cannot find what they need, the uncertainty and cognitive burden increase.\n\nConversely, organizations that deliberately work to bridge this divide by capturing practitioner knowledge, documenting procedures in ways that reflect actual practice, integrating tacit and explicit knowledge, and designing systems that respect and leverage practitioner expertise find that engagement, retention, and organizational performance improve.[1][3] Staff who feel that their knowledge is valued and that the organization respects how they actually work demonstrate higher engagement, greater willingness to share knowledge, and stronger commitment to organizational goals. This suggests that bridging the staff-knowledge divide matters not only for operational efficiency but also for creating workplaces where knowledge workers feel respected and valued.\n\n## Conclusion and Recommendations for Research and Design\n\nThe distinction between operational knowledge that resides in staff expertise and knowledge that appears in formal public structures represents far more than an academic curiosity or a minor organizational challenge. This divide shapes research validity, prototype effectiveness, organizational resilience, staff engagement, and ultimately whether designed systems will actually work when deployed in real contexts. Organizations and design teams navigating this landscape should adopt several key practices.\n\nFirst, research initiatives investigating organizational practices should employ methods specifically designed to uncover tacit knowledge rather than relying exclusively on formal documentation or decontextualized interviews.[14][16][14] Contextual inquiry, direct observation, Applied Cognitive Task Analysis, and other methods that ground understanding in actual work contexts provide richer, more valid insights than methods that rely on practitioners' ability to summarize or describe their work when removed from the context in which it occurs.\n\nSecond, prototype design and evaluation should systematically incorporate domain experts throughout the development process rather than positioning them as external validators.[12][27] Domain experts bring the tacit knowledge that makes the difference between prototypes that work in controlled settings and systems that succeed when deployed in actual practice. This integration should include expert participation in defining problems, shaping design approaches, establishing evaluation criteria, and assessing whether prototypes adequately reflect practice reality.\n\nThird, organizations should invest in deliberate knowledge capture, structured documentation, and knowledge management systems designed to make staff expertise accessible while avoiding the information overload trap.[1][3][6][37] Effective knowledge management requires attention to organization, accessibility, currency, and integration with how practitioners actually work rather than simply documenting more information.\n\nFourth, design processes should employ stakeholder engagement methods specifically structured to surface and integrate the tacit knowledge stakeholders possess.[11][29][49] Methods such as contextual inquiry, design thinking approaches, and stakeholder interviews conducted as genuine partnership rather than requirements gathering provide approaches to this integration.\n\nFinally, organizations should recognize that bridging the staff-knowledge divide creates benefits that extend beyond operational efficiency to include improved staff engagement, retention, and organizational resilience.[1][3][18] When practitioners feel that their expertise is recognized and respected, when formal systems reflect rather than contradict actual practice, and when organizations systematically work to preserve and share the knowledge that practitioners develop, organizations become more adaptive, more resilient, and more capable of supporting the skilled workers who remain their most valuable resource."
+      },
+      "delta": {
+        "role": "assistant",
+        "content": ""
+      },
+      "finish_reason": "stop"
+    }
+  ]
+}

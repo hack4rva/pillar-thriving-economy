@@ -1,0 +1,390 @@
+{
+  "id": "c01631e8-d886-4534-9bc4-9124f706b935",
+  "model": "sonar-deep-research",
+  "created": 1773567679,
+  "usage": {
+    "prompt_tokens": 62,
+    "completion_tokens": 8352,
+    "total_tokens": 8414,
+    "citation_tokens": 48344,
+    "num_search_queries": 58,
+    "reasoning_tokens": 293209,
+    "cost": {
+      "input_tokens_cost": 0.00012,
+      "output_tokens_cost": 0.06682,
+      "citation_tokens_cost": 0.09669,
+      "reasoning_tokens_cost": 0.87963,
+      "search_queries_cost": 0.29,
+      "total_cost": 1.33326
+    }
+  },
+  "citations": [
+    "https://yipinstitute.org/article/when-civic-education-fails-democracy-follows",
+    "https://discontinued-civictech.github.io",
+    "https://civictech.guide/the-problems-with-impact-measurement-in-civic-tech/",
+    "https://repository.tudelft.nl/file/File_6746e15c-ce7d-45a6-8b65-d767a9e82fbf",
+    "https://tifpiedu.org/collaboration-over-code-why-ai-alone-cannot-create-high-performing-civic-and-economic-orgs/",
+    "https://dl.acm.org/doi/10.1145/3544549.3573818",
+    "https://www.philanthropy.com/news/guest-post-why-the-new-social-network-jumo-will-fail/",
+    "https://www.ictworks.org/3-reasons-why-ushahidi-should-not-help-users-achieve-social-impact/",
+    "https://thriveworks.com/blog/ring-nextdoor-good-bad-gossip-associated-neighborhood-watch-platforms/",
+    "https://www.change.org/petition-guides/engage-decision-makers",
+    "https://www.hlp.city/en-gb/articles/if-youre-not-adopting-digital-community-engagement-youre-missing-out",
+    "https://carnegieendowment.org/research/2025/07/shrinking-civic-space-digital-funding-and-legitimacy-in-a-post-truth-era",
+    "https://civic.io/2023/01/24/bad-choices-good-reasons/",
+    "https://cardanofoundation.org/blog/trust-deficit-financial-transparency",
+    "https://www.journalofdemocracy.org/articles/ais-real-dangers-for-democracy/",
+    "https://bridgemi.com/michigan-government/michigan-quickly-deletes-government-chats-raising-transparency-questions/",
+    "https://ash.harvard.edu/articles/transparency-is-insufficient-lessons-from-civic-technology-for-anticorruption/",
+    "https://www.cambridgeday.com/2024/03/13/participatory-budgeting-is-a-flawed-model-for-municipal-decision-making/",
+    "https://simplystakeholders.com/community-engagement-tool/",
+    "https://www.opengovhub.org/blogs/civic-tech-amp-civic-leaders-what-not-to-build-amp-how-to-sustain-ourselves",
+    "https://www.hrw.org/news/2023/09/06/indias-digital-governance-model-fails-rights",
+    "https://www.civicplus.com/blog/rr/current-issues-affecting-public-records-request-management/",
+    "https://play.google.com/store/apps/details?id=it.gasparilab.mycity",
+    "https://www.open311.org",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/04/tackling-civic-participation-challenges-with-emerging-technologies_bbe2a7f5/ec2ca9a2-en.pdf",
+    "https://today.usc.edu/trust-in-voting-how-misinformation-threatens-democracy/",
+    "https://www.gogovapps.com/blog/why-citizen-complaint-tracking-fails----and-how-the-right-software-fixes-it",
+    "https://ncji.org/wp-content/uploads/2023/03/Bland-Clifford-Failures-in-the-Laboratories-of-Democracy-and-Substantive-Due-Process.pdf",
+    "https://github.com/DemocracyOS/democracyos/issues/1636",
+    "https://truthout.org/video/a-terrible-idea-the-full-failure-of-e-voting-e-counting-open-source-and-internet-voting/",
+    "https://www.upworthy.com/pocket-saying-goodbye/",
+    "https://sunlightfoundation.com/opendataguidelines/",
+    "https://www.tandfonline.com/doi/full/10.1080/26883597.2024.2391664",
+    "https://www.doi.gov/pressreleases/interior-department-takes-action-protect-taxpayers-offshore-oil-and-gas",
+    "https://www.mysociety.org/community/fixmystreet/",
+    "https://seeclickfix.com/media/seeslickfix_case_study.pdf",
+    "https://www.sciencenews.org/article/government-ai-cybersecurity-risks",
+    "https://insightsbymurmuration.substack.com/p/running-on-empty",
+    "https://a2jlab.org/government-websites-why-are-they-so-bad-and-can-they-be-better/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12052546/",
+    "https://catalog.data.gov/dataset/?tags=maintenance",
+    "https://gsdrc.org/document-library/causes-of-e-government-success-and-failure-design-reality-gap-model/",
+    "https://civic.io/2025/03/26/vendor-lock-in-shadow-technical-debt/",
+    "https://www.oecd-opsi.org/wp-content/uploads/2019/12/civic-tech-case-studies-innovative-communities.pdf",
+    "https://www.justsecurity.org/77012/the-surprisingly-broad-implications-of-nestle-usa-inc-v-doe-for-human-rights-litigation-and-extraterritoriality/",
+    "https://www.youtube.com/watch?v=TiZYhChNEVM",
+    "https://www.transparency.org/en/press/corruption-perceptions-index-2025-decline-leadership-undermining-global-fight",
+    "https://citizenscience.eu/resource/311",
+    "https://www.peoplepowered.org/news-content/bridging-the-digital-divide-lessons-from-brazils-national-participatory-planning-process",
+    "https://springbrooksoftware.com/declining-citizen-satisfaction-the-unseen-consequences-of-outdated-technology/"
+  ],
+  "search_results": [
+    {
+      "title": "When Civic Education Fails, Democracy Follows - YIP Institute",
+      "url": "https://yipinstitute.org/article/when-civic-education-fails-democracy-follows",
+      "snippet": "When students aren't taught how their government works, political disengagement is not a personal failure, but an institutional one. These ...",
+      "source": "web"
+    },
+    {
+      "title": "Welcome to Discontinued Civic Tech Workshop Communitiy (DisCT ...",
+      "url": "https://discontinued-civictech.github.io",
+      "snippet": "The goal of the workshop is to develop a better understanding of why some civic tech initiatives fail and ask whether discontinued initiatives may still somehow ...",
+      "source": "web"
+    },
+    {
+      "title": "The Problems with Impact Measurement in Civic Tech",
+      "url": "https://civictech.guide/the-problems-with-impact-measurement-in-civic-tech/",
+      "snippet": "Micah Sifry will go into greater depth on this topic in a piece on learning from failures in civic tech, but the majority of the civic tech tools for which we ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] Failed yet successful: Learning from discontinued civic tech initiatives",
+      "url": "https://repository.tudelft.nl/file/File_6746e15c-ce7d-45a6-8b65-d767a9e82fbf",
+      "snippet": "Failed yet successful. Learning from discontinued civic tech initiatives. Hamm, Andrea; Shibuya, Yuya; Cerratto Pargman, Teresa; Bendor, Roy; Hansen, ...",
+      "source": "web"
+    },
+    {
+      "title": "Collaboration Over Code: Why AI Alone Cannot Create High ...",
+      "url": "https://tifpiedu.org/collaboration-over-code-why-ai-alone-cannot-create-high-performing-civic-and-economic-orgs/",
+      "snippet": "Transparency tools cannot repair trust deficits created by poor communication or unmet expectations. AI has increased visibility. It has not reduced complexity.",
+      "source": "web"
+    },
+    {
+      "title": "Failed yet successful: Learning from discontinued civic tech initiatives",
+      "url": "https://dl.acm.org/doi/10.1145/3544549.3573818",
+      "snippet": "Workshops are a rare opportunity for academics to share their experiences of failure because seemingly failed projects are much more difficult ...",
+      "source": "web"
+    },
+    {
+      "title": "Guest Post: Why the New Social Network Jumo Will Fail",
+      "url": "https://www.philanthropy.com/news/guest-post-why-the-new-social-network-jumo-will-fail/",
+      "snippet": "Now, having said all of this, the headline that Jumo will \u201cfail\u201d is obviously editorial hyperbole. Whereas Jumo might not enlist casual addiction like Facebook, ...",
+      "source": "web"
+    },
+    {
+      "title": "3 Reasons Why Ushahidi Should Not Help Users Achieve Social ...",
+      "url": "https://www.ictworks.org/3-reasons-why-ushahidi-should-not-help-users-achieve-social-impact/",
+      "snippet": "1. Developing Usable Technology Is a Big Enough Job \u00b7 2. It Sets an Impossible Precedent for Other Technology Companies \u00b7 3. Digital Strategy ...",
+      "source": "web"
+    },
+    {
+      "title": "Ring and Nextdoor: The Good, the Bad, and the Gossip",
+      "url": "https://thriveworks.com/blog/ring-nextdoor-good-bad-gossip-associated-neighborhood-watch-platforms/",
+      "snippet": "This Thriveworks blog examines how platforms like Ring and Nextdoor serve to connect us but may also fuel paranoia and fear.",
+      "source": "web"
+    },
+    {
+      "title": "How to engage Decision Makers for real results - Change.org",
+      "url": "https://www.change.org/petition-guides/engage-decision-makers",
+      "snippet": "\u274c Poor communication style. Not putting time and effort into your communication approach can make even a good petition easy to ignore. Avoid: Copy/paste ...",
+      "source": "web"
+    },
+    {
+      "title": "If You're Not Adopting Digital Community Engagement, You're ...",
+      "url": "https://www.hlp.city/en-gb/articles/if-youre-not-adopting-digital-community-engagement-youre-missing-out",
+      "snippet": "Digital community engagement is key to widening participation and is allowing communities to be at the forefront of public decision-making.",
+      "source": "web"
+    },
+    {
+      "title": "Shrinking Civic Space, Digital Funding, and Legitimacy in a Post ...",
+      "url": "https://carnegieendowment.org/research/2025/07/shrinking-civic-space-digital-funding-and-legitimacy-in-a-post-truth-era",
+      "snippet": "The emergence of a post-truth era characterized by an increasing abuse of technology has significantly eroded civic space\u2014a fundamental platform ...",
+      "source": "web"
+    },
+    {
+      "title": "Bad choices, good reasons - Civic Innovations",
+      "url": "https://civic.io/2023/01/24/bad-choices-good-reasons/",
+      "snippet": "Governments make dumb technology choices because they don't know any better. While this is sometimes true, this view fails to account for the environmental ...",
+      "source": "web"
+    },
+    {
+      "title": "The Trust Deficit: Why Financial Transparency Matters",
+      "url": "https://cardanofoundation.org/blog/trust-deficit-financial-transparency",
+      "snippet": "Transparent provenance, standardized event logs, and real-time reconciliation reduce exposure to error and fraud while increasing stakeholder ...",
+      "source": "web"
+    },
+    {
+      "title": "AI's Real Dangers for Democracy",
+      "url": "https://www.journalofdemocracy.org/articles/ais-real-dangers-for-democracy/",
+      "snippet": "This essay predicts three such risks. First, AI-backed efforts to replace political communication may erode representative democracy. Second, AI may exacerbate ...",
+      "source": "web"
+    },
+    {
+      "title": "Michigan quickly deletes government chats, raising transparency ...",
+      "url": "https://bridgemi.com/michigan-government/michigan-quickly-deletes-government-chats-raising-transparency-questions/",
+      "snippet": "Chats between state officials on Microsoft Teams platforms are erased 30 days after they're created \u00b7 Transparency advocates are concerned the ...",
+      "source": "web"
+    },
+    {
+      "title": "Transparency is Insufficient: Lessons From Civic Technology for ...",
+      "url": "https://ash.harvard.edu/articles/transparency-is-insufficient-lessons-from-civic-technology-for-anticorruption/",
+      "snippet": "Civic tech can also unintentionally fracture processes both for the government agency and citizens. Reducing a 10-steps process to 3-steps is ...",
+      "source": "web"
+    },
+    {
+      "title": "Participatory budgeting is a flawed model for municipal decision ...",
+      "url": "https://www.cambridgeday.com/2024/03/13/participatory-budgeting-is-a-flawed-model-for-municipal-decision-making/",
+      "snippet": "Participatory budgeting fails to account for the complexity of the municipal process and the trade-offs involved in resource allocation. We ...",
+      "source": "web"
+    },
+    {
+      "title": "6 Critical Features For Your Community Engagement Tool",
+      "url": "https://simplystakeholders.com/community-engagement-tool/",
+      "snippet": "Organizations rely on community engagement software to enable efficient tracking, communication, reporting, and more.",
+      "source": "web"
+    },
+    {
+      "title": "Civic Tech & Civic Leaders: What NOT to build & how to sustain ...",
+      "url": "https://www.opengovhub.org/blogs/civic-tech-amp-civic-leaders-what-not-to-build-amp-how-to-sustain-ourselves",
+      "snippet": "The presented guide is for teams or managers involved in considering or building \u201ccivic technology\u201d, i.e., technology that helps people engage ...",
+      "source": "web"
+    },
+    {
+      "title": "India's Digital Governance 'Model' Fails on Rights",
+      "url": "https://www.hrw.org/news/2023/09/06/indias-digital-governance-model-fails-rights",
+      "snippet": "Indian leaders claim they have used \u201ctechnology to transform governance, to make it more efficient, inclusive, faster and transparent.\u201d",
+      "source": "web"
+    },
+    {
+      "title": "Current Issues: Public Records Request Management - CivicPlus",
+      "url": "https://www.civicplus.com/blog/rr/current-issues-affecting-public-records-request-management/",
+      "snippet": "What does the current landscape of public records look like? Read to dive into the five main issues affecting public records request ...",
+      "source": "web"
+    },
+    {
+      "title": "MyCity - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=it.gasparilab.mycity",
+      "snippet": "The MyCity application is the tool, structured for mobile technology, capable of guaranteeing effective, immediate and constant communication between the ...",
+      "source": "web"
+    },
+    {
+      "title": "Open311",
+      "url": "https://www.open311.org",
+      "snippet": "We've seen continued adoption of Open311 in the U.S. including statewide programs like Commonwealth Connect in Massachusetts and ongoing growth ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] Tackling civic participation challenges with emerging technologies",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/04/tackling-civic-participation-challenges-with-emerging-technologies_bbe2a7f5/ec2ca9a2-en.pdf",
+      "snippet": "This work was approved and declassified by the Public Governance Committee on April 9, 2025 and prepared for publication by the Secretariat.",
+      "source": "web"
+    },
+    {
+      "title": "Trust in voting: How misinformation threatens democracy - USC Today",
+      "url": "https://today.usc.edu/trust-in-voting-how-misinformation-threatens-democracy/",
+      "snippet": "With misinformation on the rise and American voters increasingly losing faith in elections, USC experts explore strategies to restore confidence in democracy.",
+      "source": "web"
+    },
+    {
+      "title": "Why Citizen Complaint Tracking Fails - GOGov",
+      "url": "https://www.gogovapps.com/blog/why-citizen-complaint-tracking-fails----and-how-the-right-software-fixes-it",
+      "snippet": "Municipalities face citizen complaint tracking difficulties when outdated systems like spreadsheets and handwritten notes fail to capture ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] Failures in the Laboratories of Democracy and Substantive Due ...",
+      "url": "https://ncji.org/wp-content/uploads/2023/03/Bland-Clifford-Failures-in-the-Laboratories-of-Democracy-and-Substantive-Due-Process.pdf",
+      "snippet": "Today, many of those democratic experiments are teetering on the verge or have already failed. Voting restrictions and gerrymandering now allow ...",
+      "source": "web"
+    },
+    {
+      "title": "heroku deploy failing \u00b7 Issue #1636 \u00b7 DemocracyOS/democracyos",
+      "url": "https://github.com/DemocracyOS/democracyos/issues/1636",
+      "snippet": "heroku one-click deploy fails with logs. any ideas what might be wrong? screen shot 2018-08-14 at 10 46 07 pm. LOGS: 2018-08- ...",
+      "source": "web"
+    },
+    {
+      "title": "\u201cA Terrible Idea\u201d: The Full Failure of E-Voting, E-Counting, \u201cOpen ...",
+      "url": "https://truthout.org/video/a-terrible-idea-the-full-failure-of-e-voting-e-counting-open-source-and-internet-voting/",
+      "snippet": "Scott starts off by citing the extraordinary failure of Gov. Chris Christie's emergency Internet Voting scheme, hurriedly (and disastrously) ...",
+      "source": "web"
+    },
+    {
+      "title": "Save-it-later app, Pocket, is shutting down. I'm going to miss it.",
+      "url": "https://www.upworthy.com/pocket-saying-goodbye/",
+      "snippet": "The official Mozilla blog post says that Pocket will shut down on July 8th, 2025, but users will be able to export their saves at any time until ...",
+      "source": "web"
+    },
+    {
+      "title": "Open Data Policy Guidelines - Sunlight Foundation",
+      "url": "https://sunlightfoundation.com/opendataguidelines/",
+      "snippet": "The Sunlight Foundation created this living set of open data guidelines to address: what data should be public, how to make data public, and how to implement ...",
+      "source": "web"
+    },
+    {
+      "title": "Participatory budgeting and local development: Impacts, challenges ...",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/26883597.2024.2391664",
+      "snippet": "This special issue explores achievements, limitations, and potentials of participatory budgeting in different contexts, from Argentina, Brazil, ...",
+      "source": "web"
+    },
+    {
+      "title": "Interior Department Takes Action to Protect Taxpayers from Offshore ...",
+      "url": "https://www.doi.gov/pressreleases/interior-department-takes-action-protect-taxpayers-offshore-oil-and-gas",
+      "snippet": "The costs to decommission oil and gas facilities on the OCS are substantial, and if companies fail to meet their decommissioning obligations ...",
+      "source": "web"
+    },
+    {
+      "title": "FixMyStreet Platform - mySociety",
+      "url": "https://www.mysociety.org/community/fixmystreet/",
+      "snippet": "FixMyStreet began as a painless way for people to report street problems in their own local community: problems like potholes, unsafe pavements and broken ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] SeeClickFix Case Study",
+      "url": "https://seeclickfix.com/media/seeslickfix_case_study.pdf",
+      "snippet": "New Haven quickly realized integrating SeeClickFix as its front-end intake system would allow the city to better serve residents, improve efficiency, and reduce ...",
+      "source": "web"
+    },
+    {
+      "title": "The U.S. government wants to go 'all in' on AI. There are big risks",
+      "url": "https://www.sciencenews.org/article/government-ai-cybersecurity-risks",
+      "snippet": "Government agencies are rapidly adopting AI, but experts warn the push may outpace privacy safeguards and leave data vulnerable to leaks and ...",
+      "source": "web"
+    },
+    {
+      "title": "Running on Empty: Civic Burnout in America - Insights by Murmuration",
+      "url": "https://insightsbymurmuration.substack.com/p/running-on-empty",
+      "snippet": "Ongoing exhaustion and emotional strain are reshaping civic life. A data-driven look at how burnout limits people's civic capacity to engage ...",
+      "source": "web"
+    },
+    {
+      "title": "Government Websites: Why are They so Bad (and Can They be ...",
+      "url": "https://a2jlab.org/government-websites-why-are-they-so-bad-and-can-they-be-better/",
+      "snippet": "Government websites, when effective, can make the process of filing for bankruptcy, divorce, restraining orders and other common legal requests ...",
+      "source": "web"
+    },
+    {
+      "title": "Redefining and solving the digital divide and exclusion to improve ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12052546/",
+      "snippet": "Additionally, language barriers and a lack of culturally informed digital tools (acceptability) further excluded marginalized populations.",
+      "source": "web"
+    },
+    {
+      "title": "maintenance - Dataset - Catalog - Data.gov",
+      "url": "https://catalog.data.gov/dataset/?tags=maintenance",
+      "snippet": "The Manufacturing Cost Guide is a tool that estimates the costs that US manufacturers face and can be used to help gauge the potential returns on ...",
+      "source": "web"
+    },
+    {
+      "title": "Causes of E-Government Success and Failure: Design-Reality Gap ...",
+      "url": "https://gsdrc.org/document-library/causes-of-e-government-success-and-failure-design-reality-gap-model/",
+      "snippet": "Six case studies from South Asia, Southern Africa, Central Asia and the Middle East are used to test this model and two sets of 'thumbnail sketches' for failure ...",
+      "source": "web"
+    },
+    {
+      "title": "Vendor Lock-In: Shadow Technical Debt - Civic Innovations",
+      "url": "https://civic.io/2025/03/26/vendor-lock-in-shadow-technical-debt/",
+      "snippet": "Agencies may find themselves paying escalating licensing fees, struggling with interoperability, or stuck waiting for a vendor's roadmap to ...",
+      "source": "web"
+    },
+    {
+      "title": "[PDF] CIVIC TECH:",
+      "url": "https://www.oecd-opsi.org/wp-content/uploads/2019/12/civic-tech-case-studies-innovative-communities.pdf",
+      "snippet": "CIVIC TECH: Case Studies From Innovative Communities. Page 2. PAGE 2. CONTENTS. INFORMATION TECHNOLOGY. How a Library Embraced New Technology and Helped Build a ...",
+      "source": "web"
+    },
+    {
+      "title": "The Surprisingly Broad Implications of Nestl\u00e9 USA, Inc. v. Doe for ...",
+      "url": "https://www.justsecurity.org/77012/the-surprisingly-broad-implications-of-nestle-usa-inc-v-doe-for-human-rights-litigation-and-extraterritoriality/",
+      "snippet": "In Nestl\u00e9 USA, Inc. v. Doe, the U.S. Supreme Court took up the question of corporate liability for human rights violations under the Alien ...",
+      "source": "web"
+    },
+    {
+      "title": "Europe's Economic Collapse: The Warning No One's Talking About",
+      "url": "https://www.youtube.com/watch?v=TiZYhChNEVM",
+      "snippet": "How immigration is changing European urban space in 2026, the fiscal impact of migration on European municipal budgets, why urban planning ...",
+      "source": "web"
+    },
+    {
+      "title": "Corruption Perceptions Index 2025: Decline in\u2026 - Transparency.org",
+      "url": "https://www.transparency.org/en/press/corruption-perceptions-index-2025-decline-leadership-undermining-global-fight",
+      "snippet": "The Corruption Perceptions Index 2025 reveals a long\u2011term decline in global anti\u2011corruption leadership, with limited signs of progress.",
+      "source": "web"
+    },
+    {
+      "title": "Recognizing failures in citizen science projects: Lessons learned",
+      "url": "https://citizenscience.eu/resource/311",
+      "snippet": "Failures are an immanent part of academic processes driving research progress. Therefore, they are also present in citizen science projects.",
+      "source": "web"
+    },
+    {
+      "title": "Bridging the Digital Divide: Lessons from Brazil's national ...",
+      "url": "https://www.peoplepowered.org/news-content/bridging-the-digital-divide-lessons-from-brazils-national-participatory-planning-process",
+      "snippet": "Brazil's PPA shows how digital participation can scale\u2014but is it inclusive? Here's how the process design and inclusion strategies can make ...",
+      "source": "web"
+    },
+    {
+      "title": "Declining Citizen Satisfaction: The Unseen Consequences of ...",
+      "url": "https://springbrooksoftware.com/declining-citizen-satisfaction-the-unseen-consequences-of-outdated-technology/",
+      "snippet": "Most government departments also operate in silos, with a patchwork of fragmented software solutions that lacks the integration needed to ...",
+      "source": "web"
+    }
+  ],
+  "object": "chat.completion",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "# Civic Tech Failures and Pitfalls: A Comprehensive Analysis of What Makes Democratic Tools Weak\n\nCivic technology has promised to strengthen democratic participation, increase government transparency, and empower communities to engage in civic life more effectively. Yet across the globe, numerous civic tech initiatives have faltered, been discontinued, or failed to achieve their stated objectives. These failures reveal a complex pattern of challenges that extend far beyond simple technical malfunctions. From platforms that accumulated stale data and lost community trust, to systems that became orphaned without clear ownership or continuation plans, the graveyard of failed civic tech projects contains crucial lessons about the intersection of technology, governance, and human behavior. This report examines the most significant failures in the civic tech space, identifying the root causes of weakness and extracting actionable insights for future endeavors.\n\n## The Architecture of Civic Tech Failure: Understanding the Scale and Nature of the Problem\n\nThe failures in civic technology are neither isolated incidents nor merely the product of technical incompetence. Rather, they reflect systemic challenges that emerge when technology is deployed without adequate consideration of institutional contexts, community trust, financial sustainability, and the complex realities of governance[2][4]. A significant body of research now acknowledges that civic tech projects are frequently short-lived, with only a fraction managing to sustain meaningful operations over time[4][6]. Understanding why requires examining the distinction between projects that appear successful on their surface\u2014generating impressive user numbers, securing high-profile funding, or achieving media coverage\u2014and those that actually produce lasting positive change in communities.\n\nThe challenge begins with how success itself is measured in the civic tech space. Organizations working on civic engagement tools face a persistent problem: they employ vastly different metrics to evaluate impact, making it nearly impossible to conduct rigorous comparative analysis[3][3]. One group might celebrate the number of reports submitted through their platform, while another measures success through policy changes, and yet another through the strength of community relationships built. This fragmentation in measurement makes it difficult to understand what actually works, and more importantly, what causes projects to fail[3][3][3]. When organizations are selective about sharing data\u2014publishing impact numbers enthusiastically during fundraising periods but remaining silent when results disappoint\u2014the civic tech field loses the opportunity to learn from setbacks[3][3][3][3].\n\nThe phenomenon of discontinued civic tech initiatives suggests a deeper structural issue. Unlike academic or corporate research, where failure is acknowledged as part of the learning process, the civic tech community has historically been reluctant to publicize or study failures[2][4][6]. Projects simply disappear, often leaving behind unanswered questions about what went wrong, why communities lost interest, and what investments were ultimately wasted. This culture of silence perpetuates cycles of identical mistakes, as new teams launch projects without learning from predecessors who encountered identical barriers[2][4].\n\n## The Design-Reality Gap: Why Systems Fail at Implementation\n\nOne of the most fundamental causes of civic tech failure emerges from what researchers call the \"design-reality gap\"[42]. This refers to the disparity between how a system was conceived by its designers\u2014with particular assumptions about how government works, how citizens behave, and what resources will be available\u2014and the actual messy reality of implementation in specific institutional contexts[42]. The larger this gap, the higher the likelihood of failure. The model that explains this gap identifies seven critical dimensions: information, technology, processes, objectives and values, staffing and skills, management systems and structures, and resources (time and money)[42]. When designers underestimate the importance of any of these dimensions, particularly the softer human and institutional factors, projects struggle[42].\n\nA concrete illustration of the design-reality gap emerges in how civic tech tools are often designed according to \"harder notions of machinery, rationality and objectivity,\" while most government organizations are actually dominated by \"soft factors\" including people, politics, emotions, and culture[42]. A beautifully designed interface means little if the government employees who must use the system lack training, institutional incentives to do so, or political support from their supervisors[42]. Similarly, many civic tech systems have been designed in the private sector with assumptions about how institutions operate that prove fundamentally incompatible with public sector reality[42]. The private sector operates with different incentive structures, timelines, and organizational cultures than government agencies, yet vendors frequently attempt to \"shoehorn\" their solutions into public sector contexts where they fit poorly[42].\n\nThe implementation challenge becomes even more acute when \"off the shelf\" solutions are adopted globally without modification for local context[42]. A system designed for one city's specific infrastructure, legal framework, and community composition will rarely function effectively in another location with entirely different conditions[42]. Yet the venture capital funding model that has dominated civic tech development incentivizes rapid scaling and broad deployment, pushing products into new markets before they have been adequately localized[42].\n\n### The Case of E-Government Failures in Diverse Contexts\n\nExamining e-government implementation across different countries reveals how dramatically context matters. In India, despite massive investments in digital governance infrastructure, the rollout has created new forms of vulnerability rather than strengthening democratic participation[21]. India's \"Digital India\" initiative, presented as a model of technological transformation, has been paired with internet shutdowns that disproportionately harm the poorest citizens by cutting off access to social protection programs like food ration distribution and employment guarantees[21]. The Aadhaar biometric identity system, while positioned as a modernization of governance, now requires internet connectivity that many lack, and has been deployed alongside inadequate data protection laws that grant the government broad exemptions from privacy safeguards[21]. The digital governance system works technically, but fails the fundamental test of democratic governance by increasing surveillance capacity and vulnerability rather than expanding meaningful participation[21].\n\nThis pattern reveals a critical design failure: systems that prioritize technical efficiency over the lived experiences of citizens, particularly marginalized populations, create new forms of exclusion rather than addressing existing ones. When civic tech is designed from a purely technical perspective without incorporating the voices and understanding of the communities it will affect, it almost inevitably misses crucial implementation challenges[42].\n\n## Specific Failures: Learning from Projects That Collapsed or Underperformed\n\n### Jumo: The Cautionary Tale of Venture-Backed Failure\n\nThe collapse of Jumo represents one of the most instructive failures in civic tech history[3][7][3]. Launched with considerable fanfare and \\$3.5 million in venture capital funding, Jumo was positioned as \"THE single, central platform for nonprofits\"\u2014a one-stop shop where civil society organizations and millions of volunteers could connect to causes[3][7][3][3][3]. The inputs were substantial: significant funding, a high-profile launch event, and the contributed efforts of thousands of nonprofits and a million people who created profiles[3][7][3][3][3].\n\nYet within a year, Jumo folded. Its enterprise value at the moment of collapse was appraised at just \\$62,221\u2014roughly 1.8% of the initial investment[3][7][3][3][3]. The company was sold off to GOOD magazine for that minimal valuation plus five laptops[3][7][3][3][3]. Beyond the direct financial loss, the larger failure was institutional: all of the community effort invested by thousands of organizations and millions of individual users went nowhere[3][7][3][3][3].\n\nWhat makes Jumo particularly instructive is its post-failure response. Rather than conducting a genuine analysis of what went wrong and why users abandoned the platform, Jumo's answer was to open-source the code and suggest that \"the community\" would maintain and operate it[3][7][3][3][3]. This response revealed a fundamental misunderstanding of how communities work. Software maintenance requires sustained technical capacity, coordination, and ongoing funding. Open-sourcing abandoned code does not automatically create the social and organizational infrastructure necessary for long-term stewardship[3][7][3][3][3]. Unsurprisingly, the community did not step in to maintain Jumo[3][7][3][3][3].\n\nThe Jumo failure illustrates several critical weaknesses. First, it demonstrates the danger of importing venture capital assumptions\u2014that massive user numbers justify massive investment, and that network effects will create value\u2014into the civic space, where scale and utility operate very differently[3][3][3][3]. Reaching a million people does not automatically mean those million people are actively engaged or finding value in the platform. Second, it shows the inadequacy of evaluating success based purely on quantitative metrics without understanding whether the platform actually meets user needs or enables meaningful collective action[3][3][3][3]. Third, it reveals the failure of technical solutions to substitute for ongoing organizational and community work[3][3][3][3].\n\n### Ushahidi and the Limitations of Transparency Tools\n\nUshahidi, a crowdsourced mapping platform originally designed to document post-election violence in Kenya, represents a different type of failure[8]. Unlike Jumo, Ushahidi did not collapse entirely, but rather encountered fundamental limitations in translating data collection into meaningful social change[8]. The platform made it easy for people to submit reports of problems or incidents, and even easier for organizations to set up mapping tools to visualize that data[8]. Yet this ease of deployment created a false sense of accomplishment[8].\n\nThe core limitation of Ushahidi's approach became apparent: it is comparatively simple to launch a map and display crowdsourced data, substantially more difficult to motivate people to consistently contribute information to that map, and vastly more difficult to convert information into actual meaningful change[8]. Many initiatives launched Ushahidi instances enthusiastically, collected data initially, but then encountered the challenge of sustaining participation and, more critically, transforming that information into action[8].\n\nA key insight emerged from analysis of Ushahidi's limitations: responsibility for the platform's success was misaligned with responsibility for using it effectively[8]. Ushahidi's role was to develop technology and maintain the platform. Civil society organizations using Ushahidi bore responsibility for conducting outreach, maintaining participation, and translating data into advocacy or action[8]. Yet there was no guarantee these organizations had the capacity, resources, or strategic understanding to do so[8]. Ushahidi's critics argued that the platform should have provided strategic support to users, not just technology[8]. However, the counterargument\u2014from observers including Susannah Vila of the Engine Room\u2014held that expecting technology companies to provide unpaid strategic consulting is neither realistic nor sustainable[8]. What would have been needed instead was a separate ecosystem of organizations providing strategic support, tool-agnostic training, and implementation guidance[8].\n\nThe Ushahidi case reveals a systemic gap in the civic tech ecosystem: the absence of organizations focused on helping citizens and civil society organizations think through how to effectively use technology, rather than simply building and deploying it[8]. Technology companies, even those with missions-driven orientations, cannot sustain themselves by providing free strategy support indefinitely[8]. Yet communities need exactly that support to move from tool adoption to sustained impact[8].\n\n### E-Voting and Internet Voting: The Failure of Technical Solutions to Address Trust Deficits\n\nPerhaps no civic tech domain has experienced more comprehensive failure than electronic voting systems[30]. The attempt to modernize voting through technology has consistently encountered a fundamental problem: voting requires trust in the integrity of the process, and technology that citizens cannot directly verify creates trust deficits rather than resolving them[30]. New Jersey Governor Chris Christie's emergency internet voting scheme, hastily deployed and disastrously executed, exemplifies how poorly conceived technical solutions can undermine rather than strengthen democratic institutions[30].\n\nThe e-voting failure reveals a critical misunderstanding common in civic tech: that technical solutions can substitute for institutional trust and verification[30]. When citizens cannot independently verify that their vote was counted accurately, when the system's operation remains opaque, when the software cannot be audited by the community, then technology becomes a source of vulnerability rather than strength[30]. The push toward e-voting and internet voting, driven partly by the assumption that digital technology automatically improves governance, collided with the reality that voting is fundamentally about public trust and verifiability[30].\n\n## Impact Measurement and Accountability Gaps: The Missing Evidence Base\n\nOne of the most pervasive weaknesses in civic tech is the absence of rigorous impact measurement. The field uses different metrics across organizations, shares data irregularly and selectively, and often fails to measure impact relative to resources invested[3][3][3][3]. This creates a situation where organizations and funders make decisions without adequate information about what actually works.\n\n### The Problem of Different Metrics and Selective Reporting\n\nEven organizations working on identical problems frequently employ completely different impact metrics[3][3][3]. One organization tracking citizen participation in local government might measure success through the number of complaints submitted through their platform, while another measures success through policy changes that resulted from those complaints, and yet another measures it through the strength of relationships built between citizens and government officials[3][3][3]. Without standardization, it becomes impossible to conduct meaningful comparative analysis[3][3][3].\n\nMore problematic still is the pattern of selective reporting[3][3][3]. Organizations tend to share impact data enthusiastically during fundraising periods and when seeking press coverage, but become silent when numbers disappoint[3][3][3]. Groups happily publicize their achievements when trends are favorable, but disappear from view when results plateau or decline[3][3][3]. This is understandable behavior for organizations operating with limited resources and competing for scarce funding, but it undermines the field's ability to learn from failures[3][3][3]. The periods when initiatives encounter difficulty\u2014when participation drops, when originally enthusiastic users become inactive, when projects pivot to entirely new approaches\u2014are precisely when the most valuable lessons emerge[3][3][3]. Yet these are also the periods when organizations are least likely to publish and share findings[3][3][3].\n\n### Scale Without Impact: The User Numbers Trap\n\nA persistent illusion in civic tech is that reaching large numbers of users indicates success[3][3][3][3]. Yet the majority of even well-funded civic tech projects with significant press coverage reach only a tiny fraction of the population[3][3][3][3]. More fundamentally, reaching a large number of users tells us nothing about whether those users actually found value in the tool, whether they continued to use it, or whether it contributed to meaningful change[3][3][3][3].\n\nThe venture capital funding model that has shaped much of civic tech's development is partly responsible for this metric distortion[3][3][3][3]. Venture capitalists demand large and rapidly growing user numbers to justify large investments. This creates pressure to optimize for visible metrics\u2014downloads, accounts created, reports submitted\u2014rather than for the murkier but more important question of whether the tool actually improves civic participation or outcomes[3][3][3][3]. A civic tech tool that reaches 500 deeply engaged users who use it regularly and take action based on it may have far greater impact than a platform with 500,000 users who signed up once and never returned[3][3][3][3].\n\n### Causality as an Unsolved Problem\n\nEven when impact measurement is conducted rigorously, the challenge of establishing causality in social environments remains[3][3][3][3]. Did a policy change happen because of a civic tech platform, or would it have happened anyway? Did citizen engagement increase because of a tool, or due to other concurrent efforts? Did transparency about government decision-making increase engagement, or did it conversely increase cynicism and withdrawal[3][3][3][3]?\n\nThese questions matter enormously because they determine whether investments in civic tech are actually delivering the promised benefits. Yet the field has made limited progress in answering them[3][3][3][3]. Some rigorous studies exist\u2014researchers at organizations like mySociety have conducted strong studies with control groups and published even discouraging results\u2014but these represent exceptions rather than the norm[3][3][3][3].\n\nThe deeper concern raised by researchers is whether the field has adequately considered the long-term ramifications of its work[3][3][3][3]. Does transparency about government bureaucracy produce more engagement, or does it breed cynicism when people see dysfunction and nothing changes? Does publishing open data about property ownership in distressed neighborhoods empower residents, or does it enable speculative real estate practices that harm those same communities? Does connecting the whole world to one another through digital platforms produce a sense of shared community, or does it generate fear and polarization[3][3][3][3]? The field does not actually know, and has only begun to consider these questions[3][3][3][3].\n\n## Technical Debt and Sustainability Failures: The Hidden Costs of Civic Tech\n\nOne of the most underappreciated forms of weakness in civic technology is vendor lock-in and technical debt[43]. Technical debt is typically understood as outdated code or neglected infrastructure in custom software development, but vendor lock-in represents an equally serious though often invisible form of debt[43]. When agencies become tightly coupled to a proprietary technology tool, custom or commercial off-the-shelf, they assume future costs that are not obvious at first but accumulate over time[43].\n\n### The Trap of Vendor Lock-In\n\nVendor lock-in creates circumstances where switching to a better, cheaper, or more secure option is not simply a matter of choice\u2014it becomes a costly and complex migration effort[43]. The longer an agency remains locked in, the harder and more expensive it becomes to leave[43]. Agencies may find themselves paying escalating licensing fees, struggling with interoperability between the locked-in system and other tools they need, or stuck waiting for a vendor's product roadmap to align with their needs[43]. The initial convenience of a platform that promises quick implementation or seamless integration comes at a hidden long-term price[43].\n\nThis pattern frequently emerges because both government agencies and civic tech developers optimize for short-term convenience[43]. A platform that can be deployed quickly with minimal effort is attractive when budgets are uncertain and timelines are compressed. Yet this short-term convenience often constrains future options. When a civic tech platform stores data in a proprietary format that cannot be easily exported, uses APIs that are not interoperable with other tools, or relies on specialized technical expertise that is rare and expensive to access, the organization becomes locked in[43]. The only way to avoid this trap is through intentional decisions made upfront: investing in open standards, designing modular architectures that can be swapped out when needed, and maintaining clear understanding of how data is stored and how it can be extracted[43].\n\n### Maintenance Burden and Resource Constraints\n\nBeyond vendor lock-in, civic tech initiatives face a more basic sustainability challenge: the ongoing burden of maintenance with inadequate resources. Software systems require continuous updating for security patches, platform changes, and evolving user needs. Servers consume energy and must be maintained. Data must be backed up, protected, and made accessible. Documentation must be kept current. Users may need training and support. All of this requires sustained funding, technical capacity, and institutional commitment.\n\nMany civic tech projects are launched with grant funding that covers initial development but provides no resources for ongoing maintenance. When that grant period ends and the tool must be maintained by an under-resourced nonprofit, a cash-strapped government agency, or volunteer effort, the platform begins to deteriorate. Data becomes stale. Security vulnerabilities are not patched. Features break and are not repaired. Users abandon the platform because it no longer works reliably. This maintenance burden represents one of the primary reasons civic tech initiatives are discontinued.\n\nThe challenge of maintenance burden extends to environmental considerations as well. Civic tech tools running on server infrastructure consume electricity. The hardware eventually becomes obsolete and requires replacement, generating electronic waste. When projects lack sustained funding for maintenance, they often also lack resources to migrate to more energy-efficient platforms or to decommission systems responsibly. Environmental sustainability becomes another dimension of failure.\n\n### The Data Orphan Problem\n\nA particular form of failure occurs when civic tech tools are abandoned while the data they contain remains orphaned. Federal datasets have been deleted or made inaccessible when administrations changed priorities or funding dried up. Civic tech tools that collected valuable community data have been shut down, and the institutions that collected that data have not arranged for its preservation, maintenance, or transition to another steward. This represents not just a loss of tool functionality, but a loss of institutional memory and public information that may have been valuable for future research and decision-making.\n\nThe loss of federal datasets reveals how systemic this problem has become. Federal agencies, despite their resources, have allowed datasets to be terminated, variables removed, and tools discontinued. The loss includes data on food security, greenhouse gas emissions, crime victimization, and environmental justice. In some cases, civil society organizations have attempted to resurrect these datasets through independent projects, but this depends on volunteers with specialized expertise willing to work without compensation. This ad-hoc approach to data preservation is neither reliable nor sustainable.\n\n## Trust Deficits and Community Disengagement: The Social Foundations of Civic Tech Failure\n\nBeneath many civic tech failures lies a more fundamental issue: the absence of trust between communities and institutions, between citizens and government, and increasingly between people and the digital platforms meant to facilitate civic engagement[5][17][26]. Technology alone cannot build or repair trust. In fact, poorly designed systems can actively erode it.\n\n### Transparency Without Trust Building\n\nA particularly common failure pattern involves civic tech platforms designed to increase transparency without considering how to build or maintain trust[5][17]. The assumption has been that if people can simply see what government is doing\u2014see the data, see the decision-making processes, see how resources are allocated\u2014they will naturally trust institutions more and engage more actively[17]. Yet the evidence suggests a more complex reality.\n\nDavid Riveros Garcia, drawing on experience building civic technology to fight corruption in Paraguay, argues that \"transparency is insufficient\"[17]. Transparency alone, divorced from power analysis and collective action capacity, frequently fails to translate into meaningful change[17]. When citizens can see corruption or inefficiency but lack the power to address it, they may experience frustration and deepened cynicism rather than increased engagement[17]. Technology that reveals problems without providing mechanisms for collective action to solve those problems can actually undermine democratic engagement[17].\n\nMoreover, transparency tools themselves can undermine trust if they are perceived as surveillance mechanisms rather than accountability mechanisms[21][26]. In India's digital governance context, the same digital infrastructure that could theoretically enable citizens to access government services and hold officials accountable has instead enabled mass surveillance, data collection without adequate privacy protections, and control over information flows[21]. When digital systems are deployed without adequate safeguards against government abuse, they become sources of fear rather than tools for empowerment[21].\n\n### The Problem of Over-Automation and Reduced Human Connection\n\nA related failure pattern emerges from over-reliance on automation and artificial intelligence in civic engagement tools[5]. Automation can improve efficiency\u2014processing more requests more quickly, reaching more people with less staff time\u2014but it can also erode trust when it displaces human relationships and judgment[5]. When citizens interact with chatbots instead of government employees, when algorithms make decisions about resource allocation rather than elected officials, when digital systems mediate all interaction with government, people begin to disengage[5].\n\nResearch on artificial intelligence adoption in civic and economic organizations reveals a consistent pattern: organizations adopted AI tools expecting dramatic improvements in outcomes, yet familiar challenges persisted\u2014stalled initiatives, misaligned partners, governance friction, stakeholder fatigue[5]. The reason is straightforward: civic development is fundamentally a communication, coordination, and trust problem, not primarily a technical problem[5]. AI excels at accelerating tasks, but it does not resolve competing priorities, build trust, or create shared ownership[5]. Those remain fundamentally human responsibilities[5].\n\nThe displacement of human interaction with automated systems has particular consequences for marginalized communities. Automated systems often reflect historical biases in their training data[5]. Algorithms designed without input from the communities they affect often misunderstand needs and values[5]. When people from communities that have historically experienced discrimination interact with impersonal automated systems, they experience that history repeated in digital form[5]. Over-automation, even when well-intentioned, can exclude the very people civic tech is meant to serve[5].\n\n### Neighborhood Platforms and the Amplification of Fear\n\nAn instructive failure of a different type emerges from neighborhood watch platforms like Nextdoor and Ring's \"Neighbors\" app[9]. These platforms were ostensibly designed to help neighbors connect, stay safe, and stay informed about their communities[9]. Yet they frequently devolved into hotbeds of community gossip, unfounded accusations, and racial profiling[9]. The platforms revealed that simply creating space for neighbors to communicate does not automatically produce community solidarity; it can instead amplify existing prejudices and create what researchers call \"localized racism and vigilante justice\"[9].\n\nThe problem emerged because the platforms enabled speech without enabling deliberation, encouraged rapid reaction without evidence-gathering, and created feedback loops where inflammatory posts generated engagement while responsible, evidence-based communication did not[9]. When accusations of theft or other crimes against people of color or homeless individuals were shared without evidence, they were often widely amplified and believed, leading to discrimination and harassment that could not be easily corrected[9]. The platform's design optimized for engagement and growth, not for truth or justice[9].\n\nThis failure reveals a crucial lesson: civic engagement tools that optimize for participation volume or engagement metrics without considering quality, accuracy, and equity of that engagement can actively harm communities[9]. Technology that connects people more efficiently can also amplify the worst aspects of human nature more efficiently if the underlying design does not prevent it[9].\n\n## Systemic Barriers: Access, Equity, and Digital Divides\n\nBeyond failures in specific platforms or projects, civic tech faces systemic challenges that affect the entire landscape. Chief among these is the persistent reality of digital inequality: civic tech tools are generally accessible primarily to those with reliable internet access, appropriate devices, digital literacy, and the time to engage with technology[40][49].\n\n### The Multidimensional Nature of the Digital Divide\n\nThe digital divide extends far beyond mere access to the internet and devices[40]. It encompasses what researchers call a \"Rhizomatic Digital Ecosystem\" with five interconnected dimensions: access, availability, adequacy, acceptability, and affordability[40]. Addressing access alone\u2014getting people connected\u2014does not solve the divide if the connection is inadequate for video consultation, if the available devices are not optimized for government services, if the digital tools are not culturally relevant or offered in appropriate languages, or if the costs become unaffordable once subsidies expire[40].\n\nThis multidimensional understanding reveals why civic tech initiatives frequently fail to reach marginalized communities despite intentions to include them[40][49]. A platform may be available for download, but people in low-income areas may lack the adequate bandwidth and device capability to use it effectively[40]. Tools may be offered only in English, excluding speakers of other languages[40]. Digital literacy gaps mean some people lack the understanding to navigate complex interfaces even if they have physical access[40]. Persistent technophobia, rooted in historical experiences and justified skepticism of institutions, can create psychological barriers to adoption[40]. And when free initial access depends on government subsidies that eventually expire, people cannot continue to use digital services once paid[40].\n\nParticipatory budgeting initiatives, designed to increase democratic engagement in how cities spend money, have encountered precisely these access challenges[18][33][49]. When budgeting processes moved online, participation patterns shifted, with some demographics included and others excluded based on digital access and literacy[18][33][49]. In some participatory budgeting implementations, the digital divide affected different communities differently\u2014in some cities creating barriers for low-income residents, in others creating barriers for older residents less comfortable with technology[33][49]. Initiatives that attempted to integrate online and offline participation often failed to do so effectively, simply adding online components without fundamentally rethinking how to include everyone[33][49].\n\n### Civic Education and the Foundation for Participation\n\nPerhaps the most fundamental failure affecting civic tech is not in the technology itself, but in the broader civic knowledge and capacity of the population[1]. When students are not taught how their government actually works, when civic education is pushed to the margins in favor of other academic priorities, the result is a generation unable to navigate political systems or motivated to participate in them[1]. Only twenty percent of eighth graders demonstrate proficiency in civics, with over one-third failing to reach even basic benchmarks[1]. Students with low civic knowledge are far less likely to understand why political participation matters[1].\n\nThis gap in civic education has consequences that ripple through all civic engagement efforts[1]. A sophisticated digital tool for participating in local government means little to someone who does not understand how local government works, what it controls, or why participation might matter[1]. Civic tech without civic knowledge becomes an orphaned tool\u2014technically functional but disconnected from the lived experience and understanding of potential users[1]. The broader context of civic disengagement creates a permissive environment where civic tech struggles to gain traction[1].\n\n## Governance and Organizational Failures: When Institutions Cannot Adopt\n\nBeyond problems with the tools themselves, civic tech failure frequently stems from institutional and governmental failures to effectively adopt and maintain technologies[13][42][50]. Government agencies often make poor technology choices not because decision-makers are ignorant, but because they operate under pressures and incentive structures that favor decisions that appear sound at the time but ultimately fail[13].\n\n### The Pressure to Expand Project Scope\n\nGovernment technology projects fail at dramatically different rates depending on size[13]. Government software projects costing more than \\$6 million succeed only 13% of the time, while projects under \\$1 million succeed 57% of the time[13]. Despite this well-documented pattern, large technology projects remain common in government[13]. One reason is that government agencies often face pressure to expand project scope to draw down available funding before that money disappears[13]. If funding is available today but uncertain next year, rational agency behavior is to expand the project to claim as much funding as possible, even though larger projects are statistically far more likely to fail[13].\n\nThis creates a perverse incentive structure: the institutional environment rewards decisions that would be irrational if judged on merit alone, but which are rational given the actual constraints and pressures that government officials face[13]. Digital services experts have been advising agencies for years to \"make projects smaller,\" yet large failed projects remain common because the political and fiscal environment has not changed[13].\n\n### Legacy Systems and the Integration Challenge\n\nMany government agencies operate on outdated systems that cannot effectively integrate with new civic tech tools[42][50]. When local government departments operate in silos with fragmented software solutions that lack integration, civic engagement tools designed to work with a unified government system fail in practice[50]. A citizen-facing app that promises to route requests to the right department cannot do so if the departments use incompatible systems and do not share information[50].\n\nThe challenge of integrating new civic tech tools with legacy systems is not primarily a technical problem\u2014it is an organizational and institutional problem[42][50]. It requires coordination between departments that may not have had reason to cooperate previously, modification of ingrained processes, and investment in training and change management[42][50]. Government agencies often lack the resources, expertise, or organizational will to undertake this integration work[42][50]. As a result, civic tech tools that work effectively in isolation fail when they attempt to integrate with government operations[42][50].\n\n### The Public Records Disaster: When Transparency Becomes Inaccessible\n\nA particularly acute failure of civic technology involves the handling of public records. While civic tech theoretically should increase government transparency by making public information more accessible, many government agencies continue to operate with fragmented systems that make responding to public records requests difficult, slow, and expensive[16][22][39]. Some agencies automatically delete electronic communications (such as Microsoft Teams chats) after 30 days, making them inaccessible through freedom of information requests[16].\n\nGovernment websites, when designed effectively, could make requesting public records and accessing government information seamless and transparent[39]. Yet many government websites are poorly designed, with confusing layouts, outdated forms, lack of organization, and non-mobile-friendly interfaces[39][50]. Users struggle to find information that theoretically should be publicly accessible[39][50]. Mobile devices are primary internet access for many people, yet 41% of federal government websites are not mobile-friendly[39]. Even when information is technically public, the barriers to accessing it can be so high that it is effectively hidden[39].\n\nThis failure of basic transparency infrastructure undermines all civic tech that depends on data or information accessibility[16][22][39][50]. It reveals that the problem is not fundamentally technological\u2014it is organizational and institutional[42]. Agencies have the technical capacity to make information accessible, but they lack the political will, institutional priorities, or resource allocation to do so[42][50].\n\n## The Misinformation and Trust Crisis: Civic Tech in a Deteriorating Information Ecosystem\n\nCivic tech initiatives operate within an increasingly hostile information environment characterized by rising misinformation, eroding trust in institutions, and weaponization of digital platforms[12][26][37][47]. This deteriorating context creates both urgency for effective civic technology and conditions that make success harder.\n\n### Institutional Erosion and the Shrinking Civic Space\n\nA powerful analysis from the Carnegie Endowment documents how civic space\u2014the fundamental platform where democratic participation occurs\u2014has been shrinking globally[12]. Digital platforms once hailed as enablers of democracy have become complicit in silencing opposition voices, with major platforms dismantling their trust and safety teams and acceding to government pressure to suppress content[12]. Internet shutdowns, platform throttling, and algorithmic manipulation have been documented in numerous countries[12].\n\nThe funding landscape for digital rights organizations and civic tech initiatives has simultaneously contracted, creating what researchers describe as a crisis[12]. The U.S. government's pause on foreign aid created a \\$73 million funding gap that triggered long-term hardship for organizations working in digital rights and civic tech[12]. Organizations focused on democratic participation, capacity building, digital security, and advocacy have been forced to cut programs and lay off staff[12]. In this context, civic tech innovation becomes difficult\u2014organizations are focused on survival rather than advancement[12].\n\n### Misinformation as a Systemic Threat\n\nEven as civic tech initiatives attempt to strengthen democratic institutions through increased transparency and participation, misinformation spreads faster and more widely than at any previous point in history[26]. Artificial intelligence has enabled the creation of convincing deepfakes and manipulated media that can spread globally in minutes[26]. The combination of generative AI's capacity to produce fabricated content at scale with social media's algorithmic amplification of engagement creates an information environment in which trust has become radically difficult[26].\n\nThe traditional approach of countering misinformation with facts has proven insufficient in this environment[26]. Misinformation's power lies not primarily in its factual inaccuracy, but in its emotional resonance and social function[26]. Civic tech tools designed to increase transparency and provide accurate information cannot compete with the emotional pull and social reinforcement of misinformation[26]. People whose lives feel precarious and whose political institutions feel unresponsive are particularly vulnerable to misinformation that explains their circumstances in conspiratorial terms[26].\n\n## Lessons and Pathways Forward: Rebuilding Civic Tech on Sounder Foundations\n\nThe examination of civic tech failures across multiple domains reveals consistent patterns. Successful civic technology requires not just good technical design, but institutional commitment, community trust, sustained funding, alignment between design and implementation reality, and integration into broader strategies for civic renewal. Several lessons emerge.\n\n### Building Trust First, Technology Second\n\nThe most fundamental lesson from civic tech failures is that technology cannot substitute for trust, institutional competence, and genuine commitment to democratic participation[5][17]. Projects that begin by designing and deploying technology, with trust-building as an afterthought, consistently fail[5][17]. Effective civic engagement requires starting with existing relationships and trust, understanding community needs and values, and only then selecting technology appropriate to support those goals[5][17].\n\nThis reorientation means civic tech developers must become more humble about what technology can accomplish[8][17]. Technology companies should focus on building good tools and maintaining them sustainably, rather than attempting to provide comprehensive strategy support to users[8]. Separate ecosystem of organizations focused on helping communities think through effective technology use is needed[8]. Government agencies need to understand their actual implementation capacity before adopting new systems[13][42].\n\n### Centering Equity and Inclusion in Design\n\nCivic tech initiatives frequently fail to reach marginalized communities despite intentions to include them because they do not adequately address the multidimensional nature of digital exclusion[40][49]. Effective initiatives require starting with communities that have been historically excluded, understanding the specific barriers they face (access, availability, adequacy, acceptability, and affordability), and designing accordingly[40][49]. This means hybrid online-offline approaches, availability in multiple languages, culturally informed design, and mechanisms to ensure access for those without devices or reliable connectivity[40][49].\n\nIt also means genuine participation of marginalized communities in the design process, not simply as end-users but as co-designers. Communities bring expertise about their own needs that technologists lack. When they are excluded from design decisions, the resulting tools often do not serve them effectively.\n\n### Investing in Sustained Maintenance and Realistic Funding Models\n\nThe maintenance burden that undermines civic tech sustainability requires honest engagement with realistic funding models. One-time grants for development create orphaned tools. Sustainable civic tech requires either sustained public funding (suggesting government ownership and operation) or business models that do not depend on perpetual grants and can remain financially viable over decades. This might involve modest user fees for advanced features, integration into government budgets, or support from foundations committed to long-term funding of specific problem domains.\n\n### Creating Measurement and Learning Infrastructure\n\nThe civic tech field needs standardized approaches to impact measurement that enable comparative analysis and learning from failures[3][3][3]. This does not require identical metrics across all projects\u2014context-specific measures make sense\u2014but rather shared frameworks and commitments to transparency about both successes and failures[3][3][3]. Organizations should commit to regular, ongoing public reporting of impact data, including periods when results are disappointing[3][3][3]. The field must invest in independent evaluation and research to establish causality and understand long-term effects[3][3][3].\n\n### Building Political Will and Institutional Capacity\n\nFinally, the deepest failures in civic tech often reflect not technology failures but failures of political will and institutional capacity[1][13][42]. Civic education is underfunded despite evidence that it strengthens democratic participation[1]. Government agencies make poor technology choices because institutional pressures reward those choices[13]. Agencies cannot adopt new technologies effectively because they lack resources and organizational capacity[42][50]. These are ultimately political problems requiring political solutions[1][13][42].\n\nThis means investments in civic infrastructure\u2014in education, in government capacity, in sustained institutional commitment to democratic participation\u2014must accompany investments in technology[1]. Civic tech without this broader civic infrastructure is technology without context, likely to fail regardless of technical quality.\n\n## Conclusion: Learning from Failure to Build Better Civic Systems\n\nThe failures and pitfalls of civic technology offer crucial lessons for those seeking to strengthen democratic participation and governance through technology. From Jumo's venture-backed collapse to Ushahidi's unfulfilled potential, from e-voting disasters to the abandonment of platforms that left communities with orphaned data, the pattern is clear: technology alone cannot build democratic capacity. Technology embedded within institutions that lack trust, that do not maintain systems, that do not measure impact, that do not address equity, and that do not build on existing relationships will fail regardless of technical merit.\n\nThe most important lesson is humility about what technology can accomplish. Civic tech works best not as a substitute for the difficult human work of building trust, organizing communities, and creating institutional change, but as a tool to support and amplify that work[17]. The strongest civic tech initiatives are those that understand they are embedded within broader civic ecosystems, that design for sustainability from inception, that involve communities in design processes, that measure impact honestly and learn from failures, and that remain flexible enough to adapt as circumstances change[17].\n\nThe path forward requires the civic tech field to mature beyond its early idealism about what technology can accomplish, acknowledge the failures that have occurred, learn from them systematically, and rebuild on sounder foundations. This means fewer grandiose platforms designed to revolutionize governance, and more modest tools designed to support and strengthen existing civic institutions and practices. It means less emphasis on reaching millions of users, and more focus on genuinely serving communities that need support. It means sustainability and maintenance as fundamental design requirements, not afterthoughts. And it means recognizing that the most significant obstacles to effective civic technology are not technical, but social, political, and institutional. Only by addressing those deeper challenges can civic technology realize its democratic potential."
+      },
+      "delta": {
+        "role": "assistant",
+        "content": ""
+      },
+      "finish_reason": "stop"
+    }
+  ]
+}

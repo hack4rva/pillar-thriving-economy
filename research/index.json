@@ -1,0 +1,359 @@
+[
+  {
+    "id": "00_pillar_summary_context",
+    "section": "context",
+    "title": "Pillar Summary Context",
+    "summary": "Richmond's small business support infrastructure is fragmented across OMBD, RVA Business Portal, and nonprofit partners, creating navigation barriers for entrepreneurs and contractors seeking to establish or grow businesses. The city lacks a coordinated front door for business formation questions, forcing users to discover services through scattered information channels.",
+    "key_terms": ["OMBD", "RVA Business Portal", "minority-owned businesses", "fragmented information", "business formation", "service discovery"]
+  },
+  {
+    "id": "01_master_research_prompt",
+    "section": "context",
+    "title": "Master Research Prompt",
+    "summary": "Evidence-based software opportunities aligned with Mayor's Action Plan Pillars 4 (thriving economy) and 7 (civic infrastructure) should address information access, navigation, and coordination barriers in small business formation and government contracting. The research foundation prioritizes user problems over technical sophistication and emphasizes responsible deployment of civic technology.",
+    "key_terms": ["Mayor's Action Plan", "Pillars 4 and 7", "evidence-based", "user problems", "civic technology", "small business"]
+  },
+  {
+    "id": "90_top_10_research_questions",
+    "section": "cross-cutting",
+    "title": "Top 10 Research Questions",
+    "summary": "Key research questions focus on understanding Richmond's contracting information ecosystem, barriers to MBE participation, availability of support infrastructure, and sufficiency of public data for civic technology solutions. Questions examine both information availability and user awareness of existing services.",
+    "key_terms": ["contracting information", "MBE barriers", "support infrastructure", "public data sufficiency", "service awareness", "information gaps"]
+  },
+  {
+    "id": "91_top_10_hypotheses_to_test",
+    "section": "cross-cutting",
+    "title": "Top 10 Hypotheses to Test",
+    "summary": "Testable hypotheses address how information presentation, plain language explanations, and public data availability influence user navigation and contracting success. Hypotheses prioritize navigation confusion and information clarity as primary friction points in business and contracting workflows.",
+    "key_terms": ["information presentation", "plain language", "navigation confusion", "public data", "clarity hypothesis", "user mental models"]
+  },
+  {
+    "id": "92_red_flags",
+    "section": "cross-cutting",
+    "title": "Red Flags",
+    "summary": "Persistent disparities in MBE contracting utilization, lack of documented staff knowledge, and unsustainable support infrastructure represent critical red flags suggesting systemic rather than informational barriers. Documentation gaps and institutional fragility create risks for any technology-dependent solution.",
+    "key_terms": ["disparities", "staff knowledge gaps", "institutional fragility", "sustainability risks", "undocumented processes", "single points of failure"]
+  },
+  {
+    "id": "93_missing_information_gaps",
+    "section": "cross-cutting",
+    "title": "Missing Information Gaps",
+    "summary": "Critical gaps exist in institutional continuity, technical infrastructure, stakeholder documentation, and regulatory navigation guidance across city and state agencies. These gaps expose risks of institutional dependence and create uncertainty in business formation pathways.",
+    "key_terms": ["institutional continuity", "technical infrastructure gaps", "stakeholder documentation", "regulatory navigation", "uncertainty", "process dependencies"]
+  },
+  {
+    "id": "A1_problem_landscape_mbe_contracting",
+    "section": "A",
+    "title": "Problem Landscape: MBE Contracting",
+    "summary": "MBE contracting in Richmond faces documented disparity (3.43% utilization vs 17.93% availability) rooted in information asymmetries, contracting vehicle confusion, and access barriers to bid opportunities. Systemic factors including SWaM certification complexity and fragmented procurement information create friction beyond simple awareness.",
+    "key_terms": ["MBE contracting", "disparity study", "3.43% utilization", "SWaM certification", "bid opportunities", "contracting vehicles"]
+  },
+  {
+    "id": "A2_problem_landscape_small_business_journey",
+    "section": "A",
+    "title": "Problem Landscape: Small Business Journey",
+    "summary": "Small business formation in Richmond requires navigation across fragmented city, state, and federal regulatory requirements with unclear sequencing and interdependencies. Certificate of Zoning Compliance prerequisites and business registration steps create confusion due to undocumented process relationships.",
+    "key_terms": ["business formation", "regulatory fragmentation", "Certificate of Zoning Compliance", "interdependencies", "business registration", "sequencing confusion"]
+  },
+  {
+    "id": "A3_problem_landscape_compare_targeted",
+    "section": "A",
+    "title": "Problem Landscape: Evaluation Framework",
+    "summary": "An evaluation framework for problem statement readiness examines urgency, buildability, information quality, and user pain to distinguish genuine opportunities from assumed problems. The framework prioritizes evidence-based problem validation over intuition.",
+    "key_terms": ["problem validation", "urgency assessment", "buildability", "information quality", "user pain", "evaluation framework"]
+  },
+  {
+    "id": "A4_problem_landscape_problem_types",
+    "section": "A",
+    "title": "Problem Landscape: Problem Types Classification",
+    "summary": "Business and contracting problems can be classified as information-access problems, navigation problems, interpretation problems, or institutional process problems, each requiring different solution approaches. Classification prevents misapplication of solutions to wrong problem types.",
+    "key_terms": ["information-access problems", "navigation problems", "interpretation problems", "institutional process problems", "problem classification", "solution design"]
+  },
+  {
+    "id": "A5_problem_landscape_root_causes",
+    "section": "A",
+    "title": "Problem Landscape: Root Causes",
+    "summary": "Five primary root cause categories underlie business and contracting difficulties: lack of data, lack of clarity, lack of sequence, lack of confidence, and lack of trusted front door. These categories enable precise problem diagnosis and targeted solution design.",
+    "key_terms": ["lack of data", "lack of clarity", "lack of sequence", "lack of confidence", "lack of trusted front door", "root cause analysis"]
+  },
+  {
+    "id": "B1_users_personas_contracting",
+    "section": "B",
+    "title": "User Personas: Contracting",
+    "summary": "Five distinct MBE contractor personas (Marcus-specialty trade, Keisha-first-time contractor, David-specialty subcontractor, Anita-service-oriented, James-emerging construction) represent different contracting pathways with distinct information needs and pain points. Personas reveal that first-time contractors face fundamentally different barriers than established operators.",
+    "key_terms": ["MBE personas", "Marcus", "Keisha", "David", "Anita", "James", "first-time contractor"]
+  },
+  {
+    "id": "B2_users_personas_setup",
+    "section": "B",
+    "title": "User Personas: Business Setup",
+    "summary": "Primary small business formation personas like Sarah Chen (home-based service provider) face recurring questions about business structure, pricing strategy, credibility establishment, and growth pathways. Persona analysis reveals patterns in information-seeking behavior and decision points.",
+    "key_terms": ["Sarah Chen", "home-based business", "business structure", "pricing strategy", "credibility", "growth pathways"]
+  },
+  {
+    "id": "B3_users_stakeholders_map",
+    "section": "B",
+    "title": "User Stakeholders: Map",
+    "summary": "Comprehensive institutional actor mapping identifies stakeholders across Mayor's Action Plan pillars including city departments, nonprofit partners, educational institutions, and workforce development entities. Stakeholder interdependencies and influence networks shape service delivery and information architecture.",
+    "key_terms": ["stakeholder map", "institutional actors", "city departments", "nonprofit partners", "workforce development", "interdependencies"]
+  },
+  {
+    "id": "B4_users_stakeholder_priorities",
+    "section": "B",
+    "title": "User Stakeholders: Priorities",
+    "summary": "Stakeholder priority analysis reveals constituencies prioritize reduced staff burden, improved public information, increased MBE participation, fewer abandoned registrations, and better process sequencing. Priorities reveal tension between different stakeholder groups requiring design tradeoffs.",
+    "key_terms": ["staff burden reduction", "public information", "MBE participation", "abandoned registrations", "process sequencing", "stakeholder tension"]
+  },
+  {
+    "id": "B5_users_staff_knowledge",
+    "section": "B",
+    "title": "User Staff Knowledge",
+    "summary": "Approximately 80% of organizational knowledge about business processes exists tacitly in staff practitioners rather than formal documentation, creating institutional fragility and public access barriers. This knowledge asymmetry represents both a critical constraint and opportunity for technology-enabled documentation.",
+    "key_terms": ["tacit knowledge", "staff practitioners", "80% tacit", "undocumented processes", "knowledge asymmetry", "institutional fragility"]
+  },
+  {
+    "id": "C1_services_existing_landscape",
+    "section": "C",
+    "title": "Services Landscape: Existing",
+    "summary": "Richmond's service landscape includes OMBD (1500 East Main St), RVA Business Portal (launched January 2025), Office of Community Wealth Building, and nonprofit partners providing fragmented business formation and contracting support. Service fragmentation creates navigation confusion despite comprehensive service availability.",
+    "key_terms": ["OMBD", "RVA Business Portal", "Office of Community Wealth Building", "nonprofit partners", "service fragmentation", "1500 East Main St"]
+  },
+  {
+    "id": "C2_services_contracting_support",
+    "section": "C",
+    "title": "Services Landscape: Contracting Support",
+    "summary": "Virginia state-level SWaM certification and SBSD programs integrate with Richmond-specific services including OMBD vendor registration, OpenGov platform, and BidNet Direct. Multi-layered service ecosystem creates complexity in understanding available pathways and requirements.",
+    "key_terms": ["SWaM certification", "SBSD programs", "OMBD vendor registration", "OpenGov platform", "BidNet Direct", "Virginia state programs"]
+  },
+  {
+    "id": "C3_services_front_door",
+    "section": "C",
+    "title": "Services Landscape: Front Door",
+    "summary": "Twelve primary front doors for business formation exist including RVA Business Portal (launched January 2025), Virginia Business One Stop, departmental pages, and RVA 311 system, yet no single authoritative entry point guides users effectively. Front door proliferation creates choice overload and discovery barriers.",
+    "key_terms": ["front door", "RVA Business Portal", "Virginia Business One Stop", "RVA 311", "entry points", "choice overload"]
+  },
+  {
+    "id": "C4_services_hidden_gaps",
+    "section": "C",
+    "title": "Services Landscape: Hidden Gaps",
+    "summary": "Available services remain undiscovered due to poor information architecture, administrative barriers, and fragmentation across websites and departments. Intervention invisibility phenomenon suggests problem is not service availability but user access to knowledge of services.",
+    "key_terms": ["intervention invisibility", "service discovery", "information architecture", "administrative barriers", "fragmentation", "access barriers"]
+  },
+  {
+    "id": "C5_services_duplication_risk",
+    "section": "C",
+    "title": "Services Landscape: Duplication Risk",
+    "summary": "Framework for distinguishing authentic gaps from assumed gaps in civic hackathon environments, emphasizing need for market validation before building competitive tools. Competitive landscape analysis prevents wasted effort on already-available services.",
+    "key_terms": ["duplication risk", "market validation", "authentic gaps", "assumed gaps", "competitive landscape", "hackathon environment"]
+  },
+  {
+    "id": "D1_data_inventory_contracting",
+    "section": "D",
+    "title": "Data Inventory: Contracting",
+    "summary": "Richmond procurement systems including iSupplier, OpenGov, Transparency Dashboard, and OMBD Supplier Diversity Management System provide structured data on contracts and vendors. Data availability varies by system with different access levels and update frequencies.",
+    "key_terms": ["iSupplier", "OpenGov", "Transparency Dashboard", "OMBD SDMS", "procurement systems", "vendor data"]
+  },
+  {
+    "id": "D2_data_formats_procurement",
+    "section": "D",
+    "title": "Data Inventory: Procurement Formats",
+    "summary": "Socrata platform provides API access via SODA v2.1/v3.0 endpoints and OData to Richmond's City Contracts dataset in CSV format with BOM encoding. Technical specifications enable structured data integration for application development.",
+    "key_terms": ["Socrata", "SODA v2.1", "SODA v3.0", "OData", "City Contracts dataset", "CSV format", "BOM encoding"]
+  },
+  {
+    "id": "D3_data_inventory_business_setup",
+    "section": "D",
+    "title": "Data Inventory: Business Setup",
+    "summary": "Comprehensive source inventory of municipal webpages, online portals, PDF forms, and regulatory documents exists across city and state agencies, but integration and curation remain manual. Data exists in disparate sources requiring aggregation for usable business formation guidance.",
+    "key_terms": ["municipal webpages", "online portals", "regulatory documents", "PDF forms", "city agencies", "state agencies", "manual aggregation"]
+  },
+  {
+    "id": "D4_data_structured_vs_manual",
+    "section": "D",
+    "title": "Data Inventory: Structured vs Manual",
+    "summary": "Landscape distinguishes structured data availability (APIs, financial metrics, industry classification) from unstructured manual extraction (management assessment, competitive intelligence, customer feedback). Solution feasibility depends on data structure type available.",
+    "key_terms": ["structured data", "manual extraction", "unstructured data", "APIs", "financial metrics", "industry classification"]
+  },
+  {
+    "id": "D5_data_quality_assessment",
+    "section": "D",
+    "title": "Data Inventory: Quality Assessment",
+    "summary": "Data quality evaluation across six dimensions (completeness, accuracy, timeliness, validity, consistency, uniqueness) reveals documented issues in federal statistics, open data portals, and healthcare datasets. Quality issues constrain reliability of data-driven solutions.",
+    "key_terms": ["data quality", "completeness", "accuracy", "timeliness", "validity", "consistency", "uniqueness"]
+  },
+  {
+    "id": "E1_prior_art_catalog",
+    "section": "E",
+    "title": "Prior Art: Catalog",
+    "summary": "Comparable tools catalog documents federal systems (SAM.gov, Small Business Search), municipal platforms (Accela, OpenGov, Granicus, ClearForms), and state/local portals providing reference patterns and lessons learned. Prior art analysis prevents reinvention and identifies proven design patterns.",
+    "key_terms": ["SAM.gov", "Small Business Search", "Accela", "OpenGov", "Granicus", "ClearForms", "prior art"]
+  },
+  {
+    "id": "E2_prior_art_pattern_transfer",
+    "section": "E",
+    "title": "Prior Art: Pattern Transfer",
+    "summary": "Transferability frameworks examine core components, discretionary elements, and PIET-T model for contextual fit assessment of solutions from other jurisdictions. Framework guides decisions about which patterns transfer to Richmond's specific constraints.",
+    "key_terms": ["pattern transfer", "PIET-T model", "contextual fit", "core components", "discretionary elements", "jurisdictional constraints"]
+  },
+  {
+    "id": "E3_prior_art_archetype_mapping",
+    "section": "E",
+    "title": "Prior Art: Archetype Mapping",
+    "summary": "Navigation solution archetypes include service navigators, AI-driven assistants, match tools, eligibility guides, workflow assistants, and public dashboards with different strengths in addressing distinct problem types. Archetype analysis guides solution selection.",
+    "key_terms": ["service navigators", "AI assistants", "match tools", "eligibility guides", "workflow assistants", "dashboards", "archetypes"]
+  },
+  {
+    "id": "E4_prior_art_pitfalls",
+    "section": "E",
+    "title": "Prior Art: Pitfalls",
+    "summary": "Civic tech failures including design-reality gap, Jumo collapse ($62,221 value vs $3.5M investment), Ushahidi limitations, and e-voting failures demonstrate risks of overclaiming impact and misunderstanding deployment constraints. Pitfall analysis informs risk mitigation.",
+    "key_terms": ["design-reality gap", "Jumo collapse", "$3.5M investment", "Ushahidi", "e-voting failures", "overclaiming", "deployment constraints"]
+  },
+  {
+    "id": "E5_prior_art_weekend_viability",
+    "section": "E",
+    "title": "Prior Art: Weekend Viability",
+    "summary": "Patterns for 48-hour rapid prototyping including 48-hour sprint framework, microteam composition, prototype design pattern, self-service automation, and event-driven architecture. Viability patterns guide realistic hackathon project scoping.",
+    "key_terms": ["48-hour sprint", "rapid prototyping", "microteam", "prototype design", "self-service automation", "event-driven", "weekend viability"]
+  },
+  {
+    "id": "F1_opportunity_spaces_ranked",
+    "section": "F",
+    "title": "Opportunity Spaces: Ranked",
+    "summary": "High-value software opportunities identified through research include healthcare data integration, financial services modernization, supply chain visibility, predictive maintenance, and government digital transformation. Ranking framework prioritizes feasibility and user impact.",
+    "key_terms": ["healthcare integration", "financial services", "supply chain visibility", "predictive maintenance", "digital transformation", "opportunity ranking"]
+  },
+  {
+    "id": "F2_opportunity_mbe_framing",
+    "section": "F",
+    "title": "Opportunity Spaces: MBE Framing",
+    "summary": "Optimal framing for MBE contracting opportunities recommends proactive alerting integrated with guided next steps, with plain-language interpretation as secondary layer. Framing prioritizes action enablement over information display.",
+    "key_terms": ["MBE opportunities", "proactive alerting", "guided next steps", "plain-language interpretation", "action enablement", "opportunity framing"]
+  },
+  {
+    "id": "F3_opportunity_setup_framing",
+    "section": "F",
+    "title": "Opportunity Spaces: Setup Framing",
+    "summary": "Seven framing approaches for small business navigation evaluated with hybrid guided intake combined with embedded decision trees recommended as optimal. Framing analysis balances structure with flexibility for diverse user needs.",
+    "key_terms": ["business navigation", "guided intake", "decision trees", "hybrid approach", "setup framing", "user flexibility"]
+  },
+  {
+    "id": "F4_opportunity_where_software_helps",
+    "section": "F",
+    "title": "Opportunity Spaces: Where Software Helps",
+    "summary": "Software genuinely solves problems including scattered information consolidation, coordination at scale, cognitive load reduction, version/audit tracking, feedback loop latency, pattern spotting in noise, and reliable workflow sequencing. Software cannot fix misaligned incentives, undefined processes, trust gaps, or resource scarcity.",
+    "key_terms": ["information consolidation", "coordination", "cognitive load", "version tracking", "pattern spotting", "workflow sequencing"]
+  },
+  {
+    "id": "F5_opportunity_do_not_build",
+    "section": "F",
+    "title": "Opportunity Spaces: Do Not Build",
+    "summary": "Strategic do-not-build list identifies initiatives exceeding organizational authority including regulatory compliance determinations, third-party data integration without permission, and unvalidated security/performance claims. Boundaries prevent overreach and liability.",
+    "key_terms": ["do not build", "regulatory compliance", "authority limits", "third-party data", "unvalidated claims", "organizational boundaries"]
+  },
+  {
+    "id": "G1_risks_ai_heavy",
+    "section": "G",
+    "title": "Risks: AI-Heavy Solutions",
+    "summary": "Critical risks in AI-heavy tools include hallucinations producing plausible-sounding false information, misleading eligibility advice with false confidence, stale data and model drift, and overclaiming prototype capabilities. AI risks compound accuracy and trust concerns in civic contexts.",
+    "key_terms": ["hallucinations", "false confidence", "model drift", "stale data", "overclaiming", "AI risks"]
+  },
+  {
+    "id": "G2_risks_harm_cases",
+    "section": "G",
+    "title": "Risks: Harm Cases",
+    "summary": "Documented harm cases from AI systems include legal hallucinations inventing case citations, healthcare diagnostic models perpetuating racial bias, and insurance claim denials without clear explanation. Real-world failures demonstrate concrete risks of unguarded AI deployment.",
+    "key_terms": ["legal hallucinations", "racial bias", "diagnostic models", "insurance denials", "harm cases", "documented failures"]
+  },
+  {
+    "id": "G3_risks_inclusion_accessibility",
+    "section": "G",
+    "title": "Risks: Inclusion & Accessibility",
+    "summary": "Inclusion and accessibility risks in digital solutions include digital literacy disparities (97% broadband access for white businesses vs 88% for BIPOC) and barriers for underserved populations. Technology solutions risk deepening existing inequities without deliberate accessibility design.",
+    "key_terms": ["digital literacy", "broadband access", "97% vs 88%", "BIPOC barriers", "accessibility", "equity risks"]
+  },
+  {
+    "id": "G4_risks_matching_bias",
+    "section": "G",
+    "title": "Risks: Matching Bias",
+    "summary": "Algorithmic matching systems risk reinforcing existing competitive patterns, inadvertently favoring established businesses, and lacking transparency in matching logic. Matching bias analysis demonstrates how optimization can amplify inequality.",
+    "key_terms": ["algorithmic bias", "matching systems", "competitive patterns", "established businesses", "transparency gaps", "inequality amplification"]
+  },
+  {
+    "id": "G5_risks_practical_guardrails",
+    "section": "G",
+    "title": "Risks: Practical Guardrails",
+    "summary": "Practical safeguards for civic technology include human-in-the-loop decision frameworks, confidence score calibration, explicit uncertainty signaling, and bias detection strategies. Guardrails enable responsible AI deployment in high-stakes contexts.",
+    "key_terms": ["human-in-the-loop", "confidence calibration", "uncertainty signaling", "bias detection", "guardrails", "responsible AI"]
+  },
+  {
+    "id": "H1_mvp_feasibility_shape",
+    "section": "H",
+    "title": "MVP Feasibility: Shape",
+    "summary": "Credible 48-hour MVP framework accommodates realistic constraints with 30-36 hours productive development available, distinguishing must-have functional components from acceptable mocked elements. Feasibility framework prevents overscoping and enables realistic goal-setting.",
+    "key_terms": ["48-hour MVP", "30-36 hours development", "must-have components", "mocked elements", "realistic constraints", "feasibility"]
+  },
+  {
+    "id": "H2_mvp_mbe_public_data",
+    "section": "H",
+    "title": "MVP Feasibility: MBE Public Data",
+    "summary": "MVP feasibility for MBE procurement opportunity uses public data (Richmond contracts dataset, Virginia Business Opportunities, OMBD resources) without requiring system integration. Public data availability enables rapid prototyping without external dependencies.",
+    "key_terms": ["Richmond contracts", "Virginia Business Opportunities", "OMBD resources", "public data", "system integration", "rapid prototyping"]
+  },
+  {
+    "id": "H3_mvp_setup_rule_based",
+    "section": "H",
+    "title": "MVP Feasibility: Setup Rule-Based",
+    "summary": "MVP feasibility for business setup navigation operates using rule-based logic and decision trees applied to public business formation information. Rule-based approach avoids AI complexity while addressing navigation and sequencing problems.",
+    "key_terms": ["rule-based logic", "decision trees", "business formation", "public information", "setup navigation", "deterministic logic"]
+  },
+  {
+    "id": "H4_mvp_minimums",
+    "section": "H",
+    "title": "MVP Feasibility: Minimums",
+    "summary": "Minimum viable product definition identifies core value loops, ruthless prioritization of single hypothesis validation, and acceptance of manual workarounds. MVP minimums focus development on validating one specific user value claim.",
+    "key_terms": ["core value loop", "single hypothesis", "manual workarounds", "ruthless prioritization", "MVP minimum", "value validation"]
+  },
+  {
+    "id": "H5_mvp_scope_boundaries",
+    "section": "H",
+    "title": "MVP Feasibility: Scope Boundaries",
+    "summary": "Scope boundaries framework for 48-hour MVPs defines target user segment, specific pain point, measurable outcome, and minimum viable path from awareness to value achievement. Boundaries discipline prevent feature creep and enable completion.",
+    "key_terms": ["scope boundaries", "target user", "specific pain point", "measurable outcome", "MVP path", "feature discipline"]
+  },
+  {
+    "id": "I1_demo_judging_easiest",
+    "section": "I",
+    "title": "Demo Judging: Easiest",
+    "summary": "Project archetypes demonstrate varying demo clarity with Paint-by-Numbers projects showing maximum clarity due to predictability, Film projects showing good clarity with clear vision, and Fog projects presenting significant communication challenges. Archetype analysis guides project selection for demo effectiveness.",
+    "key_terms": ["Paint-by-Numbers", "Film projects", "Fog projects", "demo clarity", "project archetypes", "visual predictability"]
+  },
+  {
+    "id": "I2_demo_evidence_of_credibility",
+    "section": "I",
+    "title": "Demo Judging: Credibility Evidence",
+    "summary": "Evidence building for credibility includes past performance documentation, quantified user impact metrics, third-party validation, and risk management documentation. Credibility evidence transforms prototype claims into verifiable assertions.",
+    "key_terms": ["past performance", "impact metrics", "third-party validation", "risk management", "credibility evidence", "verifiable assertions"]
+  },
+  {
+    "id": "I3_demo_prove_usefulness",
+    "section": "I",
+    "title": "Demo Judging: Prove Usefulness",
+    "summary": "Demonstration strategies for proving usefulness include working prototypes, user test results, competitive comparison, and adoption metrics. Usefulness proof moves beyond feature demonstration to impact evidence.",
+    "key_terms": ["working prototype", "user testing", "competitive comparison", "adoption metrics", "usefulness proof", "impact evidence"]
+  },
+  {
+    "id": "I4_demo_best_archetypes",
+    "section": "I",
+    "title": "Demo Judging: Best Archetypes",
+    "summary": "Paint-by-Numbers and Film projects demonstrate most effectively in competitions due to superior demo clarity compared to Fog and Quest projects. Archetype selection directly impacts demo communication effectiveness and judge perception.",
+    "key_terms": ["Paint-by-Numbers", "Film projects", "demo effectiveness", "judge perception", "communication clarity", "archetype selection"]
+  },
+  {
+    "id": "I5_demo_judging_framing_language",
+    "section": "I",
+    "title": "Demo Judging: Framing Language",
+    "summary": "Framing language for demos emphasizes user problems, realistic scope, evidence of progress, and honest assessment of remaining work. Framing discipline builds judge confidence through transparent communication rather than overclaiming.",
+    "key_terms": ["user problems", "realistic scope", "evidence of progress", "honest assessment", "framing language", "transparent communication"]
+  }
+]
