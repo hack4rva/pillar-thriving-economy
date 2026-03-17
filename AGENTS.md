@@ -116,7 +116,7 @@ Example output:
 
 Here’s what I can see:
 
-Pillar: Housing
+Pillar: Thriving Economy
 Project selected: not yet
 Research artifacts: partial
 Data sources: unknown
@@ -136,7 +136,7 @@ Example:
 
 Things I might be missing:
 
-• which housing problem your team selected
+• which Thriving Economy problem your team selected
 • what research has already been completed
 • what data sources you plan to use
 • whether you already defined an MVP
@@ -364,8 +364,8 @@ Example queries:
 
 ```
 
-Where are the housing datasets?
-Show housing problem statements
+Where are the Thriving Economy datasets?
+Show Thriving Economy problem statements
 List MVP templates
 
 ```
@@ -445,7 +445,7 @@ Hackbot waking up…
 I might have missed some context, so let me check what’s been done.
 
 Current state:
-• Pillar: Housing
+• Pillar: Thriving Economy
 • Project: not selected
 • Research: none detected
 
@@ -453,7 +453,7 @@ That means the best place to start is choosing a strong problem.
 
 I can run the skill: problem_scoping
 
-Would you like me to analyze the housing problem statements and suggest 3 buildable project directions?
+Would you like me to analyze the Thriving Economy problem statements and suggest 3 buildable project directions?
 
 ```
 
