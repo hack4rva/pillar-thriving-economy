@@ -16,7 +16,7 @@ Purpose: Map order of operations and divergent rules by business type.
 | 4 | Sector-specific approvals as needed (Health / ABC / DPOR contractor license) | See branches below |
 | 5 | Register for state taxes with VA Dept of Taxation (sales tax, withholding, etc.) | [Virginia Tax — Register a Business](https://www.tax.virginia.gov/register-business) |
 | 6 | Apply for BPOL license via RVA Business Portal | [E-007] https://rvapay.rva.gov/bpp |
-| 7 | Check new-business incentive — $30 flat fee for first 2 years (qualifying businesses) | [E-008] https://www.rva.gov/finance/bpol-exemption-program |
+| 7 | Check new-business incentive — $30 flat fee for first 2 years (qualifying businesses) | [E-008] https://www.rva.gov/finance/bpol-exemption (corrected 2026-03-18) |
 
 > **Note:** City Zoning Administration must verify a valid CZC before BPOL renewal can be processed. Step 3 is effectively a prerequisite for Step 6.
 
@@ -60,7 +60,7 @@ These steps cannot be reliably automated and should direct users to staff or off
 - Zoning use interpretation for a specific address
 - Variance / BZA pathways and timelines
 - Complex assembly uses and shared kitchen arrangements
-- iSupplier document checklist specifics (W-9, ACH/EDI, voided check — confirm current requirements with City Procurement)
+- iSupplier document checklist: confirmed = W-9 + ACH/EDI Payment Agreement + voided check/bank document (corrected 2026-03-18)
 - BPOL calculation edge cases (contractors, peddlers, and certain exclusions)
 
 ---

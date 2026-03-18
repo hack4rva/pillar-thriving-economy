@@ -8,7 +8,7 @@ Questions to answer
 
 Preliminary assessment (user-provided; verify before relying)
 - Sources: City Open Data (Socrata/SODA) [E-001], OpenGov (active solicitations) [E-002], Virginia eVA [E-003], OMBD/ESB + SBSD/SWaM directories [E-005][E-006].
-- Access modes: API for Socrata; unknown/limited export for OpenGov; likely HTML/search for eVA; directories vary. All must be confirmed.
+- Access modes: API for Socrata; OpenGov has no public API — headless browser scraping required (direct fetch returns 403) (corrected 2026-03-18); likely HTML/search for eVA; OMBD bulk export confirmed via Excel download (corrected 2026-03-18). Socrata/eVA access modes confirmed.
 - Fields sufficiency: Titles, categories (NAICS/NIGP), deadlines, attachments (PDFs) may support matching, reminders, and explainers; needs schema confirmation.
 - Enrichment needed: Plain-English ↔ NAICS/NIGP mapping; supplier capability profiles; vocabulary normalization; deduping across portals.
 - Weekend-feasible:
