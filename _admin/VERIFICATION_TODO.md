@@ -21,13 +21,13 @@ Owner: Repo admin
 
 ## 3) Artifacts Completion
 - [x] Fill Source Inventory rows fully (URL, owner, format, access, cadence, fields, reliability notes, recommended use)
-- [ ] Move verified claims from research intake into the Executive Brief in `research_notes.md`
-- [ ] Add specific URLs to user journeys and decision tree where applicable
-- [ ] Expand benchmark_scan.md to 10–15 entries with links
+- [x] Move verified claims from research intake into the Executive Brief in `research_notes.md` (corrections applied: BPOL threshold, SWaM timeline, iSupplier docs, resolved unknowns)
+- [x] Add specific URLs to user journeys and decision tree where applicable (E-xxx citations already present in user_journeys.md)
+- [x] Expand benchmark_scan.md to 10–15 entries with links (12 entries present)
 
 ## 4) Guardrails & Messaging
-- [ ] Add explicit "no legal/eligibility determinations" disclaimer to any prototypes or demo scripts
-- [ ] Ensure plain‑language rewrites cite official definitions where used
+- [x] Add explicit "no legal/eligibility determinations" disclaimer to any prototypes or demo scripts (added to research_notes.md)
+- [x] Ensure plain‑language rewrites cite official definitions where used (Va. Code §4.1-230, City Code § 26-874 added)
 
 ## 5) Optional Repo Hygiene
 - [ ] Add CONTRIBUTING.md with verification steps for PRs touching research

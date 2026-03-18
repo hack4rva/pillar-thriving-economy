@@ -9,7 +9,8 @@ Status: seeded with incoming research content; verification pending. All claims 
 - Weekend buildability: **High** — two scored problem statements (26/32 and 24/32); clear MVP shapes exist; real friction points with real public data
 - Prototype value likelihood: **High** — genuine user pain (MBE contractors can't find relevant solicitations; entrepreneurs don't know the sequence of steps); software can meaningfully reduce that friction
 - Continuation likelihood: **Moderate** — no departmental champion named yet; OMBD and City Procurement are natural post-event partners; SWaM/OMBD portal is active infrastructure to build on
-- Biggest unknowns: OpenGov export format (API vs. HTML-only scrape); exact iSupplier document checklist (W-9, ACH/EDI, voided check — unconfirmed); OMBD directory field completeness for NAICS/NIGP matching
+- Biggest unknowns: OpenGov — no public API confirmed; headless browser scraping required (direct fetch returns 403); OMBD directory NAICS/NIGP field completeness for automated code matching (bulk Excel export confirmed, field-level coverage unverified)
+- Resolved unknowns: iSupplier docs confirmed = W-9 + ACH/EDI Payment Agreement + voided check/bank document; OMBD bulk Excel download confirmed; BPOL exemption URL corrected to `/finance/bpol-exemption`; ABC PDF URL corrected to `/pdfs/val/retail-license-application.pdf`; SWaM processing time = ~60 business days (not 30–60)
 
 ## 2) Source Inventory
 - See `02_data/source_inventory.csv` (seeded) and add/verify rows as we validate sources.
@@ -96,7 +97,7 @@ Certification Type | Authority | Processing Time | Primary Benefit
 --- | --- | --- | ---
 MBE (City) | OMBD | 24–48 hrs (Reg) / 30 days (Cert) | Access to city contracts with set-aside goals
 ESB (City) | OMBD | 24–48 hrs (Reg) / 30 days (Cert) | Recognition as an emerging small firm in city bids
-SWaM (State) | SBSD | Varies; typically ~30–60 days | Access to state-level procurement and regional projects
+SWaM (State) | SBSD | ~60 business days [E-006] | Access to state-level procurement and regional projects
 DBE (Federal) | SBSD | Varies | Participation in federally funded transportation projects
 
 ### Small Business Navigation: The Regulatory Labyrinth
@@ -122,11 +123,11 @@ If a property does not meet the strict zoning requirements—such as those regar
 
 The Business, Professional, and Occupational License (BPOL) tax is a tax on a company's gross receipts. For new businesses, the tax is based on an estimation of receipts for the first year, followed by a "Beginner's Adjustment" once actual figures are known.
 
-Revenue Threshold | Fee / Tax Rate
---- | ---
-Gross Receipts ≤ $5,000 | 0 + Flat Rate Fees
-$5,001 < Gross Receipts ≤ $250,000 | $30 + Flat Rate Fees
-Gross Receipts > $250,000 | Gross Receipts × Business Type Rate
+Revenue Threshold | Fee / Tax Rate | Notes
+--- | --- | ---
+Gross Receipts ≤ $5,000 | 0 + Flat Rate Fees | –
+$5,001 < Gross Receipts ≤ $500,000 | $30 flat fee | Threshold doubled to $500K via ORD 2024-187 (effective 2026) [E-007]
+Gross Receipts > $500,000 | Gross Receipts × Business Type Rate | –
 
 In January 2025, the City launched the RVA Business Portal, which replaces the manual paper filing process for Business Personal Property (BPP) and BPOL licenses. While this portal aims to simplify the process, it requires businesses to have their Federal EIN and a City business account ID to register. The shift to a "no paper" option for 2025 filing mandates digital participation, highlighting the need for hackathon solutions that provide bridge support for those with limited digital literacy.
 
@@ -213,6 +214,13 @@ Health Permit Renewal | Annually | Inability to operate
 
 ---
 
+**Prototype Disclaimer (required in any team build):** *"This tool provides general information and links to official resources. It does not provide legal advice or determine eligibility. For official determinations, consult the City of Richmond, Virginia ABC, VDH, SBSD, or your legal counsel."*
+
+Pair every plain-language summary with an official definition link: ABC → Va. Code §4.1-230; BPOL exemption → City Code § 26-874; SWaM → sbsd.virginia.gov/certification-division/faqs/
+
+---
+
 Notes:
-- All content above is user-provided research awaiting verification. Do not present claims as facts without a checked citation in `evidence_log.md`.
+- Web verification pass completed 2026-03-18 (Parallel.ai `pro` processor). E-001 through E-010 confirmed against primary sources; key corrections applied above.
+- All content in "Unverified Research Intake" section below reflects seeded research; claims marked with [E-xxx] are verified; others should be validated before reuse.
 
