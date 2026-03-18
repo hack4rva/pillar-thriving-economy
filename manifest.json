@@ -1,0 +1,614 @@
+{
+  "corpus": {
+    "pillar": "thriving-economy",
+    "title": "Thriving Economy Pillar — Richmond Civic Hackathon",
+    "description": "Research corpus on Richmond's economic opportunity problem space: MBE contracting access, small business formation navigation, and workforce pathways.",
+    "research_index": "research/index.json",
+    "corpus_guide": "CORPUS_GUIDE.md",
+    "agents_spec": "AGENTS.md",
+    "maintenance_guide": "MAINTENANCE.md",
+    "generated": "2026-03-18"
+  },
+  "files": [
+
+    {
+      "id": "root/README",
+      "path": "README.md",
+      "type": "nav_file",
+      "title": "Thriving Economy Pillar — Main Entry Point",
+      "pillar": "thriving-economy",
+      "summary": "Primary entry point for hackathon teams. Covers the three core questions, decision phases (0–9), guardrails, repo map, and Hackbot introduction. Read first for orientation.",
+      "tags": ["entry-point", "decision-phases", "guardrails", "orientation", "hackathon"],
+      "recommended_audience": ["all teams", "first-time visitors", "AI agents starting a session"],
+      "read_after": [],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "root/QUICKSTART",
+      "path": "QUICKSTART.md",
+      "type": "nav_file",
+      "title": "Quick Start — 6-Step Minimal Path",
+      "pillar": "thriving-economy",
+      "summary": "Six-step minimal path from landing to MVP scope. Prioritized for teams with 30 minutes or less before they need to make decisions.",
+      "tags": ["quickstart", "minimal-path", "mvp", "orientation"],
+      "recommended_audience": ["teams with limited time", "teams that need a clear starting point"],
+      "read_after": ["README.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "root/AGENTS",
+      "path": "AGENTS.md",
+      "type": "agent_spec",
+      "title": "Hackbot Agent Specification",
+      "pillar": "thriving-economy",
+      "summary": "Full specification for Hackbot: personality, boot sequence, skill system, research corpus navigation instructions, guardrails, and decision logic. AI agents should read this before acting.",
+      "tags": ["hackbot", "agent-spec", "skills", "boot-sequence", "research-corpus-navigation"],
+      "recommended_audience": ["AI agents", "developers building on Hackbot"],
+      "read_after": [],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "root/CORPUS_GUIDE",
+      "path": "CORPUS_GUIDE.md",
+      "type": "nav_file",
+      "title": "Research Corpus Guide",
+      "pillar": "thriving-economy",
+      "summary": "Self-describing guide for humans and AI agents on how to navigate and use the research corpus. Covers canonical source of truth hierarchy, section structure, navigation decision tree, and agent behavior requirements.",
+      "tags": ["corpus-guide", "navigation", "agent-behavior", "retrieval", "architecture"],
+      "recommended_audience": ["AI agents", "researchers", "hackathon participants unfamiliar with the corpus"],
+      "read_after": ["README.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "root/MAINTENANCE",
+      "path": "MAINTENANCE.md",
+      "type": "maintenance_guide",
+      "title": "Maintenance Guide",
+      "pillar": "thriving-economy",
+      "summary": "Instructions for adding, updating, and synchronizing research reports, metadata, indexes, and navigation files. Required reading before modifying the corpus structure.",
+      "tags": ["maintenance", "adding-reports", "metadata", "synchronization"],
+      "recommended_audience": ["corpus maintainers", "pillar coordinators", "AI agents tasked with corpus updates"],
+      "read_after": ["CORPUS_GUIDE.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "root/HACKBOT_BOOT_PROMPT",
+      "path": "HACKBOT_BOOT_PROMPT.md",
+      "type": "agent_spec",
+      "title": "Hackbot Boot Prompt",
+      "pillar": "thriving-economy",
+      "summary": "Initialization prompt for Hackbot. Contains the condensed boot sequence and initial framing for AI agent sessions.",
+      "tags": ["hackbot", "boot-prompt", "agent-initialization"],
+      "recommended_audience": ["AI agents initializing a session"],
+      "read_after": ["AGENTS.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "root/CLAUDE_MD",
+      "path": "CLAUDE.md",
+      "type": "agent_spec",
+      "title": "Claude Role Definition",
+      "pillar": "thriving-economy",
+      "summary": "Role and operating rules for Claude AI in this repository: civic research guide, Socratic coach, MVP advisor. Defines what Claude should and should not do, preferred and weak solution patterns, and the default task sequence.",
+      "tags": ["claude", "role-definition", "operating-rules", "guardrails"],
+      "recommended_audience": ["Claude AI agents"],
+      "read_after": [],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "core/pillar_overview",
+      "path": "00_core/00_pillar_overview.md",
+      "type": "core_doc",
+      "title": "Pillar Overview",
+      "pillar": "thriving-economy",
+      "summary": "Overview of the Thriving Economy pillar problem space: equitable contracting access, small business navigation, workforce pathways, and entrepreneurship support. Foundational context for all research.",
+      "tags": ["pillar-overview", "problem-space", "mbe-contracting", "small-business", "workforce"],
+      "recommended_audience": ["all teams", "orientation phase"],
+      "read_after": ["README.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "core/map_alignment",
+      "path": "00_core/01_map_alignment.md",
+      "type": "core_doc",
+      "title": "MAP Alignment",
+      "pillar": "thriving-economy",
+      "summary": "Alignment of this pillar with the Mayor's Action Plan (MAP) Pillars 4 and 7. Explains the civic and strategic context for hackathon solutions.",
+      "tags": ["map", "mayors-action-plan", "strategic-alignment", "civic-context"],
+      "recommended_audience": ["teams needing policy context", "demo presentations"],
+      "read_after": ["00_core/00_pillar_overview.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "problem_space/bluesky",
+      "path": "01_problem_space/01_bluesky_problem_statements.md",
+      "type": "problem_statement",
+      "title": "Blue-Sky Problem Statements",
+      "pillar": "thriving-economy",
+      "summary": "Broad, unconstrained problem statements for exploratory ideation. Use for teams still in orientation and wanting a wide problem canvas before narrowing.",
+      "tags": ["problem-statements", "bluesky", "ideation", "exploration"],
+      "recommended_audience": ["teams in orientation phase", "teams still choosing a problem"],
+      "read_after": ["00_core/00_pillar_overview.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "problem_space/targeted",
+      "path": "01_problem_space/02_targeted_problem_statements.md",
+      "type": "problem_statement",
+      "title": "Targeted Problem Statements (Scored)",
+      "pillar": "thriving-economy",
+      "summary": "Two scored, rubric-evaluated problem statements ready for hackathon selection: MBE Contracting (26/32) and Small Business Navigation (24/32). Includes rubric dimensions: clarity, scope, data readiness, champion, population impact, operating environment, success criteria, accessibility.",
+      "tags": ["problem-statements", "scored", "mbe-contracting", "small-business-navigation", "rubric"],
+      "recommended_audience": ["all teams choosing a problem", "Phase 2"],
+      "read_after": ["01_problem_space/01_bluesky_problem_statements.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "data/index",
+      "path": "02_data/00_index.md",
+      "type": "data_file",
+      "title": "Data Index",
+      "pillar": "thriving-economy",
+      "summary": "Index of available data sources for the Thriving Economy pillar. Points to the source inventory CSV and explains data categories.",
+      "tags": ["data-index", "data-sources", "inventory"],
+      "recommended_audience": ["teams identifying data sources", "Phase 3"],
+      "read_after": ["01_problem_space/02_targeted_problem_statements.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "data/source_inventory",
+      "path": "02_data/source_inventory.csv",
+      "type": "data_file",
+      "title": "Source Inventory (CSV)",
+      "pillar": "thriving-economy",
+      "summary": "Structured inventory of public data sources with access mode, key fields, and notes. Primary reference for data availability. Includes Socrata API details for Richmond contracts data.",
+      "tags": ["data-sources", "csv", "socrata", "public-data", "access-modes"],
+      "recommended_audience": ["developers", "data researchers", "teams building data-dependent MVPs"],
+      "read_after": ["02_data/00_index.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "artifacts/research_notes",
+      "path": "03_artifacts/research_notes.md",
+      "type": "synthesized_artifact",
+      "title": "Research Notes — Executive Brief",
+      "pillar": "thriving-economy",
+      "summary": "Primary synthesized artifact: executive brief plus full research synthesis promoted from verified evidence. The best single document for teams needing comprehensive findings quickly. 21+ KB of findings.",
+      "tags": ["executive-brief", "synthesis", "findings", "comprehensive"],
+      "recommended_audience": ["teams with 30–60 minutes", "anyone needing the executive summary of all research"],
+      "read_after": ["01_problem_space/02_targeted_problem_statements.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "artifacts/prototype_recommendations",
+      "path": "03_artifacts/prototype_recommendations.md",
+      "type": "synthesized_artifact",
+      "title": "Prototype Recommendations",
+      "pillar": "thriving-economy",
+      "summary": "Three seeded MVP concepts with rationale: Procurement Opportunity Translator, Small Business Setup Navigator, Trades Career Explorer. Includes recommended starting direction.",
+      "tags": ["prototype", "mvp-concepts", "recommendations", "procurement-translator", "setup-navigator"],
+      "recommended_audience": ["teams choosing an MVP direction", "Phase 4"],
+      "read_after": ["03_artifacts/research_notes.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "artifacts/user_journeys",
+      "path": "03_artifacts/user_journeys.md",
+      "type": "synthesized_artifact",
+      "title": "User Journeys",
+      "pillar": "thriving-economy",
+      "summary": "Structured journey maps for primary user personas: MBE contractor seeking city contracts, small business owner navigating formation. Useful for MVP design and demo narrative.",
+      "tags": ["user-journeys", "personas", "mbe-contractor", "small-business-owner", "ux"],
+      "recommended_audience": ["teams designing user flows", "demo preparation"],
+      "read_after": ["03_artifacts/prototype_recommendations.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "artifacts/small_business_decision_tree",
+      "path": "03_artifacts/small_business_decision_tree.md",
+      "type": "synthesized_artifact",
+      "title": "Small Business Decision Tree",
+      "pillar": "thriving-economy",
+      "summary": "Decision tree for the business formation sequence in Richmond, covering the order of steps for registration, licensing, and compliance. Directly usable as prototype content.",
+      "tags": ["decision-tree", "small-business", "formation", "registration", "licensing"],
+      "recommended_audience": ["teams building a setup navigator", "content developers"],
+      "read_after": ["03_artifacts/user_journeys.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "artifacts/mbe_data_feasibility",
+      "path": "03_artifacts/mbe_data_feasibility.md",
+      "type": "synthesized_artifact",
+      "title": "MBE Data Feasibility Assessment",
+      "pillar": "thriving-economy",
+      "summary": "Assessment of data readiness for an MBE-focused prototype: what public data exists, what is accessible via API, what gaps exist. Grounded in D section research.",
+      "tags": ["mbe", "data-feasibility", "public-data", "api", "procurement"],
+      "recommended_audience": ["teams building MBE-focused tools", "data architects"],
+      "read_after": ["02_data/source_inventory.csv"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "artifacts/benchmark_scan",
+      "path": "03_artifacts/benchmark_scan.md",
+      "type": "synthesized_artifact",
+      "title": "Benchmark Scan",
+      "pillar": "thriving-economy",
+      "summary": "Scan of comparable civic tech tools from other jurisdictions. Synthesizes E section findings on prior art: what has been built, what patterns transfer, what has failed.",
+      "tags": ["benchmarks", "prior-art", "comparable-tools", "pattern-transfer"],
+      "recommended_audience": ["teams researching what already exists", "Phase 3"],
+      "read_after": ["03_artifacts/research_notes.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "artifacts/continuation_plan",
+      "path": "03_artifacts/continuation_plan.md",
+      "type": "synthesized_artifact",
+      "title": "Continuation Plan",
+      "pillar": "thriving-economy",
+      "summary": "Post-hackathon pathways for continuing work: potential partners, institutions, and next steps for each prototype direction.",
+      "tags": ["continuation", "post-hackathon", "partners", "next-steps"],
+      "recommended_audience": ["teams planning beyond the weekend", "continuity_planner skill"],
+      "read_after": ["03_artifacts/prototype_recommendations.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "build_guides/mvp_shapes",
+      "path": "04_build_guides/01_mvp_shapes.md",
+      "type": "build_guide",
+      "title": "MVP Shapes",
+      "pillar": "thriving-economy",
+      "summary": "Five MVP archetype patterns (A–E) for Thriving Economy projects. Each shape describes user, core function, data sources, tech stack sketches, and scope boundary.",
+      "tags": ["mvp-shapes", "archetypes", "procurement-translator", "setup-navigator", "trades-explorer"],
+      "recommended_audience": ["teams choosing an MVP", "Phase 4"],
+      "read_after": ["01_problem_space/02_targeted_problem_statements.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "build_guides/architectures",
+      "path": "04_build_guides/02_recommended_architectures.md",
+      "type": "build_guide",
+      "title": "Recommended Architectures",
+      "pillar": "thriving-economy",
+      "summary": "Technical architecture sketches for each MVP shape. Includes stack recommendations, data pipeline patterns, and AI integration constraints.",
+      "tags": ["architecture", "tech-stack", "data-pipeline", "ai-constraints"],
+      "recommended_audience": ["developers", "Phase 5 and 6"],
+      "read_after": ["04_build_guides/01_mvp_shapes.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "build_guides/demo_advice",
+      "path": "04_build_guides/05_demo_advice.md",
+      "type": "build_guide",
+      "title": "Demo Advice",
+      "pillar": "thriving-economy",
+      "summary": "Structure for a 90-second demo: problem, user, flow, sources, limits, next steps. Aligned with judging criteria for civic tech hackathons.",
+      "tags": ["demo", "pitch", "judging", "90-seconds"],
+      "recommended_audience": ["all teams", "Phase 8–9"],
+      "read_after": ["research/I1_demo_judging_easiest.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "admin/deep_research_report",
+      "path": "_admin/deep-research-report.md",
+      "type": "synthesized_artifact",
+      "title": "Deep Research Report — Evidence Synthesis",
+      "pillar": "thriving-economy",
+      "summary": "Evidence-based synthesis of the full research corpus. 20.5 KB. The authoritative synthesized view of all findings with source citations. Distinct from research_notes.md in that it has stronger citation tracing.",
+      "tags": ["deep-research", "synthesis", "evidence", "citations", "authoritative"],
+      "recommended_audience": ["researchers needing the most thorough synthesis", "agents answering complex cross-cutting questions"],
+      "read_after": ["research/index.json"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "admin/evidence_log",
+      "path": "_admin/evidence_log.md",
+      "type": "evidence_log",
+      "title": "Evidence Log",
+      "pillar": "thriving-economy",
+      "summary": "Verified claims table with 10 entries (E-001 through E-010). Each entry has: official source URL, access date (2026-03-15), verification status (Confirmed/Likely/Missing), and notes. Use to check specific factual claims.",
+      "tags": ["evidence", "verified-claims", "official-sources", "socrata", "openGov", "OMBD", "SBSD", "RVA-Business-Portal"],
+      "recommended_audience": ["agents checking factual claims", "evidence_grounded_answering skill"],
+      "read_after": [],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/repo_memory",
+      "path": "skills/repo_memory/SKILL.md",
+      "type": "skill",
+      "title": "Skill: repo_memory",
+      "pillar": "thriving-economy",
+      "summary": "Reconstruct repository state from artifacts. Read project files, detect team stage, summarize progress. Used in boot sequence.",
+      "tags": ["skill", "repo-memory", "context-reconstruction"],
+      "recommended_audience": ["AI agents at session start"],
+      "read_after": ["AGENTS.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/problem_scoping",
+      "path": "skills/problem_scoping/SKILL.md",
+      "type": "skill",
+      "title": "Skill: problem_scoping",
+      "pillar": "thriving-economy",
+      "summary": "Help teams choose a strong problem: analyze problem statements, rank opportunities, identify 3 realistic directions.",
+      "tags": ["skill", "problem-scoping", "problem-selection"],
+      "recommended_audience": ["teams in orientation", "AI agents running Phase 1–2"],
+      "read_after": ["01_problem_space/02_targeted_problem_statements.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/research_runner",
+      "path": "skills/research_runner/SKILL.md",
+      "type": "skill",
+      "title": "Skill: research_runner",
+      "pillar": "thriving-economy",
+      "summary": "Execute research prompts, extract sources, and summarize evidence. Used in Phase 3 research spin-up.",
+      "tags": ["skill", "research", "evidence-extraction"],
+      "recommended_audience": ["AI agents running research", "Phase 3"],
+      "read_after": ["AGENTS.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/dataset_mapper",
+      "path": "skills/dataset_mapper/SKILL.md",
+      "type": "skill",
+      "title": "Skill: dataset_mapper",
+      "pillar": "thriving-economy",
+      "summary": "Scan data directory, identify schemas and formats, highlight gaps. Used to answer 'what data is available?' questions.",
+      "tags": ["skill", "dataset", "data-inventory", "schemas"],
+      "recommended_audience": ["teams identifying data sources", "Phase 3"],
+      "read_after": ["02_data/00_index.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/opportunity_mapper",
+      "path": "skills/opportunity_mapper/SKILL.md",
+      "type": "skill",
+      "title": "Skill: opportunity_mapper",
+      "pillar": "thriving-economy",
+      "summary": "Match problems to solution patterns and suggest MVP directions. Used in Phase 4 opportunity framing.",
+      "tags": ["skill", "opportunity-mapping", "mvp-directions"],
+      "recommended_audience": ["teams choosing an MVP", "Phase 4"],
+      "read_after": ["04_build_guides/01_mvp_shapes.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/mvp_designer",
+      "path": "skills/mvp_designer/SKILL.md",
+      "type": "skill",
+      "title": "Skill: mvp_designer",
+      "pillar": "thriving-economy",
+      "summary": "Turn an opportunity into a concrete MVP: user flow, architecture, scope boundaries. Used in Phase 5 scope lock.",
+      "tags": ["skill", "mvp-design", "user-flow", "scope"],
+      "recommended_audience": ["teams locking scope", "Phase 5"],
+      "read_after": ["04_build_guides/02_recommended_architectures.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/risk_review",
+      "path": "skills/risk_review/SKILL.md",
+      "type": "skill",
+      "title": "Skill: risk_review",
+      "pillar": "thriving-economy",
+      "summary": "Prevent civic-tech mistakes: check for hallucinated services, legal claims, eligibility logic errors, and misleading language.",
+      "tags": ["skill", "risk-review", "guardrails", "civic-tech-safety"],
+      "recommended_audience": ["all teams before demo", "Phase 7"],
+      "read_after": ["research/G5_risks_practical_guardrails.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/demo_coach",
+      "path": "skills/demo_coach/SKILL.md",
+      "type": "skill",
+      "title": "Skill: demo_coach",
+      "pillar": "thriving-economy",
+      "summary": "Help teams present effectively: demo script, narrative structure, judge-facing explanation. Used in Phase 8–9.",
+      "tags": ["skill", "demo", "pitch", "judging"],
+      "recommended_audience": ["all teams before demo", "Phase 8"],
+      "read_after": ["04_build_guides/05_demo_advice.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/repo_librarian",
+      "path": "skills/repo_librarian/SKILL.md",
+      "type": "skill",
+      "title": "Skill: repo_librarian",
+      "pillar": "thriving-economy",
+      "summary": "Navigate repository knowledge quickly: answer 'where is X?' questions, return relevant file paths with descriptions.",
+      "tags": ["skill", "navigation", "file-lookup"],
+      "recommended_audience": ["teams with file navigation questions"],
+      "read_after": ["CORPUS_GUIDE.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/continuity_planner",
+      "path": "skills/continuity_planner/SKILL.md",
+      "type": "skill",
+      "title": "Skill: continuity_planner",
+      "pillar": "thriving-economy",
+      "summary": "Post-hackathon continuation pathways: potential partners, artifacts worth continuing, next steps.",
+      "tags": ["skill", "continuity", "post-hackathon", "partners"],
+      "recommended_audience": ["teams planning beyond the weekend"],
+      "read_after": ["03_artifacts/continuation_plan.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/research_corpus_navigation",
+      "path": "skills/research_corpus_navigation/SKILL.md",
+      "type": "skill",
+      "title": "Skill: research_corpus_navigation",
+      "pillar": "thriving-economy",
+      "summary": "Map a user question to the correct section and specific research reports before answering. Uses research/index.json and section mappings to build a targeted reading list.",
+      "tags": ["skill", "navigation", "research-corpus", "retrieval", "section-mapping"],
+      "recommended_audience": ["AI agents answering research questions"],
+      "read_after": ["CORPUS_GUIDE.md", "research/index.json"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/cross_report_synthesis",
+      "path": "skills/cross_report_synthesis/SKILL.md",
+      "type": "skill",
+      "title": "Skill: cross_report_synthesis",
+      "pillar": "thriving-economy",
+      "summary": "Synthesize findings from multiple research reports with source traceability, explicit tension identification, and gap documentation.",
+      "tags": ["skill", "synthesis", "cross-report", "evidence", "citations"],
+      "recommended_audience": ["AI agents answering complex multi-report questions"],
+      "read_after": ["skills/research_corpus_navigation/SKILL.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/evidence_grounded_answering",
+      "path": "skills/evidence_grounded_answering/SKILL.md",
+      "type": "skill",
+      "title": "Skill: evidence_grounded_answering",
+      "pillar": "thriving-economy",
+      "summary": "Answer questions using only content present in the corpus. Enforces claim classification (confirmed, stated, uncertain, not found) and blocks fabrication.",
+      "tags": ["skill", "evidence-grounding", "anti-fabrication", "claim-classification"],
+      "recommended_audience": ["AI agents making factual claims"],
+      "read_after": ["_admin/evidence_log.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skills/report_update_protocol",
+      "path": "skills/report_update_protocol/SKILL.md",
+      "type": "skill",
+      "title": "Skill: report_update_protocol",
+      "pillar": "thriving-economy",
+      "summary": "Safely add or update research reports and keep all metadata, indexes, and navigation files synchronized. Step-by-step protocol with validation checklist.",
+      "tags": ["skill", "maintenance", "update-protocol", "metadata-sync"],
+      "recommended_audience": ["corpus maintainers", "AI agents tasked with adding reports"],
+      "read_after": ["MAINTENANCE.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "research/corpus",
+      "path": "research/",
+      "type": "research_corpus",
+      "title": "Deep Research Corpus (51 reports)",
+      "pillar": "thriving-economy",
+      "summary": "51 deep research reports generated via Perplexity sonar-deep-research covering problem landscape, users, services, data, prior art, opportunities, risks, MVP shapes, and demo strategy. Each report exists as .md and .json. Full metadata in research/index.json.",
+      "tags": ["research-corpus", "perplexity", "deep-research", "sections-A-through-I"],
+      "recommended_audience": ["all researchers", "AI agents answering research questions"],
+      "read_after": ["research/README.md", "research/index.json"],
+      "source_of_truth": true,
+      "note": "See research/index.json for individual file entries. See research/README.md for human-readable table of contents."
+    },
+
+    {
+      "id": "research/index",
+      "path": "research/index.json",
+      "type": "manifest",
+      "title": "Research Index (machine-readable)",
+      "pillar": "thriving-economy",
+      "summary": "JSON array with one entry per research report: id, section, title, 1-2 sentence summary, 6 key_terms. The primary retrieval index for the research corpus. Load this before deciding which research files to read.",
+      "tags": ["index", "manifest", "machine-readable", "retrieval"],
+      "recommended_audience": ["AI agents", "tooling"],
+      "read_after": [],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "research/README",
+      "path": "research/README.md",
+      "type": "nav_file",
+      "title": "Research Directory Index (human-readable)",
+      "pillar": "thriving-economy",
+      "summary": "Human-readable table of contents for all 51 research reports, organized by section (Context, Cross-Cutting, A–I) with one-line descriptions.",
+      "tags": ["index", "navigation", "research-directory"],
+      "recommended_audience": ["human researchers", "teams browsing research"],
+      "read_after": [],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "templates/project_one_pager",
+      "path": "99_templates/project_one_pager_template.md",
+      "type": "template",
+      "title": "Project One-Pager Template",
+      "pillar": "thriving-economy",
+      "summary": "Template for scoping an MVP: must-haves, mockables, data sources, AI role, limits, and demo path. Use for Phase 5 scope lock.",
+      "tags": ["template", "project-brief", "scope-lock", "mvp"],
+      "recommended_audience": ["teams locking MVP scope", "Phase 5"],
+      "read_after": ["04_build_guides/01_mvp_shapes.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "templates/team_profile",
+      "path": "99_templates/team_profile_template.md",
+      "type": "template",
+      "title": "Team Profile Template",
+      "pillar": "thriving-economy",
+      "summary": "YAML/Markdown template for team profile: name, decision maker, members with roles/skills/availability, communication preferences, constraints. Required by Hackbot boot sequence.",
+      "tags": ["template", "team-profile", "hackbot-required"],
+      "recommended_audience": ["all teams at session start"],
+      "read_after": ["AGENTS.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "templates/decision_memo",
+      "path": "99_templates/decision_memo.md",
+      "type": "template",
+      "title": "Decision Memo Template",
+      "pillar": "thriving-economy",
+      "summary": "Short template for recording problem selection rationale: chosen problem, user, why this one, why not others, risks.",
+      "tags": ["template", "decision-memo", "problem-selection"],
+      "recommended_audience": ["teams completing Phase 2"],
+      "read_after": ["01_problem_space/02_targeted_problem_statements.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "templates/working_direction_note",
+      "path": "99_templates/working_direction_note.md",
+      "type": "template",
+      "title": "Working Direction Note Template",
+      "pillar": "thriving-economy",
+      "summary": "5-bullet quick-capture template for initial problem framing: candidate problem, likely user, why it matters, why it is weekend-buildable, biggest uncertainty.",
+      "tags": ["template", "working-direction", "orientation", "quick-capture"],
+      "recommended_audience": ["teams in Phase 1 orientation"],
+      "read_after": ["README.md"],
+      "source_of_truth": false
+    }
+
+  ]
+}

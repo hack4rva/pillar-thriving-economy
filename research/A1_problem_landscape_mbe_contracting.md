@@ -1,3 +1,39 @@
+---
+title: "Richmond's Minority Business Contracting Reality: Friction Points for MBE Participants"
+pillar: thriving-economy
+section: A
+problem_statement: mbe-contracting
+tags:
+  - MBE-contracting
+  - disparity-study
+  - 3.43%-utilization
+  - SWaM-certification
+  - bid-opportunities
+  - contracting-vehicles
+  - OMBD
+  - OpenGov
+summary: "MBE contracting in Richmond faces documented disparity (3.43% utilization vs 17.93% availability) rooted in information asymmetries, contracting vehicle confusion, and access barriers to bid opportunities. Systemic factors including SWaM certification complexity (~60 business days) and fragmented procurement information create friction beyond simple awareness."
+key_entities:
+  - OMBD (Office of Minority Business Development)
+  - OpenGov (procurement.opengov.com/portal/rva)
+  - MGT Consulting (2025 disparity study)
+  - SBSD (Virginia Dept of Small Business and Supplier Diversity)
+  - SWaM certification
+datasets:
+  - City of Richmond contract award data (Socrata/data.rva.gov)
+  - MGT Consulting disparity study FY2017-2021
+  - OpenGov solicitations portal
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - A2_problem_landscape_small_business_journey
+  - B1_users_personas_contracting
+  - D1_data_inventory_contracting
+  - F2_opportunity_mbe_framing
+  - H2_mvp_mbe_public_data
+---
+
 # Richmond's Minority Business Contracting Reality: An Investigation of Friction Points for First-Time and Small MBE Participants
 
 This investigation examines the actual landscape of minority-business contracting challenges facing entrepreneurs in Richmond, Virginia, synthesizing publicly available procurement data, disparity study findings, compliance documentation, and documented barriers from comparable jurisdictions. The analysis reveals that Richmond's MBE contracting challenges exist not as a single discrete problem but rather as a cascade of friction points occurring at distinct stages of the procurement pipeline, with significant underutilization documented through recent disparity studies, complex administrative requirements that disproportionately burden smaller enterprises, limited visibility of procurement opportunities within minority business networks, and substantial barriers to contract readiness that extend beyond simple access to information or capital.

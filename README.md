@@ -56,10 +56,20 @@ Land → Orient → Choose → Research → Frame MVPs → Lock Scope → Build 
 | `02_data/` | Data index, source inventory |
 | `03_artifacts/` | User journeys, decision trees, prototype recommendations, research notes |
 | `04_build_guides/` | MVP shapes, architectures, demo advice |
-| `skills/` | Hackbot skill modules |
+| `research/` | 51 deep research reports (sections A–I + cross-cutting) |
+| `skills/` | Hackbot skill modules (14 skills) |
 | `99_templates/` | Working direction, decision memo, project one-pager, team profile |
 | `getting-started/` | Event-day OpenCode + Featherless setup |
-| `_admin/` | Internal tracking, research prompts, Perplexity runner |
+| `_admin/` | Internal tracking, evidence log, research prompts |
+
+**Navigation files:**
+| File | Purpose |
+|------|---------|
+| `CORPUS_GUIDE.md` | How to use the research corpus (humans + AI agents) |
+| `manifest.json` | Machine-readable index of all significant files |
+| `research/index.json` | Machine-readable index of all 51 research reports |
+| `research/README.md` | Human-readable research table of contents |
+| `MAINTENANCE.md` | How to add and update reports and metadata |
 
 ---
 
@@ -238,8 +248,12 @@ Hackbot is the AI assistant built for this repo. It reconstructs context, runs r
 | Agent spec | `AGENTS.md` |
 | Team profile template | `99_templates/team_profile_template.md` |
 | Skills | `skills/**/SKILL.md` |
+| Corpus guide | `CORPUS_GUIDE.md` |
+| Full file manifest | `manifest.json` |
 
-**Available skills:** `repo_memory` · `problem_scoping` · `research_runner` · `dataset_mapper` · `opportunity_mapper` · `mvp_designer` · `risk_review` · `demo_coach` · `repo_librarian` · `continuity_planner`
+**Team skills:** `repo_memory` · `problem_scoping` · `research_runner` · `dataset_mapper` · `opportunity_mapper` · `mvp_designer` · `risk_review` · `demo_coach` · `repo_librarian` · `continuity_planner`
+
+**Research corpus skills:** `research_corpus_navigation` · `cross_report_synthesis` · `evidence_grounded_answering` · `report_update_protocol`
 
 > For best results, create a team profile (`99_templates/team_profile_template.md`) so Hackbot can map tasks to roles and match your communication preferences.
 

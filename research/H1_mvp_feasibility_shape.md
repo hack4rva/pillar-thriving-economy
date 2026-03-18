@@ -1,3 +1,27 @@
+---
+title: "Credible 48-Hour MVPs: Realistic Scope and Feasibility Framework"
+pillar: thriving-economy
+section: H
+problem_statement: general
+tags:
+  - mvp-feasibility
+  - 48-hour-sprint
+  - scope-boundaries
+  - hackathon
+  - single-hypothesis
+  - manual-workarounds
+summary: "Framework for what constitutes a credible 48-hour MVP: 30-36 productive hours, single core hypothesis, ruthless prioritization of must-haves vs. mocked elements, and clear distinction between functional components and strategic shortcuts."
+geography: general
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - H2_mvp_mbe_public_data
+  - H3_mvp_setup_rule_based
+  - H4_mvp_minimums
+  - H5_mvp_scope_boundaries
+  - E5_prior_art_weekend_viability
+---
+
 # Credible 48-Hour MVPs: Realistic Scope and Feasibility Framework
 
 A credible 48-hour MVP represents a deliberately constrained product that validates a single core hypothesis about user behavior or market demand through functional features, rather than comprehensive prototypes or marketing simulations. Rather than attempting to build a feature-complete product or comprehensive proof of concept, realistic 48-hour MVPs succeed by ruthlessly prioritizing a single value loop, accepting manual workarounds where automation would consume critical time, and maintaining clear distinctions between genuinely functional components and strategically mocked elements. This report examines the architectural and practical foundations that differentiate between ambitious fantasies and credible 48-hour deliverables, provides concrete frameworks for assessing feasibility, and presents two detailed MVP archetypes with explicit delineation of functional requirements versus acceptable mock elements.

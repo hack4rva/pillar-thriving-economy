@@ -1,3 +1,25 @@
+---
+title: "Top 10 Research Questions: MBE Barriers in Richmond Government Contracting"
+pillar: thriving-economy
+section: cross-cutting
+problem_statement: general
+tags:
+  - research-questions
+  - MBE-barriers
+  - contracting-information
+  - support-infrastructure
+  - public-data-sufficiency
+  - service-awareness
+summary: "Ten critical research questions for validating software prototyping opportunities in Richmond's government contracting ecosystem. Focus areas: information asymmetry, interpretive complexity, MBE awareness, data sufficiency, and community-centered design."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - 91_top_10_hypotheses_to_test
+  - 92_red_flags
+  - 93_missing_information_gaps
+---
+
 # Software Prototyping to Address Minority-Owned Business Barriers in Richmond's Government Contracting: A Research-Based Framework for Pillar 4 Implementation
 
 This comprehensive research report examines Richmond, Virginia's government contracting ecosystem through the lens of ten critical research questions designed to identify and validate opportunities for weekend software prototyping to support small and minority-owned businesses. Through analysis of existing city infrastructure, disparity study findings, federal procurement barriers, and comparable models from other jurisdictions, this report identifies that the clearest research-ready problem centers on information asymmetry and interpretive complexity in how minority-owned businesses discover, understand, and prepare responses to city contracting opportunities. The research reveals significant gaps between publicly available data and the tacit knowledge required to navigate procurement successfully, suggesting that a minimum viable product focused on opportunity interpretation and step-clarification could meaningfully reduce confusion within a 48-hour development window while establishing groundwork for larger systemic interventions. The analysis demonstrates that software prototyping represents one of many necessary approaches alongside policy, staffing, and organizational changes, and that successful implementation requires community-centered design principles, transparent collaboration with both government and business users, and a clear articulation of realistic scope to build trustworthiness and continuation support from stakeholders.

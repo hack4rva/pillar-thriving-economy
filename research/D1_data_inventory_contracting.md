@@ -1,3 +1,41 @@
+---
+title: "Comprehensive Source Inventory for Richmond Minority-Business Contracting"
+pillar: thriving-economy
+section: D
+problem_statement: mbe-contracting
+tags:
+  - data-inventory
+  - public-data
+  - procurement-portals
+  - Socrata
+  - OpenGov
+  - iSupplier
+  - OMBD
+  - BidNet
+  - eVA
+summary: "Public data inventory for Richmond minority-business contracting: iSupplier, OpenGov, Socrata contract awards, OMBD supplier directory, and eVA state procurement. Each source is catalogued with accessibility, update patterns, and applications for data-driven projects on supplier diversity."
+key_entities:
+  - iSupplier portal (3-5 business-day approval, 2-minute timeout)
+  - OpenGov (procurement.opengov.com/portal/rva)
+  - Socrata (data.rva.gov - monthly updates)
+  - OMBD Supplier & Diversity Management System
+  - BidNet Direct
+  - eVA (Virginia eProcurement)
+datasets:
+  - City of Richmond contract awards (Socrata)
+  - Virginia Business Opportunities (eVA)
+  - OMBD supplier directory
+  - OpenGov solicitations
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - D2_data_formats_procurement
+  - D4_data_structured_vs_manual
+  - D5_data_quality_assessment
+  - A1_problem_landscape_mbe_contracting
+---
+
 # Comprehensive Source Inventory for Richmond Minority-Business Contracting
 
 This report provides a detailed inventory of sources and resources relevant to minority-business contracting opportunities in Richmond, Virginia, specifically designed to support procurement research, data analysis, and hackathon initiatives. The inventory encompasses official procurement portals, open data resources, vendor registration systems, certification directories, and supporting materials from both municipal and state authorities. Each source has been catalogued with accessibility information, update patterns, and potential applications for data-driven projects focused on supplier diversity and contracting equity.

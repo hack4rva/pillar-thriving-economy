@@ -1,3 +1,26 @@
+---
+title: "Practical Guardrails for AI Systems: Source-Linked Explanations, Confidence Labeling, and Human Escalation"
+pillar: thriving-economy
+section: G
+problem_statement: general
+tags:
+  - ai-guardrails
+  - confidence-labeling
+  - human-escalation
+  - source-linked
+  - uncertainty-signaling
+  - bias-detection
+summary: "Practical AI guardrail implementations for civic tech: source-linked explanations, confidence labeling, official source reminders, human escalation pathways, and limitation communication. Actionable approaches that balance safety with operational efficiency for deployed AI systems."
+geography: general
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - G1_risks_ai_heavy
+  - G2_risks_harm_cases
+  - G3_risks_inclusion_accessibility
+  - G4_risks_matching_bias
+---
+
 # Practical Guardrails for AI Systems: Implementing Source-Linked Explanations, Confidence Labeling, and Human Escalation
 
 ## Executive Summary
