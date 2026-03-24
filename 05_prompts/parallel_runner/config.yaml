@@ -1,0 +1,11 @@
+# Parallel.ai runner configuration
+
+processor: pro
+
+output_schema: text
+
+io:
+  prompts_dir: 05_prompts/research
+  output_dir: research
+  overwrite: false
+
