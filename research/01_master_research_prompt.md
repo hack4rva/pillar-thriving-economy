@@ -102,7 +102,7 @@ All deliverables must be reviewed against the **Quality Assurance Checklist** be
 |------|-------------|------------|
 | 1 | All factual statements have a citation (URL or report reference). | ✘ |
 | 2 | Dates conform to YYYY-MM or YYYY format. | ✘ |
-| 3 | No placeholder text (`REPLACEME`, `INSERT`, `TBD`, `LOREM`). | ✔ |
+| 3 | No placeholder text ("REPLACEME", "INSERT", "TBD", "LOREM"). | ✘ |
 | 4 | AI disclaimer removed; responsibility rests with analyst. | ✘ |
 | 5 | "Data not publicly disclosed" used where gaps exist. | ✘ |
 | 6 | Tables are rendered correctly in Markdown preview. | ✘ |

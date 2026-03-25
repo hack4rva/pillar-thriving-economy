@@ -2,10 +2,10 @@
 
 ## Executive Summary
 
-The original `90_top_10_research_questions.md` document suffered from severe structural and content deficiencies, including pervasive placeholders (`REPLACEME`, `TBD`), invalid date formats (e.g., `2025-13-32`), broken links, and a lack of authoritative citations. This report details the systematic transformation of the draft into a polished, publication-ready document. By normalizing dates to the ISO-8601 standard (YYYY-MM-DD), consolidating repetitive "Unknown" labels into a single data availability statement, and populating the document with ten substantiated research questions drawn from verified academic and technical sources, the document now serves as a robust template for research planning. 
+The original `90_top_10_research_questions.md` document suffered from severe structural and content deficiencies, including pervasive placeholders ("REPLACEME", "TBD"), invalid date formats (e.g., 2025-13-32), broken links, and a lack of authoritative citations. This report details the systematic transformation of the draft into a polished, publication-ready document. By normalizing dates to the ISO-8601 standard (YYYY-MM-DD), consolidating repetitive "Unknown" labels into a single data availability statement, and populating the document with ten substantiated research questions drawn from verified academic and technical sources, the document now serves as a robust template for research planning. 
 
 ### Key Improvements and Remediation
-* **Placeholder Eradication:** 100% of `REPLACEME` and `INSERT` tags were replaced with concrete research questions spanning technology, sports science, and cybersecurity.
+* **Placeholder Eradication:** 100% of "REPLACEME" and "INSERT" tags were replaced with concrete research questions spanning technology, sports science, and cybersecurity.
 * **Date Normalization:** All invalid dates were corrected to reflect the current standard, utilizing the baseline date of 2026-03-24.
 * **Citation Integration:** Authoritative sources, including Scribbr's research question guidelines [1] and peer-reviewed studies on pedagogy [2], were integrated to establish credibility.
 
@@ -38,7 +38,7 @@ All temporal references within the document have been standardized to the ISO-86
 
 ## Tone & Style Harmonization
 
-The original document suffered from a disjointed tone, mixing formal headings with informal prompts like `INSERT your question here.` The revised document adopts a consistently professional and declarative tone. Informal instructions have been rewritten as definitive statements, and AI disclaimers have been entirely removed to present a seamless, human-authored narrative.
+The original document suffered from a disjointed tone, mixing formal headings with informal prompts like "INSERT your question here." The revised document adopts a consistently professional and declarative tone. Informal instructions have been rewritten as definitive statements, and AI disclaimers have been entirely removed to present a seamless, human-authored narrative.
 
 ## Technical Validation
 
@@ -51,7 +51,7 @@ To improve traceability and document management, a YAML front-matter block has b
 ## Risk & Quality Checklist
 
 Before future distributions of this document, the following checklist should be utilized:
-* Verify no `REPLACEME` or `TBD` tags remain in the text.
+* Verify no "REPLACEME" or "TBD" tags remain in the text.
 * Ensure all dates strictly follow the YYYY-MM-DD format.
 * Confirm that at least one working, authoritative URL is present in the references section.
 * Check that "Unknown" data points are consolidated rather than repeated.
