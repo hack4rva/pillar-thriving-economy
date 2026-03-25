@@ -22,6 +22,53 @@ Answer these before writing a line of code.
 
 ---
 
+## The Challenge
+
+**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, and exactly how judges will score your solution.
+
+### Problem 1: Helping Minority-Owned Businesses Identify Relevant City Contract Opportunities — 26/32 — Strong
+
+> How might we use technology to help minority-owned businesses in Richmond more easily identify and understand City contracting opportunities that match their capabilities?
+
+Build toward: Procurement opportunity finder with plain-language descriptions · Procurement jargon translator for first-time vendors · Vendor readiness guide · Business-type-to-opportunity matching interface
+
+⚠ Existing procurement portal must remain the official source — surface it, don't replace it. Confirm data format (API, CSV, or scraping) before building. Must not make eligibility determinations.
+
+---
+
+### Problem 2: Small Business Navigation & Business Setup Friction — 24/32 — Strong
+
+> How might we improve how emerging and home-based entrepreneurs start and register a business in Richmond so they understand the right steps, complete them in the right order, and connect to relevant City services?
+
+Build toward: Small business setup navigator (step-by-step, plain language, correct sequence) · Business type wizard (answer questions → get your specific steps) · Staff or nonprofit workflow helper for referrals
+
+⚠ The business registration decision tree (which permits apply to which business types, in what order) does not exist in this repository and must be built before a navigator can work. Start here.
+
+---
+
+### Top Blue Sky: Rebuilding the Pathway Into the Trades — 22/27 — Strong ★ Recommended
+
+> How might we use technology to help more Richmond residents — especially from underrepresented communities — discover, prepare for, and persist in high-opportunity trades and technical careers?
+
+Pick one phase of the lifecycle: **discover** (what trades careers exist and pay), **prepare** (what training programs are available), or **persist** (navigate apprenticeship barriers). Do not try to cover all three in a weekend.
+
+---
+
+### Pillar Award Rubric
+
+| Category | Weight | Dominant question |
+|----------|--------|-------------------|
+| **Impact** | **5** | Does this directly address one of the two problems above? |
+| User Value | 4 | Is there a specific real user? Does the prototype improve their experience? |
+| Feasibility | 3 | Could this be piloted by a City department or economic development partner? |
+| Innovation | 3 | Fresh thinking on procurement access or business navigation? |
+| Execution | 3 | Does a working demo exist? Is the flow coherent? |
+| Equity | 3 | Does it specifically reach minority-owned businesses and first-time entrepreneurs? |
+
+Full rubric with scoring anchors and judge instructions: [`../RUBRIC.md`](../RUBRIC.md)
+
+---
+
 ## Journey
 
 ```
@@ -39,7 +86,8 @@ Land → Orient → Choose → Research → Frame MVPs → Lock Scope → Build 
 
 | Step | Action |
 |------|--------|
-| 1 | Read `QUICKSTART.md` for the minimal path |
+| 1 | Read `CHALLENGE.md` — the two problems, top blue sky, and rubric (start here, not QUICKSTART.md) |
+| 2 | Read `QUICKSTART.md` for the minimal path |
 | 2 | Skim `00_core/00_pillar_overview.md` to understand the problem space |
 | 3 | Read `01_problem_space/02_targeted_problem_statements.md` — two strong, scored problems ready to go |
 | 4 | Fill out a 5-bullet Working Direction using `99_templates/working_direction_note.md` |
