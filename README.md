@@ -24,7 +24,7 @@ Answer these before writing a line of code.
 
 ## The Challenge
 
-**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, and exactly how judges will score your solution.
+**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, how Pillar Award weights use the shared rubric, and optional per-problem prompts to help your team think about the categories (not a second judge rubric).
 
 ### Problem 1: Helping Minority-Owned Businesses Identify Relevant City Contract Opportunities — 26/32 — Strong
 
@@ -65,7 +65,7 @@ Pick one phase of the lifecycle: **discover** (what trades careers exist and pay
 | Execution | 3 | Does a working demo exist? Is the flow coherent? |
 | Equity | 3 | Does it specifically reach minority-owned businesses and first-time entrepreneurs? |
 
-Full rubric with scoring anchors and judge instructions: [`../RUBRIC.md`](../RUBRIC.md)
+Official rubric — category definitions, scoring anchors, and judge-facing guidance: [`../RUBRIC.md`](../RUBRIC.md)
 
 ---
 
@@ -86,7 +86,7 @@ Land → Orient → Choose → Research → Frame MVPs → Lock Scope → Build 
 
 | Step | Action |
 |------|--------|
-| 1 | Read `CHALLENGE.md` — the two problems, top blue sky, and rubric (start here, not QUICKSTART.md) |
+| 1 | Read `CHALLENGE.md` — the two problems, top blue sky, Pillar Award weights, and optional per-problem rubric prompts (start here, not QUICKSTART.md) |
 | 2 | Read `QUICKSTART.md` for the minimal path |
 | 2 | Skim `00_core/00_pillar_overview.md` to understand the problem space |
 | 3 | Read `01_problem_space/02_targeted_problem_statements.md` — two strong, scored problems ready to go |

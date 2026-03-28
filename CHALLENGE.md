@@ -33,6 +33,23 @@ The City publishes procurement opportunities through its vendor portal, but the 
 - City Contracts Registry Socrata dataset (xqn7-jvv2)
 - Confirm data format before building: API, CSV, or scraping may all be needed
 
+#### Participant guide: connecting to the rubric (if you chose this problem)
+
+Optional prompts — judges score from [`RUBRIC.md`](../../RUBRIC.md).
+
+- **Impact:** Make **City contracting opportunities** legible to minority-owned and smaller firms — portal stays official source.
+- **User Value:** A business owner persona and a clearer “is this for me?” or first-step path.
+- **Feasibility:** Respect procurement rules; no eligibility or award **determinations**; verify data access realistically.
+- **Innovation:** Plain language, matching, or readiness flow beyond copying the portal.
+- **Execution:** Demo uses real listings or a faithful sample with clear limits.
+- **Equity and inclusion:** Explicitly serve MBEs and first-time bidders.
+
+**What often works well:** Opportunity finder, jargon translator, readiness checklist tied to real sources.
+
+**What to avoid:** Saying who should win a contract or automating eligibility/legal advice.
+
+*Try asking yourself:* Could a small firm tell in two minutes if an RFP is worth a closer look?
+
 ---
 
 ### Problem 2: Small Business Navigation & Business Setup Friction
@@ -61,6 +78,23 @@ First-time entrepreneurs in Richmond must interact with multiple City department
 - Current City website URLs for each relevant department need verification
 - A sample "business registration journey" based on a real path would accelerate development significantly
 
+#### Participant guide: connecting to the rubric (if you chose this problem)
+
+Optional prompts — [`RUBRIC.md`](../../RUBRIC.md) is authoritative for judges.
+
+- **Impact:** Reduce wrong-door and repeat-handoff friction for **new** Richmond businesses while keeping departments in their lanes.
+- **User Value:** Entrepreneur or referral partner with a sequenced, plain-language path (even if partially illustrative).
+- **Feasibility:** No fake “official City” chatbot; no legal/business advice claims; document where the decision tree is still hypothetical.
+- **Innovation:** Wizard by business type, navigator, or staff helper that beats a static FAQ.
+- **Execution:** Coherent flow with labeled gaps.
+- **Equity and inclusion:** Home-based and emerging businesses without lawyers or accountants.
+
+**What often works well:** Setup navigator, business-type wizard, referral helper with honest scope.
+
+**What to avoid:** Eligibility engines, legal advice, or pretending the full City journey is wired when it isn’t.
+
+*Try asking yourself:* Could a first-time founder know **what to do next** without calling three departments?
+
 ---
 
 ## The Blue Sky Vision
@@ -81,25 +115,29 @@ Pick one phase of the lifecycle and build for it:
 
 Data challenge: no employer directory or comprehensive workforce program directory currently exists. Teams must curate this content or partner with a workforce organization that has it.
 
+**Rubric connection (blue sky):** Not a perfect match to either targeted statement; closest parallels are **workforce discovery** (curate like Problem 1’s data honesty) and **navigation** (like Problem 2’s stepwise guidance). Pick one phase (discover / prepare / persist) and use the corresponding problem’s guide for feasibility and equity framing.
+
 ---
 
-## How Your Solution Will Be Judged (Pillar Award)
+## Pillar Award: official scoring mechanics
 
-The Pillar Award uses the following weights. For full category definitions and scoring anchors, see [`/RUBRIC.md`](../../RUBRIC.md) at the hackathon root.
+**Authoritative rubric:** [`RUBRIC.md`](../../RUBRIC.md) at the hackathon root.
 
-| Category | Weight | What judges are asking |
-|----------|--------|------------------------|
-| **Impact** | **5** | Does this directly address one of the two problem statements above? |
-| **User Value** | 4 | Is there a specific, real user? Does the prototype improve their experience? |
-| **Feasibility** | 3 | Could this be piloted by a City department or economic development partner? |
-| **Innovation** | 3 | Does the team bring fresh thinking to procurement access or business navigation? |
-| **Execution** | 3 | Does a working demo exist? Is the flow coherent? |
-| **Equity** | 3 | Does the solution specifically reach minority-owned businesses and first-time entrepreneurs? |
+**Participant guides** under each problem are optional — **not** binding on judges.
+
+| Category | Weight |
+|----------|--------|
+| **Impact** (targeted civic problem) | **5** |
+| **User Value** | 4 |
+| **Feasibility** / implementability | 3 |
+| **Innovation** / originality | 3 |
+| **Execution** / prototype quality | 3 |
+| **Equity and inclusion** | 3 |
+
+Read **`RUBRIC.md`** for full definitions and anchors.
 
 **Score formula:** Sum of (category score 1–5 × weight). Maximum 105.
 
 **Tiebreaker:** User Value score.
 
-**What wins here:** A prototype that makes City contracting more accessible to small and minority-owned businesses, or makes the business registration process navigable for first-time entrepreneurs, using real public data.
-
-**What loses here:** Tools making eligibility or legal determinations, solutions claiming to automate procurement awards, or projects requiring integration with internal City licensing or procurement systems.
+**General tips** (full detail in `RUBRIC.md`): Civic usefulness over complexity; flag fragile assumptions; slides-only → low Execution.
