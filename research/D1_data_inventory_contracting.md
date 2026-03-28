@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # D1 Data Inventory – Contracting Dataset
 
 *(Version 1.0 – Published 2024-08; last updated 2026-03)* 

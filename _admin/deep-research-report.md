@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Evidence and benchmark links for procurement and small-business workflows in Richmond
 
 [Unverified] Some requested details (especially “how often it updates” for certain portals) are not explicitly stated in the official sources identified below, and one claim (E-006) does not match the current official processing-time guidance.

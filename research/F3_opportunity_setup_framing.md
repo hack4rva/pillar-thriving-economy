@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Strategic Framing of Small-Business Navigation for Hackathon Opportunity F3: Decision Support Architecture for Business Setup Guidance
 
 This report evaluates seven distinct framing approaches for a small-business navigation statement, ultimately recommending a **hybrid guided intake with embedded decision-tree pathways** as the optimal architecture. This recommendation balances the structured clarity required for business setup processes with the flexibility needed to accommodate diverse entrepreneurial profiles and contextual needs. The analysis reveals that while decision trees excel at simple, rule-based routing and resource navigators provide domain-specific matching, the most effective approach integrates elements of guided intake processes to capture essential information while maintaining progressive disclosure principles that reduce cognitive load for first-time business owners navigating complex setup scenarios.

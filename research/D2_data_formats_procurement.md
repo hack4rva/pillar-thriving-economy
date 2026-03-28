@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Comprehensive Analysis of Richmond Procurement Data Formats and Access Patterns
 
 This report examines the actual data formats and access mechanisms available for procurement-related data from Richmond, Virginia sources, with particular emphasis on verifying the technical specifications, API endpoints, and practical implications for automated data ingestion during non-business hours. The City of Richmond maintains multiple channels for publishing procurement information, including a Socrata-powered open data platform with comprehensive API support, downloadable files in multiple formats, and web-based interfaces for supplier registration and bid management. Understanding these formats and access patterns is essential for data engineers, researchers, and procurement analysts who need to reliably retrieve and process procurement information at scale.

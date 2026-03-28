@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Stakeholder Priority Signals in Business Registration Systems: Identifying Critical Constituencies and Positioning Implications
 
 The landscape of business registration, compliance, and government service delivery has undergone significant transformation in recent years, driven by escalating demands for efficiency, equity, and transparency. This comprehensive analysis identifies which stakeholder constituencies are most likely to prioritize five critical outcomes: reduced staff burden, better public information, increased minority-business participation, fewer abandoned business registrations, and improved compliance sequencing. By mapping these priorities across a diverse stakeholder ecosystem, organizations can develop targeted engagement strategies and position solutions effectively to maximize adoption and impact.

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # User Journey Maps (Draft — needs verification)
 
 Note: Journeys include user-provided observations pending verification. Each friction point should reference an `evidence_log.md` id when verified.

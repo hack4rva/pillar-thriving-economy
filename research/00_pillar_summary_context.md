@@ -20,6 +20,8 @@ related_reports:
   - C1_services_existing_landscape
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Supporting Entrepreneurship and Procurement Access Through Civic Technology: Building Solutions for Richmond's Emerging and Minority-Owned Businesses
 
 This comprehensive report examines the critical gaps in business support infrastructure for emerging entrepreneurs and minority-owned businesses in Richmond, Virginia, with particular focus on two interconnected challenges: helping these enterprises identify and access relevant government contracting opportunities, and guiding first-time business owners through the complex landscape of registration, licensing, and compliance requirements. The analysis reveals that while Richmond and Virginia offer substantial resources and frameworks for business development, the fragmentation of information across multiple platforms, the complexity of government contracting terminology, and the gap between written procedures and real-world staff expertise create significant barriers to participation. Civic technology solutions built during a focused hackathon could effectively bridge these gaps through prototype tools such as procurement search overlays with relevance matching, plain-language contracting guides, interactive business setup wizards, and integrated resource navigation platforms that reduce cognitive burden without requiring policy changes or systems integration.

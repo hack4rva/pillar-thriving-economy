@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Closing the Gaps: A Fast-Track Blueprint for Turning "REPLACEME" Place-Holders into Publish-Ready Markdown
 
 ## Executive Summary

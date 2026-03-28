@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # F1 Opportunity Spaces Ranked: Strategic Growth Areas for 2026 and Beyond
 
 ## Executive Summary

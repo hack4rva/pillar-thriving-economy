@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Prior-Art Weekend Viability
 *An operational guide for practitioners on how the one-year grace period is treated when the deadline falls on a Saturday, Sunday, or Federal holiday.*
 

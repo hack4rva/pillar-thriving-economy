@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # MVP Feasibility: Minimum Inputs and Workflow for Producing a Useful Demo
 
 This report examines the practical minimum requirements necessary for a team to create a functioning MVP demonstration within a constrained timeframe, emphasizing the critical distinction between vague concept validation and a demo that genuinely demonstrates product viability. The challenge lies not in what could be built, but in identifying the irreducible set of data, content, and workflow interactions that allow potential users or stakeholders to experience the core value proposition in action, without the distraction of incomplete features or placeholder content that undermines credibility.

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Judging-Oriented Framing Language: A Comprehensive Framework for Demo and Pitch Evaluation
 
 This report proposes a standardized judging-oriented framing language designed to help teams communicate their innovations with clarity, credibility, and actionable precision. Through structured framing that integrates problem articulation, evidence-based support, burden quantification, and advancement roadmaps, teams can dramatically improve how judges understand, evaluate, and compare their work. The framework presented here draws from research on linguistic framing, problem-solving methodologies, evaluation rubrics, and pitch competition best practices to create a replicable template that reduces ambiguity, increases fairness, and accelerates decision-making in innovation contexts.

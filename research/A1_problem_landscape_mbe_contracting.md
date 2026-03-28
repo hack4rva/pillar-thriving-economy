@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Problem Landscape of Minority-Business-Enterprise (MBE) Contracting
 *An evidence-based snapshot of the current market, legal environment, and operational challenges (as of 2025-12)* 
 

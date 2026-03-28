@@ -1,12 +1,14 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 <div align="center">
 
 # Thriving Economy Pillar
 
-**Richmond Civic Hackathon · March 27–29, 2026**
+**Richmond Civic Hackathon · March 27-29, 2026**
 
 [![Pillar](https://img.shields.io/badge/Pillar-Thriving_Economy-4c68d7)](#)  [![Stage](https://img.shields.io/badge/Stage-Decision_Funnel-00a38f)](#)  [![Focus](https://img.shields.io/badge/Focus-From_Idea_%E2%86%92_MVP-ff7a59)](#)
 
-*A guided environment for choosing a credible, source-linked, weekend-buildable MVP — and avoiding fantasy software.*
+*A guided environment for choosing a credible, source-linked, weekend-buildable MVP and avoiding fantasy software.*
 
 </div>
 
@@ -24,19 +26,19 @@ Answer these before writing a line of code.
 
 ## The Challenge
 
-**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, how Pillar Award weights use the shared rubric, and optional per-problem prompts to help your team think about the categories (not a second judge rubric).
+**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else. It covers the two problems, the top blue sky vision, data constraints, and optional per-problem prompts that relate to [`RUBRIC.md`](../RUBRIC.md) for teams preparing their pitch (those prompts are not judge instructions).
 
-### Problem 1: Helping Minority-Owned Businesses Identify Relevant City Contract Opportunities — 26/32 — Strong
+### Problem 1: Helping Minority-Owned Businesses Identify Relevant City Contract Opportunities
 
 > How might we use technology to help minority-owned businesses in Richmond more easily identify and understand City contracting opportunities that match their capabilities?
 
 Build toward: Procurement opportunity finder with plain-language descriptions · Procurement jargon translator for first-time vendors · Vendor readiness guide · Business-type-to-opportunity matching interface
 
-⚠ Existing procurement portal must remain the official source — surface it, don't replace it. Confirm data format (API, CSV, or scraping) before building. Must not make eligibility determinations.
+⚠ Existing procurement portal must remain the official source ,  surface it, don't replace it. Confirm data format (API, CSV, or scraping) before building. Must not make eligibility determinations.
 
 ---
 
-### Problem 2: Small Business Navigation & Business Setup Friction — 24/32 — Strong
+### Problem 2: Small Business Navigation & Business Setup Friction
 
 > How might we improve how emerging and home-based entrepreneurs start and register a business in Richmond so they understand the right steps, complete them in the right order, and connect to relevant City services?
 
@@ -46,26 +48,19 @@ Build toward: Small business setup navigator (step-by-step, plain language, corr
 
 ---
 
-### Top Blue Sky: Rebuilding the Pathway Into the Trades — 22/27 — Strong ★ Recommended
+### Top Blue Sky: Rebuilding the Pathway Into the Trades
 
-> How might we use technology to help more Richmond residents — especially from underrepresented communities — discover, prepare for, and persist in high-opportunity trades and technical careers?
+> How might we use technology to help more Richmond residents ,  especially from underrepresented communities ,  discover, prepare for, and persist in high-opportunity trades and technical careers?
 
 Pick one phase of the lifecycle: **discover** (what trades careers exist and pay), **prepare** (what training programs are available), or **persist** (navigate apprenticeship barriers). Do not try to cover all three in a weekend.
 
 ---
 
-### Pillar Award Rubric
+### Rubric reference
 
-| Category | Weight | Dominant question |
-|----------|--------|-------------------|
-| **Impact** | **5** | Does this directly address one of the two problems above? |
-| User Value | 4 | Is there a specific real user? Does the prototype improve their experience? |
-| Feasibility | 3 | Could this be piloted by a City department or economic development partner? |
-| Innovation | 3 | Fresh thinking on procurement access or business navigation? |
-| Execution | 3 | Does a working demo exist? Is the flow coherent? |
-| Equity | 3 | Does it specifically reach minority-owned businesses and first-time entrepreneurs? |
+Hackathon judges use the category framework in [`../RUBRIC.md`](../RUBRIC.md). Optional prompts in [`CHALLENGE.md`](CHALLENGE.md) help teams prepare their story; they are not instructions to judges.
 
-Official rubric — category definitions, scoring anchors, and judge-facing guidance: [`../RUBRIC.md`](../RUBRIC.md)
+A single-file Markdown handout (same content as `CHALLENGE.md` plus a short cover note) is at [`docs/PARTICIPANT_HANDOUT.md`](docs/PARTICIPANT_HANDOUT.md).
 
 ---
 
@@ -76,20 +71,20 @@ Land → Orient → Choose → Research → Frame MVPs → Lock Scope → Build 
 ```
 
 **New team?** Start at [Quick Start](#quick-start).
-**Already have a problem?** Jump to [Phase 4 — Opportunity Framing](#).
+**Already have a problem?** Jump to [Phase 4  -  Opportunity Framing](#).
 
 ---
 
 ## Quick Start
 
-*First 15–30 minutes:*
+*First 15-30 minutes:*
 
 | Step | Action |
 |------|--------|
-| 1 | Read `CHALLENGE.md` — the two problems, top blue sky, Pillar Award weights, and optional per-problem rubric prompts (start here, not QUICKSTART.md) |
+| 1 | Read `CHALLENGE.md`  -  the two problems, top blue sky, Pillar Award weights, and optional per-problem rubric prompts (start here, not QUICKSTART.md) |
 | 2 | Read `QUICKSTART.md` for the minimal path |
 | 2 | Skim `00_core/00_pillar_overview.md` to understand the problem space |
-| 3 | Read `01_problem_space/02_targeted_problem_statements.md` — two strong, scored problems ready to go |
+| 3 | Read `01_problem_space/02_targeted_problem_statements.md`  -  two strong, scored problems ready to go |
 | 4 | Fill out a 5-bullet Working Direction using `99_templates/working_direction_note.md` |
 | 5 | **Choose your path:** already have a problem → Phase 2 & 4 · still exploring → start at Phase 1 |
 
@@ -104,7 +99,7 @@ Land → Orient → Choose → Research → Frame MVPs → Lock Scope → Build 
 | `02_data/` | Data index, source inventory |
 | `03_artifacts/` | User journeys, decision trees, prototype recommendations, research notes |
 | `04_build_guides/` | MVP shapes, architectures, demo advice |
-| `research/` | 51 deep research reports (sections A–I + cross-cutting) |
+| `research/` | 51 deep research reports (sections A-I + cross-cutting) |
 | `skills/` | Hackbot skill modules (14 skills) |
 | `99_templates/` | Working direction, decision memo, project one-pager, team profile |
 | `getting-started/` | Event-day OpenCode + Featherless setup |
@@ -136,9 +131,9 @@ Land → Orient → Choose → Research → Frame MVPs → Lock Scope → Build 
 ## Decision Phases
 
 <details open>
-<summary><strong>Phase 0 — Landing & Framing</strong></summary>
+<summary><strong>Phase 0  -  Landing & Framing</strong></summary>
 
-**Goal:** Understand what this repo is and how to use it — without "exploring" for two hours.
+**Goal:** Understand what this repo is and how to use it  -  without "exploring" for two hours.
 
 **This pillar covers:**
 - Equitable access to City contracting opportunities for minority-owned businesses
@@ -157,7 +152,7 @@ Land → Orient → Choose → Research → Frame MVPs → Lock Scope → Build 
 </details>
 
 <details open>
-<summary><strong>Phase 1 — Rapid Orientation (20–30 min)</strong></summary>
+<summary><strong>Phase 1  -  Rapid Orientation (20-30 min)</strong></summary>
 
 Read just enough to build a shared mental model:
 
@@ -168,7 +163,7 @@ Read just enough to build a shared mental model:
 
 Filter for: user groups · pain points · what the City actually cares about · problems that are software-shaped vs. policy-shaped.
 
-**Team checkpoint — Working Direction** (use `99_templates/working_direction_note.md`):
+**Team checkpoint  -  Working Direction** (use `99_templates/working_direction_note.md`):
 
 ```
 Pillar: Thriving Economy
@@ -182,14 +177,14 @@ Biggest uncertainty:
 </details>
 
 <details>
-<summary><strong>Phase 2 — Problem Selection (30–45 min)</strong></summary>
+<summary><strong>Phase 2  -  Problem Selection (30-45 min)</strong></summary>
 
 **Files:**
 - `01_problem_space/01_bluesky_problem_statements.md`
 - `01_problem_space/02_targeted_problem_statements.md`
 - `_admin/05_prompts/01_problem_selection_prompt.md`
 
-**Decision rule — choose only if the problem has:**
+**Decision rule  -  choose only if the problem has:**
 - A real user with an understandable workflow
 - A plausible public data or document base
 - A demoable artifact by Sunday
@@ -207,7 +202,7 @@ Risks:
 </details>
 
 <details>
-<summary><strong>Phase 3 — Research Spin-Up (60–90 min)</strong></summary>
+<summary><strong>Phase 3  -  Research Spin-Up (60-90 min)</strong></summary>
 
 **Goal:** Gather just enough evidence to avoid fantasy software.
 
@@ -224,12 +219,12 @@ Confirmed · Likely but unverified · Missing
 Useful datasets · Useful source documents · Prior art · Risks
 ```
 
-> **Tip:** Parse URLs from API metadata — don't ask for URLs in prompt text.
+> **Tip:** Parse URLs from API metadata  -  don't ask for URLs in prompt text.
 
 </details>
 
 <details>
-<summary><strong>Phase 4 — Opportunity Framing (45–60 min)</strong></summary>
+<summary><strong>Phase 4  -  Opportunity Framing (45-60 min)</strong></summary>
 
 **Compare at least two MVP shapes before choosing.**
 
@@ -255,7 +250,7 @@ What we are explicitly NOT building:
 </details>
 
 <details>
-<summary><strong>Phase 5 — Scope Lock (45–60 min)</strong></summary>
+<summary><strong>Phase 5  -  Scope Lock (45-60 min)</strong></summary>
 
 Use `99_templates/project_one_pager_template.md` to pin down must-haves, mockables, data sources, AI role, limits, and demo path.
 
@@ -266,7 +261,7 @@ Use `99_templates/project_one_pager_template.md` to pin down must-haves, mockabl
 </details>
 
 <details>
-<summary><strong>Phases 6–9 — Build → Validate → Demo</strong></summary>
+<summary><strong>Phases 6-9  -  Build → Validate → Demo</strong></summary>
 
 **Build:** Break work into FE / BE / data / content. Assign source verification and demo owner. Keep AI constrained to explanation, retrieval, comparison, and guidance.
 
@@ -310,11 +305,11 @@ Hackbot is the AI assistant built for this repo. It reconstructs context, runs r
 ## Appendix: Pillar Committee Context
 
 <details>
-<summary>Session notes — March 11, 2026</summary>
+<summary>Session notes, March 11, 2026</summary>
 
 *Prepared by Christian Markow et al.*
 
-**Working Session:** February 23, 2026, 1:30–3:30 PM · Lost Office Collaborative, 5000 Old Main St, Henrico, VA 23231
+**Working Session:** February 23, 2026, 1:30-3:30 PM · Lost Office Collaborative, 5000 Old Main St, Henrico, VA 23231
 
 **Participants**
 
@@ -323,21 +318,16 @@ Hackbot is the AI assistant built for this repo. It reconstructs context, runs r
 | Nonprofit Partner | Martha Shickle | PlanRVA | martha@PlanRVA.org |
 | Nonprofit Partner | Heather Lyne | 1717 Collective | hlyne@1717collective.org |
 | City Representative | Sharon Ebert | DCAO | Sharon.Ebert@rva.gov |
-| Hack RVA | Christian, Heather, Michael | Organizer team | — |
+| Hack RVA | Christian, Heather, Michael | Organizer team | - |
 
-**Rubric Scores**
+**Workshop comparison (internal):** Statements were discussed on clarity, scope, data readiness, champions, and accessibility. Use `CHALLENGE.md` and `01_problem_space/` for current problem framing.
 
-| Problem Statement | Score | Band |
-|------------------|-------|------|
-| MBE Contracting | 26/32 | Strong |
-| Small Business Navigation | 24/32 | Strong |
-
-*Dimensions: Clarity · Scope · Data readiness · Champion · Population & impact · Operating environment · Success criteria · Accessibility*
+*Dimensions discussed: Clarity · Scope · Data readiness · Champion · Population and impact · Operating environment · Success criteria · Accessibility*
 
 **Quick-kill flags:** Both statements lack a continuation pathway. Small Business Navigation has a procedural data gap.
 
 **Prioritized actions before March 27:**
-1. Document the business registration decision tree (Strong → Exceptional)
+1. Document the business registration decision tree
 2. Name a departmental champion (continuation pathway)
 3. Clarify procurement portal data format (API/CSV/scrape)
 4. Link City Contracts Registry into the MBE statement

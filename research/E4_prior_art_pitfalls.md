@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # E4 Prior-Art Pitfalls
 *(A concise guide for patent practitioners – updated 2026-03)*
 

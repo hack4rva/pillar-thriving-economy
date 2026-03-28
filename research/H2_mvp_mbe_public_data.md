@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # MVP Feasibility Assessment: Building a Minority Business Enterprise Prototype Using Public Data
 
 ## Executive Summary

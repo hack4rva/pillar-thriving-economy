@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Thriving Economy — Pillar Overview
 
 This repository supports teams working on the **Thriving Economy** pillar of the Richmond Civic Hackathon. It helps you understand the problem space, review scored problem statements, explore public data, and shape realistic weekend MVPs.

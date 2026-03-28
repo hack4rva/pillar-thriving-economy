@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Benchmark Scan
 
 Format: what it does | who it serves | why it matters | transferable pattern | type

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Continuation Pathway Plan (Outline — to be filled with verified contacts)
 
 ## Likely stakeholders to engage

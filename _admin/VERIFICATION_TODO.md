@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Verification TODO (Admin)
 
 Purpose: Track the minimum verification work to make seeded research production‑ready for teams.

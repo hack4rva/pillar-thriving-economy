@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Project Archetypes and Demo Clarity: Identifying the Most Immediately Understandable Project Types for Civic Innovation Stakeholders
 
 This report examines which project archetype frameworks are most conducive to clear stakeholder understanding during abbreviated demonstration sessions, with particular emphasis on civic innovation contexts involving judges, nonprofit partners, and municipal stakeholders. Through analysis of project archetype literature and demonstration efficacy research, this study identifies that highly structured, outcome-oriented project types communicate most effectively in time-constrained settings, while exploratory and complex initiatives require substantially greater contextual framing and iterative explanation to achieve comparable stakeholder comprehension and buy-in.

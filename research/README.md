@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Thriving Economy Pillar — Research Index
 
 Deep research outputs generated via Perplexity `sonar-deep-research`. Each prompt has a `.md` (full text) and `.json` (API response with metadata and citations).

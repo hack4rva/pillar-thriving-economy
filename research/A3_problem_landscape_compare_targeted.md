@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Comparison of Problem Statements: Urgency, Buildability, and Hackathon Readiness
 
 This report analyzes how to evaluate targeted problem statements for hackathon teams by examining two distinct challenges from the provided research materials: a customer service optimization problem and a renewable energy monitoring challenge for rural microgrids. Through structured comparison across urgency, buildability, information quality, and user pain dimensions, this analysis identifies which problem demonstrates greater immediate readiness for hackathon execution and articulates the critical gaps requiring closure for less-prepared statements.

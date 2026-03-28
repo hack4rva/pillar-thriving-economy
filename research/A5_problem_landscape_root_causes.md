@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Problem Landscape A5: Primary Problem Diagnosis Framework
 
 This report presents a comprehensive diagnostic framework for identifying whether the primary barrier to problem-solving in any given scenario stems from lack of data, lack of clarity, lack of sequence, lack of confidence, or lack of a trusted front door. By systematically examining these five fundamental obstacles, organizations can target their interventions more precisely and design prototypes that address the actual root cause rather than symptoms.

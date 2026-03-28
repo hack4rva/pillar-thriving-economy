@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Pillar 4 — Thriving Economy Research Hub
 
 Status: seeded with incoming research content; verification pending. All claims below require citation in `evidence_log.md` and should be validated against primary sources before reuse.

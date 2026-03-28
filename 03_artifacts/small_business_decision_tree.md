@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Small Business Decision Tree
 
 Purpose: Map order of operations and divergent rules by business type.

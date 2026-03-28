@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Structured vs. Manual Data Entry: Cost, Accuracy & AI-Readiness — What Decision-Makers Need to Know
 
 ## Executive Summary

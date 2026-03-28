@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Data Index - Thriving Economy
 
 This folder catalogs datasets and public sources that may help teams build prototypes related to procurement, small business navigation, and workforce/trades pathways.

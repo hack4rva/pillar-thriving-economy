@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # _admin/
 
 Internal working documents and research infrastructure for pillar maintainers. Not intended for hackathon participants.

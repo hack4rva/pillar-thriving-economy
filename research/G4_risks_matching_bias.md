@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # G4 Risks – Matching Bias in Large Language Models
 
 *Prepared: 2026-03*

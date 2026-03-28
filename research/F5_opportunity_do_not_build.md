@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # F5 Networks: Strategic "Do Not Build" List – Identifying Initiatives Beyond Authority, Data Access, and Claims Validation
 
 This comprehensive analysis identifies specific product opportunities, features, and initiatives that F5 Networks should explicitly exclude from its development roadmap based on three critical constraints: the absence of requisite organizational authority, inaccessibility to necessary data sources, and inability to substantiate required claims. By establishing clear boundaries on what not to build, F5 can allocate resources strategically toward initiatives where the company possesses full operational control, data ownership, and verifiable capabilities. This report examines F5's current infrastructure, organizational structure, and technical scope to delineate initiatives that would expose the company to operational risks, regulatory violations, compliance failures, and reputational damage.

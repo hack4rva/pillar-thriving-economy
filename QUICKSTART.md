@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 # Quickstart
 
 *You have a weekend. Here's the fastest path from zero to a credible demo.*

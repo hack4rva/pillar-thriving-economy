@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # From Place-holders to Publishable: Turning 90_top_10_research_questions.md into a Credible, Ready-to-Share Document
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../../docs/methodology.md) for details.
+
 # Parallel.ai Research Runner
 
 Runs the prompts in `05_prompts/research/` through the Parallel.ai Task API and saves results to `research/`.

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../../../docs/methodology.md) for details.
+
 # Perplexity Runner (Scaffold)
 
 This folder provides a lightweight scaffold to run the prompts in `05_prompts/research` against the Perplexity API and save results under `05_prompts/research-output`.

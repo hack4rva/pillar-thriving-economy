@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # E3 Prior-Art Archetype Mapping
 
 *Version: 1.0 – 2026-03-24* 

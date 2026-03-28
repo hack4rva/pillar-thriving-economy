@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 # Pillar Repo Replication Playbook
 
 How to bootstrap a new hackathon pillar repository from nothing but a rubric evaluation document.

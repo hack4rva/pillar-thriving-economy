@@ -22,6 +22,8 @@ related_reports:
   - E5_prior_art_weekend_viability
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Credible 48-Hour MVPs: Realistic Scope and Feasibility Framework
 
 A credible 48-hour MVP represents a deliberately constrained product that validates a single core hypothesis about user behavior or market demand through functional features, rather than comprehensive prototypes or marketing simulations. Rather than attempting to build a feature-complete product or comprehensive proof of concept, realistic 48-hour MVPs succeed by ruthlessly prioritizing a single value loop, accepting manual workarounds where automation would consume critical time, and maintaining clear distinctions between genuinely functional components and strategically mocked elements. This report examines the architectural and practical foundations that differentiate between ambitious fantasies and credible 48-hour deliverables, provides concrete frameworks for assessing feasibility, and presents two detailed MVP archetypes with explicit delineation of functional requirements versus acceptable mock elements.

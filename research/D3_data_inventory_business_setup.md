@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # D3 Data Inventory – Business Setup
 
 *Last updated: 2024‑11* 

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # From Draft to Publication: Actionable Guardrails for the G5 Risks Practical Guide (2026)
 
 ## Executive Summary

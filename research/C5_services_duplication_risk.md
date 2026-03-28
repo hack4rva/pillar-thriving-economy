@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Navigating Duplication Risk in Hackathons: Identifying Real Gaps and Building Differentiated Solutions
 
 Hackathon teams frequently face a critical challenge that undermines their potential for long-term impact: they develop solutions that duplicate existing services, leaving their innovations stranded after the event without a pathway to commercialization. Research demonstrates that while hackathons successfully generate creative energy and rapid prototyping, the lack of rigorous market validation before development leads to a significant portion of projects never progressing beyond the demo stage.[1] This comprehensive analysis explores where duplication risks emerge in hackathon environments, provides frameworks for identifying authentic market gaps, and outlines strategic approaches to differentiation and partnership that enable teams to create genuinely innovative solutions with real market potential.
