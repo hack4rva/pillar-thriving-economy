@@ -15,7 +15,7 @@
     "excerpt": "iSupplier required for vendor registration; 2-minute session timeout"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:03a296c81521",
@@ -33,7 +33,7 @@
     "excerpt": "Active solicitations managed via OpenGov procurement portal"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:060c54804d05",
@@ -51,7 +51,7 @@
     "excerpt": "SBSD SWaM Directory"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:06fb1dbe80a4",
@@ -69,7 +69,7 @@
     "excerpt": "OMBD maintains MBE/ESB directory"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:0798ca98b928",
@@ -87,7 +87,7 @@
     "excerpt": "How should the navigator reconcile user identities across the different systems: the OpenGov account, the iSupplier vendor ID (from RAPIDS/Oracle), and the OMBD directory profile? Can we match on Tax ID or legal name, or must we rely on user-asserted mapping?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:08893b71fa75",
@@ -105,7 +105,7 @@
     "excerpt": "BPOL new-business incentive: $30 flat for first 2 years"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:09af10417eca",
@@ -123,7 +123,7 @@
     "excerpt": "Can we access OpenGov’s Richmond portal via API or feeds to pull new/updated solicitations (title, description, attachments, commodity/NIGP codes, due dates) in near real-time?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:0d7bd6697ed4",
@@ -141,25 +141,7 @@
     "excerpt": "The procurement and vendor management ecosystem for the City of Richmond is highly fragmented, with essential data siloed across at least four distinct, non-integrated systems. Solicitations and bid submissions are managed through OpenGov. Vendor registration and payment details are handled in a separate Oracle-based system, iSupplier. MBE/ESB certification and directories are maintained in B2Gnow. And statewide opportunity leads are distributed via the state's eVA platform. This data fragmentation creates significant inefficiencies for all parties. MBE owners are forced to create and maintain profiles on multiple sites and must actively monitor each one to ensure they don't miss notices. For OMBD and DPS staff, the silos make it nearly impossible to get a holistic, real-time view of the procurement landscape. They cannot easily match vendors from the B2Gnow directory to new solicitations in OpenGov or track an MBE's journey from initial outreach to final award. Furthermore, key transparency data on contracts is only updated monthly on the Open Data Portal, introducing a critical lag that prevents proactive, data-driven engagement with suppliers and makes it difficult to measure the impact of equity initiatives in a timely manner."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
- },
- {
-  "id": "e:1053cb071339",
-  "source": "n:evidence:e-009",
-  "target": "n:org:vdh-richmond-city-health-district",
-  "type": "ASSOCIATED_WITH",
-  "description": "Evidence log names VDH / Richmond City Health District as the source of this claim",
-  "repo": "pillar-thriving-economy",
-  "evidenceStatus": "documented",
-  "confidence": "high",
-  "provenance": [
-   {
-    "sourceDoc": "admin/evidence_log.md",
-    "sourceLocation": "lines 19-19",
-    "excerpt": "Food establishment plan review: submit permit at least 30 days before opening"
-   }
-  ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:107d1b4c4172",
@@ -177,7 +159,7 @@
     "excerpt": "Should outreach events (notices sent, opens, replies) be written back to B2Gnow or stored in a City CRM; who owns that record and retention?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:10e6fd8ff7c7",
@@ -195,43 +177,7 @@
     "excerpt": "What barriers most affect home occupations and micro-retailers in Richmond (fees, inspections scheduling, documentation, digital access), and how can the wizard mitigate them (fee transparency, appointment help, printable packets)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
- },
- {
-  "id": "e:1389aef5825f",
-  "source": "n:org:virginia-dept-of-health-richmond-city-health-district",
-  "target": "n:dataset:vdh-food-establishment-permit-rchd",
-  "type": "PUBLISHES",
-  "description": "Virginia Dept of Health / Richmond City Health District owns/publishes \"VDH Food Establishment Permit (RCHD)\" (html|pdf)",
-  "repo": "pillar-thriving-economy",
-  "evidenceStatus": "reported_but_unverified",
-  "confidence": "medium",
-  "provenance": [
-   {
-    "sourceDoc": "data/source_inventory.csv",
-    "sourceLocation": "row id=9",
-    "excerpt": "VDH Food Establishment Permit (RCHD)"
-   }
-  ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
- },
- {
-  "id": "e:1466b586706f",
-  "source": "n:evidence:e-003",
-  "target": "n:org:richmond-international-airport-eva",
-  "type": "ASSOCIATED_WITH",
-  "description": "Evidence log names Richmond International Airport / eVA as the source of this claim",
-  "repo": "pillar-thriving-economy",
-  "evidenceStatus": "documented",
-  "confidence": "high",
-  "provenance": [
-   {
-    "sourceDoc": "admin/evidence_log.md",
-    "sourceLocation": "lines 13-13",
-    "excerpt": "eVA used by Richmond regional entities (e.g., RAA)"
-   }
-  ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:158e4b2b8b8b",
@@ -249,7 +195,7 @@
     "excerpt": "The complexities and fragmented nature of Richmond's business permitting and licensing process have significant equity implications, disproportionately affecting specific entrepreneurial groups. The system's challenges are most acutely felt by minority-owned and women-owned businesses, as well as entrepreneurs from lower-income backgrounds. These individuals and groups often have less access to the critical resources—such as capital for legal or consulting services, established professional networks, and the time to navigate a convoluted bureaucracy—that can make the process more manageable. The provided research highlights that a 2026 city report acknowledged 'significant economic disparities between minority and non-minority communities' in Richmond. The current system, with its scattered information, unclear requirements (e.g., CZC vs. CO), and historical delays, functions as a significant barrier to entry. This barrier can stifle entrepreneurship within these communities, hindering economic mobility, wealth creation, and the overall diversity of the local business landscape, thereby exacerbating the very inequalities the city aims to address."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:1e636f87a02d",
@@ -267,7 +213,25 @@
     "excerpt": "Entrepreneurs face fragmented and unclear information, making it difficult to find a single, authoritative source that outlines the entire process from zoning verification to obtaining a business license."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
+ },
+ {
+  "id": "e:1e816362afb8",
+  "source": "n:org:virginia-dept-of-health",
+  "target": "n:dataset:vdh-food-establishment-permit-rchd",
+  "type": "PUBLISHES",
+  "description": "Virginia Dept of Health owns/publishes \"VDH Food Establishment Permit (RCHD)\" (html|pdf)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=9",
+    "excerpt": "VDH Food Establishment Permit (RCHD)"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:1e929a01843b",
@@ -285,7 +249,7 @@
     "excerpt": "A primary challenge for first-time entrepreneurs in Richmond is navigating the confusing and fragmented sequence of steps between state and city requirements. The process begins with registering the business entity with the Virginia State Corporation Commission (SCC). However, there is a lack of clear, integrated guidance on how this state-level registration connects to the subsequent, mandatory city-level processes. Entrepreneurs are often unaware that state registration is merely the first step and does not clear them to operate. The SCC website itself notes that after state registration, businesses may need to contact other federal, state, and local agencies, which underscores the decentralized nature of the compliance journey. This creates a significant pain point, as new business owners do not have a single, authoritative source to understand the complete, ordered checklist, leading to uncertainty and potential missteps from the very beginning of their venture."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:1f12505a5379",
@@ -303,7 +267,7 @@
     "excerpt": "How does the tool align with Richmond’s MBE/ESB goals and Title VI language access—e.g., thresholds for targeted outreach, documentation required for audits, and processes for non-digital vendors?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:1f4c434b8bd2",
@@ -321,7 +285,7 @@
     "excerpt": "Which elements of NYC’s MyCity Step-by-Step should be replicated (personalized checklist, permit/licensing consolidation, status) and which must adapt to Richmond’s CZC/BPOL specifics?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:1fd1375edf5f",
@@ -339,7 +303,7 @@
     "excerpt": "City procurement contracts available via Socrata API (SODA/OData)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:21fb30d5f39f",
@@ -357,7 +321,7 @@
     "excerpt": "Vendor notification preferences: channel (email/SMS), language support (per City Language Access policy), frequency limits, and ability to pause/feedback on “not relevant” matches."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:22e4eebddd95",
@@ -375,7 +339,7 @@
     "excerpt": "Trade-Specific Licensing and Insurance Ambiguity"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:23a0288369b8",
@@ -393,7 +357,7 @@
     "excerpt": "Which top Richmond business archetypes should the wizard optimize for first (e.g., small restaurant, retail, contractor, sidewalk vendor, home occupation, salon, professional services), based on volume and failure points?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:23cb7c60c99b",
@@ -411,7 +375,25 @@
     "excerpt": "How should the wizard sequence Richmond’s unique dependencies (CZC/CO before BPOL issuance; health/ABC prerequisites) in contrast to general state guidance from Virginia Business One Stop?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
+ },
+ {
+  "id": "e:2d7f816276ed",
+  "source": "n:org:dept-of-general-services",
+  "target": "n:dataset:virginia-eva-state-procurement",
+  "type": "PUBLISHES",
+  "description": "Dept of General Services owns/publishes \"Virginia eVA (State Procurement)\" (html|portal)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=3",
+    "excerpt": "Virginia eVA (State Procurement)"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:2d86f91393b6",
@@ -429,7 +411,7 @@
     "excerpt": "Divergent Paths for Different Business Uses"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:2f0cc262a1be",
@@ -447,7 +429,7 @@
     "excerpt": "The groups most negatively impacted are the smallest Minority Business Enterprises (MBEs), new entrants to the city contracting market, and firms that lack dedicated administrative or proposal staff. These businesses bear the brunt of the administrative burden required for multi-portal monitoring, multiple registration processes, and parsing extensive solicitation documents. The summary also notes that language access needs can further compound these barriers."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:302443b5f304",
@@ -465,7 +447,7 @@
     "excerpt": "How will we prevent “spray and pray” blasts—what precision threshold is acceptable for a match, and what audit trail is required to demonstrate fair, non-discriminatory outreach?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:311d98ec1297",
@@ -483,7 +465,7 @@
     "excerpt": "Entrepreneurs face fragmented and unclear information, making it difficult to find a single, authoritative source that outlines the entire process from zoning verification to obtaining a business license."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:323831166956",
@@ -501,7 +483,7 @@
     "excerpt": "BPOL new-business incentive: $30 flat for first 2 years"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:3239fbccd9cc",
@@ -519,7 +501,7 @@
     "excerpt": "Baltimore"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:329264c16391",
@@ -537,7 +519,7 @@
     "excerpt": "Can the dashboard identify unregistered but Richmond-based MBEs for proactive onboarding (e.g., from business license or OMBD outreach lists) while complying with privacy rules?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:32da5a2bcba0",
@@ -555,7 +537,7 @@
     "excerpt": "What accommodations are needed for founders without reliable broadband or who prefer in-person help (e.g., printable checklists, SMS reminders, referrals to OMBD counselors)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:33893b94d0ae",
@@ -573,7 +555,7 @@
     "excerpt": "When I’m an underrepresented supplier who’s had limited success winning City work,"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:361b40b8de6c",
@@ -591,7 +573,7 @@
     "excerpt": "The burdens of the current system disproportionately affect the most vulnerable businesses. This includes micro and small MBE/ESB firms that lack dedicated administrative or procurement staff, first-time bidders and new-to-city vendors navigating the complex process for the first time, and firms not yet connected to the informal networks of prime contractors. Evidence from peer cities like Durham suggests that Black-owned businesses in particular report lower success rates, indicating they are among the most affected groups."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:372d89d58ca4",
@@ -609,7 +591,7 @@
     "excerpt": "What is the authoritative data model for Richmond permit types in OPP (including Certificates of Zoning Compliance, Certificates of Occupancy, sign permits, trade permits) and their prerequisites? Can we access it via API or scheduled export?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:3747c2e2c15e",
@@ -627,7 +609,7 @@
     "excerpt": "Fragmented, multi-portal sequence with unclear handoffs and sequencing risk."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:37483bd9b7b8",
@@ -645,7 +627,7 @@
     "excerpt": "RVA Business Portal launched for BPP/BPOL (January 2025)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:3c4e66797562",
@@ -663,7 +645,7 @@
     "excerpt": "Food establishment plan review: submit permit at least 30 days before opening"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:3d021bef9655",
@@ -681,7 +663,7 @@
     "excerpt": "Information Fragmentation and System Disconnectivity"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:3de58cc67262",
@@ -699,7 +681,7 @@
     "excerpt": "A core pain point identified is that 'inconsistent metadata' across the fragmented systems hinders a vendor's ability to get a complete and accurate picture of an opportunity. This problem is compounded by the fact that information is spread across OpenGov, a separate open data portal for historical awards, and a PDF forecast, each with potentially different data standards and update cadences."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:3f0430a17ad1",
@@ -717,7 +699,7 @@
     "excerpt": "RVA Business Portal launched for BPP/BPOL (January 2025)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:40070c106dbd",
@@ -735,7 +717,7 @@
     "excerpt": "iSupplier required for vendor registration; 2-minute session timeout"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:4197639034aa",
@@ -753,7 +735,7 @@
     "excerpt": "SBSD SWaM certification processing time ~60 business days"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:4228370fade2",
@@ -771,7 +753,7 @@
     "excerpt": "There are direct contradictions in the city's instructions for bidders. While the main solicitations page mandates that 'All bids and proposals are to be submitted electronically through OpenGov,' the Invitation for Bid (IFB) page simultaneously references an 'official, hard copy, solicitation document' located at City Hall. This ambiguity creates confusion and risk for bidders, especially those new to the process."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:436a3e4d5c84",
@@ -789,7 +771,7 @@
     "excerpt": "National (State/Local Governments)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:44807360ee85",
@@ -807,7 +789,7 @@
     "excerpt": "What fields exist in the City Contracts Open Data dataset (e.g., contract number, vendor, department, start/end dates, amount, status), what is its true update frequency, and how can we reliably join it to OpenGov solicitations/awards? Is there a unique key like a solicitation or contract ID?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:459fad7bd015",
@@ -825,7 +807,7 @@
     "excerpt": "RVA Business Portal (BPOL/BPP)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:4679fad08425",
@@ -843,7 +825,7 @@
     "excerpt": "Can the Finance Business Unit expose BPOL categories, rates, and documentation requirements as structured data, including the “BPOL within 30 days” rule and penalties, to drive rules logic?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:471ae782741d",
@@ -861,7 +843,7 @@
     "excerpt": "The city's primary tool for applications, the Online Permit Portal (OPP), is ineffective and not user-friendly, creating a frustrating and confusing experience for new business owners."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:47ce74cb9fbc",
@@ -879,7 +861,7 @@
     "excerpt": "When I’m a Richmond-based, SWaM/MBE-certified contractor scanning for upcoming City work across construction, professional, and small-purchase categories,"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:483beb5fb208",
@@ -897,7 +879,25 @@
     "excerpt": "Confusion over trade-specific requirements"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
+ },
+ {
+  "id": "e:49e4c591bc55",
+  "source": "n:evidence:e-003",
+  "target": "n:org:richmond-international-airport",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names Richmond International Airport as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 13-13",
+    "excerpt": "eVA used by Richmond regional entities (e.g., RAA)"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:4b6b3644b0c9",
@@ -915,7 +915,25 @@
     "excerpt": "When I’m investing my limited savings into my first storefront or home-based business."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
+ },
+ {
+  "id": "e:4bb015552b68",
+  "source": "n:evidence:e-009",
+  "target": "n:org:vdh",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names VDH as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 19-19",
+    "excerpt": "Food establishment plan review: submit permit at least 30 days before opening"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:50e8902fcef2",
@@ -933,7 +951,7 @@
     "excerpt": "What aspects of Philadelphia’s Contracts Hub, which acts as an aggregator for multi-site searches and provides plain-language guides, are technically feasible to implement for Richmond’s specific stack (OpenGov + Open Data + OMBD directory)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:51473d2d72cd",
@@ -951,7 +969,7 @@
     "excerpt": "Can we embed or deep-link to the OpenGov Advanced Search with pre-filled filters? Are there any Single Sign-On (SSO) possibilities with City systems, or must users maintain separate logins for OpenGov and iSupplier?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:521f1527077f",
@@ -969,7 +987,7 @@
     "excerpt": "How will the wizard surface OMBD, SBDC, Enterprise Zone/CARE, and Revolving Loan supports at the right moment (e.g., before build-out, before BPOL) for SWaM, micro, and LMI founders?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:52ccc4b89612",
@@ -987,7 +1005,7 @@
     "excerpt": "When I’m preparing to open (e.g., restaurant/retail) in Richmond"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:530e5d3aa8b9",
@@ -1005,7 +1023,7 @@
     "excerpt": "The entrepreneurial communities most negatively affected by the current system's complexity are those with systemic disadvantages. This includes founders with limited English proficiency and those without digital access, who face significant friction navigating multiple, English-only government portals (OPP, RVA Business Portal, B2GNow). Low-capital founders, such as those starting home-based businesses, micro-enterprise food operators, and mobile food vendors, are disproportionately impacted by unexpected costs, review delays, and fees. Small, minority-owned contractors are similarly harmed by review delays and missed rebates that affect their thin profit margins. Additionally, founders with limited professional networks or administrative capacity are more likely to miss out on complex incentives like the CARE and Enterprise Zone programs, which have strict eligibility, documentation, and timing requirements, thus increasing their upfront capital pressure."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:536f413bbb77",
@@ -1023,7 +1041,7 @@
     "excerpt": "Are there authoritative award histories and unsuccessful bidder lists we can join to vendor attributes for precision/recall evaluation of matching?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:57d1d0d66d43",
@@ -1041,7 +1059,7 @@
     "excerpt": "When I’m a first-time entrepreneur in Richmond picking a location and preparing to open."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:58d2354bd330",
@@ -1059,7 +1077,7 @@
     "excerpt": "Unclear sequencing of required steps"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:5e25521efe1d",
@@ -1077,7 +1095,7 @@
     "excerpt": "Erosion of trust due to historical underutilization of MBEs and unofficial-looking communications."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:6139726abbd4",
@@ -1095,7 +1113,25 @@
     "excerpt": "Confusing and Rigid Process Sequencing"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
+ },
+ {
+  "id": "e:63cb6a38ce5c",
+  "source": "n:org:commonwealth-of-virginia",
+  "target": "n:dataset:virginia-eva-state-procurement",
+  "type": "PUBLISHES",
+  "description": "Commonwealth of Virginia owns/publishes \"Virginia eVA (State Procurement)\" (html|portal)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=3",
+    "excerpt": "Virginia eVA (State Procurement)"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:664d54679192",
@@ -1113,7 +1149,7 @@
     "excerpt": "Fragmented guidance and information"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:68275010b23f",
@@ -1131,7 +1167,7 @@
     "excerpt": "What specific proof points or features would most effectively reduce anxiety for first-time MBE bidders (e.g., interactive checklists, visible status of steps from iSupplier/OpenGov, deadline reminders, prominent addenda alerts)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:6b628a26af57",
@@ -1149,7 +1185,7 @@
     "excerpt": "Is it possible for the navigator to surface payment or Purchase Order (PO) status from the iSupplier portal for active or closed contracts as a trust-building signal, or is that information restricted?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:6bc2a5dac272",
@@ -1167,7 +1203,7 @@
     "excerpt": "Duplicative data entry across multiple systems"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:6c4d3110235f",
@@ -1185,7 +1221,7 @@
     "excerpt": "ABC licensing: up to 60-day processing; 10 consecutive days public notice; 30-day objection window"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:6ca964ed58db",
@@ -1203,7 +1239,7 @@
     "excerpt": "iSupplier required for vendor registration; 2-minute session timeout"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:6ceda61f7202",
@@ -1221,7 +1257,7 @@
     "excerpt": "Can we receive webhooks or scheduled data pulls from OpenGov; if not, is email parsing or scraping permitted by policy?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:6fb4b981a34f",
@@ -1239,7 +1275,7 @@
     "excerpt": "Entrepreneurs experience anxiety due to uncertain timelines and the city's historical reputation for significant permitting delays."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:70d6a121fc46",
@@ -1257,7 +1293,7 @@
     "excerpt": "Entrepreneurs experience anxiety due to uncertain timelines and the city's historical reputation for significant permitting delays."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:70d976c8b25b",
@@ -1275,7 +1311,7 @@
     "excerpt": "Durham"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:71ab0884699c",
@@ -1293,7 +1329,7 @@
     "excerpt": "Unclear sequencing of required steps"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:75a7e2a76447",
@@ -1311,7 +1347,7 @@
     "excerpt": "What language accessibility and reading-level targets are needed (e.g., Spanish, Vietnamese)? Any required plain-language standards for City content?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:76f262ee9502",
@@ -1329,7 +1365,7 @@
     "excerpt": "The pain points faced by Minority-Owned Businesses (MBEs) in Richmond are rooted in several systemic barriers that create an inequitable contracting landscape. A primary issue is the fragmented and inconsistent procurement infrastructure, where opportunities are split between the city's new OpenGov portal and the state's legacy eVA/VBO system, with a mix of electronic and paper-based submission requirements. This creates confusion and a high administrative burden. Compounding this is the city's policy that places the entire risk of tracking solicitation addenda on the vendor, where a single oversight can lead to disqualification. Furthermore, national research highlights that cumbersome insurance and bonding requirements act as significant financial hurdles for smaller firms that may lack the necessary capital or credit history. Ineffective government outreach networks also perpetuate an 'insider's game,' limiting awareness of opportunities for firms not already connected. These systemic issues collectively disadvantage smaller, newer, and minority-owned firms that have less capacity to navigate the complexity, absorb the risks, and meet the financial prerequisites, thereby hindering equitable participation in city contracting."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:7723a1a00403",
@@ -1347,25 +1383,7 @@
     "excerpt": "Entrepreneurs are forced to interact with multiple, siloed city departments without a single, consistent point of contact to guide them through the entire process."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
- },
- {
-  "id": "e:7ac60dc5082c",
-  "source": "n:org:commonwealth-of-virginia-dept-of-general-services",
-  "target": "n:dataset:virginia-eva-state-procurement",
-  "type": "PUBLISHES",
-  "description": "Commonwealth of Virginia / Dept of General Services owns/publishes \"Virginia eVA (State Procurement)\" (html|portal)",
-  "repo": "pillar-thriving-economy",
-  "evidenceStatus": "reported_but_unverified",
-  "confidence": "medium",
-  "provenance": [
-   {
-    "sourceDoc": "data/source_inventory.csv",
-    "sourceLocation": "row id=3",
-    "excerpt": "Virginia eVA (State Procurement)"
-   }
-  ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:7cbd15aae728",
@@ -1383,7 +1401,7 @@
     "excerpt": "Active solicitations managed via OpenGov procurement portal"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:7e8966400b15",
@@ -1401,7 +1419,7 @@
     "excerpt": "Fragmented, multi-portal sequence with unclear handoffs and sequencing risk."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:8042627adb61",
@@ -1419,7 +1437,7 @@
     "excerpt": "City procurement contracts available via Socrata API (SODA/OData)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:80de24b8b181",
@@ -1437,7 +1455,7 @@
     "excerpt": "Duplicative data entry across multiple systems"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:85164fa18b72",
@@ -1455,7 +1473,7 @@
     "excerpt": "A critical financial barrier for Minority-Owned Businesses (MBEs) is navigating the readiness requirements related to capital and bonding for public contracts. National procurement research, applicable to Richmond's context, identifies 'cumbersome insurance or bonding requirements' as a significant hurdle that can prevent smaller firms and entrepreneurs of color from competing for government work. These requirements often demand a level of financial standing, credit history, or available capital that newer or smaller businesses may not possess. This effectively filters out many MBEs before they can even submit a bid, as they lack the resources to meet these prerequisites. The difficulty in accessing capital and meeting these often-stringent financial stipulations represents a systemic barrier that limits the pool of eligible bidders and hinders efforts to increase diversity in city contracting."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:8649c5c60ea4",
@@ -1473,7 +1491,7 @@
     "excerpt": "How will the wizard incorporate state-level steps (SCC/CIS, Virginia Business One Stop, DPOR, VDACS, VDH, ABC) without duplicating or conflicting with state portals? Deep links vs. data integration?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:878e4e2bf9a5",
@@ -1491,7 +1509,7 @@
     "excerpt": "How will we keep time-sensitive content current (e.g., processing times 2–3 weeks, portal upgrades, fees, forms)? What’s the change-notification source of truth?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:883baa2846e7",
@@ -1509,7 +1527,7 @@
     "excerpt": "Unclear dependencies and mismatched timelines"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:89344b065b6f",
@@ -1527,7 +1545,7 @@
     "excerpt": "When multiple agencies are involved in the business launch process, including Planning and Development Review (PDR) for Permits & Inspections, Zoning, Fire, Health, ABC, the Department of Finance, the Office of Minority Business Development (OMBD), and state-level bodies like the SCC and Virginia Tax."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:8d14e8b7dfa4",
@@ -1545,7 +1563,7 @@
     "excerpt": "How will the “participation gap” be defined numerically (availability vs utilization) and which datasets (City Contracts Open Data, awardees, bidder lists) are canonical for baselining and trend analysis?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:8d237f443223",
@@ -1563,7 +1581,7 @@
     "excerpt": "There is a lack of clear and real-time visibility into the status of submitted applications, leaving entrepreneurs in the dark about their progress."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:8f384b954106",
@@ -1581,7 +1599,7 @@
     "excerpt": "Fragmented guidance and information"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:9153aebf01a0",
@@ -1599,7 +1617,7 @@
     "excerpt": "How will the tool support firms with limited broadband or device access? Will it be mobile-first, offer SMS/email alerts, provide printable checklists, or integrate with in-person OMBD support workflows?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:932faf020898",
@@ -1617,7 +1635,7 @@
     "excerpt": "Can the wizard capture location context (address/APN, zoning district, use table) to recommend the correct path (e.g., when a Special Use Permit might be needed) and generate a location-specific checklist?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:9650aa874b17",
@@ -1635,7 +1653,7 @@
     "excerpt": "There is significant confusion regarding when a Certificate of Zoning Compliance (CZC) is sufficient versus when a more involved Certificate of Occupancy (CO) or a change of occupancy/use permit (HCO) is required."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:98c1a8ce40f6",
@@ -1653,7 +1671,7 @@
     "excerpt": "OpenGov Procurement Portal (Active Bids)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:9f675b477cb6",
@@ -1671,7 +1689,7 @@
     "excerpt": "There is a lack of clear and real-time visibility into the status of submitted applications, leaving entrepreneurs in the dark about their progress."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:a1a2d05ce6e4",
@@ -1689,7 +1707,7 @@
     "excerpt": "Lack of data integration across portals requires duplicative data entry and document uploads."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:a3594c018fc2",
@@ -1707,7 +1725,7 @@
     "excerpt": "Can we integrate with OPP for account linking, pre-populated applications, and status checks for CZC/permits/inspections, and with Finance for BPOL validation? What authentication is required?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:a36b854814fb",
@@ -1725,7 +1743,7 @@
     "excerpt": "Which classification systems and fields are authoritative for Richmond solicitations: NIGP commodity codes, NAICS, or custom categories? How consistently are they populated in OpenGov and in the Open Data City Contracts dataset?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:a420f16f1624",
@@ -1743,7 +1761,7 @@
     "excerpt": "ABC licensing: up to 60-day processing; 10 consecutive days public notice; 30-day objection window"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:a6ebcab47b4f",
@@ -1761,7 +1779,7 @@
     "excerpt": "The entrepreneur's emotional job is to gain confidence and reduce the significant anxiety associated with starting a new business. As they invest their limited personal savings, they need to feel in control of the process and secure in the knowledge that they are not making critical, costly mistakes. This involves moving from a state of fear about unknown requirements, potential penalties for late filings (such as the 10% penalty for a late BPOL), and long, uncertain delays (like the 60-90 day ABC license processing time) to a feeling of empowerment. The user wants to feel that the city's process is a supportive and transparent guide, not an 'onerous' and punitive barrier. Ultimately, they need to build trust in the system so they can focus on building their business, rather than worrying about compliance pitfalls."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:a72c385b7fbb",
@@ -1779,7 +1797,7 @@
     "excerpt": "Active solicitations managed via OpenGov procurement portal"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:a832fc45c6ed",
@@ -1797,7 +1815,7 @@
     "excerpt": "Primary users for phase 1: OMBD staff, DPS buyers/analysts, or vendors? What are their top tasks (e.g., generate targeted lists, send one‑click notices, track responses, export reports)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:a8402cc0571a",
@@ -1815,7 +1833,7 @@
     "excerpt": "Opaque Permitting Portal and Rework Risk"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:ae74432cf0cb",
@@ -1833,7 +1851,7 @@
     "excerpt": "Lack of data integration across portals requires duplicative data entry and document uploads."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:afd7dfbee17a",
@@ -1851,7 +1869,7 @@
     "excerpt": "RVA Business Portal launched for BPP/BPOL (January 2025)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:b42b2cf5b36c",
@@ -1869,7 +1887,7 @@
     "excerpt": "Confusion over trade-specific requirements"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:b43ce1fed2af",
@@ -1887,7 +1905,7 @@
     "excerpt": "Strict Deadlines and Financial Penalties"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:b66f52088e02",
@@ -1905,7 +1923,7 @@
     "excerpt": "What support is needed to help vendors choose precise commodity codes (guided selection, examples, code validation) and keep profiles up to date across iSupplier and OMBD?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:b783cb73411c",
@@ -1923,7 +1941,7 @@
     "excerpt": "Confusion between different types of 'certifications' and 'registrations' from city and state entities."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:b7c21007f469",
@@ -1941,7 +1959,7 @@
     "excerpt": "What are the most common first-time errors (e.g., starting work before permits, skipping CZC, wrong occupancy type) that we should preempt with questions/tooltips?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:b8041ea52573",
@@ -1959,7 +1977,25 @@
     "excerpt": "What procurement guidance patterns from the Boston Supplier Portal and Long Beach Buys, such as onboarding flows and vendor help content, should be adapted for Richmond’s specific terminology and statutory context (e.g., VPPA, City Code Ch. 21)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
+ },
+ {
+  "id": "e:bb15e4d2430a",
+  "source": "n:evidence:e-003",
+  "target": "n:org:eva",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names eVA as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 13-13",
+    "excerpt": "eVA used by Richmond regional entities (e.g., RAA)"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:bb8c4e850647",
@@ -1977,7 +2013,7 @@
     "excerpt": "What OMBD directory fields (via B2Gnow) can be used for matching (commodities, certifications, geographies), and can we automate refreshes (API/scheduled export)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:bbfabbf0f96e",
@@ -1995,7 +2031,7 @@
     "excerpt": "How will the tool's notification system be designed to ensure fairness, guaranteeing that all users receive critical updates like addenda or deadline changes promptly and simultaneously to avoid advantaging firms that are already better connected?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:be8d5ddbbe66",
@@ -2013,7 +2049,7 @@
     "excerpt": "OMBD maintains MBE/ESB directory"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:bf1043a67482",
@@ -2031,7 +2067,7 @@
     "excerpt": "What specific barriers did Richmond’s past disparity or availability studies identify (e.g., underutilization in certain industries, complex procedural hurdles) that the navigator can be designed to specifically mitigate through features like tutorials, terminology glossaries, or bid/no-bid wizards?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:c5b755b02324",
@@ -2049,7 +2085,7 @@
     "excerpt": "OMBD maintains MBE/ESB directory"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:c638b7fb1cb6",
@@ -2067,7 +2103,7 @@
     "excerpt": "What privacy/PII constraints apply to storing contact emails/phone numbers and sending notifications; is vendor opt-in required and how is consent captured/logged?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:c74b588bf17a",
@@ -2085,7 +2121,7 @@
     "excerpt": "Is there a public data feed or API for Richmond’s OpenGov portal that provides access to projects, Q&A, addenda, and awards? What are the rate limits and terms of use?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:cb9208e473c6",
@@ -2103,7 +2139,7 @@
     "excerpt": "Which taxonomy should the dashboard standardize on for matching—NIGP (used by eVA/OpenGov postings) vs any NAICS captured in OMBD/B2Gnow—and what is the approved crosswalk for code normalization?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:cc42c70f9513",
@@ -2121,7 +2157,7 @@
     "excerpt": "Does the OMBD’s MBD directory, hosted on diversitycompliance.com, expose an API or data export for firm capabilities, NAICS codes, or NIGP codes to enable capability matching?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:cc6706ea0666",
@@ -2139,7 +2175,7 @@
     "excerpt": "When I’m a prime contractor forming a local team in Richmond,"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:cf7c68f6baa5",
@@ -2157,7 +2193,7 @@
     "excerpt": "City of Richmond Contracts/Spending (Socrata)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:d5bdafc882ca",
@@ -2175,7 +2211,7 @@
     "excerpt": "Virginia ABC Retail License"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:d69610ff50bd",
@@ -2193,7 +2229,7 @@
     "excerpt": "Minority-owned business (MBE) newcomers, micro-businesses, very small firms, and sole proprietors who lack dedicated back-office or administrative capacity are most negatively impacted. This group also includes new immigrant entrepreneurs and non-native English speakers who face a higher cognitive load from specialized acronyms (BPOL, SWaM, OMBD, etc.), and firms with limited digital access or literacy who risk missing critical notifications from disparate systems."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:d7b04951f875",
@@ -2211,7 +2247,7 @@
     "excerpt": "Anxiety and fear of non-compliance"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:d83f14cdf6a7",
@@ -2229,7 +2265,7 @@
     "excerpt": "What single sign-on (if any) is available across Oracle iSupplier, OpenGov, and B2Gnow for staff, and what’s the lowest-friction approach for logging outreach in the source system of record?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:d9140887f8a3",
@@ -2247,7 +2283,7 @@
     "excerpt": "Can eVA’s existing NIGP alert capabilities be leveraged or mirrored just for City of Richmond opportunities to reduce duplication and vendor fatigue?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:dafd8c17d74a",
@@ -2265,7 +2301,7 @@
     "excerpt": "When I’m submitting my first applications to the City and State"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:db0fc8a4baa0",
@@ -2283,7 +2319,25 @@
     "excerpt": "For primary personas like emerging MBEs versus experienced primes, what search filters are most critical locally (e.g., filtering by department, commodity code, small purchase thresholds, bonding requirements)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
+ },
+ {
+  "id": "e:dbab23b7ef89",
+  "source": "n:org:richmond-city-health-district",
+  "target": "n:dataset:vdh-food-establishment-permit-rchd",
+  "type": "PUBLISHES",
+  "description": "Richmond City Health District owns/publishes \"VDH Food Establishment Permit (RCHD)\" (html|pdf)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=9",
+    "excerpt": "VDH Food Establishment Permit (RCHD)"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:e108d3d8c782",
@@ -2301,7 +2355,25 @@
     "excerpt": "Can the RVA Business Portal (2025) surface machine-readable statuses for BPOL filings to the wizard for real-time checklist updates?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
+ },
+ {
+  "id": "e:e21f0d7424a5",
+  "source": "n:evidence:e-009",
+  "target": "n:org:richmond-city-health-district",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names Richmond City Health District as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 19-19",
+    "excerpt": "Food establishment plan review: submit permit at least 30 days before opening"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:e92b66ae46a7",
@@ -2319,7 +2391,7 @@
     "excerpt": "Anxiety and fear of non-compliance"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:eb736029e54e",
@@ -2337,7 +2409,7 @@
     "excerpt": "BPOL new-business incentive: $30 flat for first 2 years"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:ed292aa93b90",
@@ -2355,7 +2427,7 @@
     "excerpt": "### Who is most affected/excluded\nMBEs, ESBs, DBEs, and newer/smaller local firms without established procurement networks or administrative capacity face higher risks of missing addenda, mis-submitting (paper vs electronic), and failing to meet bonding/insurance hurdles. Richmond’s OMBD explicitly targets these groups for support, indicating recognized need.\n\n### System-level contributors\nSplit systems (OpenGov and eVA/VBO), persistence of paper-based requirements, and vendor-borne responsibility for addenda compound barriers. National research recommends fully digitizing processes, simplifying steps, and addressing bonding/insurance burdens to improve MBE participation.\n\n### Implications for design\nA single, unified feed with NAICS/NIGP mapping and readiness filters; explicit addenda tracking/alerts; countdowns for deadlines; plain-language checklists for submission method; bonding/insurance readiness guidance; and OMBD-integrated coaching can reduce inequities and increase fair access."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:ed515f406564",
@@ -2373,7 +2445,7 @@
     "excerpt": "The city's primary tool for applications, the Online Permit Portal (OPP), is ineffective and not user-friendly, creating a frustrating and confusing experience for new business owners."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:ed7865aec9bc",
@@ -2391,7 +2463,7 @@
     "excerpt": "OMBD MBE/ESB Supplier & Diversity Portal"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:ef595f77a266",
@@ -2409,7 +2481,7 @@
     "excerpt": "City Vendor iSupplier Portal"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:effd7f8dbb6b",
@@ -2427,7 +2499,7 @@
     "excerpt": "What vendor attributes are available from Oracle iSupplier for matching (commodity codes, business categories, address, SWaM/MBE flags) and are there read-only interfaces or exports?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:f077a0a39001",
@@ -2445,7 +2517,7 @@
     "excerpt": "Confusion between different types of 'certifications' and 'registrations' from city and state entities."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:f116e6f79620",
@@ -2463,7 +2535,7 @@
     "excerpt": "Which municipalities using OpenGov or statewide systems like eVA have implemented commodity-code matching or supplier recommendation tools, and what were their measured outcomes (increased MBE bids/awards, reduced time-to-award)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:f3c25612093a",
@@ -2481,7 +2553,7 @@
     "excerpt": "BPOL Tax Incentive Program (New Business)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:f59f491650cf",
@@ -2499,7 +2571,7 @@
     "excerpt": "A critical systemic challenge in Richmond's procurement process is the lack of a standardized commodity code taxonomy across its various platforms. Systems like OpenGov use their own category codes for subscriptions and matching, while vendor profiles in other databases like the OMBD's B2Gnow directory or state-level systems may be organized by different standards, such as the National Institute of Governmental Purchasing (NIGP) codes or North American Industry Classification System (NAICS) codes. This inconsistency is a primary driver of failure in the discovery process. For MBEs, it means that automated alerts from platforms like OpenGov or eVA are often irrelevant, as the codes selected by the city for a solicitation may not align with the codes the vendor used to register their capabilities. This 'code mismatch' leads to vendors receiving a high volume of low-relevance opportunities, forcing them to spend valuable time parsing useless information and simultaneously risking that they will miss relevant solicitations that were coded differently. This ultimately lowers competition and creates significant barriers for small firms with limited administrative resources."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:f5db80c02f8a",
@@ -2517,7 +2589,7 @@
     "excerpt": "What language access is most needed (e.g., Spanish, Arabic) based on OMBD's engagement with the community? Are there specific Title VI requirements for the tool's content?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:f6514709bd15",
@@ -2535,7 +2607,7 @@
     "excerpt": "There is significant confusion regarding when a Certificate of Zoning Compliance (CZC) is sufficient versus when a more involved Certificate of Occupancy (CO) or a change of occupancy/use permit (HCO) is required."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:f7052cdfedd7",
@@ -2553,7 +2625,7 @@
     "excerpt": "When I’m a first-time entrepreneur choosing a location in Richmond"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:f7cef1eb96e6",
@@ -2571,7 +2643,7 @@
     "excerpt": "Erosion of trust due to historical underutilization of MBEs and unofficial-looking communications."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:fa09894c60fc",
@@ -2589,7 +2661,7 @@
     "excerpt": "Unclear dependencies and mismatched timelines"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:fadc789f5df6",
@@ -2607,7 +2679,7 @@
     "excerpt": "The primary functional job for the entrepreneur is to obtain a single, accurate, and correctly sequenced checklist of all city and state requirements needed to launch their business. This includes understanding and completing tasks in the correct dependency order, such as state-level registration with the State Corporation Commission (SCC), followed by city-level applications for a Certificate of Zoning Compliance (CZC), any necessary building or trade permits, and potentially health or ABC permits for food and beverage establishments. The final critical step is securing a Business, Professional, and Occupational License (BPOL) within 30 days of opening. The ultimate outcome the user seeks is to successfully open their business legally and on schedule, without encountering costly rework, failed inspections, or financial penalties for non-compliance."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  },
  {
   "id": "e:fbdb85b57556",
@@ -2625,6 +2697,6 @@
     "excerpt": "Entrepreneurs are forced to interact with multiple, siloed city departments without a single, consistent point of contact to guide them through the entire process."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:51.536Z"
+  "extractedAt": "2026-08-02T19:59:51.947Z"
  }
 ]

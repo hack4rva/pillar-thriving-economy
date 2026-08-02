@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-02T14:50:51.536Z",
+ "generatedAt": "2026-08-02T19:59:51.947Z",
  "repo": "pillar-thriving-economy",
  "filesExamined": [
   "admin/evidence_log.md",
@@ -32,11 +32,12 @@
   "[merge] duplicate node id n:org:city-of-richmond-ombd: provenance merged",
   "[merge] duplicate node id n:org:virginia-sbsd: provenance merged",
   "[merge] duplicate node id n:org:city-of-richmond-finance: provenance merged",
+  "[merge] duplicate node id n:org:richmond-city-health-district: provenance merged",
   "[merge] duplicate node id n:org:virginia-abc-authority: provenance merged"
  ],
  "metrics": {
-  "totalNodes": 146,
-  "totalEdges": 146,
+  "totalNodes": 149,
+  "totalEdges": 150,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -88,7 +89,7 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 123,
+  "reportedButUnverifiedRelationships": 125,
   "brokenReferences": 0,
   "duplicateCandidates": 0,
   "reviewQueueSize": 0,
