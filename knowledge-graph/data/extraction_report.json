@@ -1,0 +1,63 @@
+{
+ "generatedAt": "2026-08-02T10:13:02.046Z",
+ "repo": "pillar-thriving-economy",
+ "filesExamined": [
+  "admin/evidence_log.md",
+  "data/source_inventory.csv"
+ ],
+ "provenanceVerification": {
+  "exact": 0,
+  "moved": 0,
+  "unchecked": 0,
+  "missing": 0,
+  "external": 0
+ },
+ "warnings": [
+  "[merge] duplicate node id n:org:city-of-richmond-ombd: provenance merged",
+  "[merge] duplicate node id n:org:virginia-sbsd: provenance merged",
+  "[merge] duplicate node id n:org:city-of-richmond-finance: provenance merged",
+  "[merge] duplicate node id n:org:virginia-abc-authority: provenance merged"
+ ],
+ "metrics": {
+  "totalNodes": 33,
+  "totalEdges": 33,
+  "financialFlows": 0,
+  "financialEdges": 0,
+  "totalDocumentedFundingUSD": 0,
+  "totalProposedFundingUSD": 0,
+  "totalDisbursedUSDEstimate": 0,
+  "disbursedEstimateNote": "Estimate: completed-phase CIP projects assumed fully spent; the corpus has no expenditure ledger.",
+  "flowsWithUnknownDestination": 0,
+  "flowsWithUnknownSource": 0,
+  "fundingWithUnknownDestinationUSD": 0,
+  "intendedBeneficiaryNodes": 0,
+  "needsTotal": 0,
+  "needsWithNoFunding": [],
+  "fundingFlowsWithNoDocumentedOutcome": 0,
+  "outcomeNote": "No outcome measurements are documented anywhere in the corpus (see q:outcome-measurements).",
+  "claimsTotal": 0,
+  "claimsLackingPrimaryEvidence": [],
+  "inferredRelationships": 0,
+  "disputedRelationships": 0,
+  "reportedButUnverifiedRelationships": 10,
+  "brokenReferences": 0,
+  "duplicateCandidates": 0,
+  "reviewQueueSize": 0,
+  "evidenceRecords": 10,
+  "provenanceCoverage": 100,
+  "provenanceVerification": {
+   "exact": 0,
+   "moved": 0,
+   "unchecked": 0,
+   "missing": 0,
+   "external": 0
+  },
+  "externalResearch": {
+   "researchedAt": null,
+   "evidenceRecords": 0,
+   "questionsAnswered": 0,
+   "questionsPartiallyAnswered": 0,
+   "note": "Web-sourced findings; official government sources classified externally_verified, organization/news figures reported as likely. See docs/data-methodology.md."
+  }
+ }
+}

@@ -1,0 +1,152 @@
+[
+ {
+  "id": "ev:E-001",
+  "claim": "City procurement contracts available via Socrata API (SODA/OData)",
+  "status": "confirmed",
+  "source": "City of Richmond Open Data Portal",
+  "url": "https://data.richmondgov.com/Well-Managed-Government/City-Contracts/xqn7-jvv2",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 11-11",
+    "excerpt": "City procurement contracts available via Socrata API (SODA/OData)"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-002",
+  "claim": "Active solicitations managed via OpenGov procurement portal",
+  "status": "confirmed",
+  "source": "City of Richmond Procurement",
+  "url": "https://www.rva.gov/procurement-services/solicitations",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 12-12",
+    "excerpt": "Active solicitations managed via OpenGov procurement portal"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-003",
+  "claim": "eVA used by Richmond regional entities (e.g., RAA)",
+  "status": "confirmed",
+  "source": "Richmond International Airport / eVA",
+  "url": "https://flyrichmond.com/business/contracting-procurement/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 13-13",
+    "excerpt": "eVA used by Richmond regional entities (e.g., RAA)"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-004",
+  "claim": "iSupplier required for vendor registration; 2-minute session timeout",
+  "status": "confirmed",
+  "source": "City of Richmond Supplier Portal",
+  "url": "https://rva.gov/procurement-services/supplier-portal",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 14-14",
+    "excerpt": "iSupplier required for vendor registration; 2-minute session timeout"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-005",
+  "claim": "OMBD maintains MBE/ESB directory",
+  "status": "confirmed",
+  "source": "City of Richmond OMBD",
+  "url": "https://www.rva.gov/minority-business",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 15-15",
+    "excerpt": "OMBD maintains MBE/ESB directory"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-006",
+  "claim": "SBSD SWaM certification processing time ~60 business days",
+  "status": "confirmed",
+  "source": "Virginia SBSD",
+  "url": "https://sbsd.virginia.gov/certification-division/faqs/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 16-16",
+    "excerpt": "SBSD SWaM certification processing time ~60 business days"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-007",
+  "claim": "RVA Business Portal launched for BPP/BPOL (January 2025)",
+  "status": "confirmed",
+  "source": "City of Richmond Finance",
+  "url": "https://www.rva.gov/finance/bpol-tax",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 17-17",
+    "excerpt": "RVA Business Portal launched for BPP/BPOL (January 2025)"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-008",
+  "claim": "BPOL new-business incentive: $30 flat for first 2 years",
+  "status": "confirmed",
+  "source": "City of Richmond Finance",
+  "url": "https://www.rva.gov/finance/bpol-exemption",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 18-18",
+    "excerpt": "BPOL new-business incentive: $30 flat for first 2 years"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-009",
+  "claim": "Food establishment plan review: submit permit at least 30 days before opening",
+  "status": "confirmed",
+  "source": "VDH / Richmond City Health District",
+  "url": "https://www.vdh.virginia.gov/environmental-health/food-safety-in-virginia/foodapplication/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 19-19",
+    "excerpt": "Food establishment plan review: submit permit at least 30 days before opening"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-010",
+  "claim": "ABC licensing: up to 60-day processing; 10 consecutive days public notice; 30-day objection window",
+  "status": "confirmed",
+  "source": "Virginia ABC Authority",
+  "url": "https://www.abc.virginia.gov/licenses/retail-licenses",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 20-20",
+    "excerpt": "ABC licensing: up to 60-day processing; 10 consecutive days public notice; 30-day objection window"
+   }
+  ]
+ }
+]

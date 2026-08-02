@@ -1,0 +1,596 @@
+[
+ {
+  "id": "e:023bfa1edc9b",
+  "source": "n:evidence:e-004",
+  "target": "n:org:city-of-richmond-supplier-portal",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names City of Richmond Supplier Portal as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 14-14",
+    "excerpt": "iSupplier required for vendor registration; 2-minute session timeout"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:03a296c81521",
+  "source": "n:evidence:e-002",
+  "target": "n:dataset:bpol-tax-incentive-program-new-business",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 12-12",
+    "excerpt": "Active solicitations managed via OpenGov procurement portal"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:060c54804d05",
+  "source": "n:org:virginia-sbsd",
+  "target": "n:dataset:sbsd-swam-directory",
+  "type": "PUBLISHES",
+  "description": "Virginia SBSD owns/publishes \"SBSD SWaM Directory\" (html|search)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=6",
+    "excerpt": "SBSD SWaM Directory"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:06fb1dbe80a4",
+  "source": "n:evidence:e-005",
+  "target": "n:dataset:city-vendor-isupplier-portal",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 15-15",
+    "excerpt": "OMBD maintains MBE/ESB directory"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:08893b71fa75",
+  "source": "n:evidence:e-008",
+  "target": "n:dataset:bpol-tax-incentive-program-new-business",
+  "type": "SUPPORTED_BY",
+  "description": "Claim and inventoried source share the URL https://www.rva.gov/finance/bpol-exemption",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 18-18",
+    "excerpt": "BPOL new-business incentive: $30 flat for first 2 years"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:1053cb071339",
+  "source": "n:evidence:e-009",
+  "target": "n:org:vdh-richmond-city-health-district",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names VDH / Richmond City Health District as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 19-19",
+    "excerpt": "Food establishment plan review: submit permit at least 30 days before opening"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:1389aef5825f",
+  "source": "n:org:virginia-dept-of-health-richmond-city-health-district",
+  "target": "n:dataset:vdh-food-establishment-permit-rchd",
+  "type": "PUBLISHES",
+  "description": "Virginia Dept of Health / Richmond City Health District owns/publishes \"VDH Food Establishment Permit (RCHD)\" (html|pdf)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=9",
+    "excerpt": "VDH Food Establishment Permit (RCHD)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:1466b586706f",
+  "source": "n:evidence:e-003",
+  "target": "n:org:richmond-international-airport-eva",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names Richmond International Airport / eVA as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 13-13",
+    "excerpt": "eVA used by Richmond regional entities (e.g., RAA)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:1fd1375edf5f",
+  "source": "n:evidence:e-001",
+  "target": "n:org:city-of-richmond-open-data-portal",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names City of Richmond Open Data Portal as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 11-11",
+    "excerpt": "City procurement contracts available via Socrata API (SODA/OData)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:323831166956",
+  "source": "n:evidence:e-008",
+  "target": "n:org:city-of-richmond-finance",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names City of Richmond Finance as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 18-18",
+    "excerpt": "BPOL new-business incentive: $30 flat for first 2 years"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:37483bd9b7b8",
+  "source": "n:evidence:e-007",
+  "target": "n:dataset:bpol-tax-incentive-program-new-business",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 17-17",
+    "excerpt": "RVA Business Portal launched for BPP/BPOL (January 2025)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:3c4e66797562",
+  "source": "n:evidence:e-009",
+  "target": "n:dataset:vdh-food-establishment-permit-rchd",
+  "type": "SUPPORTED_BY",
+  "description": "Claim and inventoried source share the URL https://www.vdh.virginia.gov/environmental-health/food-safety-in-virginia/foodapplication/",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 19-19",
+    "excerpt": "Food establishment plan review: submit permit at least 30 days before opening"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:3f0430a17ad1",
+  "source": "n:evidence:e-007",
+  "target": "n:org:city-of-richmond-finance",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names City of Richmond Finance as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 17-17",
+    "excerpt": "RVA Business Portal launched for BPP/BPOL (January 2025)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:40070c106dbd",
+  "source": "n:evidence:e-004",
+  "target": "n:dataset:bpol-tax-incentive-program-new-business",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 14-14",
+    "excerpt": "iSupplier required for vendor registration; 2-minute session timeout"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:4197639034aa",
+  "source": "n:evidence:e-006",
+  "target": "n:org:virginia-sbsd",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names Virginia SBSD as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 16-16",
+    "excerpt": "SBSD SWaM certification processing time ~60 business days"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:459fad7bd015",
+  "source": "n:org:city-of-richmond-finance",
+  "target": "n:dataset:rva-business-portal-bpol-bpp",
+  "type": "PUBLISHES",
+  "description": "City of Richmond Finance owns/publishes \"RVA Business Portal (BPOL/BPP)\" (html|portal)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=7",
+    "excerpt": "RVA Business Portal (BPOL/BPP)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:6c4d3110235f",
+  "source": "n:evidence:e-010",
+  "target": "n:org:virginia-abc-authority",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names Virginia ABC Authority as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 20-20",
+    "excerpt": "ABC licensing: up to 60-day processing; 10 consecutive days public notice; 30-day objection window"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:6ca964ed58db",
+  "source": "n:evidence:e-004",
+  "target": "n:dataset:city-vendor-isupplier-portal",
+  "type": "SUPPORTED_BY",
+  "description": "Claim and inventoried source share the URL https://rva.gov/procurement-services/supplier-portal",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 14-14",
+    "excerpt": "iSupplier required for vendor registration; 2-minute session timeout"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:7ac60dc5082c",
+  "source": "n:org:commonwealth-of-virginia-dept-of-general-services",
+  "target": "n:dataset:virginia-eva-state-procurement",
+  "type": "PUBLISHES",
+  "description": "Commonwealth of Virginia / Dept of General Services owns/publishes \"Virginia eVA (State Procurement)\" (html|portal)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=3",
+    "excerpt": "Virginia eVA (State Procurement)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:7cbd15aae728",
+  "source": "n:evidence:e-002",
+  "target": "n:org:city-of-richmond-procurement",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names City of Richmond Procurement as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 12-12",
+    "excerpt": "Active solicitations managed via OpenGov procurement portal"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:8042627adb61",
+  "source": "n:evidence:e-001",
+  "target": "n:dataset:city-of-richmond-contracts-spending-socrata",
+  "type": "SUPPORTED_BY",
+  "description": "Claim and inventoried source share the URL https://data.richmondgov.com/Well-Managed-Government/City-Contracts/xqn7-jvv2",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 11-11",
+    "excerpt": "City procurement contracts available via Socrata API (SODA/OData)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:98c1a8ce40f6",
+  "source": "n:org:city-of-richmond-via-opengov",
+  "target": "n:dataset:opengov-procurement-portal-active-bids",
+  "type": "PUBLISHES",
+  "description": "City of Richmond via OpenGov owns/publishes \"OpenGov Procurement Portal (Active Bids)\" (html|portal)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=2",
+    "excerpt": "OpenGov Procurement Portal (Active Bids)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:a420f16f1624",
+  "source": "n:evidence:e-010",
+  "target": "n:dataset:virginia-abc-retail-license",
+  "type": "SUPPORTED_BY",
+  "description": "Claim and inventoried source share the URL https://www.abc.virginia.gov/licenses/retail-licenses",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 20-20",
+    "excerpt": "ABC licensing: up to 60-day processing; 10 consecutive days public notice; 30-day objection window"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:a72c385b7fbb",
+  "source": "n:evidence:e-002",
+  "target": "n:dataset:city-vendor-isupplier-portal",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 12-12",
+    "excerpt": "Active solicitations managed via OpenGov procurement portal"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:afd7dfbee17a",
+  "source": "n:evidence:e-007",
+  "target": "n:dataset:city-vendor-isupplier-portal",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 17-17",
+    "excerpt": "RVA Business Portal launched for BPP/BPOL (January 2025)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:be8d5ddbbe66",
+  "source": "n:evidence:e-005",
+  "target": "n:org:city-of-richmond-ombd",
+  "type": "ASSOCIATED_WITH",
+  "description": "Evidence log names City of Richmond OMBD as the source of this claim",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "high",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 15-15",
+    "excerpt": "OMBD maintains MBE/ESB directory"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:c5b755b02324",
+  "source": "n:evidence:e-005",
+  "target": "n:dataset:bpol-tax-incentive-program-new-business",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 15-15",
+    "excerpt": "OMBD maintains MBE/ESB directory"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:cf7c68f6baa5",
+  "source": "n:org:city-of-richmond",
+  "target": "n:dataset:city-of-richmond-contracts-spending-socrata",
+  "type": "PUBLISHES",
+  "description": "City of Richmond owns/publishes \"City of Richmond Contracts/Spending (Socrata)\" (csv|json|api)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=1",
+    "excerpt": "City of Richmond Contracts/Spending (Socrata)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:d5bdafc882ca",
+  "source": "n:org:virginia-abc-authority",
+  "target": "n:dataset:virginia-abc-retail-license",
+  "type": "PUBLISHES",
+  "description": "Virginia ABC Authority owns/publishes \"Virginia ABC Retail License\" (html|pdf)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=10",
+    "excerpt": "Virginia ABC Retail License"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:eb736029e54e",
+  "source": "n:evidence:e-008",
+  "target": "n:dataset:city-vendor-isupplier-portal",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 18-18",
+    "excerpt": "BPOL new-business incentive: $30 flat for first 2 years"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:ed7865aec9bc",
+  "source": "n:org:city-of-richmond-ombd",
+  "target": "n:dataset:ombd-mbe-esb-supplier-diversity-portal",
+  "type": "PUBLISHES",
+  "description": "City of Richmond OMBD owns/publishes \"OMBD MBE/ESB Supplier & Diversity Portal\" (html|portal)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=5",
+    "excerpt": "OMBD MBE/ESB Supplier & Diversity Portal"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:ef595f77a266",
+  "source": "n:org:city-of-richmond",
+  "target": "n:dataset:city-vendor-isupplier-portal",
+  "type": "PUBLISHES",
+  "description": "City of Richmond owns/publishes \"City Vendor iSupplier Portal\" (html|portal)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=4",
+    "excerpt": "City Vendor iSupplier Portal"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ },
+ {
+  "id": "e:f3c25612093a",
+  "source": "n:org:city-of-richmond-finance",
+  "target": "n:dataset:bpol-tax-incentive-program-new-business",
+  "type": "PUBLISHES",
+  "description": "City of Richmond Finance owns/publishes \"BPOL Tax Incentive Program (New Business)\" (html)",
+  "repo": "pillar-thriving-economy",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=8",
+    "excerpt": "BPOL Tax Incentive Program (New Business)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:13:02.046Z"
+ }
+]
