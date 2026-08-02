@@ -23,7 +23,7 @@
    "keyFields": "eligibility_criteria, fee_amount, application_process",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:dataset:city-of-richmond-contracts-spending-socrata",
@@ -49,7 +49,7 @@
    "keyFields": "agency, contract_id, vendor, amount, status",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:dataset:city-vendor-isupplier-portal",
@@ -75,7 +75,7 @@
    "keyFields": "vendor_id, W-9, ACH/EDI form, voided check",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:dataset:ombd-mbe-esb-supplier-diversity-portal",
@@ -101,7 +101,7 @@
    "keyFields": "business_name, cert_type, naics/nigp, contact",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:dataset:opengov-procurement-portal-active-bids",
@@ -127,7 +127,7 @@
    "keyFields": "solicitation_id, title, category, deadline, attachments",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:dataset:rva-business-portal-bpol-bpp",
@@ -153,7 +153,7 @@
    "keyFields": "account_id, license_type, gross_receipts, status",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:dataset:sbsd-swam-directory",
@@ -179,7 +179,7 @@
    "keyFields": "business_name, cert_type, naics, location",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:dataset:vdh-food-establishment-permit-rchd",
@@ -205,7 +205,7 @@
    "keyFields": "plan_review_fee, permit_fee, timeline, inspection_requirements",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:dataset:virginia-abc-retail-license",
@@ -231,7 +231,7 @@
    "keyFields": "license_type, processing_time, notice_requirements, fees",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:dataset:virginia-eva-state-procurement",
@@ -257,7 +257,7 @@
    "keyFields": "solicitation_id, agency, category, deadline",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:baltimore",
@@ -295,7 +295,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:durham",
@@ -333,7 +333,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:e-001",
@@ -355,7 +355,7 @@
    "url": "https://data.richmondgov.com/Well-Managed-Government/City-Contracts/xqn7-jvv2",
    "source": "City of Richmond Open Data Portal"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:e-002",
@@ -377,7 +377,7 @@
    "url": "https://www.rva.gov/procurement-services/solicitations",
    "source": "City of Richmond Procurement"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:e-003",
@@ -399,7 +399,7 @@
    "url": "https://flyrichmond.com/business/contracting-procurement/",
    "source": "Richmond International Airport / eVA"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:e-004",
@@ -421,7 +421,7 @@
    "url": "https://rva.gov/procurement-services/supplier-portal",
    "source": "City of Richmond Supplier Portal"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:e-005",
@@ -443,7 +443,7 @@
    "url": "https://www.rva.gov/minority-business",
    "source": "City of Richmond OMBD"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:e-006",
@@ -465,7 +465,7 @@
    "url": "https://sbsd.virginia.gov/certification-division/faqs/",
    "source": "Virginia SBSD"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:e-007",
@@ -487,7 +487,7 @@
    "url": "https://www.rva.gov/finance/bpol-tax",
    "source": "City of Richmond Finance"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:e-008",
@@ -509,7 +509,7 @@
    "url": "https://www.rva.gov/finance/bpol-exemption",
    "source": "City of Richmond Finance"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:e-009",
@@ -531,7 +531,7 @@
    "url": "https://www.vdh.virginia.gov/environmental-health/food-safety-in-virginia/foodapplication/",
    "source": "VDH / Richmond City Health District"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:e-010",
@@ -553,7 +553,7 @@
    "url": "https://www.abc.virginia.gov/licenses/retail-licenses",
    "source": "Virginia ABC Authority"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:evidence:national-state-local-governments",
@@ -591,7 +591,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:group:anxious-owner-persona",
@@ -607,7 +607,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:group:entrepreneur-segment",
@@ -623,7 +623,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:group:executive-summary-of",
@@ -639,7 +639,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:group:founder-persona",
@@ -655,7 +655,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:group:identified-entrepreneur",
@@ -671,7 +671,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:group:key-entrepreneur",
@@ -687,7 +687,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:group:mbe-owner-persona",
@@ -703,7 +703,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:group:summary-of-entrepreneur",
@@ -719,7 +719,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:anxiety-and-fear-of-non-compliance",
@@ -757,7 +757,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:confusing-and-rigid-process-sequencing",
@@ -795,7 +795,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:confusion-between-different-types-of-certifications-and-registrations-from-city-",
@@ -833,7 +833,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:confusion-over-trade-specific-requirements",
@@ -871,7 +871,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:divergent-paths-for-different-business-uses",
@@ -909,7 +909,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:duplicative-data-entry-across-multiple-systems",
@@ -947,7 +947,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:entrepreneurs-are-forced-to-interact-with-multiple-siloed-city-departments-witho",
@@ -985,7 +985,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:entrepreneurs-experience-anxiety-due-to-uncertain-timelines-and-the-city-s-histo",
@@ -1023,7 +1023,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:entrepreneurs-face-fragmented-and-unclear-information-making-it-difficult-to-fin",
@@ -1056,7 +1056,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:erosion-of-trust-due-to-historical-underutilization-of-mbes-and-unofficial-looki",
@@ -1094,7 +1094,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:fragmented-guidance-and-information",
@@ -1132,7 +1132,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:fragmented-multi-portal-sequence-with-unclear-handoffs-and-sequencing-risk",
@@ -1170,7 +1170,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:lack-of-data-integration-across-portals-requires-duplicative-data-entry-and-docu",
@@ -1208,7 +1208,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:opaque-permitting-portal-and-rework-risk",
@@ -1246,7 +1246,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:strict-deadlines-and-financial-penalties",
@@ -1284,7 +1284,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:the-city-s-primary-tool-for-applications-the-online-permit-portal-opp-is-ineffec",
@@ -1322,7 +1322,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:the-entrepreneur-s-emotional-job-is-to-gain-confidence-and-reduce-the-significan",
@@ -1360,7 +1360,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:the-primary-functional-job-for-the-entrepreneur-is-to-obtain-a-single-accurate-a",
@@ -1398,7 +1398,7 @@
    "confidence": "high",
    "citationCount": 9
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:there-is-a-lack-of-clear-and-real-time-visibility-into-the-status-of-submitted-a",
@@ -1436,7 +1436,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:there-is-significant-confusion-regarding-when-a-certificate-of-zoning-compliance",
@@ -1474,7 +1474,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:trade-specific-licensing-and-insurance-ambiguity",
@@ -1512,7 +1512,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:unclear-dependencies-and-mismatched-timelines",
@@ -1550,7 +1550,7 @@
    "confidence": "high",
    "citationCount": 12
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:unclear-sequencing-of-required-steps",
@@ -1588,7 +1588,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:when-i-m-a-first-time-entrepreneur-choosing-a-location-in-richmond",
@@ -1626,7 +1626,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:when-i-m-a-first-time-entrepreneur-in-richmond-picking-a-location-and-preparing-",
@@ -1664,7 +1664,7 @@
    "confidence": "high",
    "citationCount": 10
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:when-i-m-a-prime-contractor-forming-a-local-team-in-richmond",
@@ -1702,7 +1702,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:when-i-m-a-richmond-based-swam-mbe-certified-contractor-scanning-for-upcoming-ci",
@@ -1740,7 +1740,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:when-i-m-an-underrepresented-supplier-who-s-had-limited-success-winning-city-wor",
@@ -1778,7 +1778,7 @@
    "confidence": "high",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:when-i-m-investing-my-limited-savings-into-my-first-storefront-or-home-based-bus",
@@ -1816,7 +1816,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:when-i-m-preparing-to-open-e-g-restaurant-retail-in-richmond",
@@ -1854,7 +1854,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:when-i-m-submitting-my-first-applications-to-the-city-and-state",
@@ -1892,7 +1892,7 @@
    "confidence": "high",
    "citationCount": 17
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:need:when-multiple-agencies-are-involved-in-the-business-launch-process-including-pla",
@@ -1930,7 +1930,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:city-of-richmond",
@@ -1946,7 +1946,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:city-of-richmond-finance",
@@ -1967,7 +1967,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:city-of-richmond-ombd",
@@ -1988,7 +1988,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:city-of-richmond-open-data-portal",
@@ -2004,7 +2004,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:city-of-richmond-procurement",
@@ -2020,7 +2020,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:city-of-richmond-supplier-portal",
@@ -2036,7 +2036,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:city-of-richmond-via-opengov",
@@ -2052,7 +2052,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:commonwealth-of-virginia",
@@ -2068,7 +2068,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:dept-of-general-services",
@@ -2084,7 +2084,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:eva",
@@ -2100,7 +2100,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:richmond-city-health-district",
@@ -2121,7 +2121,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:richmond-international-airport",
@@ -2137,7 +2137,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:vdh",
@@ -2153,7 +2153,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:virginia-abc-authority",
@@ -2174,7 +2174,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:virginia-dept-of-health",
@@ -2190,7 +2190,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:org:virginia-sbsd",
@@ -2211,7 +2211,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:a-core-pain-point-identified-is-that-inconsistent-metadata-across-the-fragmented",
@@ -2249,7 +2249,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:a-critical-financial-barrier-for-minority-owned-businesses-mbes-is-navigating-th",
@@ -2277,7 +2277,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:a-critical-systemic-challenge-in-richmond-s-procurement-process-is-the-lack-of-a",
@@ -2315,7 +2315,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:a-primary-challenge-for-first-time-entrepreneurs-in-richmond-is-navigating-the-c",
@@ -2353,7 +2353,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:information-fragmentation-and-system-disconnectivity",
@@ -2391,7 +2391,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:minority-owned-business-mbe-newcomers-micro-businesses-very-small-firms-and-sole",
@@ -2429,7 +2429,7 @@
    "confidence": "high",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:the-burdens-of-the-current-system-disproportionately-affect-the-most-vulnerable-",
@@ -2467,7 +2467,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:the-complexities-and-fragmented-nature-of-richmond-s-business-permitting-and-lic",
@@ -2505,7 +2505,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:the-entrepreneurial-communities-most-negatively-affected-by-the-current-system-s",
@@ -2543,7 +2543,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:the-groups-most-negatively-impacted-are-the-smallest-minority-business-enterpris",
@@ -2581,7 +2581,7 @@
    "confidence": "high",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:the-pain-points-faced-by-minority-owned-businesses-mbes-in-richmond-are-rooted-i",
@@ -2619,7 +2619,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:the-procurement-and-vendor-management-ecosystem-for-the-city-of-richmond-is-high",
@@ -2657,7 +2657,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:there-are-direct-contradictions-in-the-city-s-instructions-for-bidders-while-the",
@@ -2695,7 +2695,7 @@
    "confidence": "medium",
    "citationCount": 17
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:problem:who-is-most-affected-excluded-mbes-esbs-dbes-and-newer-smaller-local-firms-witho",
@@ -2733,7 +2733,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:proposal:career-bridge",
@@ -2752,7 +2752,7 @@
    "origin": "post-event research",
    "project": "career-bridge"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:proposal:ibuild",
@@ -2772,7 +2772,7 @@
    "origin": "post-event research",
    "project": "ibuild"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:proposal:ombd-proactive-match-dashboard",
@@ -2792,7 +2792,7 @@
    "origin": "post-event research",
    "project": "ombd-proactive-match-dashboard"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:proposal:richmond-business-launch-wizard",
@@ -2812,7 +2812,7 @@
    "origin": "post-event research",
    "project": "richmond-business-launch-wizard"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:proposal:richmond-contract-navigator",
@@ -2831,7 +2831,7 @@
    "origin": "post-event research",
    "project": "richmond-contract-navigator"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:proposal:tradepath-rva",
@@ -2851,7 +2851,7 @@
    "origin": "post-event research",
    "project": "tradepath-rva"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:proposal:vendor-onboarding-wizard",
@@ -2871,7 +2871,7 @@
    "origin": "post-event research",
    "project": "vendor-onboarding-wizard"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:proposal:you-get-what-you-give",
@@ -2891,7 +2891,7 @@
    "origin": "post-event research",
    "project": "you-get-what-you-give"
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:are-there-authoritative-award-histories-and-unsuccessful-bidder-lists-we-can-joi",
@@ -2919,7 +2919,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:can-eva-s-existing-nigp-alert-capabilities-be-leveraged-or-mirrored-just-for-cit",
@@ -2957,7 +2957,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:can-the-dashboard-identify-unregistered-but-richmond-based-mbes-for-proactive-on",
@@ -2995,7 +2995,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:can-the-finance-business-unit-expose-bpol-categories-rates-and-documentation-req",
@@ -3023,7 +3023,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:can-the-rva-business-portal-2025-surface-machine-readable-statuses-for-bpol-fili",
@@ -3061,7 +3061,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:can-the-wizard-capture-location-context-address-apn-zoning-district-use-table-to",
@@ -3094,7 +3094,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:can-we-access-opengov-s-richmond-portal-via-api-or-feeds-to-pull-new-updated-sol",
@@ -3122,7 +3122,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:can-we-embed-or-deep-link-to-the-opengov-advanced-search-with-pre-filled-filters",
@@ -3160,7 +3160,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:can-we-integrate-with-opp-for-account-linking-pre-populated-applications-and-sta",
@@ -3198,7 +3198,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:can-we-receive-webhooks-or-scheduled-data-pulls-from-opengov-if-not-is-email-par",
@@ -3226,7 +3226,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:does-the-ombd-s-mbd-directory-hosted-on-diversitycompliance-com-expose-an-api-or",
@@ -3264,7 +3264,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:for-primary-personas-like-emerging-mbes-versus-experienced-primes-what-search-fi",
@@ -3302,7 +3302,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:how-does-the-tool-align-with-richmond-s-mbe-esb-goals-and-title-vi-language-acce",
@@ -3340,7 +3340,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:how-should-the-navigator-reconcile-user-identities-across-the-different-systems-",
@@ -3378,7 +3378,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:how-should-the-wizard-sequence-richmond-s-unique-dependencies-czc-co-before-bpol",
@@ -3416,7 +3416,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:how-will-the-participation-gap-be-defined-numerically-availability-vs-utilizatio",
@@ -3454,7 +3454,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:how-will-the-tool-s-notification-system-be-designed-to-ensure-fairness-guarantee",
@@ -3492,7 +3492,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:how-will-the-tool-support-firms-with-limited-broadband-or-device-access-will-it-",
@@ -3530,7 +3530,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:how-will-the-wizard-incorporate-state-level-steps-scc-cis-virginia-business-one-",
@@ -3568,7 +3568,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:how-will-the-wizard-surface-ombd-sbdc-enterprise-zone-care-and-revolving-loan-su",
@@ -3606,7 +3606,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:how-will-we-keep-time-sensitive-content-current-e-g-processing-times-2-3-weeks-p",
@@ -3644,7 +3644,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:how-will-we-prevent-spray-and-pray-blasts-what-precision-threshold-is-acceptable",
@@ -3682,7 +3682,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:is-it-possible-for-the-navigator-to-surface-payment-or-purchase-order-po-status-",
@@ -3720,7 +3720,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:is-there-a-public-data-feed-or-api-for-richmond-s-opengov-portal-that-provides-a",
@@ -3758,7 +3758,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:primary-users-for-phase-1-ombd-staff-dps-buyers-analysts-or-vendors-what-are-the",
@@ -3796,7 +3796,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:should-outreach-events-notices-sent-opens-replies-be-written-back-to-b2gnow-or-s",
@@ -3829,7 +3829,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:vendor-notification-preferences-channel-email-sms-language-support-per-city-lang",
@@ -3857,7 +3857,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-accommodations-are-needed-for-founders-without-reliable-broadband-or-who-pr",
@@ -3895,7 +3895,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-are-the-most-common-first-time-errors-e-g-starting-work-before-permits-skip",
@@ -3933,7 +3933,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-aspects-of-philadelphia-s-contracts-hub-which-acts-as-an-aggregator-for-mul",
@@ -3971,7 +3971,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-barriers-most-affect-home-occupations-and-micro-retailers-in-richmond-fees-",
@@ -4009,7 +4009,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-fields-exist-in-the-city-contracts-open-data-dataset-e-g-contract-number-ve",
@@ -4047,7 +4047,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-is-the-authoritative-data-model-for-richmond-permit-types-in-opp-including-",
@@ -4085,7 +4085,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-language-access-is-most-needed-e-g-spanish-arabic-based-on-ombd-s-engagemen",
@@ -4123,7 +4123,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-language-accessibility-and-reading-level-targets-are-needed-e-g-spanish-vie",
@@ -4161,7 +4161,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-ombd-directory-fields-via-b2gnow-can-be-used-for-matching-commodities-certi",
@@ -4199,7 +4199,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-privacy-pii-constraints-apply-to-storing-contact-emails-phone-numbers-and-s",
@@ -4237,7 +4237,7 @@
    "confidence": "low",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-procurement-guidance-patterns-from-the-boston-supplier-portal-and-long-beac",
@@ -4275,7 +4275,7 @@
    "confidence": "low",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-single-sign-on-if-any-is-available-across-oracle-isupplier-opengov-and-b2gn",
@@ -4308,7 +4308,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-specific-barriers-did-richmond-s-past-disparity-or-availability-studies-ide",
@@ -4346,7 +4346,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-specific-proof-points-or-features-would-most-effectively-reduce-anxiety-for",
@@ -4384,7 +4384,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-support-is-needed-to-help-vendors-choose-precise-commodity-codes-guided-sel",
@@ -4422,7 +4422,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:what-vendor-attributes-are-available-from-oracle-isupplier-for-matching-commodit",
@@ -4460,7 +4460,7 @@
    "confidence": "low",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:which-classification-systems-and-fields-are-authoritative-for-richmond-solicitat",
@@ -4498,7 +4498,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:which-elements-of-nyc-s-mycity-step-by-step-should-be-replicated-personalized-ch",
@@ -4536,7 +4536,7 @@
    "confidence": "medium",
    "citationCount": 11
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:which-municipalities-using-opengov-or-statewide-systems-like-eva-have-implemente",
@@ -4564,7 +4564,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:which-taxonomy-should-the-dashboard-standardize-on-for-matching-nigp-used-by-eva",
@@ -4602,7 +4602,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  },
  {
   "id": "n:question:which-top-richmond-business-archetypes-should-the-wizard-optimize-for-first-e-g-",
@@ -4640,6 +4640,6 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.947Z"
+  "extractedAt": "2026-08-02T21:03:29.605Z"
  }
 ]
