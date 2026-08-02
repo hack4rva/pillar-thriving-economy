@@ -1,0 +1,2194 @@
+{
+  "run_id": "trun_1848795af0f24b808bb17d175b5da44b",
+  "interaction_id": "trun_1848795af0f24b808bb17d175b5da44b",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b808bb17d175b5da44b",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "chicago_business_direct_overview",
+        "reasoning": "The selected passages collectively support the fine-grained field value by describing Chicago Business Direct as a platform aimed at enrolling small businesses and serving as a centralized hub for licensing and taxes. The most directly supporting lines indicate that Chicago Business Direct exists as a platform with access controls (login) and a focus on consolidating license and tax needs in one place. Additional excerpts describe how Chicago streamlined permitting and licensing processes, which aligns with the field value\u2019s emphasis on an integrated, step-by-step online application system. A case study on Chicago Licensing and Permitting Reform further reinforces that the city pursued business-friendly regulation and streamlined services, consistent with executive sponsorship mentioned in the field value. A resource that frames Chicago\u2019s licensing portal as a consolidated entry point for business-related filings also corroborates the central thesis. Citations that discuss related but broader Chicago licensing data portals provide contextual support for the ecosystem but are secondary to the core claim about a unified transactional portal. Overall, the evidence collectively substantiates that Chicago Business Direct is an integrated, transactional, one-stop system with governance support, matching the field value\u2019s description.",
+        "citations": [
+          {
+            "url": "https://www.chicago.gov/content/dam/city/depts/bacp/nbdc/59149nbdcblspublished.pdf",
+            "excerpts": [
+              "Dec 1, 2025 \u2014 Chicago Business Direct: Encourage and support small businesses in enrolling in the Chicago Business Direct platform. \u2022 Chicago Legacy"
+            ],
+            "title": "BACP-Neighborhood Business Development ..."
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/login.jsp",
+            "excerpts": [
+              "Welcome to Chicago Business Direct. Our new and improved site combines all of your city license and tax needs in one place."
+            ],
+            "title": "CBD - Login - City of Chicago"
+          },
+          {
+            "url": "https://www.infor.com/customer-stories/how-city-of-chicago-streamlined-permitting-process",
+            "excerpts": [
+              "In this case study, learn how you can modernize your city with: A simplified and intuitive onlineapplication system that eases permit submission and"
+            ],
+            "title": "How the City of Chicago transformed and streamlined its permitting ..."
+          },
+          {
+            "url": "https://datasmart.hks.harvard.edu/news/article/case-study-chicago-licensing-and-permitting-reform-647",
+            "excerpts": [
+              "Energizing business growth with smart, business-friendly regulation was the Mayor's primary goal, and ensuring public safety and strong consumer"
+            ],
+            "title": "Case Study: Chicago Licensing and Permitting Reform"
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/userRegister.do",
+            "excerpts": [
+              "You must log in with your User ID in order to manage license and tax ... You cannot conduct business in Chicago Business Direct until we know who you are."
+            ],
+            "title": "BACP - Register or Login - City of Chicago"
+          },
+          {
+            "url": "https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr",
+            "excerpts": [
+              "Looking to apply for a new business license? Use Chicago's online business license application system to apply online. Business Owners."
+            ],
+            "title": "Business Licenses | City of Chicago | Data Portal"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparison_of_business_support_models",
+        "reasoning": "Direct descriptions clearly tie the NYC MyCity model to an interactive, question-driven wizard that yields a personalized list of required licenses and permits. The phrasing in these excerpts explicitly states that the tool helps users by guiding them through questions to generate a customized output of licenses and permits needed to run the business, which aligns with the stated fine-grained field value describing an interactive wizard within the NYC MyCity ecosystem. A corroborating source further confirms the NYC MyCity context by detailing the MyCity system\u2019s development and public-facing documentation, reinforcing that the NYC implementation is designed as an integrated, user-account-enabled platform to streamline interactions and reduce data entry across city services. These excerpts together provide strong, coherent support for the field value\u2019s claim about the NYC MyCity Step-by-Step Wizard functioning as an interactive, personalized guidance tool within the MyCity platform, and its output being a tailored list of licenses and permits.\u201d,",
+        "citations": [
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/wizard",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More"
+            ],
+            "title": "Step by Step"
+          },
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More",
+              "Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More \u2192. Calculate. Incentives Review your business transactions with the City in one convenient place. Step by Step \u00b7 Find the licenses and permits that your business needs. Resources"
+            ],
+            "title": "MyCity Business - NYC.gov: Business"
+          },
+          {
+            "url": "https://comptroller.nyc.gov/wp-content/uploads/2026/02/MyCity-System-Development-Public-Final-report-12-30-25-final-copy.pdf",
+            "excerpts": [
+              "Users can create account profiles and save their personal information (such as name, date of birth, address, and Social Security number) or"
+            ],
+            "title": "[PDF] Audit Report on the New York City Office of Technology and ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "nyc_mycity_business_wizard_overview",
+        "reasoning": "The most relevant excerpts describe the NYC MyCity Step-by-Step Wizard directly: it is a Step-by-Step Wizard that helps users see their personalized list of city, state, and federal licenses and permits needed to run a business, and it provides a customized list of requirements after answering questions. This directly supports the notion of an interactive, question-driven tool that yields a personalized list of licenses/permits. Additional excerpts reiterate that users answer questions to obtain a list of required licenses and permits and that the tool guides through City, State, and Federal requirements, which aligns with the core function of guiding entrepreneurs through complex regulatory landscapes. A supporting excerpt explains the tool is part of a larger MyCity platform enabling a unified account which stores personal information, reducing data re-entry across services, and enables transactions such as applying, paying, and checking the status of applications. This strengthens the claim that the wizard not only informs but also supports end-to-end transactions within a single platform. An excerpt about the NYC MyCity system\u2019s development/impact document provides context about its role as a benchmark in civic technology adoption, aligning with the idea of sustained adoption. An additional excerpt about the broader MyCity initiative and related mayoral support further anchors the governance and strategic leverage behind such a tool. Taken together, these excerpts coherently support the fine-grained field value that the NYC MyCity Wizard is an interactive, personalized, cross-agency, transaction-enabled platform central to sustained civic tech adoption for business services.",
+        "citations": [
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/",
+            "excerpts": [
+              "Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More \u2192. Calculate. Incentives Review your business transactions with the City in one convenient place. Step by Step \u00b7 Find the licenses and permits that your business needs. Resources",
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More"
+            ],
+            "title": "MyCity Business - NYC.gov: Business"
+          },
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/wizard",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More",
+              "Answer the questions on the following pages to get a list of the City, State, and Federal licenses and permits you need, as well as additional information.",
+              "Get a customized list of requirements for your business. Answer the questions on the following pages to get a list of the City, State, and Federal licenses and Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More \u2192. Calculate. Incentives"
+            ],
+            "title": "Step by Step"
+          },
+          {
+            "url": "https://comptroller.nyc.gov/wp-content/uploads/2026/02/MyCity-System-Development-Public-Final-report-12-30-25-final-copy.pdf",
+            "excerpts": [
+              "Users can create account profiles and save their personal information (such as name, date of birth, address, and Social Security number) or"
+            ],
+            "title": "[PDF] Audit Report on the New York City Office of Technology and ..."
+          },
+          {
+            "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-releases-first-of-its-kind-plan-responsible-artificial-intelligence-use-nyc",
+            "excerpts": [
+              "The newest phase of Mayor Adams' MyCity portal, the MyCity Business site will serve as an easily accessible, all-in-one resource for"
+            ],
+            "title": "Mayor Adams Releases First-of-Its-Kind Plan For Responsible ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "boston_neighborhood_manager_program",
+        "reasoning": "The field value describes a Boston Office of Small Business program that embeds dedicated, named neighborhood managers in specific geographic districts to provide in-person guidance on a broad set of business needs, including permits, licensing, business planning, and site selection. The most directly relevant information comes from excerpts that state Neighborhood Business Managers can provide answers about permitting and licensing, developing a business plan, and selecting a location, and identify a named manager with assigned neighborhoods. Specifically, one excerpt shows a manager named with a district (Hyde Park, Lower Mills, Roxbury), illustrating the program\u2019s structure of localized, point-of-contact guidance. Another excerpt confirms the general purpose of NBMs offering needs assessments and direct assistance, including guiding critical business decisions. A Boston-focused page corroborates the existence of NBMs as a formal program for localized support. Collectively, these excerpts map exactly to the described program model: embedded, community-facing business experts covering permitting, planning, and location decisions, with publicly listed managers and neighborhoods. This supports the finegrained field value with high specificity and direct alignment to the described program features.",
+        "citations": [
+          {
+            "url": "https://www.boston.gov/departments/small-business-development/connect-your-neighborhood-business-manager",
+            "excerpts": [
+              "Nov 29, 2019 \u2014 Neighborhood Business Managers can provide answers about permitting and licensing, developing a business plan, selecting a location, or other critical business",
+              "Neighborhood Business Managers can provide answers about permitting and licensing, developing a business plan, selecting a location, or other critical business-related matters.",
+              "| Neighborhood Business Manager | Neighborhood/District |\n| **Duamarius Stukes** | Hyde Park, Lower Mills, Roxbury |\n"
+            ],
+            "title": "Connect with Your Neighborhood Business Manager"
+          },
+          {
+            "url": "https://www.boston.gov/departments/small-business",
+            "excerpts": [
+              "Neighborhood Business Managers can provide answers about permitting and licensing, developing a business plan, selecting a location, or other critical business-"
+            ],
+            "title": "Small Business"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "technical_barriers_to_data_integration",
+        "reasoning": "The most directly relevant information shows that local Richmond systems separate certificate data (CZCs) and licensing data (BPOL) into distinct portals (EnerGov-based CZCs and a separate RVA Business Portal). This demonstrates siloed data sources at the city level and a need for integration across multiple local systems. Documentation about the RVA\u2019s move toward a single access point for permits and licenses further supports the existence of fragmented interfaces that complicate pre-population workflows. State-level implications come from references to the Virginia SCC Clerk\u2019s Information System, which is described as the authoritative data source, yet with limited or non-public real-time API access, limiting programmatic pulls into city-facing applications. Community data from the Virginia Open Data Portal shows available datasets but not a full, real-time CIS entity profile feed, underscoring that open datasets cannot substitute integrated, live entity data. Federal constraints are evidenced by notes about IRS APIs requiring client IDs, vetted use cases, and authorization, indicating a controlled access model that is not conducive to broad automated pre-population of local forms. Collectively, these excerpts illustrate a multi-layer barrier: local data silos and separate portals, state-level integration challenges due to CIS API accessibility, and federal access controls that together impede seamless, automated data pre-population across all levels.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/zoning-administration",
+            "excerpts": [
+              "The Online Permit Portal (OPP) shall be used for submitting applications for all Certificates of Zoning Compliances (CZCs). Assembly uses, which include"
+            ],
+            "title": "Zoning Administration | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/login.jsp",
+            "excerpts": [
+              "Welcome to Chicago Business Direct. Our new and improved site combines all of your city license and tax needs in one place."
+            ],
+            "title": "CBD - Login - City of Chicago"
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "Please click on the links below for more information on: Admission Tax \u00b7 Bank Franchise Tax \u00b7 Business, Professional, and Occupational License (BPOL) Tax"
+            ],
+            "title": "Department of Finance for Businesses - RVA.gov"
+          },
+          {
+            "url": "https://cis.scc.virginia.gov/",
+            "excerpts": [
+              "No information is available for this page. \u00b7 Learn why"
+            ],
+            "title": "Virginia SCC Clerk's Information System (CIS) - Virginia.gov"
+          },
+          {
+            "url": "https://data.virginia.gov/dataset/?organization=state-corporate-commission&res_format=CSV",
+            "excerpts": [
+              "This dataset provides information about whether the LLC or business entity has been involved in a merger with another company or business entity. Related"
+            ],
+            "title": "Dataset - Virginia Open Data Portal"
+          },
+          {
+            "url": "https://www.commenda.io/blog/virginia-business-entity-search",
+            "excerpts": [
+              "Oct 28, 2025 \u2014 Step-by-step Virginia entity search guide. Learn to confirm name availability, review company status, and get official filings online. Oct 28, 2025 \u00b7 Access the Virginia SCC Clerk's Information System at cis.scc.virginia.gov and search for your exact desired name using the entity search"
+            ],
+            "title": "Virginia Business Entity Search"
+          },
+          {
+            "url": "https://www.irs.gov/tax-professionals/get-an-api-client-id",
+            "excerpts": [
+              "Before you can use an IRS API, you need a client ID. To get an API client ID, follow these steps: 1. Review the product user guide. The user"
+            ],
+            "title": "Get an API client ID | Internal Revenue Service"
+          },
+          {
+            "url": "https://www.irs.gov/irm/part3/irm_03-042-008",
+            "excerpts": [
+              "... third-party users and self-authenticated individual taxpayers access to selected specific tax information and other sensitive applications and data. User"
+            ],
+            "title": "3.42.8 E-Services Procedures for Electronic Products and ... - IRS"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "virginia_permit_wizard_attempts",
+        "reasoning": "The claim that no Virginia city has implemented and sustained a personalized permit/license wizard comparable to NYC\u2019s MyCity Business is best supported by multiple Virginia-specific sources showing different, non-wizard approaches. For Richmond, the Online Permit Portal focuses on submitting plans, paying for permits, inspections, and tracking status, which is transactional in nature rather than a guided, personalized discovery of all permits across agencies. This indicates a portal designed for processing rather than first identifying all obligations. Virginia\u2019s Virginia Business One Stop is presented as a centralized place to plan, develop, and expand a business, but the materials emphasize navigation, resources, and registry rather than a dynamic, user-input-driven wizard that generates an individualized, cross-agency list of requirements. Alexandria\u2019s New Business Guide and related pages are described as static narrative tools and checklists rather than interactive engines. Other Virginia portals (e.g., RVA/BPOL portals) also highlight single-agency portals and tax/license information, not a multi-agency, personalized requirement wizard. Together, these excerpts support the interpretation that Virginia cities have not adopted a sustained, personalized wizard like NYC\u2019s, instead favor transactional portals and static or generalized guidance. The contrast with NYC\u2019s Step-by-Step Wizard, which explicitly \u201csee your personalized list of City, State, and Federal licenses and permits,\u201d strengthens the inference that Virginia tools, as described here, do not replicate the NYC wizard functionality across municipalities.\n",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from",
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall.",
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from their computer or phone.",
+              "Customers can currently apply for the following plan types using the Online Permit Portal:",
+              "Certificate of Zoning Compliance",
+              "Richmond\n",
+              "format\n"
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/",
+            "excerpts": [
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. \u00b7 Our goal is to grow Virginia through Entrepreneurship. Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Register today to create a business and have all the steps organized in one place online. T"
+            ],
+            "title": "Virginia Business One Stop: Home"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/About",
+            "excerpts": [
+              "Business One Stop provides resources to aspiring entrepreneurs and business owners to plan, develop and expand their businesses.",
+              "The Business One Stop has grown in the years since, expanding to include a number of agencies that touch a Virginia business.",
+              "The goal of the Business One Stop is to be the first stop a business will need to make when establishing a business or accomplishing tasks related to their business.",
+              "Going forward, more features will be added to the Business One Stop web page and the New Business Wizard online registration system."
+            ],
+            "title": "About Us - Virginia Business One Stop"
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license, and other program information from the City of Richmond's Department of Finance specifically tailored to the",
+              "Please click on the links below for more information on: Admission Tax \u00b7 Bank Franchise Tax \u00b7 Business, Professional, and Occupational License (BPOL) Tax"
+            ],
+            "title": "Department of Finance for Businesses - RVA.gov"
+          },
+          {
+            "url": "https://www.alexandriava.gov/business-resources/new-business-guide",
+            "excerpts": [
+              "Feb 13, 2026 \u2014 Any person or organization starting a business in Virginia must register with the State prior to opening the business . Registration can be completed online or"
+            ],
+            "title": "New Business Guide | City of Alexandria, VA"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we To contact City of Richmond Customer Service, please call 804-646-7000 or 3-1-1."
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/tech-assist",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development provides a broad range of technical assistance to Minority and Small Businesses in the City"
+            ],
+            "title": "Tech Assist | Richmond"
+          },
+          {
+            "url": "https://www.facebook.com/RVAOMBD/",
+            "excerpts": [
+              "City of Richmond, Office of Minority Business Development March Calendar of Events: Business Classes, Workshops and Conferences. Please check regularly for ... East Main Street, 5th Floor, Richmond ... City of Richmond, Office of Minority Business Development February Calendar of Events: Business Classes, Workshops and"
+            ],
+            "title": "Office of Minority Business Development | Richmond VA"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/workshops",
+            "excerpts": [
+              "Workshops & Schedule. The Office of Minority Business Development offers classes to help you build your small/minority-owned business. From creating a business"
+            ],
+            "title": "Workshops | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/zoning-administration",
+            "excerpts": [
+              "The Online Permit Portal (OPP) shall be used for submitting applications for all Certificates of Zoning Compliances (CZCs). Assembly uses, which include"
+            ],
+            "title": "Zoning Administration | Richmond"
+          },
+          {
+            "url": "https://alexandriaecon.org/wp-content/uploads/Start-a-Business-in-VA-Checklist-AutoRecovered-1.pdf",
+            "excerpts": [
+              "NOT before. 4. Get your County or City Licenses and Permits i. Business License (BPOL), business tangible personal property tax, and any. 3 pages"
+            ],
+            "title": "Start a Business in Alexandria, Virginia"
+          },
+          {
+            "url": "https://www.alexandriava.gov/hub/licenses-and-permits",
+            "excerpts": [
+              "Aug 6, 2024 \u2014 Find out whether a permit is required, the type of permit needed, fees involved, and what requirements are necessary for the activity you want to engage in"
+            ],
+            "title": "Licenses and Permits | City of Alexandria, VA"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "successful_tool_adoption_factors",
+        "reasoning": "The customer\u2019s fine-grained field value argues that sustained adoption hinges on (a) enabling users to complete critical tasks within the tool (transactions like applying for permits, paying fees, checking status), (b) cross-agency integration with reusable user profiles, and (c) strong executive sponsorship tied to reform efforts. Excerpts describing the NYC MyCity/MyCity Business Step-by-Step Wizard explicitly offer a personalized, transactional path to licenses and permits, moving beyond static information. The Chicago Direct-related excerpts show consolidated license and tax services in one portal, exemplifying a transactional, cross-service workflow. Descriptions of the NYC MyCity system development audit and the public case study on Chicago licensing/permitting reform reinforce the importance of cross-agency orchestration and reform-driven leadership in achieving durable adoption. Other excerpts underscore that Virginia\u2019s current Virginia Business One Stop is more of a directory/collection of links, which aligns with why adoption might stall absent transactional integration and user-centric workflows. Together, these sources support the stated differentiators: (i) transactional capability within the tool, (ii) cross-agency data and profile reuse, and (iii) strong executive sponsorship and reform framing as drivers of sustained adoption.",
+        "citations": [
+          {
+            "url": "https://comptroller.nyc.gov/wp-content/uploads/2026/02/MyCity-System-Development-Public-Final-report-12-30-25-final-copy.pdf",
+            "excerpts": [
+              "Users can create account profiles and save their personal information (such as name, date of birth, address, and Social Security number) or"
+            ],
+            "title": "[PDF] Audit Report on the New York City Office of Technology and ..."
+          },
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/",
+            "excerpts": [
+              "Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More \u2192. Calculate. Incentives Review your business transactions with the City in one convenient place. Step by Step \u00b7 Find the licenses and permits that your business needs. Resources",
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More"
+            ],
+            "title": "MyCity Business - NYC.gov: Business"
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/login.jsp",
+            "excerpts": [
+              "Welcome to Chicago Business Direct. Our new and improved site combines all of your city license and tax needs in one place."
+            ],
+            "title": "CBD - Login - City of Chicago"
+          },
+          {
+            "url": "https://www.infor.com/customer-stories/how-city-of-chicago-streamlined-permitting-process",
+            "excerpts": [
+              "In this case study, learn how you can modernize your city with: A simplified and intuitive onlineapplication system that eases permit submission and"
+            ],
+            "title": "How the City of Chicago transformed and streamlined its permitting ..."
+          },
+          {
+            "url": "https://www.chicago.gov/content/dam/city/depts/bacp/nbdc/59149nbdcblspublished.pdf",
+            "excerpts": [
+              "Dec 1, 2025 \u2014 Chicago Business Direct: Encourage and support small businesses in enrolling in the Chicago Business Direct platform. \u2022 Chicago Legacy"
+            ],
+            "title": "BACP-Neighborhood Business Development ..."
+          },
+          {
+            "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-releases-first-of-its-kind-plan-responsible-artificial-intelligence-use-nyc",
+            "excerpts": [
+              "The newest phase of Mayor Adams' MyCity portal, the MyCity Business site will serve as an easily accessible, all-in-one resource for"
+            ],
+            "title": "Mayor Adams Releases First-of-Its-Kind Plan For Responsible ..."
+          },
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/wizard",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More",
+              "Answer the questions on the following pages to get a list of the City, State, and Federal licenses and permits you need, as well as additional information.",
+              "Get a customized list of requirements for your business. Answer the questions on the following pages to get a list of the City, State, and Federal licenses and Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More \u2192. Calculate. Incentives"
+            ],
+            "title": "Step by Step"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "other_virginia_prior_art",
+        "reasoning": "Virginia-specific tools are described in several excerpts. The Virginia Business One Stop (VBOS) is presented as a hub intended to organize steps online and to help entrepreneurs plan, develop, and expand their business, with an emphasis on aggregation and future features rather than an interactive, sequenced wizard at present. This aligns with the cited VBOS home and about pages showing VBOS as a planning/resource platform, not a live step-by-step wizard. In Richmond, the Online Permit Portal (OPP) / EnerGov is described as a transactional portal where users submit plans, apply for permits, and pay, i.e., it executes applications rather than determining requirements for business setup. The RVA Business Portal is described as a separate portal launched for BPOL/BPP filings, a tax/filing portal rather than a guided onboarding tool. Alexandria\u2019s New Business Guide is depicted as a narrative/static guide with checklists for new businesses, not an interactive wizard. The excerpts collectively support the distinct roles: VBOS as a centralized, non-interactive organizer; OPP as an online permit execution system; RVA Portal as a tax/filing portal; and Alexandria as a static guidance resource. The ordering reflects strongest, most direct evidence first (VBOS pages and descriptions), followed by the Richmond OPP/enerGov transactional portal descriptions, then RVA\u2019s portal, and finally Alexandria\u2019s static guide. Quotes such as \u201cBusiness One Stop is for entrepreneurs and business owners to plan, develop and expand their business\u201d and \u201cRegister today to create a business and have all the steps organized in one place online\u201d substantiate VBOS as an aggregator rather than a wizard. Phrases describing OPP\u2019s capabilities to submit plans, apply and pay for permits confirm its transactional nature. References to RVA\u2019s BPOL/BPP portal indicate a separate, filing-focused system. Alexandria\u2019s text describing a narrative guide and checklists confirms its static nature. Overall, the evidence supports the finegrained field value\u2019s characterization of each tool\u2019s role and format with no explicit contradictions.",
+        "citations": [
+          {
+            "url": "https://bos.sbsd.virginia.gov/",
+            "excerpts": [
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. \u00b7 Our goal is to grow Virginia through Entrepreneurship. Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Register today to create a business and have all the steps organized in one place online. T"
+            ],
+            "title": "Virginia Business One Stop: Home"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/About",
+            "excerpts": [
+              "Business One Stop provides resources to aspiring entrepreneurs and business owners to plan, develop and expand their businesses.",
+              "The Business One Stop has grown in the years since, expanding to include a number of agencies that touch a Virginia business.",
+              "The goal of the Business One Stop is to be the first stop a business will need to make when establishing a business or accomplishing tasks related to their business.",
+              "Going forward, more features will be added to the Business One Stop web page and the New Business Wizard online registration system."
+            ],
+            "title": "About Us - Virginia Business One Stop"
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/BusinessResources",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan , develop, or expand your business . Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business.",
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business."
+            ],
+            "title": "Business Resources - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/ExpandYourBusiness",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to expand your business ."
+            ],
+            "title": "Expand Your Business - Virginia Business One Stop"
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from",
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall.",
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from their computer or phone.",
+              "Customers can currently apply for the following plan types using the Online Permit Portal:",
+              "Certificate of Zoning Compliance",
+              "Richmond\n",
+              "format\n"
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license, and other program information from the City of Richmond's Department of Finance specifically tailored to the",
+              "Please click on the links below for more information on: Admission Tax \u00b7 Bank Franchise Tax \u00b7 Business, Professional, and Occupational License (BPOL) Tax"
+            ],
+            "title": "Department of Finance for Businesses - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for our business community."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.alexandriava.gov/business-resources/new-business-guide",
+            "excerpts": [
+              "Feb 13, 2026 \u2014 Any person or organization starting a business in Virginia must register with the State prior to opening the business . Registration can be completed online or"
+            ],
+            "title": "New Business Guide | City of Alexandria, VA"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we To contact City of Richmond Customer Service, please call 804-646-7000 or 3-1-1."
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/tech-assist",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development provides a broad range of technical assistance to Minority and Small Businesses in the City"
+            ],
+            "title": "Tech Assist | Richmond"
+          },
+          {
+            "url": "https://www.facebook.com/RVAOMBD/",
+            "excerpts": [
+              "City of Richmond, Office of Minority Business Development March Calendar of Events: Business Classes, Workshops and Conferences. Please check regularly for ... East Main Street, 5th Floor, Richmond ... City of Richmond, Office of Minority Business Development February Calendar of Events: Business Classes, Workshops and"
+            ],
+            "title": "Office of Minority Business Development | Richmond VA"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/workshops",
+            "excerpts": [
+              "Workshops & Schedule. The Office of Minority Business Development offers classes to help you build your small/minority-owned business. From creating a business"
+            ],
+            "title": "Workshops | Richmond"
+          },
+          {
+            "url": "https://alexandriaecon.org/wp-content/uploads/Start-a-Business-in-VA-Checklist-AutoRecovered-1.pdf",
+            "excerpts": [
+              "NOT before. 4. Get your County or City Licenses and Permits i. Business License (BPOL), business tangible personal property tax, and any. 3 pages"
+            ],
+            "title": "Start a Business in Alexandria, Virginia"
+          },
+          {
+            "url": "https://www.alexandriava.gov/hub/licenses-and-permits",
+            "excerpts": [
+              "Aug 6, 2024 \u2014 Find out whether a permit is required, the type of permit needed, fees involved, and what requirements are necessary for the activity you want to engage in"
+            ],
+            "title": "Licenses and Permits | City of Alexandria, VA"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "virginia_business_one_stop_analysis",
+        "reasoning": "The most directly relevant excerpts describe the Virginia Business One Stop as a portal that is meant to help organize steps for starting and growing a business, with language indicating that users should register to create a business and that the system aims to keep steps in one place online. This aligns with the claim that BOS today serves more as a structured resource hub rather than a fully interactive, sequenced guide across state and local requirements. Additional BOS content emphasizes resources and guidance rather than a step-by-step, question-driven experience, reinforcing the interpretation of BOS as primarily informational with potential future enhancements. Several excerpts explicitly note BOS\u2019s broader goals and the intent to add features going forward, including statements about the goal to grow entrepreneurship and the promise that more features will be added to the BOS web page and the New Business Wizard online registration system. Taken together, these items support the finegrained field value\u2019s claim that BOS is currently more of a directory/aggregation hub and has aspirational plans for more advanced functionality, rather than a fully interactive, sequenced start-up guide today. Supporting excerpts also show related Virginia SBO/ SBSD content and portal evolution language, which provides context for potential upgrade trajectories, but there is no evidence of a concrete, publicly published upgrade plan that would demonstrate an active, implemented interactive guide at this time.",
+        "citations": [
+          {
+            "url": "https://bos.sbsd.virginia.gov/",
+            "excerpts": [
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. \u00b7 Our goal is to grow Virginia through Entrepreneurship. Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Register today to create a business and have all the steps organized in one place online. T"
+            ],
+            "title": "Virginia Business One Stop: Home"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/About",
+            "excerpts": [
+              "Business One Stop provides resources to aspiring entrepreneurs and business owners to plan, develop and expand their businesses.",
+              "The Business One Stop has grown in the years since, expanding to include a number of agencies that touch a Virginia business.",
+              "The goal of the Business One Stop is to be the first stop a business will need to make when establishing a business or accomplishing tasks related to their business.",
+              "Going forward, more features will be added to the Business One Stop web page and the New Business Wizard online registration system."
+            ],
+            "title": "About Us - Virginia Business One Stop"
+          },
+          {
+            "url": "https://sbsd.virginia.gov/",
+            "excerpts": [
+              "The mission of the Virginia Department of Small Business and Supplier Diversity (SBSD) is to provide education and assistance; economic opportunity; and access\u00a0..."
+            ],
+            "title": "Virginia Department of Small Business and Supplier Diversity"
+          },
+          {
+            "url": "https://reports.dpb.virginia.gov/sp101?FirstRun=False&agency=350&version=2024-26",
+            "excerpts": [
+              "SBSD has several IT applications that it is responsible for managing. Those applications include the agency website, certification portal, expenditure dashboard\u00a0..."
+            ],
+            "title": "sp101 (PB Reports) - Virginia.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_in_person_guidance_analysis",
+        "reasoning": "The Boston excerpts describe Neighborhood Business Managers who provide localized, in-person guidance on permitting, licensing, business planning, and location selection, with named staff assigned to specific neighborhoods. This establishes a concrete standard for what a neighborhood-embedded guidance program looks like. In contrast, the Richmond-related excerpts summarize a set of centralized support structures: the City\u2019s Small Business Development Center network, the Office of Minority Business Development, and service counters at City Hall for permitting, finance, and related tasks. These sources indicate that Richmond channels entrepreneurs to centralized resources and authorities rather than operating through dedicated, neighborhood-specific navigators. While Richmond also references centralized portals and department offices (e.g., OMBD, SBDC, and City Hall counters for permits and finance), I do not find evidence of a program where a staff member is assigned to and operates within a named neighborhood as a primary local navigator. Taken together, the Boston model provides the clear benchmark for the in-person guidance model, and the Richmond sources align with a centralized support paradigm without documentation of a parallel neighborhood-assigned navigator program. Therefore, the claim that Richmond has not implemented or publicly considered a Boston-like neighborhood navigator model is supported by the combination of direct contrast with the Boston description and the absence of Richmond-specific references to neighborhood-based navigators in the provided materials.",
+        "citations": [
+          {
+            "url": "https://www.boston.gov/departments/small-business-development/connect-your-neighborhood-business-manager",
+            "excerpts": [
+              "Nov 29, 2019 \u2014 Neighborhood Business Managers can provide answers about permitting and licensing, developing a business plan, selecting a location, or other critical business",
+              "Neighborhood Business Managers can provide answers about permitting and licensing, developing a business plan, selecting a location, or other critical business-related matters.",
+              "| Neighborhood Business Manager | Neighborhood/District |\n| **Duamarius Stukes** | Hyde Park, Lower Mills, Roxbury |\n"
+            ],
+            "title": "Connect with Your Neighborhood Business Manager"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we To contact City of Richmond Customer Service, please call 804-646-7000 or 3-1-1."
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/tech-assist",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development provides a broad range of technical assistance to Minority and Small Businesses in the City"
+            ],
+            "title": "Tech Assist | Richmond"
+          },
+          {
+            "url": "https://www.facebook.com/RVAOMBD/",
+            "excerpts": [
+              "City of Richmond, Office of Minority Business Development March Calendar of Events: Business Classes, Workshops and Conferences. Please check regularly for ... East Main Street, 5th Floor, Richmond ... City of Richmond, Office of Minority Business Development February Calendar of Events: Business Classes, Workshops and"
+            ],
+            "title": "Office of Minority Business Development | Richmond VA"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/workshops",
+            "excerpts": [
+              "Workshops & Schedule. The Office of Minority Business Development offers classes to help you build your small/minority-owned business. From creating a business"
+            ],
+            "title": "Workshops | Richmond"
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license, and other program information from the City of Richmond's Department of Finance specifically tailored to the",
+              "Please click on the links below for more information on: Admission Tax \u00b7 Bank Franchise Tax \u00b7 Business, Professional, and Occupational License (BPOL) Tax"
+            ],
+            "title": "Department of Finance for Businesses - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "legal_barriers_to_data_sharing",
+        "reasoning": "The primary legal constraint on sharing federal tax information is confidentiality under 26 U.S.C. \u00a7 6103, which protects data submitted in tax-related processes (such as an EIN application). This statute generally prohibits IRS disclosure of such information, meaning that using tax data to pre-populate downstream government applications would ordinarily require a specific legal exception and a formal interagency agreement. There are, however, recognized exceptions for disclosures to state and local governments, but those are narrowly defined for purposes like tax administration and do not automatically authorize routine reuse for general license or permit applications. Therefore, any such data sharing would necessitate a dedicated legal mechanism (an interagency agreement or a statutory/exception-based pathway) rather than ad-hoc reuse. This is the core federal constraint that would govern whether a pre-population approach is even permissible without special arrangements. Additionally, at the state level (Virginia), data governance for SCC data is governed by state policies; intergovernmental sharing of authoritative Clerk\u2019s Information System data would likely require formal MOUs and compliance with SCC data-use/distribution policies, indicating that any cross-jurisdiction sharing would need formal agreements and policy alignment, even if federal protections differ. In sum, the most solid support shows a strict federal confidentiality regime with narrow disclosure allowances, plus state-level data-sharing prerequisites that would shape any architecture intended to auto-fill local applications across agencies.",
+        "citations": [
+          {
+            "url": "https://www.irs.gov/government-entities/federal-state-local-governments/disclosure-laws",
+            "excerpts": [
+              "Sep 10, 2025 \u2014 IRC Section 6103 generally prohibits the release of tax information by an IRS employee. However, there are important exceptions that you should be aware of."
+            ],
+            "title": "Disclosure laws | Internal Revenue Service"
+          },
+          {
+            "url": "https://www.irs.gov/tax-professionals/get-an-api-client-id",
+            "excerpts": [
+              "Before you can use an IRS API, you need a client ID. To get an API client ID, follow these steps: 1. Review the product user guide. The user"
+            ],
+            "title": "Get an API client ID | Internal Revenue Service"
+          },
+          {
+            "url": "https://cis.scc.virginia.gov/",
+            "excerpts": [
+              "No information is available for this page. \u00b7 Learn why"
+            ],
+            "title": "Virginia SCC Clerk's Information System (CIS) - Virginia.gov"
+          },
+          {
+            "url": "https://data.virginia.gov/dataset/?organization=state-corporate-commission&res_format=CSV",
+            "excerpts": [
+              "This dataset provides information about whether the LLC or business entity has been involved in a merger with another company or business entity. Related"
+            ],
+            "title": "Dataset - Virginia Open Data Portal"
+          },
+          {
+            "url": "https://www.commenda.io/blog/virginia-business-entity-search",
+            "excerpts": [
+              "Oct 28, 2025 \u2014 Step-by-step Virginia entity search guide. Learn to confirm name availability, review company status, and get official filings online. Oct 28, 2025 \u00b7 Access the Virginia SCC Clerk's Information System at cis.scc.virginia.gov and search for your exact desired name using the entity search"
+            ],
+            "title": "Virginia Business Entity Search"
+          },
+          {
+            "url": "https://www.irs.gov/irm/part3/irm_03-042-008",
+            "excerpts": [
+              "... third-party users and self-authenticated individual taxpayers access to selected specific tax information and other sensitive applications and data. User"
+            ],
+            "title": "3.42.8 E-Services Procedures for Electronic Products and ... - IRS"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "potential_vendors_and_technologies",
+        "reasoning": "The most relevant excerpt explicitly discusses how Chicago transformed and streamlined its permitting process and licensing through a case-study style explanation that centers on a modernized, simplified online application workflow for permits. This aligns with the field value\u2019s focus on a platform that eases permit submission and consolidates business services, as seen in Chicago\u2019s reform initiative. The next excerpt reinforces this by presenting a separate case study on Chicago licensing and permitting reform, which further corroborates the existence of a centralized, streamlined approach in the same city context. Another highly relevant excerpt describes Chicago\u2019s Business Direct portal, a concrete example of a unified, online access point for license and tax needs, which is consistent with the field value\u2019s emphasis on integrated online systems. Additional excerpts related to Chicago\u2019s licensing infrastructure (such as the BACP portal for license management and the broader licensing data portal) provide context that supports the idea of a centralized, technology-enabled licensing ecosystem in Chicago. Taken together, these excerpts collectively support the notion of a platform-driven, city-wide streamlining effort in Chicago, which is the scenario described in the fine-grained field value. While the excerpts strongly point to Chicago and online licensing platforms, the supplier/vendor (Infor) is not explicitly named in the text of the excerpts provided, so the claim about Infor as the vendor is not fully evidenced here; the surrounding Chicago case materials do align with the described trend and platform characteristics.",
+        "citations": [
+          {
+            "url": "https://www.infor.com/customer-stories/how-city-of-chicago-streamlined-permitting-process",
+            "excerpts": [
+              "In this case study, learn how you can modernize your city with: A simplified and intuitive onlineapplication system that eases permit submission and"
+            ],
+            "title": "How the City of Chicago transformed and streamlined its permitting ..."
+          },
+          {
+            "url": "https://datasmart.hks.harvard.edu/news/article/case-study-chicago-licensing-and-permitting-reform-647",
+            "excerpts": [
+              "Energizing business growth with smart, business-friendly regulation was the Mayor's primary goal, and ensuring public safety and strong consumer"
+            ],
+            "title": "Case Study: Chicago Licensing and Permitting Reform"
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/login.jsp",
+            "excerpts": [
+              "Welcome to Chicago Business Direct. Our new and improved site combines all of your city license and tax needs in one place."
+            ],
+            "title": "CBD - Login - City of Chicago"
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/userRegister.do",
+            "excerpts": [
+              "You must log in with your User ID in order to manage license and tax ... You cannot conduct business in Chicago Business Direct until we know who you are."
+            ],
+            "title": "BACP - Register or Login - City of Chicago"
+          },
+          {
+            "url": "https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr",
+            "excerpts": [
+              "Looking to apply for a new business license? Use Chicago's online business license application system to apply online. Business Owners."
+            ],
+            "title": "Business Licenses | City of Chicago | Data Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "data_prepopulation_feasibility_analysis",
+        "reasoning": "The Virginia SCC Clerk's Information System (CIS) is cited as the authoritative registry for business entities, but there is no indication that a public, real-time API is advertised for CIS, which challenges automated data transfer to local prepopulation workflows. This supports the technical barrier claim that intergovernmental data sharing would require formal integrations and approvals rather than a readily available public feed.\nThe confidentiality of federal tax information, managed under federal law, is a major legal constraint. Specifically, the disclosure laws referenced indicate that 26 U.S.C. \u00a7 6103 broadly prohibits disclosure of returns and return information by the IRS except in narrowly defined circumstances, which aligns with the claim that EIN-derived data cannot be routinely used to prepopulate local forms like BPOL or CZC and would require exceptional authorization frameworks.\nThere is also mention of an IRS API-related pathway (getting an API client ID) to access certain IRS data, implying that even when access is possible, it requires vetted use cases, authorization, and likely strict controls \u2014 a non-trivial barrier for general onboarding workflows.\nContextually, Virginia\u2019s RVA portal ecosystem (RVA Business Portal) and related BPOL/CZC workflows illustrate existing, separate systems for local licensing and permitting. This separation reinforces the need for interoperability work (integration between EnerGov-based permit portals and the RVA portal) to enable any meaningful data prepopulation across state and local systems.\nIn summary, the supporting pieces point to a mixed feasibility: technically pulling data from CIS is plausible in principle, but practical realization is hampered by lack of public API access and by stringent federal confidentiality constraints on EIN data. Interoperability between state CIS, local permit/license systems, and IRS data would require substantial legal agreements, controlled data sharing, and integrated IT architectures before prepopulated local forms could become reliable and compliant.",
+        "citations": [
+          {
+            "url": "https://cis.scc.virginia.gov/",
+            "excerpts": [
+              "No information is available for this page. \u00b7 Learn why"
+            ],
+            "title": "Virginia SCC Clerk's Information System (CIS) - Virginia.gov"
+          },
+          {
+            "url": "https://www.irs.gov/government-entities/federal-state-local-governments/disclosure-laws",
+            "excerpts": [
+              "Sep 10, 2025 \u2014 IRC Section 6103 generally prohibits the release of tax information by an IRS employee. However, there are important exceptions that you should be aware of."
+            ],
+            "title": "Disclosure laws | Internal Revenue Service"
+          },
+          {
+            "url": "https://www.irs.gov/tax-professionals/get-an-api-client-id",
+            "excerpts": [
+              "Before you can use an IRS API, you need a client ID. To get an API client ID, follow these steps: 1. Review the product user guide. The user"
+            ],
+            "title": "Get an API client ID | Internal Revenue Service"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance.",
+              "The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for our business community."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "comparison_of_business_support_models.platform_name",
+        "reasoning": "The targeted field value identifies a specific platform name and feature: the NYC MyCity Business Step-by-Step Wizard. The most relevant excerpts explicitly describe the NYC MyCity Business tool and its Step-by-Step Wizard or its function to help users find licenses and permits, which matches the intended platform name and feature. The first excerpt states the tool is called MyCity Business and highlights the Step-by-Step Wizard that provides a personalized list of licenses and permits. The second excerpt corroborates this by describing how users can find licenses and permits with a Step by Step flow, reinforcing the same NYC MyCity Business Step-by-Step context. A third excerpt references a MyCity-related audit report but does not detail the Step-by-Step wizard or the NYC tool\u2019s named feature, making it only tangentially relevant to the exact field value. Together, the strongest support comes from the explicit Step-by-Step Wizard descriptions, confirming the identification of the NYC MyCity Business: Step-by-Step platform in the data.",
+        "citations": [
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/wizard",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More"
+            ],
+            "title": "Step by Step"
+          },
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More",
+              "Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More \u2192. Calculate. Incentives Review your business transactions with the City in one convenient place. Step by Step \u00b7 Find the licenses and permits that your business needs. Resources"
+            ],
+            "title": "MyCity Business - NYC.gov: Business"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparison_of_business_support_models.model_type",
+        "reasoning": "The field value 'Interactive Wizard' corresponds to a tool that guides users through a sequence of steps to determine needs. Excerpt content shows a 'Step-by-Step Wizard' that generates a personalized list of City, State, and Federal licenses and permits for running a business, which is a clear match to an interactive, guided tool. The same excerpts also describe mechanisms to 'Find the licenses and permits that your business needs' and to produce a 'personalized list,' both characteristic of an interactive wizard approach. These elements directly support the notion of an Interactive Wizard as a model type for business navigation tools. The third excerpt discusses an audit report about the MyCity system\u2019s development and mentions account profiles and saving personal information; while it provides context about system features, it does not directly describe the wizard\u2019s interactive behavior and therefore offers weaker, indirect support for the specific model type. Taken together, the strongest support comes from the explicit wizard and personalized-steps descriptions, with secondary context from the system-development audit.",
+        "citations": [
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/wizard",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More"
+            ],
+            "title": "Step by Step"
+          },
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More",
+              "Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More \u2192. Calculate. Incentives Review your business transactions with the City in one convenient place. Step by Step \u00b7 Find the licenses and permits that your business needs. Resources"
+            ],
+            "title": "MyCity Business - NYC.gov: Business"
+          },
+          {
+            "url": "https://comptroller.nyc.gov/wp-content/uploads/2026/02/MyCity-System-Development-Public-Final-report-12-30-25-final-copy.pdf",
+            "excerpts": [
+              "Users can create account profiles and save their personal information (such as name, date of birth, address, and Social Security number) or"
+            ],
+            "title": "[PDF] Audit Report on the New York City Office of Technology and ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "executive_summary",
+        "reasoning": "- The analysis highlights NYC\u2019s MyCity Step-by-Step Wizard as a reference model that generates a personalized, comprehensive list of licenses and permits across City, State, and Federal levels, illustrating the core value of an interactive, end-to-end guidance tool. This directly supports the executive summary claim that interactive guidance tools outperform static resources. The NYC wizard\u2019s ability to \u201csee your personalized list\u201d and \u201cget a customized list of requirements\u201d provides concrete evidence of a sequenced, user-centered flow that increases adoption and satisfaction. \n- Further, the NYC MyCity/Step-by-Step descriptions emphasize not just cataloging requirements but enabling a guided, calculable pathway, which underpins the comparison to Richmond\u2019s more static approaches and to Virginia\u2019s VBOS as primarily a directory. \n- Related Chicago materials demonstrate how a city Direct platform (Chicago Business Direct) consolidates licenses, taxes, and applications in one place, with a strong emphasis on transactionality and cross-agency integration. This provides a comparator for sustained adoption through end-to-end workflow, status tracking, and streamlined user experience. \n- Boston\u2019s Neighborhood Business Manager model reinforces the high-touch, place-based delivery of guidance, pointing to a different adoption driver (in-person, localized support) versus online wizarding. This supports the executive summary\u2019s claim that different jurisdictions pursue diverse delivery modes with varying adoption trajectories. \n- Virginia VBOS materials show the current state of affairs: a statewide resource directory with a planned, but not yet fully realized, integrated New Business Wizard, and Richmond\u2019s Online Permit Portal for permit-related tasks. This aligns with the summary\u2019s assertion of a gap between advanced interactive models and Virginia\u2019s more static, portal-based or directory-style tools. \n- The Richmond/Acronyms family (OMBD, RVA portals, BPOL) confirms a centralized, downtown-centric service model with limited documented multi-neighborhood reach, consistent with the executive-summary observation about geographic access and delivery scope. \n- Collectively, the excerpts illustrate a clear contrast between interactive, integrated, user-centric guidance platforms (NYC Chicago) and Virginia\u2019s more modular, directory-based or portal-based tools, supporting the summary\u2019s hypothesis regarding adoption drivers, regulatory/technical barriers to cross-agency data sharing, and geographic reach considerations. \n- The coverage of data-sharing and legal barriers to pre-populating forms (SCC data, IRS EIN data) is reflected in references to SCC and IRS data protections, which underpin the technical feasibility concerns raised in the executive_summary. \n- Overall, these excerpts cohere to the narrative that successful, sustained adoption hinges on transactional capability, cross-agency integration, executive sponsorship, and accessible in-person or neighborhood-oriented services, while Virginia\u2019s current tools lag behind in these dimensions.",
+        "citations": [
+          {
+            "url": "https://comptroller.nyc.gov/wp-content/uploads/2026/02/MyCity-System-Development-Public-Final-report-12-30-25-final-copy.pdf",
+            "excerpts": [
+              "Users can create account profiles and save their personal information (such as name, date of birth, address, and Social Security number) or"
+            ],
+            "title": "[PDF] Audit Report on the New York City Office of Technology and ..."
+          },
+          {
+            "url": "https://www.chicago.gov/content/dam/city/depts/bacp/nbdc/59149nbdcblspublished.pdf",
+            "excerpts": [
+              "Dec 1, 2025 \u2014 Chicago Business Direct: Encourage and support small businesses in enrolling in the Chicago Business Direct platform. \u2022 Chicago Legacy"
+            ],
+            "title": "BACP-Neighborhood Business Development ..."
+          },
+          {
+            "url": "https://www.boston.gov/departments/small-business-development/connect-your-neighborhood-business-manager",
+            "excerpts": [
+              "Nov 29, 2019 \u2014 Neighborhood Business Managers can provide answers about permitting and licensing, developing a business plan, selecting a location, or other critical business",
+              "Neighborhood Business Managers can provide answers about permitting and licensing, developing a business plan, selecting a location, or other critical business-related matters.",
+              "| Neighborhood Business Manager | Neighborhood/District |\n| **Duamarius Stukes** | Hyde Park, Lower Mills, Roxbury |\n"
+            ],
+            "title": "Connect with Your Neighborhood Business Manager"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/",
+            "excerpts": [
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. \u00b7 Our goal is to grow Virginia through Entrepreneurship. Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Register today to create a business and have all the steps organized in one place online. T",
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business."
+            ],
+            "title": "Virginia Business One Stop: Home"
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license, and other program information from the City of Richmond's Department of Finance specifically tailored to the",
+              "Please click on the links below for more information on: Admission Tax \u00b7 Bank Franchise Tax \u00b7 Business, Professional, and Occupational License (BPOL) Tax"
+            ],
+            "title": "Department of Finance for Businesses - RVA.gov"
+          },
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/",
+            "excerpts": [
+              "Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More \u2192. Calculate. Incentives Review your business transactions with the City in one convenient place. Step by Step \u00b7 Find the licenses and permits that your business needs. Resources",
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More"
+            ],
+            "title": "MyCity Business - NYC.gov: Business"
+          },
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/wizard",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More",
+              "Answer the questions on the following pages to get a list of the City, State, and Federal licenses and permits you need, as well as additional information.",
+              "Get a customized list of requirements for your business. Answer the questions on the following pages to get a list of the City, State, and Federal licenses and Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More \u2192. Calculate. Incentives"
+            ],
+            "title": "Step by Step"
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from",
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall.",
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from their computer or phone.",
+              "Customers can currently apply for the following plan types using the Online Permit Portal:",
+              "Certificate of Zoning Compliance",
+              "Richmond\n",
+              "format\n"
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chicago.gov/city/en/sites/chicago-business-licensing/home/license-application-requirements.html",
+            "excerpts": [
+              "1. All business license applicants must go through basic license application steps, outlined below. ...\n 2. obtain business registrations and documents. ...\n 3. Submit Application. ...\n 4. receive zoning approval. ...\n 5. complete Application. ...\n 6. Pay for license. ...\n 7. pass License Inspections. ...\n 8. Resolve any account holds."
+            ],
+            "title": "Business License Application Steps - City of Chicago"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/About",
+            "excerpts": [
+              "The Business One Stop has grown in the years since, expanding to include a number of agencies that touch a Virginia business.",
+              "The goal of the Business One Stop is to be the first stop a business will need to make when establishing a business or accomplishing tasks related to their business.",
+              "Going forward, more features will be added to the Business One Stop web page and the New Business Wizard online registration system."
+            ],
+            "title": "About Us - Virginia Business One Stop"
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/BusinessResources",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan , develop, or expand your business . Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business.",
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business."
+            ],
+            "title": "Business Resources - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/ExpandYourBusiness",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to expand your business ."
+            ],
+            "title": "Expand Your Business - Virginia Business One Stop"
+          },
+          {
+            "url": "https://www.boston.gov/departments/small-business",
+            "excerpts": [
+              "Neighborhood Business Managers can provide answers about permitting and licensing, developing a business plan, selecting a location, or other critical business-"
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.facebook.com/EconDevBoston/posts/-we-are-seeking-a-neighborhood-business-manager-to-join-the-city-of-bostons-offi/1260256156146044/",
+            "excerpts": [
+              "Our office is currently seeking a Neighborhood Business Manager to provide needs assessments, direct assistance, and the delivery of programming"
+            ],
+            "title": "\ud83d\udce3 We are seeking a Neighborhood Business Manager ..."
+          },
+          {
+            "url": "https://worldbusinesschicago.com/allnews/building-a-chicago-where-every-neighborhood-and-every-business-can-thrive/",
+            "excerpts": [
+              "Dec 17, 2025 \u2014 Cut the Tape for Small Business focuses on reducing time and cost burdens, increasing transparency, and expanding access to guidance and"
+            ],
+            "title": "Building a Chicago where every neighborhood and ..."
+          },
+          {
+            "url": "https://www.chicago.gov/city/en/depts/bacp.html",
+            "excerpts": [
+              "BACP licenses businesses and public vehicles, regulates business activity, protects consumers from fraud, enforces Chicago's labor laws."
+            ],
+            "title": "Business Affairs and Consumer Protection"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance.",
+              "The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for our business community."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.alexandriava.gov/business-resources/new-business-guide",
+            "excerpts": [
+              "Feb 13, 2026 \u2014 Any person or organization starting a business in Virginia must register with the State prior to opening the business . Registration can be completed online or"
+            ],
+            "title": "New Business Guide | City of Alexandria, VA"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we To contact City of Richmond Customer Service, please call 804-646-7000 or 3-1-1."
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/tech-assist",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development provides a broad range of technical assistance to Minority and Small Businesses in the City"
+            ],
+            "title": "Tech Assist | Richmond"
+          },
+          {
+            "url": "https://www.facebook.com/RVAOMBD/",
+            "excerpts": [
+              "City of Richmond, Office of Minority Business Development March Calendar of Events: Business Classes, Workshops and Conferences. Please check regularly for ... East Main Street, 5th Floor, Richmond ... City of Richmond, Office of Minority Business Development February Calendar of Events: Business Classes, Workshops and"
+            ],
+            "title": "Office of Minority Business Development | Richmond VA"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/workshops",
+            "excerpts": [
+              "Workshops & Schedule. The Office of Minority Business Development offers classes to help you build your small/minority-owned business. From creating a business"
+            ],
+            "title": "Workshops | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/zoning-administration",
+            "excerpts": [
+              "The Online Permit Portal (OPP) shall be used for submitting applications for all Certificates of Zoning Compliances (CZCs). Assembly uses, which include"
+            ],
+            "title": "Zoning Administration | Richmond"
+          },
+          {
+            "url": "https://alexandriaecon.org/wp-content/uploads/Start-a-Business-in-VA-Checklist-AutoRecovered-1.pdf",
+            "excerpts": [
+              "NOT before. 4. Get your County or City Licenses and Permits i. Business License (BPOL), business tangible personal property tax, and any. 3 pages"
+            ],
+            "title": "Start a Business in Alexandria, Virginia"
+          },
+          {
+            "url": "https://www.alexandriava.gov/hub/licenses-and-permits",
+            "excerpts": [
+              "Aug 6, 2024 \u2014 Find out whether a permit is required, the type of permit needed, fees involved, and what requirements are necessary for the activity you want to engage in"
+            ],
+            "title": "Licenses and Permits | City of Alexandria, VA"
+          },
+          {
+            "url": "https://sbsd.virginia.gov/",
+            "excerpts": [
+              "The mission of the Virginia Department of Small Business and Supplier Diversity (SBSD) is to provide education and assistance; economic opportunity; and access\u00a0..."
+            ],
+            "title": "Virginia Department of Small Business and Supplier Diversity"
+          },
+          {
+            "url": "https://reports.dpb.virginia.gov/sp101?FirstRun=False&agency=350&version=2024-26",
+            "excerpts": [
+              "SBSD has several IT applications that it is responsible for managing. Those applications include the agency website, certification portal, expenditure dashboard\u00a0..."
+            ],
+            "title": "sp101 (PB Reports) - Virginia.gov"
+          },
+          {
+            "url": "https://www.lisc.org/media/filer_public/91/30/9130bfbf-b20e-4864-9d73-418b0e791586/richmond_pois_final.pdf",
+            "excerpts": [
+              "16 \u200bRichmond VA > Office of Minority Business Development > Training Opportunities\u200b. http://www.richmondgov.com/MinorityBusinessDevelopment/Training.aspx. The city's Minority Business Development Department have classes at 4, 5 and ... Richmond VA > Office of Minority Business Development > Training Opportunities\u200b."
+            ],
+            "title": "RICHMOND"
+          },
+          {
+            "url": "https://www.law.cornell.edu/uscode/text/26/6103",
+            "excerpts": [
+              "Upon written request of the payor agency, the Secretary may disclose available return information from the master files of the Internal Revenue Service with"
+            ],
+            "title": "26 U.S. Code \u00a7 6103 - Confidentiality and disclosure of ..."
+          },
+          {
+            "url": "https://www.irs.gov/government-entities/federal-state-local-governments/disclosure-laws",
+            "excerpts": [
+              "Sep 10, 2025 \u2014 IRC Section 6103 generally prohibits the release of tax information by an IRS employee. However, there are important exceptions that you should be aware of."
+            ],
+            "title": "Disclosure laws | Internal Revenue Service"
+          },
+          {
+            "url": "https://www.irs.gov/tax-professionals/get-an-api-client-id",
+            "excerpts": [
+              "Before you can use an IRS API, you need a client ID. To get an API client ID, follow these steps: 1. Review the product user guide. The user"
+            ],
+            "title": "Get an API client ID | Internal Revenue Service"
+          },
+          {
+            "url": "https://cis.scc.virginia.gov/",
+            "excerpts": [
+              "No information is available for this page. \u00b7 Learn why"
+            ],
+            "title": "Virginia SCC Clerk's Information System (CIS) - Virginia.gov"
+          },
+          {
+            "url": "https://data.virginia.gov/dataset/?organization=state-corporate-commission&res_format=CSV",
+            "excerpts": [
+              "This dataset provides information about whether the LLC or business entity has been involved in a merger with another company or business entity. Related"
+            ],
+            "title": "Dataset - Virginia Open Data Portal"
+          },
+          {
+            "url": "https://www.enformion.com/blog/virginia-business-entity-search/",
+            "excerpts": [
+              "Jan 22, 2026 \u2014 Verify Virginia businesses with real-time entity data that supports due diligence, research, and confident business decisions."
+            ],
+            "title": "Virginia Business Entity Search: Verifying ..."
+          },
+          {
+            "url": "https://www.commenda.io/blog/virginia-business-entity-search",
+            "excerpts": [
+              "Oct 28, 2025 \u2014 Step-by-step Virginia entity search guide. Learn to confirm name availability, review company status, and get official filings online. Oct 28, 2025 \u00b7 Access the Virginia SCC Clerk's Information System at cis.scc.virginia.gov and search for your exact desired name using the entity search"
+            ],
+            "title": "Virginia Business Entity Search"
+          },
+          {
+            "url": "https://data.virginia.gov/dataset/filing-details",
+            "excerpts": [
+              "Nov 18, 2024 \u00b7 This dataset contains detailed information about UCC filings, typically related to secured transactions and the filing of UCC-1 financing"
+            ],
+            "title": "Filing Details - Dataset - Virginia Open Data Portal"
+          },
+          {
+            "url": "https://www.irs.gov/irm/part3/irm_03-042-008",
+            "excerpts": [
+              "... third-party users and self-authenticated individual taxpayers access to selected specific tax information and other sensitive applications and data. User"
+            ],
+            "title": "3.42.8 E-Services Procedures for Electronic Products and ... - IRS"
+          },
+          {
+            "url": "https://www.irs.gov/pub/irs-pia/webapps-platform-pia.pdf",
+            "excerpts": [
+              "Third-Party Providers: \u2022 Tax preparers, payroll companies, or financial institutions submit data on behalf of taxpayers. \u2022 Examples include W-2"
+            ],
+            "title": "[PDF] Web Applications Platform Environments PDF - IRS"
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/login.jsp",
+            "excerpts": [
+              "Welcome to Chicago Business Direct. Our new and improved site combines all of your city license and tax needs in one place."
+            ],
+            "title": "CBD - Login - City of Chicago"
+          },
+          {
+            "url": "https://www.infor.com/customer-stories/how-city-of-chicago-streamlined-permitting-process",
+            "excerpts": [
+              "In this case study, learn how you can modernize your city with: A simplified and intuitive onlineapplication system that eases permit submission and"
+            ],
+            "title": "How the City of Chicago transformed and streamlined its permitting ..."
+          },
+          {
+            "url": "https://datasmart.hks.harvard.edu/news/article/case-study-chicago-licensing-and-permitting-reform-647",
+            "excerpts": [
+              "Energizing business growth with smart, business-friendly regulation was the Mayor's primary goal, and ensuring public safety and strong consumer"
+            ],
+            "title": "Case Study: Chicago Licensing and Permitting Reform"
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/userRegister.do",
+            "excerpts": [
+              "You must log in with your User ID in order to manage license and tax ... You cannot conduct business in Chicago Business Direct until we know who you are."
+            ],
+            "title": "BACP - Register or Login - City of Chicago"
+          },
+          {
+            "url": "https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr",
+            "excerpts": [
+              "Looking to apply for a new business license? Use Chicago's online business license application system to apply online. Business Owners."
+            ],
+            "title": "Business Licenses | City of Chicago | Data Portal"
+          },
+          {
+            "url": "https://www.nyc.gov/mayors-office/news/2023/10/mayor-adams-releases-first-of-its-kind-plan-responsible-artificial-intelligence-use-nyc",
+            "excerpts": [
+              "The newest phase of Mayor Adams' MyCity portal, the MyCity Business site will serve as an easily accessible, all-in-one resource for"
+            ],
+            "title": "Mayor Adams Releases First-of-Its-Kind Plan For Responsible ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "richmond_ombd_geographic_outreach",
+        "reasoning": "The most relevant evidence points to Richmond's Office of Minority Business Development as the central hub providing services and events. One excerpt explicitly notes the office in Richmond with a focus on minority business development and events, which aligns with the subject of OMBD operations and outreach. Another excerpt states that OMBD provides broad technical assistance to minority and small businesses, indicating the scope and nature of support. A third excerpt describes workshops and training opportunities, which are typical components of centralized outreach but do not demonstrate a fixed, mapped presence in neighborhoods outside City Hall. A fourth excerpt reinforces Richmond's OMBD focus by mentioning its activities in a city context, again underscoring centralized operations. A fifth excerpt highlights training opportunities linked to OMBD, further illustrating centralized programs rather than a distributed, neighborhood-based network. Taken together, these excerpts support the notion of a centralized OMBD operating primarily from a main office (City Hall) with scheduled events and trainings, while not providing explicit evidence of permanent satellite offices or routine, staffed neighborhood outreach in East End or Southside. This combination supports the finegrained field value asserting geographic access limitations due to centralization, albeit with medium confidence given the absence of explicit, published outreach mappings.",
+        "citations": [
+          {
+            "url": "https://www.facebook.com/RVAOMBD/",
+            "excerpts": [
+              "City of Richmond, Office of Minority Business Development March Calendar of Events: Business Classes, Workshops and Conferences. Please check regularly for ... East Main Street, 5th Floor, Richmond ... City of Richmond, Office of Minority Business Development February Calendar of Events: Business Classes, Workshops and"
+            ],
+            "title": "Office of Minority Business Development | Richmond VA"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/tech-assist",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development provides a broad range of technical assistance to Minority and Small Businesses in the City"
+            ],
+            "title": "Tech Assist | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/workshops",
+            "excerpts": [
+              "Workshops & Schedule. The Office of Minority Business Development offers classes to help you build your small/minority-owned business. From creating a business"
+            ],
+            "title": "Workshops | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we To contact City of Richmond Customer Service, please call 804-646-7000 or 3-1-1."
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://www.lisc.org/media/filer_public/91/30/9130bfbf-b20e-4864-9d73-418b0e791586/richmond_pois_final.pdf",
+            "excerpts": [
+              "16 \u200bRichmond VA > Office of Minority Business Development > Training Opportunities\u200b. http://www.richmondgov.com/MinorityBusinessDevelopment/Training.aspx. The city's Minority Business Development Department have classes at 4, 5 and ... Richmond VA > Office of Minority Business Development > Training Opportunities\u200b."
+            ],
+            "title": "RICHMOND"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "comparison_of_business_support_models.city",
+        "reasoning": "The finegrained field value identifies the city of interest as New York City within the context of comparing how different cities support business navigation tools. The most relevant information is evidence that NYC operates a city-supported business navigation tool (MyCity) that guides users to the licenses and permits needed to run a business, illustrating how NYC implements such a tool. The first excerpt describes a Step-by-Step Wizard that yields a personalized list of city, state, and federal licenses and permits, directly demonstrating NYC\u2019s approach. The second excerpt reinforces this by detailing the same NYC MyCity Business interface and its functions, including a guided, step-by-step process to identify required licenses and permits. The third excerpt, while an audit/report rather than a user-facing description, references the MyCity system and its components in the New York City context, which corroborates the NYC-centric implementation of such a business navigation solution. Taken together, these excerpts collectively support the idea that New York City is an explicit case of a city deploying a business navigation tool, aligning with the field value.",
+        "citations": [
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/wizard",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More"
+            ],
+            "title": "Step by Step"
+          },
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More",
+              "Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More \u2192. Calculate. Incentives Review your business transactions with the City in one convenient place. Step by Step \u00b7 Find the licenses and permits that your business needs. Resources"
+            ],
+            "title": "MyCity Business - NYC.gov: Business"
+          },
+          {
+            "url": "https://comptroller.nyc.gov/wp-content/uploads/2026/02/MyCity-System-Development-Public-Final-report-12-30-25-final-copy.pdf",
+            "excerpts": [
+              "Users can create account profiles and save their personal information (such as name, date of birth, address, and Social Security number) or"
+            ],
+            "title": "[PDF] Audit Report on the New York City Office of Technology and ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "data_prepopulation_feasibility_analysis.key_governing_statute",
+        "reasoning": "The finegrained field value asserts that the primary legal statute governing confidentiality of federal tax and EIN data is 26 U.S.C. \u00a7 6103, prohibiting disclosure of returns and return information by the IRS except under specific exceptions. The content from the IRS disclosures excerpt states that IRC Section 6103 generally prohibits such disclosure and highlights important exceptions to know, directly aligning with the claimed legal framework. This excerpt directly supports the existence and scope of the confidentiality rule and its general prohibition, making it highly relevant. Other excerpts discuss unrelated topics (portal launches, API access, or general information systems) and do not address confidentiality statutes or IRS disclosure rules, thus offering little to no relevance to the finegrained field value.",
+        "citations": [
+          {
+            "url": "https://www.irs.gov/government-entities/federal-state-local-governments/disclosure-laws",
+            "excerpts": [
+              "Sep 10, 2025 \u2014 IRC Section 6103 generally prohibits the release of tax information by an IRS employee. However, there are important exceptions that you should be aware of."
+            ],
+            "title": "Disclosure laws | Internal Revenue Service"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.1",
+        "reasoning": "The finegrained field value describes a Richmond Online Permit Portal (OPP) powered by EnerGov that is a transactional system for submitting permits, applying for permits such as the Certificate of Zoning Compliance, and paying for them online. The most relevant excerpts explicitly describe an Online Permit Portal in Richmond and outline its capabilities to submit plans, apply for permits, request inspections, and pay for permits, which aligns precisely with the described portal and its transaction-oriented nature. In particular, the entries that state: the Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check status, and that it supports specific plan types such as the Certificate of Zoning Compliance, directly corroborate the field value\u2019s description of a web-based, transactional permit execution system. These points establish the portal as a web-based transaction engine rather than a wizard for determining requirements, matching the field's format and purpose. Contextual mentions of related Richmond permitting pages reinforce the setting (Richmond, OPP, and CZC), though they do not add new functional details beyond what is already supported by the primary statements.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from",
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall.",
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from their computer or phone.",
+              "Customers can currently apply for the following plan types using the Online Permit Portal:",
+              "Certificate of Zoning Compliance"
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "potential_vendors_and_technologies.vendor_name",
+        "reasoning": "To connect the finegrained field value 'Infor' to the excerpts, we identify that the field seeks a vendor name. The most relevant excerpt explicitly references a vendor-related source by including the domain 'infor.com' in its URL, indicating Infor as the vendor behind the solution discussed in the Chicago permitting case study. Other excerpts describe Chicago licensing and permitting reforms or the interface for City of Chicago systems but do not mention any vendor or supplier name, making them not directly supportive of identifying a vendor. Therefore, the excerpt mentioning Infor is the direct evidence that links to the requested vendor name, while the others provide contextual background without confirming the vendor. ",
+        "citations": [
+          {
+            "url": "https://www.infor.com/customer-stories/how-city-of-chicago-streamlined-permitting-process",
+            "excerpts": [
+              "In this case study, learn how you can modernize your city with: A simplified and intuitive onlineapplication system that eases permit submission and"
+            ],
+            "title": "How the City of Chicago transformed and streamlined its permitting ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "potential_vendors_and_technologies.specialization",
+        "reasoning": "The most directly relevant content describes a simplified online application system that eases permit submission, which is a core aspect of streamlining permitting and licensing processes in a city government context. A case study highlights smart, business-friendly regulation linked to licensing reform, reinforcing how modernization and reform efforts aim to expedite and simplify the licensing process. A data portal entry explicitly notes an online business license application system, further illustrating a streamlined, centralized path for licenses. While login requirements and account management pages are auxiliary, they still pertain to the practical orchestration of a streamlined licensing workflow by consolidating access and identity verification into a single system. Taken together, these excerpts map closely to the idea of streamlining city government permitting and licensing processes through online, integrated solutions.",
+        "citations": [
+          {
+            "url": "https://www.infor.com/customer-stories/how-city-of-chicago-streamlined-permitting-process",
+            "excerpts": [
+              "In this case study, learn how you can modernize your city with: A simplified and intuitive onlineapplication system that eases permit submission and"
+            ],
+            "title": "How the City of Chicago transformed and streamlined its permitting ..."
+          },
+          {
+            "url": "https://datasmart.hks.harvard.edu/news/article/case-study-chicago-licensing-and-permitting-reform-647",
+            "excerpts": [
+              "Energizing business growth with smart, business-friendly regulation was the Mayor's primary goal, and ensuring public safety and strong consumer"
+            ],
+            "title": "Case Study: Chicago Licensing and Permitting Reform"
+          },
+          {
+            "url": "https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr",
+            "excerpts": [
+              "Looking to apply for a new business license? Use Chicago's online business license application system to apply online. Business Owners."
+            ],
+            "title": "Business Licenses | City of Chicago | Data Portal"
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/login.jsp",
+            "excerpts": [
+              "Welcome to Chicago Business Direct. Our new and improved site combines all of your city license and tax needs in one place."
+            ],
+            "title": "CBD - Login - City of Chicago"
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/userRegister.do",
+            "excerpts": [
+              "You must log in with your User ID in order to manage license and tax ... You cannot conduct business in Chicago Business Direct until we know who you are."
+            ],
+            "title": "BACP - Register or Login - City of Chicago"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "potential_vendors_and_technologies.relevant_products",
+        "reasoning": "The high-relevance evidence directly demonstrates a platform that centralizes and simplifies interactions for permits and licenses, which matches the described product: a simplified online application system that consolidates business services. The first excerpt details how Chicago transformed its permitting process into a streamlined online experience, illustrating the core capability: an intuitive online submission and consolidated access to permit-related tasks. The second excerpt offers a case study of Chicago licensing and permitting reform, reinforcing the strategic objective of smart, business-friendly regulation and the functional shift toward an integrated, user-centric system. The fifth excerpt (data portal) shows a public-facing portal for business licenses, reinforcing the concrete artifact of an online, unified licensing system in Chicago. The third excerpt, about the login/register workflow, provides necessary implementation mechanics that enable access control for a centralized system, which is relevant to understanding how such a platform operates, though it is secondary to the main capability. The fourth excerpt reinforces the broader context of an online license application system in Chicago, supporting the core notion of consolidating services in one place. Together, these excerpts substantiate the existence and characteristics of a Chicago-style platform for simplified applications and consolidated business services, aligning with the requested fine-grained value.",
+        "citations": [
+          {
+            "url": "https://www.infor.com/customer-stories/how-city-of-chicago-streamlined-permitting-process",
+            "excerpts": [
+              "In this case study, learn how you can modernize your city with: A simplified and intuitive onlineapplication system that eases permit submission and"
+            ],
+            "title": "How the City of Chicago transformed and streamlined its permitting ..."
+          },
+          {
+            "url": "https://datasmart.hks.harvard.edu/news/article/case-study-chicago-licensing-and-permitting-reform-647",
+            "excerpts": [
+              "Energizing business growth with smart, business-friendly regulation was the Mayor's primary goal, and ensuring public safety and strong consumer"
+            ],
+            "title": "Case Study: Chicago Licensing and Permitting Reform"
+          },
+          {
+            "url": "https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr",
+            "excerpts": [
+              "Looking to apply for a new business license? Use Chicago's online business license application system to apply online. Business Owners."
+            ],
+            "title": "Business Licenses | City of Chicago | Data Portal"
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/login.jsp",
+            "excerpts": [
+              "Welcome to Chicago Business Direct. Our new and improved site combines all of your city license and tax needs in one place."
+            ],
+            "title": "CBD - Login - City of Chicago"
+          },
+          {
+            "url": "https://webapps1.chicago.gov/AccountServices/userRegister.do",
+            "excerpts": [
+              "You must log in with your User ID in order to manage license and tax ... You cannot conduct business in Chicago Business Direct until we know who you are."
+            ],
+            "title": "BACP - Register or Login - City of Chicago"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.0",
+        "reasoning": "The finegrained field value characterizes Virginia Business One Stop as a resource aggregation hub that currently functions mainly as a portal for planning and organizing steps, not as an interactive, sequenced guidance tool. It also notes a future intention to add a New Business Wizard online registration system. The most directly relevant excerpts consistently describe VBOS as a hub for planning, developing, and expanding a business, and mention that users can register to create a business, indicating centralized resource aggregation rather than a fully interactive wizard. For example, excerpts explicitly state that VBOS is for entrepreneurs to plan, develop, and expand their business, and that the site aims to grow Virginia through entrepreneurship, reinforcing the hub-and-resources role rather than a live guided wizard. One excerpt notes the intent to add more features and specifically references the New Business Wizard online registration system, aligning with the future interactive capability described in the finegrained field value. Additional VBOS excerpts emphasize centralized organization of steps online and the existence of a broad set of resources, which supports the assessment of VBOS as a resource hub rather than a fully sequenced interactive tool at present. Collectively, these excerpts corroborate that VBOS functions as a resource aggregation portal with planned, not-yet-active interactive sequencing features, matching the finegrained field value. Excerpts about VBOS Home pages and About pages further reinforce VBOS\u2019s role as a planning-and-resources hub rather than an established, fully interactive wizard in operation today.",
+        "citations": [
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/About",
+            "excerpts": [
+              "Going forward, more features will be added to the Business One Stop web page and the New Business Wizard online registration system.",
+              "Business One Stop provides resources to aspiring entrepreneurs and business owners to plan, develop and expand their businesses.",
+              "The Business One Stop has grown in the years since, expanding to include a number of agencies that touch a Virginia business.",
+              "The goal of the Business One Stop is to be the first stop a business will need to make when establishing a business or accomplishing tasks related to their business."
+            ],
+            "title": "About Us - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/",
+            "excerpts": [
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. \u00b7 Our goal is to grow Virginia through Entrepreneurship. Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Register today to create a business and have all the steps organized in one place online. T"
+            ],
+            "title": "Virginia Business One Stop: Home"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/BusinessResources",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan , develop, or expand your business . Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business.",
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business."
+            ],
+            "title": "Business Resources - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/ExpandYourBusiness",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to expand your business ."
+            ],
+            "title": "Expand Your Business - Virginia Business One Stop"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "data_prepopulation_feasibility_analysis.legal_constraint_summary",
+        "reasoning": "The most directly supportive information comes from the excerpt describing disclosure laws, which states that IRC Section 6103 generally prohibits the release of tax information by an IRS employee, and notes there are important exceptions to be aware of. This directly underpins the finegrained field value\u2019s emphasis on federal tax information confidentiality as the primary legal barrier to pre-populating data from an EIN. The remaining excerpts provide contextual governance and practical portal information related to data handling and government processes (e.g., Richmond's BPOL portal and related licensing steps), which are relevant for understanding the practical environment in which any prepopulation tool would operate but do not themselves negate or fully define the legal barrier described in the primary source. Taken together, these excerpts support the conclusion that the most significant barrier is federal tax confidentiality, with subsidiary considerations about data governance and inter-agency data sharing practices (such as potential MOUs and SCC data policies) shaping feasibility in practice.",
+        "citations": [
+          {
+            "url": "https://www.irs.gov/government-entities/federal-state-local-governments/disclosure-laws",
+            "excerpts": [
+              "Sep 10, 2025 \u2014 IRC Section 6103 generally prohibits the release of tax information by an IRS employee. However, there are important exceptions that you should be aware of."
+            ],
+            "title": "Disclosure laws | Internal Revenue Service"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance.",
+              "The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for our business community."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.3",
+        "reasoning": "The most directly relevant source discusses the City of Alexandria\u2019s New Business Guide, which aligns with the requested tool name and location. It frames a step-initial resource for new ventures, and it notes registration considerations, matching the idea of a static narrative resource rather than an interactive wizard. A closely related Alexandria-startup resource presents a Start a Business in Alexandria, Virginia document that includes checklists and structured guidance for new businesses, further supporting the concept of a static, informational guide with actionable steps rather than an interactive flow. Additionally, a Licenses and Permits resource for Alexandria covers regulatory requirements (e.g., BPOL), corroborating the static informational nature of the guidance and its applicability to the Alexandria context. Collectively, these excerpts support the characterization of the referenced tool as location-specific, narrative-guidance content with checklists, not an interactive, personalized wizard.",
+        "citations": [
+          {
+            "url": "https://www.alexandriava.gov/business-resources/new-business-guide",
+            "excerpts": [
+              "Feb 13, 2026 \u2014 Any person or organization starting a business in Virginia must register with the State prior to opening the business . Registration can be completed online or"
+            ],
+            "title": "New Business Guide | City of Alexandria, VA"
+          },
+          {
+            "url": "https://alexandriaecon.org/wp-content/uploads/Start-a-Business-in-VA-Checklist-AutoRecovered-1.pdf",
+            "excerpts": [
+              "NOT before. 4. Get your County or City Licenses and Permits i. Business License (BPOL), business tangible personal property tax, and any. 3 pages"
+            ],
+            "title": "Start a Business in Alexandria, Virginia"
+          },
+          {
+            "url": "https://www.alexandriava.gov/hub/licenses-and-permits",
+            "excerpts": [
+              "Aug 6, 2024 \u2014 Find out whether a permit is required, the type of permit needed, fees involved, and what requirements are necessary for the activity you want to engage in"
+            ],
+            "title": "Licenses and Permits | City of Alexandria, VA"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "data_prepopulation_feasibility_analysis.technical_challenge_summary",
+        "reasoning": "The finegrained field value describes technical barriers stemming from a lack of integration and interoperability between government systems. Excerpts describing the City of Richmond\u2019s transition to a centralized RVA Business Portal and the existence of separate systems for Certificate of Zoning Compliance (EnerGov) and BPOL/BPP filings directly illustrate the integration gap that would need to be overcome. The RVA portal represents a unified entry point that would, in practice, require interoperability with EnerGov for zoning and with the BPOL/BPP systems for licensing, confirming that integration would be a prerequisite for automated data prepopulation or seamless data transfer. References to a public, real-time API for the Virginia SCC Clerk\u2019s Information System not being advertised reinforce the notion that automated data transfer from the authoritative registry is nontrivial, supporting the notion of barriers to automated onboarding. Additionally, API access challenges for IRS data\u2014requiring vetted use cases and specific authorization\u2014align with the broader point that third-party onboarding would face restricted or conditional API access, which is a technical barrier rather than a simple data availability issue. Together, these excerpts corroborate the need for inter-system interoperability, centralized portals, and restricted external API access as key technical barriers to prepopulating downstream applications like BPOL and CZC, as described in the finegrained field value.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance.",
+              "The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for our business community."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.irs.gov/government-entities/federal-state-local-governments/disclosure-laws",
+            "excerpts": [
+              "Sep 10, 2025 \u2014 IRC Section 6103 generally prohibits the release of tax information by an IRS employee. However, there are important exceptions that you should be aware of."
+            ],
+            "title": "Disclosure laws | Internal Revenue Service"
+          },
+          {
+            "url": "https://www.irs.gov/tax-professionals/get-an-api-client-id",
+            "excerpts": [
+              "Before you can use an IRS API, you need a client ID. To get an API client ID, follow these steps: 1. Review the product user guide. The user"
+            ],
+            "title": "Get an API client ID | Internal Revenue Service"
+          },
+          {
+            "url": "https://cis.scc.virginia.gov/",
+            "excerpts": [
+              "No information is available for this page. \u00b7 Learn why"
+            ],
+            "title": "Virginia SCC Clerk's Information System (CIS) - Virginia.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.2",
+        "reasoning": "The fine-grained field value identifies a Richmond-specific online portal named the RVA Business Portal, launched in January 2025, used for filing Business, Professional, and Occupational Licenses (BPOL) and Business Personal Property (BPP) taxes, described as a transactional web portal. The most relevant excerpts explicitly state that a new RVA Business Portal became available in January 2025 for the 2025 filing period, and that it provides a single access point for BPOL and BPP-related filings and invoicing. These directly corroborate the existence, timing, and function of the RVA Business Portal as described in the field value. Additional excerpts from the Richmond finance/BPOL pages discuss related tax/license information and the move toward a centralized online system, which supports the broader context of online business filing and licensing streams, though they are slightly less specific to the exact portal name and scope. A distant subset of excerpts about the Online Permit Portal addresses a separate Richmond portal (permits rather than BPOL/BPP), which is contextually related to online city services but not directly about the RVA Business Portal\u2019s BPOL/BPP function.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for our business community."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "Please click on the links below for more information on: Admission Tax \u00b7 Bank Franchise Tax \u00b7 Business, Professional, and Occupational License (BPOL) Tax",
+              "In this section you will find tax, fee, license, and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall."
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.1.location",
+        "reasoning": "The most relevant excerpt explicitly states that the City of Richmond has launched an Online Permit Portal, tying the Richmond location to the specific prior-art initiative. The next excerpt also ties Richmond to the Online Permit Portal in the context of the Richmond city portal, reinforcing the same location link. The third excerpt confirms that Richmond\u2019s city government has launched the Online Permit Portal, further corroborating the Richmond connection in this prior-art context. Excerpts that do not mention Richmond offer less direct support for the requested location field value and are therefore less relevant for identifying the Richmond-specific prior-art location.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall.",
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from",
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from their computer or phone."
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparison_of_business_support_models.description",
+        "reasoning": "The described tool operates as an interactive, question-driven wizard that guides prospective business owners through a sequence of questions to produce a tailored list of required licenses and permits at the City, State, and Federal levels. This directly matches the field value\u2019s claim about a personalized, customized list generated through user-driven questions. The same excerpts indicate that this functionality is embedded within a broader MyCity platform where users can create account profiles to save personal information, which aligns with the data persistence and reduced data-entry goals stated in the field value. The audit report excerpt reinforces the existence of account profiles and the handling of personal data, supporting the data-saving aspect of the platform. Taken together, these excerpts corroborate both the interactive, guided license-permit output and the accompanying account-based data persistence features described in the field value.",
+        "citations": [
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/wizard",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More"
+            ],
+            "title": "Step by Step"
+          },
+          {
+            "url": "https://nyc-business.nyc.gov/nycbusiness/",
+            "excerpts": [
+              "Step-by-Step Wizard. Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More",
+              "Use this tool to see your personalized list of City, State, and Federal licenses and permits needed to run your business. View More \u2192. Calculate. Incentives Review your business transactions with the City in one convenient place. Step by Step \u00b7 Find the licenses and permits that your business needs. Resources"
+            ],
+            "title": "MyCity Business - NYC.gov: Business"
+          },
+          {
+            "url": "https://comptroller.nyc.gov/wp-content/uploads/2026/02/MyCity-System-Development-Public-Final-report-12-30-25-final-copy.pdf",
+            "excerpts": [
+              "Users can create account profiles and save their personal information (such as name, date of birth, address, and Social Security number) or"
+            ],
+            "title": "[PDF] Audit Report on the New York City Office of Technology and ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.1.format",
+        "reasoning": "A web portal is characterized by online access to services such as applying for permits, submitting plans, paying fees, requesting inspections, and checking status. The most relevant excerpts explicitly state the existence and capabilities of the Richmond Online Permit Portal (OPP), including that it allows applying for permits from home or office, submit plans for review, pay, and check status, and lists permit types. This directly substantiates the finegrained field value of 'Web Portal' as a type of Virginia prior art. Additional excerpts reinforce by detailing the portal\u2019s scope (e.g., types of plans or certifications available) and its deployment context. Together, these excerpts establish a web-based portal as prior art in Virginia, aligning with the requested field value and its semantic meaning of a publicly accessible online permit/navigation tool. \n",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall.",
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from",
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from their computer or phone.",
+              "Customers can currently apply for the following plan types using the Online Permit Portal:",
+              "Certificate of Zoning Compliance"
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.1.functionality",
+        "reasoning": "The requested finegrained field value describes a transactional permit portal that lets users submit plans for review, apply for permits (including CZC), and pay online, functioning as an end-to-end application execution system rather than a wizard that only determines requirements. The excerpts demonstrate this functionality: one excerpt notes that the portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check request status, which aligns with end-to-end transaction processing. Another excerpt states that the portal enables applying for permits from home or office, emphasizing remote, transactional capability. A third excerpt adds that customers can apply for certain plan types through the portal, reinforcing the submission and processing aspect. A fourth excerpt lists the types of plans or permits that can be handled through the portal, indicating the range of transactions supported. Finally, a dedicated excerpt confirms the Certificate of Zoning Compliance (CZC) as one of the permit-related items processed through the portal, directly supporting the CZC processing aspect of the finegrained field value. Collectively, these excerpts substantiate that the Richmond Online Permit Portal is a transactional, end-to-end system for submitting plans, applying for permits (including CZC), and paying, rather than a mere wizard for determining requirements.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from their computer or phone.",
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from",
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall.",
+              "Customers can currently apply for the following plan types using the Online Permit Portal:",
+              "Certificate of Zoning Compliance"
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.3.functionality",
+        "reasoning": "The most relevant excerpt explicitly references a narrative or checklist-based approach for starting a business, i.e., a Start-a-Business checklist and guidance document, which directly matches the notion of a static informational resource rather than an interactive, personalized wizard. The second excerpt describes a city guide for new businesses, which is also a static resource aimed at providing information rather than guiding users through an interactive sequence. The third excerpt covers licenses and permits information, which similarly serves as a static reference on required permits rather than an interactive planning tool. Collectively, these excerpts support the characterization of the Virginia prior-art tools as narrative guides and checklists (static informational resources) rather than interactive, personalized wizards that adapt to user input.",
+        "citations": [
+          {
+            "url": "https://alexandriaecon.org/wp-content/uploads/Start-a-Business-in-VA-Checklist-AutoRecovered-1.pdf",
+            "excerpts": [
+              "NOT before. 4. Get your County or City Licenses and Permits i. Business License (BPOL), business tangible personal property tax, and any. 3 pages"
+            ],
+            "title": "Start a Business in Alexandria, Virginia"
+          },
+          {
+            "url": "https://www.alexandriava.gov/business-resources/new-business-guide",
+            "excerpts": [
+              "Feb 13, 2026 \u2014 Any person or organization starting a business in Virginia must register with the State prior to opening the business . Registration can be completed online or"
+            ],
+            "title": "New Business Guide | City of Alexandria, VA"
+          },
+          {
+            "url": "https://www.alexandriava.gov/hub/licenses-and-permits",
+            "excerpts": [
+              "Aug 6, 2024 \u2014 Find out whether a permit is required, the type of permit needed, fees involved, and what requirements are necessary for the activity you want to engage in"
+            ],
+            "title": "Licenses and Permits | City of Alexandria, VA"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.0.location",
+        "reasoning": "The field value indicates a statewide Virginia location. Excerpts discussing the Virginia Business One Stop (a Virginia state platform) demonstrate a Virginia-wide scope and purpose: the system is designed to help entrepreneurs plan, develop, and expand their business within Virginia, with statements about registering to create a business through a centralized online process, and references to Virginia-specific administrative resources and agencies. These excerpts collectively support the interpretation that the relevant prior-art location is Virginia at a state level, rather than a city-specific scope. The content about expanding resources, growing entrepreneurship in Virginia, and the goal of being the first stop a business will need to make when establishing a business all reinforce the Virginia-centric, statewide orientation of the prior-art tool. While none of the excerpts explicitly state the word \u201cstatewide,\u201d the consistent framing around Virginia-centric services and the statewide portal context strongly imply statewide applicability for Virginia rather than a narrow locality. The strongest support comes from explicit mentions that the platform is for Virginia-based entrepreneurs and that it consolidates Virginia-related resources and agencies, indicating a statewide reach. Weaker but present support comes from general descriptions of onboarding and resources within the Virginia Business One Stop site, further suggesting broad, state-level utility rather than city-level focus.",
+        "citations": [
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/About",
+            "excerpts": [
+              "Going forward, more features will be added to the Business One Stop web page and the New Business Wizard online registration system.",
+              "Business One Stop provides resources to aspiring entrepreneurs and business owners to plan, develop and expand their businesses.",
+              "The Business One Stop has grown in the years since, expanding to include a number of agencies that touch a Virginia business.",
+              "The goal of the Business One Stop is to be the first stop a business will need to make when establishing a business or accomplishing tasks related to their business."
+            ],
+            "title": "About Us - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/",
+            "excerpts": [
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. \u00b7 Our goal is to grow Virginia through Entrepreneurship. Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Register today to create a business and have all the steps organized in one place online. T"
+            ],
+            "title": "Virginia Business One Stop: Home"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/BusinessResources",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan , develop, or expand your business . Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business.",
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business."
+            ],
+            "title": "Business Resources - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/ExpandYourBusiness",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to expand your business ."
+            ],
+            "title": "Expand Your Business - Virginia Business One Stop"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "other_virginia_prior_art.0.functionality",
+        "reasoning": "The most directly relevant passages describe the Virginia Business One Stop as a repository of resources and a place to register, which aligns with a resource aggregation hub that may offer organized steps. Specifically, language indicating that the site provides resources to plan, develop, or expand a business supports the notion of a hub/directory rather than a fully interactive wizard. A statement that future features will add the New Business Wizard online registration system corroborates that the interactive, sequenced guidance is not currently active, fitting the field value\u2019s claim of not operating as an interactive guided tool at present. The claim that users can register to create a business and have steps organized online further supports the presence of account-based organization of steps, though it does not confirm full sequencing as in a wizard, which aligns with the idea of a future enhancement rather than current functionality. Citations describing the goal of the portal to be the first stop for establishing a business reinforce its role as a centralized access point rather than a stand-alone interactive planner. Taken together, these excerpts substantiate that the Virginia platform functions primarily as a resource/links hub with account-based organization and a forthcoming but not yet active interactive wizard, matching the target fine-grained value.",
+        "citations": [
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/About",
+            "excerpts": [
+              "Going forward, more features will be added to the Business One Stop web page and the New Business Wizard online registration system.",
+              "Business One Stop provides resources to aspiring entrepreneurs and business owners to plan, develop and expand their businesses."
+            ],
+            "title": "About Us - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/",
+            "excerpts": [
+              "Register today to create a business and have all the steps organized in one place online. T",
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. \u00b7 Our goal is to grow Virginia through Entrepreneurship. Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business."
+            ],
+            "title": "Virginia Business One Stop: Home"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/BusinessResources",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan , develop, or expand your business . Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business."
+            ],
+            "title": "Business Resources - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/ExpandYourBusiness",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to expand your business ."
+            ],
+            "title": "Expand Your Business - Virginia Business One Stop"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "data_prepopulation_feasibility_analysis.overall_assessment",
+        "reasoning": "The core value asserts that using data from the EIN for prepopulating local BPOL/CZC forms is largely infeasible due to federal confidentiality laws. The strongest support comes from references to disclosure laws governing tax information, which establish that such information is protected and restricted from broad release, aligning with the feasibility constraint of using federal tax data for prepopulation. Contextual support about local data handling and modernization efforts (such as the RVA BPOL portal and related guidance on licensing/filing processes) provides relevant background that shows municipalities are moving toward centralized portals to streamline filings, which is relevant to the feasibility discussion but does not directly confirm or deny prepopulation from SCC or EIN. There is no excerpt that explicitly describes interoperability between the Virginia SCC CIS and local BPOL/CZC systems or a formal data-sharing agreement; thus, while the legal constraint is supported, the technical feasibility claim about SCC data integration remains weakly supported by the provided excerpts. The combination of strong legal constraint evidence and circumstantial portal-context evidence leads to a cautious, low-to-medium confidence in the precise field value as stated, with the strongest leaning toward the portion about confidentiality laws constraining EIN-based prepopulation.",
+        "citations": [
+          {
+            "url": "https://www.irs.gov/government-entities/federal-state-local-governments/disclosure-laws",
+            "excerpts": [
+              "Sep 10, 2025 \u2014 IRC Section 6103 generally prohibits the release of tax information by an IRS employee. However, there are important exceptions that you should be aware of."
+            ],
+            "title": "Disclosure laws | Internal Revenue Service"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for our business community.",
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://cis.scc.virginia.gov/",
+            "excerpts": [
+              "No information is available for this page. \u00b7 Learn why"
+            ],
+            "title": "Virginia SCC Clerk's Information System (CIS) - Virginia.gov"
+          },
+          {
+            "url": "https://www.irs.gov/tax-professionals/get-an-api-client-id",
+            "excerpts": [
+              "Before you can use an IRS API, you need a client ID. To get an API client ID, follow these steps: 1. Review the product user guide. The user"
+            ],
+            "title": "Get an API client ID | Internal Revenue Service"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "other_virginia_prior_art.2.functionality",
+        "reasoning": "The field value identifies a Richmond municipal portal launched in January 2025 that is used for filing BPOL and BPP taxes and described as a transactional system for tax filings. The most relevant excerpts explicitly state: (a) a new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and BPOL, which directly aligns with a transactional filing system for BPOL/BPP taxes; (b) the launch occurred in January 2025 for the 2025 filing period, matching the specified launch timing; (c) a January 2025 RVA Business Portal launch is described for the 2025 filing period, reinforcing both the launch timing and purpose. These direct statements establish that the portal is indeed a transactional filing system for BPOL and BPP taxes, as required by the finegrained field value. Other excerpts mention related RVA portals or finance pages, which provide supporting context about the same ecosystem but do not bear as directly on the exact combination of (launch date January 2025) and (transactional BPOL/BPP filing functionality).",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for our business community.",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The"
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license, and other program information from the City of Richmond's Department of Finance specifically tailored to the",
+              "Please click on the links below for more information on: Admission Tax \u00b7 Bank Franchise Tax \u00b7 Business, Professional, and Occupational License (BPOL) Tax"
+            ],
+            "title": "Department of Finance for Businesses - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall."
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.2.format",
+        "reasoning": "The most relevant content directly references dedicated online portals serving business-related functions in Virginia or Richmond. A dedicated RVA Business Portal is described as launched for the 2025 filing period, providing a centralized access point for filings and invoicing for BPOL and related licenses. This aligns closely with the notion of a web portal as a centralized online platform for business administration. The second excerpt reinforces this by explicitly naming the RVA Business Portal and its purpose for 2025 filings, underscoring the existence of a formal web-based portal. The third excerpt discusses a City portal that consolidates access to multiple business-related services, illustrating a centralized online entry point in the Virginia context. The fourth excerpt references an Online Permit Portal in Richmond, enabling online applications from remote locations, which is another exemplar of a web portal facilitating government-business interactions. Collectively, these excerpts demonstrate Virginia and Richmond adopting and operating web portals to streamline permitting, licensing, and related administrative tasks, which supports the idea of existing web portal-based prior art in this domain.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for our business community."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall."
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.0.format",
+        "reasoning": "The target field value is Web Portal, i.e., a centralized online platform that guides users through startup steps. The strongest support comes from text stating that users can register and have all the steps organized in one place online, which directly matches a portal-like experience. Additional excerpts describe the Virginia Business One Stop site as a resource hub for planning, developing, and expanding a business, with online registration and an online wizard. These descriptions collectively imply a single, centralized online portal that helps entrepreneurs navigate required steps. Other excerpts reinforce ongoing evolution and expansion of the online portal and its resources, which supports the interpretation that Virginia has an online, portal-style system for business startup guidance. Taken together, these excerpts consistently characterize the Virginia prior-art tool as an online, centralized portal for business startup guidance and related steps.",
+        "citations": [
+          {
+            "url": "https://bos.sbsd.virginia.gov/",
+            "excerpts": [
+              "Register today to create a business and have all the steps organized in one place online. T",
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. \u00b7 Our goal is to grow Virginia through Entrepreneurship. Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business."
+            ],
+            "title": "Virginia Business One Stop: Home"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/About",
+            "excerpts": [
+              "Going forward, more features will be added to the Business One Stop web page and the New Business Wizard online registration system.",
+              "Business One Stop provides resources to aspiring entrepreneurs and business owners to plan, develop and expand their businesses.",
+              "The Business One Stop has grown in the years since, expanding to include a number of agencies that touch a Virginia business.",
+              "The goal of the Business One Stop is to be the first stop a business will need to make when establishing a business or accomplishing tasks related to their business."
+            ],
+            "title": "About Us - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/BusinessResources",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan , develop, or expand your business . Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business.",
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business."
+            ],
+            "title": "Business Resources - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/ExpandYourBusiness",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to expand your business ."
+            ],
+            "title": "Expand Your Business - Virginia Business One Stop"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "other_virginia_prior_art.3.location",
+        "reasoning": "The target field value is the location 'Alexandria' within a Virginia prior-art context. The most directly relevant excerpt identifies Alexandria as the City of Alexandria and references a new business guide tied to that locality, establishing a concrete Alexandria-specific resource for Virginia-based business guidance. The second excerpt explicitly centers on Alexandria, Virginia in a Start a Business in VA checklist, including licenses and permits relevant to Alexandria, which reinforces the local context and supports the location field. The third excerpt derives Alexandria-related information from the City of Alexandria\u2019s Licenses and Permits page, again anchoring to Alexandria and detailing permit-related considerations. Taken together, these excerpts establish Alexandria as the geographic focus for Virginia business startup resources and permits, aligning with the specified field value.",
+        "citations": [
+          {
+            "url": "https://www.alexandriava.gov/business-resources/new-business-guide",
+            "excerpts": [
+              "Feb 13, 2026 \u2014 Any person or organization starting a business in Virginia must register with the State prior to opening the business . Registration can be completed online or"
+            ],
+            "title": "New Business Guide | City of Alexandria, VA"
+          },
+          {
+            "url": "https://www.alexandriava.gov/hub/licenses-and-permits",
+            "excerpts": [
+              "Aug 6, 2024 \u2014 Find out whether a permit is required, the type of permit needed, fees involved, and what requirements are necessary for the activity you want to engage in"
+            ],
+            "title": "Licenses and Permits | City of Alexandria, VA"
+          },
+          {
+            "url": "https://alexandriaecon.org/wp-content/uploads/Start-a-Business-in-VA-Checklist-AutoRecovered-1.pdf",
+            "excerpts": [
+              "NOT before. 4. Get your County or City Licenses and Permits i. Business License (BPOL), business tangible personal property tax, and any. 3 pages"
+            ],
+            "title": "Start a Business in Alexandria, Virginia"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.2.location",
+        "reasoning": "The finegrained field value indicates the location is Richmond within Virginia prior-art for business navigation tools. The most directly relevant information is about Richmond-specific tools and portals: an Online Permit Portal for the City of Richmond, and RVA (Richmond) branding for the new RVA Business Portal and related BPOL tax and business licensing processes. These excerpts explicitly tie the discussed tools to Richmond\u2019s city government and its business filing and permit processes. Other excerpts describe Richmond\u2019s Department of Finance for Businesses and the RVA Business Portal in the context of Richmond\u2019s filing and licensing ecosystem, further corroborating the Richmond location as the focal prior-art context. Collectively, they demonstrate Richmond-centric infrastructure (permits, licenses, and tax processes) that aligns with the requested finegrained field value.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall."
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for our business community."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "Please click on the links below for more information on: Admission Tax \u00b7 Bank Franchise Tax \u00b7 Business, Professional, and Occupational License (BPOL) Tax",
+              "In this section you will find tax, fee, license, and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.0.tool_name",
+        "reasoning": "The field value identifies a Virginia-specific business navigation tool by the name Virginia Business One Stop (VBOS). Several excerpts explicitly reference this exact tool and describe its purpose, scope, and evolution. For example, excerpts that state that the Virginia Business One Stop is for entrepreneurs to plan, develop, and expand their business, or that it provides online steps and resources to help establish or grow a business, directly corroborate the existence and function of VBOS as a centralized portal. Other excerpts highlight that VBOS represents the main Virginia state portal for business tasks, including resources and the New Business Wizard, and that it has expanded to include multiple agencies, reinforcing its identity as a coordinated, state-level business startup platform. These direct mentions\u2014identifying the tool by name and describing its goals, online registration, organization of steps, and growth\u2014provide direct support for the fine-grained field value. Partial context from related pages (such as general information about resources or the broader purpose of VBOS) further reinforces the linkage to VBOS without contradicting it. Overall, the most relevant content consistently ties VBOS to Virginia business startup guidance, planning, and resources, confirming the field value. Excerpts that discuss the tool\u2019s home page, its mission, and its feature evolution are highly aligned with VBOS and thus are prioritized higher in relevance. Excerpts that mention VBOS in a longer contextual description or as part of a broader \u201cAbout Us\u201d narrative remain relevant because they corroborate the VBOS identity and scope.",
+        "citations": [
+          {
+            "url": "https://bos.sbsd.virginia.gov/",
+            "excerpts": [
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. \u00b7 Our goal is to grow Virginia through Entrepreneurship. Business One Stop is for entrepreneurs and business owners to plan, develop and expand their business. Register today to create a business.",
+              "Register today to create a business and have all the steps organized in one place online. T"
+            ],
+            "title": "Virginia Business One Stop: Home"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/About",
+            "excerpts": [
+              "Business One Stop provides resources to aspiring entrepreneurs and business owners to plan, develop and expand their businesses.",
+              "The goal of the Business One Stop is to be the first stop a business will need to make when establishing a business or accomplishing tasks related to their business.",
+              "Going forward, more features will be added to the Business One Stop web page and the New Business Wizard online registration system.",
+              "The Business One Stop has grown in the years since, expanding to include a number of agencies that touch a Virginia business."
+            ],
+            "title": "About Us - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/ExpandYourBusiness",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to expand your business ."
+            ],
+            "title": "Expand Your Business - Virginia Business One Stop"
+          },
+          {
+            "url": "https://bos.sbsd.virginia.gov/Home/BusinessResources",
+            "excerpts": [
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan , develop, or expand your business . Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business.",
+              "Having a business can be challenging and exciting. The resources on this page can help you to plan, develop, or expand your business."
+            ],
+            "title": "Business Resources - Virginia Business One Stop"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.3.tool_name",
+        "reasoning": "The fine-grained field value is the tool_name for a Virginia business guidance resource. The most relevant excerpt directly presents a tool titled 'New Business Guide | City of Alexandria, VA', and it corroborates Virginia-specific startup requirements by stating that any person or organization starting a business in Virginia must register with the State prior to opening the business. This shows a concrete Virginia prior-art resource with the exact tool name in question. While other excerpts discuss related Virginia startup steps (e.g., licenses, permits, and registrations), they do not name a tool that matches the specified value, making them only tangentially relevant for contextual background rather than direct identification of the exact tool. Hence, the most relevant evidence is the excerpt that explicitly names the tool and situates it within Virginia, supporting the field value with direct alignment.",
+        "citations": [
+          {
+            "url": "https://www.alexandriava.gov/business-resources/new-business-guide",
+            "excerpts": [
+              "Feb 13, 2026 \u2014 Any person or organization starting a business in Virginia must register with the State prior to opening the business . Registration can be completed online or"
+            ],
+            "title": "New Business Guide | City of Alexandria, VA"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.3.format",
+        "reasoning": "The field value 'Static Webpage' points to pieces of information that exist as web pages on the public internet, not as downloadable documents or reports. The first excerpt is a New Business Guide page from the City of Alexandria, Virginia, explicitly a web resource with online guidance for starting a business in Virginia. The third excerpt is a Licenses and Permits page from the City of Alexandria, Virginia, detailing permit requirements, fees, and activity-specific requirements, which is another static government web page. Both items are clearly hosted as dynamic, navigable web pages rather than standalone PDFs or embedded documents. The second excerpt appears to be a PDF checklist about starting a business in Virginia, which is a document-style resource rather than a pure static webpage. This makes it slightly less aligned with the target category of Static Webpage, though still relevant to the broader topic of Virginia business startup guidance.",
+        "citations": [
+          {
+            "url": "https://www.alexandriava.gov/business-resources/new-business-guide",
+            "excerpts": [
+              "Feb 13, 2026 \u2014 Any person or organization starting a business in Virginia must register with the State prior to opening the business . Registration can be completed online or"
+            ],
+            "title": "New Business Guide | City of Alexandria, VA"
+          },
+          {
+            "url": "https://www.alexandriava.gov/hub/licenses-and-permits",
+            "excerpts": [
+              "Aug 6, 2024 \u2014 Find out whether a permit is required, the type of permit needed, fees involved, and what requirements are necessary for the activity you want to engage in"
+            ],
+            "title": "Licenses and Permits | City of Alexandria, VA"
+          },
+          {
+            "url": "https://alexandriaecon.org/wp-content/uploads/Start-a-Business-in-VA-Checklist-AutoRecovered-1.pdf",
+            "excerpts": [
+              "NOT before. 4. Get your County or City Licenses and Permits i. Business License (BPOL), business tangible personal property tax, and any. 3 pages"
+            ],
+            "title": "Start a Business in Alexandria, Virginia"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "other_virginia_prior_art.2.tool_name",
+        "reasoning": "The finegrained field value corresponds to the RVA Business Portal, which is explicitly identified in several excerpts as a city-level portal used for filing and license-related activities in Richmond. The most directly supportive excerpts explicitly name the RVA Business Portal and describe its purpose or launch context for the 2025 filing period, indicating a centralized, single-access point to manage business filings and related tasks. Additional excerpts describe a broader RVA business-related online portal ecosystem, including a department-level overview of BPOL-related information and links to online permit and filing portals, which corroborate that a Richmond, Virginia-driven online business portal framework exists and has evolved recently. Some excerpts reference related online portals (such as an Online Permit Portal) that are part of the city\u2019s digital front door for business services, reinforcing the general theme of a centralized, digital business navigation infrastructure in Richmond. Although one excerpt centers on an Online Permit Portal rather than the exact RVA Business Portal name, it remains contextually relevant as part of the same ecosystem of digital tools for business services in Richmond. Taken together, these excerpts collectively support the existence, naming, and functional context of an RVA Business Portal as part of Richmond\u2019s online business services suite. The alignment is strongest where the RVA Business Portal is explicitly named, and progressively broader for items that reference related portals and departmental information that underpin the same digital governance objective. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "New Business Portal Now Available. In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period. The",
+              "In January 2025 the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period.",
+              "The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for our business community."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "Please click on the links below for more information on: Admission Tax \u00b7 Bank Franchise Tax \u00b7 Business, Professional, and Occupational License (BPOL) Tax",
+              "In this section you will find tax, fee, license, and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall."
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "other_virginia_prior_art.1.tool_name",
+        "reasoning": "The City of Richmond has launched an Online Permit Portal (OPP) that allows customers to apply for certain permits from their office or home without needing to visit City Hall. This portal enables users to submit plans for review, apply for and pay for permits, request inspections, and check the status of their requests. It is accessible via computer or phone and currently supports applications for a Certificate of Zoning Compliance, among other plan types.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/online-permit-portal",
+            "excerpts": [
+              "The City of Richmond has launched our Online Permit Portal (OPP) that provides our customers with the ability to apply for certain Permits from their office or home without coming into City Hall.",
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from",
+              "The Online Permit Portal allows customers to submit plans for review, apply and pay for permits, request inspections, and check the status of a request from their computer or phone.",
+              "Customers can currently apply for the following plan types using the Online Permit Portal:",
+              "Certificate of Zoning Compliance"
+            ],
+            "title": "Online Permit Portal | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "executive_summary": {
+          "type": "string",
+          "description": "A high-level summary comparing the state of business startup guidance tools in Virginia, particularly Richmond, with the more advanced, interactive models found in New York City, Boston, and Chicago."
+        },
+        "virginia_permit_wizard_attempts": {
+          "type": "string",
+          "description": "Details on attempts by any Virginia city to implement a personalized, step-by-step permit and license wizard similar to NYC's MyCity. Includes information on what was attempted and the outcome, if available."
+        },
+        "virginia_business_one_stop_analysis": {
+          "type": "string",
+          "description": "An analysis of the Virginia Business One Stop (BOS) portal. Details its current function as a directory, its user base, and any evidence of past or current attempts to upgrade it into an interactive, sequenced guide."
+        },
+        "richmond_in_person_guidance_analysis": {
+          "type": "string",
+          "description": "Examines whether Richmond, VA has considered or implemented a model for in-person business guidance similar to Boston's Neighborhood Business Managers, and describes the existing local support structures."
+        },
+        "successful_tool_adoption_factors": {
+          "type": "string",
+          "description": "Identifies the key factors and features that distinguish business navigation tools with sustained adoption (like NYC MyCity and Chicago Business Direct) from those that have stalled or failed."
+        },
+        "data_prepopulation_feasibility_analysis": {
+          "type": "object",
+          "properties": {
+            "overall_assessment": {
+              "type": "string",
+              "description": "A high-level summary of the feasibility of pre-populating data across government applications."
+            },
+            "technical_challenge_summary": {
+              "type": "string",
+              "description": "A summary of the technical barriers, such as the lack of interoperable APIs between federal, state, and local systems."
+            },
+            "legal_constraint_summary": {
+              "type": "string",
+              "description": "A summary of the legal and privacy barriers, particularly concerning the confidentiality of federal tax information."
+            },
+            "key_governing_statute": {
+              "type": "string",
+              "description": "The primary legal statute that governs the confidentiality of the data, such as 26 U.S.C. \u00a7 6103 for EIN information."
+            }
+          },
+          "required": [
+            "overall_assessment",
+            "technical_challenge_summary",
+            "legal_constraint_summary",
+            "key_governing_statute"
+          ],
+          "additionalProperties": false
+        },
+        "richmond_ombd_geographic_outreach": {
+          "type": "string",
+          "description": "Investigates whether the free technical assistance from Richmond's Office of Minority Business Development (OMBD) effectively reaches entrepreneurs in areas outside of downtown, such as the East End and Southside, and notes any geographic access limitations."
+        },
+        "comparison_of_business_support_models": {
+          "type": "object",
+          "properties": {
+            "city": {
+              "type": "string",
+              "description": "The city or state associated with the support model."
+            },
+            "model_type": {
+              "type": "string",
+              "description": "The category of the business support model (e.g., Interactive Wizard, In-Person Guidance)."
+            },
+            "platform_name": {
+              "type": "string",
+              "description": "The official name of the tool or program."
+            },
+            "description": {
+              "type": "string",
+              "description": "A brief description of how the model functions and its key features."
+            }
+          },
+          "required": [
+            "city",
+            "model_type",
+            "platform_name",
+            "description"
+          ],
+          "additionalProperties": false
+        },
+        "nyc_mycity_business_wizard_overview": {
+          "type": "string",
+          "description": "A description of the NYC MyCity Business Step-by-Step Wizard, detailing its functionality, personalization features, and role as a benchmark for interactive civic tech."
+        },
+        "boston_neighborhood_manager_program": {
+          "type": "string",
+          "description": "An overview of the Boston Office of Small Business's Neighborhood Business Manager program, including its structure, the services provided, and its goal of offering localized, in-person guidance."
+        },
+        "chicago_business_direct_overview": {
+          "type": "string",
+          "description": "A summary of the Chicago Business Direct portal, highlighting its features as an integrated system for licensing and tax needs, which contributes to its successful adoption."
+        },
+        "technical_barriers_to_data_integration": {
+          "type": "string",
+          "description": "Details the specific technical challenges involved in integrating data from federal (IRS for EIN), state (SCC), and local (city applications) systems, including API availability and data standards."
+        },
+        "legal_barriers_to_data_sharing": {
+          "type": "string",
+          "description": "Outlines the legal and privacy constraints on sharing business data, focusing on the confidentiality of federal tax information (EIN) under 26 U.S.C. \u00a7 6103 and rules governing state-level SCC data."
+        },
+        "other_virginia_prior_art": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "location": {
+                "type": "string",
+                "description": "The Virginia city or locality where the tool is implemented."
+              },
+              "tool_name": {
+                "type": "string",
+                "description": "The name of the business support tool or guide."
+              },
+              "functionality": {
+                "type": "string",
+                "description": "A description of what the tool does and what services it provides."
+              },
+              "format": {
+                "type": "string",
+                "description": "The format of the tool (e.g., Web Portal, PDF Document, Static Webpage)."
+              }
+            },
+            "required": [
+              "location",
+              "tool_name",
+              "functionality",
+              "format"
+            ],
+            "additionalProperties": false
+          },
+          "description": "A list of other relevant business support tools and prior art in Virginia, such as Alexandria's New Business Guide and Richmond's Online Permit Portal for specific applications like CZC and BPOL."
+        },
+        "potential_vendors_and_technologies": {
+          "type": "object",
+          "properties": {
+            "vendor_name": {
+              "type": "string",
+              "description": "The name of the third-party vendor."
+            },
+            "specialization": {
+              "type": "string",
+              "description": "The vendor's area of expertise, such as creating business and zoning portals."
+            },
+            "relevant_products": {
+              "type": "string",
+              "description": "A list of products or services offered by the vendor that are relevant to the user's query."
+            }
+          },
+          "required": [
+            "vendor_name",
+            "specialization",
+            "relevant_products"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "executive_summary",
+        "virginia_permit_wizard_attempts",
+        "virginia_business_one_stop_analysis",
+        "richmond_in_person_guidance_analysis",
+        "successful_tool_adoption_factors",
+        "data_prepopulation_feasibility_analysis",
+        "richmond_ombd_geographic_outreach",
+        "comparison_of_business_support_models",
+        "nyc_mycity_business_wizard_overview",
+        "boston_neighborhood_manager_program",
+        "chicago_business_direct_overview",
+        "technical_barriers_to_data_integration",
+        "legal_barriers_to_data_sharing",
+        "other_virginia_prior_art",
+        "potential_vendors_and_technologies"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "sb_q3_prior_art.md"
+  }
+}

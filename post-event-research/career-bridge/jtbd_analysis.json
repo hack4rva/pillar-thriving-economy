@@ -1,0 +1,883 @@
+{
+  "run_id": "trun_1848795af0f24b8096e716afa7055238",
+  "interaction_id": "trun_1848795af0f24b8096e716afa7055238",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b8096e716afa7055238",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "output_report",
+        "reasoning": "The finegrained field value describes a clear, step-by-step onboarding flow for a first-time entrepreneur in Richmond, emphasizing the need to confirm location eligibility (zoning) through a Certificate of Zoning Compliance (CZC) before obtaining a business license, and to navigate various permits and licensing steps via city portals. The most relevant excerpts directly address CZC requirements and their place in the licensing sequence, and they discuss coordination with appropriate city departments to ensure zoning compliance before licensing. For example, explicit CZC-related guidance indicates that the CZC application is a one-time process tied to the business duration and is required before or during license issuance, which anchors the sequencing dependency in the JTBD. References describing the need to obtain a Richmond business license annually, or within a 30-day window after opening, demonstrate the licensing cadence that the JTBD intends to systematize and simplify for first-time entrepreneurs. Other excerpts describe the online permit ecosystem (Online Permit Portal and EnerGov OPP) and the RVA Business Portal, which are critical to implementing a unified, end-to-end pathway and reducing re-entries into multiple systems. Mentions of health permits for restaurants, workers\u2019 compensation registrations for contractors, and data/portal integrations further illuminate the surrounding dependencies and the complexity that the core JTBD aims to streamline. By quoting the CZC focus, the sequencing constraint (e.g., CZC before BPOL), and the reliance on centralized portals, these excerpts collectively validate the finegrained field value\u2019s claim that a single, step-by-step, legally compliant pathway is needed, along with an integrated view of required steps and timelines. Additional excerpts describe permit centers and multi-department coordination (TechDesk, SBDC, OMBD workshops), which reinforce the systems/coordination aspect of the JTBD and the need for a guided, coordinated pathway to minimize rework and integrate incentives. In sum, the strongest support comes from items that tie CZC and licensing to a centralized, rule-governed sequence via portals, followed by items that describe the broader ecosystem of permits, inspections, and interdepartmental coordination that the JTBD seeks to harmonize.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+            "excerpts": [
+              "The CZC application is typically a one-time only process that lasts for the duration of the business, with some exceptions. You are required to apply for a NEW"
+            ],
+            "title": "[PDF] HOW TO APPLY FOR A CERTIFICATE OF ZONING COMPLIANCE ..."
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s).",
+              "All services are now being processed through the City of Richmond\u2019s Online Permitting Portal (OPP). Processing times for some application types may take as long as 2-3 weeks. Applications and plans are being reviewed in the order in which they are received.",
+              "The Permit Center, located in City Hall Room 108, is open 8:00am-1:00pm ... To contact City of Richmond Customer Service, please call 804-646-7000 or 3"
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance.",
+              "We communicate with the Department of Planning and Development Review to ensure that anyone seeking to obtain a business license complies with the zoning laws in the City before we issue a business license.",
+              "Owners of businesses in the City of Richmond are required to obtain a Richmond business license annually. The business license identifies the business and",
+              "The business portal provides an online link for you to prepare, review, file, and pay your Business Tangible Personal Property and Business License Renewal forms.",
+              "New businesses must obtain a license within 30 days of the date of opening."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license , and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses"
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue.",
+              "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community.",
+              "The City charges a $30 flat fee for eligible new and small businesses instead of a higher BPOL tax, and qualified technology businesses can receive waived or reduced BPOL taxes for up to five years.",
+              "Attend a training workshop hosted by the City's [Office of Minority Business Development](https://www.rva.gov/mbd) or get expert advice from a business counselor at the [Capital Region Small Business Development Center](https://capitalregionvasbdc.com/) to jump-start your business and achieve your goals."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development launches ..."
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/resources",
+            "excerpts": [
+              "OMBD is committed to the success of all minority business enterprises (MBEs), emerging small businesses (ESBs), and disadvantaged business enterprises (DBEs).",
+              "Below are some resources and tools to help you and your small/minority-owned business navigate owning, operating, and thriving in the City of Richmond. Business"
+            ],
+            "title": "Resources | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we"
+            ],
+            "title": "Minority Business | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+            "excerpts": [
+              "Prior to the issuance of a license to do business in the City of Richmond , the steps listed on the back of this form must be completed. Issuance of a business ... 2 pages"
+            ],
+            "title": "City of Richmond - New Business License Application 900 ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "output_report.functional_job_to_be_done",
+        "reasoning": "The target JTBD describes a first-time entrepreneur needing a single, step-by-step checklist to ensure zoning compliance, all necessary permits, and a business license so they can legally open on a predictable timeline. Excerpts describing the Certificate of Zoning Compliance (CZC) process map directly to the zoning-check step of the checklist, showing that such certification is a required, typically one-time process tied to the life of the business. Excerpts about using the Online Permit Portal cover how to obtain various permits (commercial, electrical, mechanical, and related plan reviews), and they emphasize centralized, digital processing and typical processing timelines, which align with the 'step-by-step' and 'predictable timeline' aspects. Excerpts mentioning the Permit Center and customer service contacts illustrate where to go for in-person or assisted support during the permitting journey, reinforcing the sequential nature of permit acquisition. The BPOL-related excerpts describe licensing steps tied to business activity after zoning and permitting, highlighting the need to obtain a business license and to align with zoning before opening. A dedicated new business license application reference and related guidance further support the idea of a consolidated, end-to-end process. Taken together, these excerpts substantiate a cohesive three-part checklist: (1) confirm zoning with CZC, (2) secure required permits via the Online Permit Portal (and know where to get help), (3) obtain and renew the appropriate business license with a clear understanding of timing and prerequisites. The most central support comes from the CZC description, the online permitting workflow, and the BPOL/license requirements, with peripheral but supportive details on center locations, timelines, and renewal processes that reinforce the practical deployment of the checklist.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+            "excerpts": [
+              "The CZC application is typically a one-time only process that lasts for the duration of the business, with some exceptions. You are required to apply for a NEW"
+            ],
+            "title": "[PDF] HOW TO APPLY FOR A CERTIFICATE OF ZONING COMPLIANCE ..."
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s).",
+              "All services are now being processed through the City of Richmond\u2019s Online Permitting Portal (OPP). Processing times for some application types may take as long as 2-3 weeks. Applications and plans are being reviewed in the order in which they are received.",
+              "The Permit Center, located in City Hall Room 108, is open 8:00am-1:00pm ... To contact City of Richmond Customer Service, please call 804-646-7000 or 3"
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance.",
+              "We communicate with the Department of Planning and Development Review to ensure that anyone seeking to obtain a business license complies with the zoning laws in the City before we issue a business license.",
+              "Owners of businesses in the City of Richmond are required to obtain a Richmond business license annually. The business license identifies the business and",
+              "New businesses must obtain a license within 30 days of the date of opening."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license , and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+            "excerpts": [
+              "Prior to the issuance of a license to do business in the City of Richmond , the steps listed on the back of this form must be completed. Issuance of a business ... 2 pages"
+            ],
+            "title": "City of Richmond - New Business License Application 900 ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "output_report.equity_questions",
+        "reasoning": "Excerpts that discuss targeted programs for minority and small businesses in Richmond directly support the idea of routing users to ESB/MBE/DBE certifications and related opportunities. For instance, mentions of a dedicated Supplier and Diversity Portal and minority business development initiatives indicate formal pathways and institutional support for underrepresented entrepreneurs. Training workshops and expert business counseling further illustrate concrete support channels that could be leveraged to improve equity outcomes. Online business portals and general resources provide essential accessibility points (digital or otherwise) for navigating permits, licenses, and financing, which align with reducing friction for entrepreneurs in lower-wealth areas. While some excerpts describe broader city resources, their inclusion helps frame the ecosystem in which equity-focused routing and accessibility improvements would operate. Taken together, these excerpts support the notion that Richmond offers certification routes, diversity-focused programs, and accessible channels that a JTBD-focused tool could leverage and measure uptake against, even though explicit uptake metrics are not stated.",
+        "citations": [
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community.",
+              "Attend a training workshop hosted by the City's [Office of Minority Business Development](https://www.rva.gov/mbd) or get expert advice from a business counselor at the [Capital Region Small Business Development Center](https://capitalregionvasbdc.com/) to jump-start your business and achieve your goals.",
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development launches ..."
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we"
+            ],
+            "title": "Minority Business | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/resources",
+            "excerpts": [
+              "Below are some resources and tools to help you and your small/minority-owned business navigate owning, operating, and thriving in the City of Richmond. Business",
+              "OMBD is committed to the success of all minority business enterprises (MBEs), emerging small businesses (ESBs), and disadvantaged business enterprises (DBEs)."
+            ],
+            "title": "Resources | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+            "excerpts": [
+              "Prior to the issuance of a license to do business in the City of Richmond , the steps listed on the back of this form must be completed. Issuance of a business ... 2 pages"
+            ],
+            "title": "City of Richmond - New Business License Application 900 ..."
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+            "excerpts": [
+              "The CZC application is typically a one-time only process that lasts for the duration of the business, with some exceptions. You are required to apply for a NEW"
+            ],
+            "title": "[PDF] HOW TO APPLY FOR A CERTIFICATE OF ZONING COMPLIANCE ..."
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s)."
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "output_report.user_questions",
+        "reasoning": "To address the fine-grained field output_report.user_questions, the most relevant excerpts are those that point to local support ecosystems and onboarding channels entrepreneurs would realistically encounter in Richmond. Content describing the City\u2019s small-business resources and portals (such as the RVA business portal and the City\u2019s Office of Minority Business Development) directly supports the idea of where onboarding should live and which anchors entrepreneurs trust when starting out. For example, references to the RVA Business Portal and OMBD indicate formal channels for guidance, registration, and support services that would shape which organizations entrepreneurs rely on and how to present multilingual or ADA-compliant guidance. Mention of minority-focused development and business counseling centers (like SBDC variants) provides concrete trust anchors and potential integration points for delivering guidance and JTBD-based messaging. Additional excerpts about broader small-business resources help map the ecosystem context in which Richmond entrepreneurs operate, informing questions about data sources, partner integrations, and equity considerations. Conversely, excerpts that primarily describe zoning, permits, and licensing processes provide useful procedural context but are less central to onboarding, trust anchors, and accessibility/linguistic needs, though they may indirectly influence the workflow by identifying regulatory steps that could be surfaced as part of \u201chow-to\u201d JTBD outcomes. Overall, the strongest support comes from passages that identify specific local institutions and portals used by entrepreneurs for support and onboarding in Richmond, followed by those that describe related small-business resources; permit-related items contribute peripheral context.",
+        "citations": [
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue.",
+              "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community.",
+              "The City charges a $30 flat fee for eligible new and small businesses instead of a higher BPOL tax, and qualified technology businesses can receive waived or reduced BPOL taxes for up to five years.",
+              "Attend a training workshop hosted by the City's [Office of Minority Business Development](https://www.rva.gov/mbd) or get expert advice from a business counselor at the [Capital Region Small Business Development Center](https://capitalregionvasbdc.com/) to jump-start your business and achieve your goals."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development launches ..."
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/resources",
+            "excerpts": [
+              "OMBD is committed to the success of all minority business enterprises (MBEs), emerging small businesses (ESBs), and disadvantaged business enterprises (DBEs).",
+              "Below are some resources and tools to help you and your small/minority-owned business navigate owning, operating, and thriving in the City of Richmond. Business"
+            ],
+            "title": "Resources | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we"
+            ],
+            "title": "Minority Business | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "output_report.systems_job_to_be_done",
+        "reasoning": "The most directly relevant excerpts describe the actual pathways and tools a entrepreneur would use to navigate permits, zoning, and licensing in Richmond. They mention the Online Permit Portal as the unified channel for commercial and residential permits, CZCs, and plans, which supports the idea of a single flow surface for required steps. References to Certificates of Zoning Compliance and the need to align with zoning laws before business license issuance illustrate concrete steps and legal prerequisites in a single lifecycle, aligning with the goal of minimizing rework through a coordinated pathway. Statements about the BPOL license renewal and annual licensing obligations reinforce the ongoing, end-to-end nature of compliance activities a startup must manage, which fits the \u2018one flow\u2019 coordination aim. Additional excerpts describe the City\u2019s new or centralized portals for business-related filings and taxes (RVA Business Portal), and notes about processing times and application review order, which are critical for sequencing steps and predicting timelines in a unified workflow. Several excerpts also point to equity-focused or business development resources (Office of Minority Business Development, small business resources, and programs for minority or emerging small businesses), which map to the part of the JTBD that surfaces incentives and equity-focused support in the same coordinated experience. Collectively, these excerpts provide concrete pieces of a coordinated pathway: (a) where to apply/how to apply (online portal, CZCs, permits), (b) prerequisites and sequencing (zoning compliance before licensing, renewal requirements), (c) expected timelines and process flow (processing times, order of review), and (d) available incentives and support channels (finance portals, minority business development resources). The presence of a centralized portal and a variety of accompanying guidance aligns well with the envisioned end-to-end flow that surfaces steps, eligibility for incentives, and equity resources in one streamlined experience, reducing rework and facilitating connection to capital and programs.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s).",
+              "All services are now being processed through the City of Richmond\u2019s Online Permitting Portal (OPP). Processing times for some application types may take as long as 2-3 weeks. Applications and plans are being reviewed in the order in which they are received.",
+              "The Permit Center, located in City Hall Room 108, is open 8:00am-1:00pm ... To contact City of Richmond Customer Service, please call 804-646-7000 or 3"
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+            "excerpts": [
+              "The CZC application is typically a one-time only process that lasts for the duration of the business, with some exceptions. You are required to apply for a NEW"
+            ],
+            "title": "[PDF] HOW TO APPLY FOR A CERTIFICATE OF ZONING COMPLIANCE ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance.",
+              "We communicate with the Department of Planning and Development Review to ensure that anyone seeking to obtain a business license complies with the zoning laws in the City before we issue a business license.",
+              "Owners of businesses in the City of Richmond are required to obtain a Richmond business license annually. The business license identifies the business and",
+              "New businesses must obtain a license within 30 days of the date of opening.",
+              "The business portal provides an online link for you to prepare, review, file, and pay your Business Tangible Personal Property and Business License Renewal forms."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license , and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+            "excerpts": [
+              "Prior to the issuance of a license to do business in the City of Richmond , the steps listed on the back of this form must be completed. Issuance of a business ... 2 pages"
+            ],
+            "title": "City of Richmond - New Business License Application 900 ..."
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community.",
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue.",
+              "The City charges a $30 flat fee for eligible new and small businesses instead of a higher BPOL tax, and qualified technology businesses can receive waived or reduced BPOL taxes for up to five years.",
+              "Attend a training workshop hosted by the City's [Office of Minority Business Development](https://www.rva.gov/mbd) or get expert advice from a business counselor at the [Capital Region Small Business Development Center](https://capitalregionvasbdc.com/) to jump-start your business and achieve your goals."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/resources",
+            "excerpts": [
+              "Below are some resources and tools to help you and your small/minority-owned business navigate owning, operating, and thriving in the City of Richmond. Business",
+              "OMBD is committed to the success of all minority business enterprises (MBEs), emerging small businesses (ESBs), and disadvantaged business enterprises (DBEs)."
+            ],
+            "title": "Resources | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development launches ..."
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we"
+            ],
+            "title": "Minority Business | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "output_report.emotional_job_to_be_done",
+        "reasoning": "The emotional JTBD seeks reassurance from official sources that the entrepreneurial path is on the right track and free from last-minute surprises. Excerpts describing centralized, official portals for business filings and permit processing provide the authoritative signal the user seeks. Specifically, the RVA Business Portal is highlighted as a single access point for filings and invoicing, which directly supports obtaining official confirmation of requirements and timelines. Pages that detail online permit processing and typical processing times offer concrete expectations about when things will be reviewed, helping to avoid unknown delays. Documents outlining the steps to obtain a new business license and the necessity to align with zoning compliance before licensing give a clear, rule-based pathway that reduces uncertainty about future obligations. Additional excerpts that discuss certificates of zoning compliance and the role of finance in licensing further reinforce that official channels govern the critical milestones, offering the assurance the user wants before committing funds or timelines. Collectively, these sources map a path from application through licensing with explicit steps, portals, and timelines, aligning with the need for confidence in proceeding with a business venture in Richmond.",
+        "citations": [
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "All services are now being processed through the City of Richmond\u2019s Online Permitting Portal (OPP). Processing times for some application types may take as long as 2-3 weeks. Applications and plans are being reviewed in the order in which they are received.",
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s)."
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+            "excerpts": [
+              "Prior to the issuance of a license to do business in the City of Richmond , the steps listed on the back of this form must be completed. Issuance of a business ... 2 pages"
+            ],
+            "title": "City of Richmond - New Business License Application 900 ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+            "excerpts": [
+              "The CZC application is typically a one-time only process that lasts for the duration of the business, with some exceptions. You are required to apply for a NEW"
+            ],
+            "title": "[PDF] HOW TO APPLY FOR A CERTIFICATE OF ZONING COMPLIANCE ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license , and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "output_report.integration_questions",
+        "reasoning": "To support the finegrained field value about integration questions, the most pertinent excerpts describe the key portals and their roles in the civic tech ecosystem. The Online Permit Portal (OPP) is the centralized system through which permits, certificates of zoning compliance, and related documents are processed; this directly relates to embedding SSO or deep links and ensuring cross-portal navigation for a career-bridge tool that interoperates with permit-related workflows. The existence of an Online Permitting Portal (OPP) and its scope (commercial, residential, permits, CZCs, PODs) indicates the kinds of integration points and data surfaces that would need to be supported by single sign-on or deep linking to reduce re-entry of data. The RVA Business Portal is explicitly called out as a single access point for filing and invoicing tasks, which aligns with the second integration target (embedding deep links to a business portal for streamlined user flows and appointments). The OMBD B2GNow portal is another interagency portal referenced, suggesting cross-portal navigation and content governance considerations for a civic tool that would surface OMBD-related workshops or counseling. Additional excerpts discuss the general business licensing and tax portals (BPOL) and the Finance department\u2019s business information, which provide context on the downstream systems a user might reach after first landing in integration points and may influence the data model and governance needs for keeping content current across portals. Excerpts mentioning the New Business License Application and BPOL-related processes ground the integration work in actual city workflows and user touchpoints, illustrating the kinds of tasks (licensing, filings, and renewals) that a JTBD-focused tool would need to support through integrated links and consistent UX across portals.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s).",
+              "All services are now being processed through the City of Richmond\u2019s Online Permitting Portal (OPP). Processing times for some application types may take as long as 2-3 weeks. Applications and plans are being reviewed in the order in which they are received."
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development launches ..."
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+            "excerpts": [
+              "Prior to the issuance of a license to do business in the City of Richmond , the steps listed on the back of this form must be completed. Issuance of a business ... 2 pages"
+            ],
+            "title": "City of Richmond - New Business License Application 900 ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license , and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "output_report.data_questions",
+        "reasoning": "The finegrained field value asks for: canonical step order and machine-readable rules for Richmond permitting and licensing processes (CZC before BPOL, health permits where applicable, contractor thresholds), timelines by permit type; access to APIs/exports for permit and license portals; datasets identifying zoning requirements linked to CZC; and program eligibility data for pre-screening and benefits estimates. The excerpts collectively describe: (a) the CZC process and its one-time nature, (b) how online permitting consolidates permit work including CZCs and plan developments, (c) the flow of BPOL-related licensing and the requirement to obtain zoning compliance prior to licensing, (d) the existence of an online portal and processing timelines, (e) general small business resources and portals that hint at centralization of data and workflows. Specifically, excerpts state that CZC applications are a one-time process related to zoning compliance; the Online Permit Portal handles commercial, residential, electrical, mechanical permits and CZCs; processing times can be 2-3 weeks and reviews occur in the order received; and BPOL licensing requires prior zoning compliance, with annual licenses and related filings. These pieces together establish: (i) a sequence where zoning compliance (CZC) typically precedes licensing (BPOL) in Richmond, (ii) a centralized, online process for permits and licenses via the City portals, (iii) the existence of data flows and checks tied to permits and licenses, (iv) references to programmatic and data-centered resources (sites, portals) that could be sources for API-like access or data exports at scale. Although the excerpts do not provide a formal, machine-readable rule document or explicit API endpoints, they confirm the structural order and data touchpoints needed to construct a canonical, machine-readable rule set and to identify related datasets and pre-screening opportunities. Therefore, these excerpts are highly relevant for informing the requested canonical steps, data sources, and portal-based workflows. Other excerpts expand on broader small-business resources and licensing contexts, which are supportive but less central to the precise sequencing and data access questions in the field value.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+            "excerpts": [
+              "The CZC application is typically a one-time only process that lasts for the duration of the business, with some exceptions. You are required to apply for a NEW"
+            ],
+            "title": "[PDF] HOW TO APPLY FOR A CERTIFICATE OF ZONING COMPLIANCE ..."
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s).",
+              "All services are now being processed through the City of Richmond\u2019s Online Permitting Portal (OPP). Processing times for some application types may take as long as 2-3 weeks. Applications and plans are being reviewed in the order in which they are received.",
+              "The Permit Center, located in City Hall Room 108, is open 8:00am-1:00pm ... To contact City of Richmond Customer Service, please call 804-646-7000 or 3"
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance.",
+              "We communicate with the Department of Planning and Development Review to ensure that anyone seeking to obtain a business license complies with the zoning laws in the City before we issue a business license.",
+              "Owners of businesses in the City of Richmond are required to obtain a Richmond business license annually. The business license identifies the business and",
+              "The business portal provides an online link for you to prepare, review, file, and pay your Business Tangible Personal Property and Business License Renewal forms.",
+              "New businesses must obtain a license within 30 days of the date of opening."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license , and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses"
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue.",
+              "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community.",
+              "The City charges a $30 flat fee for eligible new and small businesses instead of a higher BPOL tax, and qualified technology businesses can receive waived or reduced BPOL taxes for up to five years.",
+              "Attend a training workshop hosted by the City's [Office of Minority Business Development](https://www.rva.gov/mbd) or get expert advice from a business counselor at the [Capital Region Small Business Development Center](https://capitalregionvasbdc.com/) to jump-start your business and achieve your goals."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development launches ..."
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/resources",
+            "excerpts": [
+              "OMBD is committed to the success of all minority business enterprises (MBEs), emerging small businesses (ESBs), and disadvantaged business enterprises (DBEs).",
+              "Below are some resources and tools to help you and your small/minority-owned business navigate owning, operating, and thriving in the City of Richmond. Business"
+            ],
+            "title": "Resources | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we"
+            ],
+            "title": "Minority Business | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+            "excerpts": [
+              "Prior to the issuance of a license to do business in the City of Richmond , the steps listed on the back of this form must be completed. Issuance of a business ... 2 pages"
+            ],
+            "title": "City of Richmond - New Business License Application 900 ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "output_report.systems_job_core_pain",
+        "reasoning": "The most relevant excerpts explicitly mention the portals and systems central to the field value. Excerpt describing a Supplier and Diversity Portal through B2GNow directly supports the idea of a fragmented system that spans supplier diversity activities. Excerpts about the RVA Business Portal show another integrated entry point the city provides for businesses, which aligns with the fragmentation and potential duplication when multiple portals exist. Excerpts mentioning the Online Permit Portal (EnerGov OPP) and the Online Permitting Portal corroborate the existence of separate digital systems used for regulatory and permitting processes, which can contribute to data duplication across workflows. Related excerpts detailing business licenses, zoning compliance, and permit processes illustrate how data must be entered or re-entered across systems, implying duplicative data entry and coordination challenges. Excerpts that discuss RVA\u2019s financing, licenses, and resources (Small Business resources, OMBD, minority business development) provide context for missed opportunities and certifications (e.g., ESB/MBE) by showing existing programs and portals that could be better integrated. Excerpts referencing the RVA Business Portal by name directly support the field\u2019s observed fragmentation between multiple city systems and the opportunity for more seamless data and certification flows. Collectively, these excerpts map onto the finegrained field value by illustrating how EnerGov OPP, RVA Business Portal, and B2GNow exist as separate ecosystems, potentially duplicating data entry and causing missed opportunities without integrated data and certification pathways.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development launches ..."
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community.",
+              "The City charges a $30 flat fee for eligible new and small businesses instead of a higher BPOL tax, and qualified technology businesses can receive waived or reduced BPOL taxes for up to five years.",
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue.",
+              "Attend a training workshop hosted by the City's [Office of Minority Business Development](https://www.rva.gov/mbd) or get expert advice from a business counselor at the [Capital Region Small Business Development Center](https://capitalregionvasbdc.com/) to jump-start your business and achieve your goals."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s).",
+              "All services are now being processed through the City of Richmond\u2019s Online Permitting Portal (OPP). Processing times for some application types may take as long as 2-3 weeks. Applications and plans are being reviewed in the order in which they are received.",
+              "The Permit Center, located in City Hall Room 108, is open 8:00am-1:00pm ... To contact City of Richmond Customer Service, please call 804-646-7000 or 3"
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "We communicate with the Department of Planning and Development Review to ensure that anyone seeking to obtain a business license complies with the zoning laws in the City before we issue a business license.",
+              "Owners of businesses in the City of Richmond are required to obtain a Richmond business license annually. The business license identifies the business and",
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance.",
+              "New businesses must obtain a license within 30 days of the date of opening."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license , and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/resources",
+            "excerpts": [
+              "Below are some resources and tools to help you and your small/minority-owned business navigate owning, operating, and thriving in the City of Richmond. Business",
+              "OMBD is committed to the success of all minority business enterprises (MBEs), emerging small businesses (ESBs), and disadvantaged business enterprises (DBEs)."
+            ],
+            "title": "Resources | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we"
+            ],
+            "title": "Minority Business | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+            "excerpts": [
+              "Prior to the issuance of a license to do business in the City of Richmond , the steps listed on the back of this form must be completed. Issuance of a business ... 2 pages"
+            ],
+            "title": "City of Richmond - New Business License Application 900 ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "output_report.emotional_job_core_pain",
+        "reasoning": "The core pain centers on anxiety caused by unclear or contradictory guidance and the fear of penalties or delays when navigating local rules. The excerpts collectively describe a complex regulatory landscape with multiple touchpoints where delays and penalties could arise. For example, there are references to a centralized Online Permitting Portal where various permits and Certificates of Zoning Compliance are processed, with noted processing timelines that can extend to weeks, which directly ties to fear of delays in starting a business. The explicit need to obtain a Certificate of Zoning Compliance, and the requirement that zoning laws be met before a business license is issued, speaks to potential penalties or non-compliance risks if guidance is unclear or misinterpreted. Several excerpts emphasize that many services rely on multiple steps and approvals (CZCs, PODs, BPOL licensing) and that the timing and sequence of these steps can be critical, contributing to uncertainty and anxiety for first-time entrepreneurs trying to navigate the process. Other excerpts highlight that licenses are issued only after compliance checks and that some processes are subject to review timelines, reinforcing the risk of delays and penalties if steps are missed or misunderstood. Additionally, references to annual licensing, online portals for filing, and contact points for customer service underscore the ongoing need to manage regulatory requirements accurately, which can provoke ongoing worry about staying compliant. Collectively, these points align with the described emotional pain by illustrating where guidance may be fragmented or where delays and penalties could occur due to the regulatory process in Richmond.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "All services are now being processed through the City of Richmond\u2019s Online Permitting Portal (OPP). Processing times for some application types may take as long as 2-3 weeks. Applications and plans are being reviewed in the order in which they are received.",
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s).",
+              "The Permit Center, located in City Hall Room 108, is open 8:00am-1:00pm ... To contact City of Richmond Customer Service, please call 804-646-7000 or 3"
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+            "excerpts": [
+              "The CZC application is typically a one-time only process that lasts for the duration of the business, with some exceptions. You are required to apply for a NEW"
+            ],
+            "title": "[PDF] HOW TO APPLY FOR A CERTIFICATE OF ZONING COMPLIANCE ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "We communicate with the Department of Planning and Development Review to ensure that anyone seeking to obtain a business license complies with the zoning laws in the City before we issue a business license.",
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance.",
+              "Owners of businesses in the City of Richmond are required to obtain a Richmond business license annually. The business license identifies the business and"
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license , and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses"
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue.",
+              "Attend a training workshop hosted by the City's [Office of Minority Business Development](https://www.rva.gov/mbd) or get expert advice from a business counselor at the [Capital Region Small Business Development Center](https://capitalregionvasbdc.com/) to jump-start your business and achieve your goals."
+            ],
+            "title": "Small Business"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "output_report.systems_job_current_workaround",
+        "reasoning": "The most relevant information comes from sources that explicitly reference centralized or multi-portal access points and coordinated processes for starting or operating a business in Richmond. One excerpt notes a dedicated RVA Business Portal, which represents a centralized entry point for business-related tasks. Another excerpt describes the Online Permit Portal (OPP) as the system used for multiple permit types, signaling a centralized workflow for permitting prerequisites. A further item references a business portal as well, reinforcing the notion of a single-entry system for business-related filings and licenses. Additional excerpts discuss the Certificate of Zoning Compliance as part of the business start process and the necessity to align with zoning and planning requirements before licensing, indicating prerequisite checks across systems. An excerpt mentioning the OMBD\u2019s programs alongside the Capital Region SBDC highlights support ecosystems that entrepreneurs may need to navigate in parallel with formal portals. This cluster of portal-centric and cross-system references directly supports a manual, cross-portal workaround that tracks prerequisites across multiple city systems and programs, aligning with the described field value. The remaining excerpts describe individual processes (e.g., zoning, BPOL licensing, or specific forms) but do not by themselves imply a cross-portal tracking workflow, so their relevance is supportive but less direct.",
+        "citations": [
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community.",
+              "Attend a training workshop hosted by the City's [Office of Minority Business Development](https://www.rva.gov/mbd) or get expert advice from a business counselor at the [Capital Region Small Business Development Center](https://capitalregionvasbdc.com/) to jump-start your business and achieve your goals."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s)."
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "The business portal provides an online link for you to prepare, review, file, and pay your Business Tangible Personal Property and Business License Renewal forms."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+            "excerpts": [
+              "Prior to the issuance of a license to do business in the City of Richmond , the steps listed on the back of this form must be completed. Issuance of a business ... 2 pages"
+            ],
+            "title": "City of Richmond - New Business License Application 900 ..."
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development launches ..."
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+            "excerpts": [
+              "The CZC application is typically a one-time only process that lasts for the duration of the business, with some exceptions. You are required to apply for a NEW"
+            ],
+            "title": "[PDF] HOW TO APPLY FOR A CERTIFICATE OF ZONING COMPLIANCE ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license , and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "output_report.functional_job_core_pain",
+        "reasoning": "The finegrained field value highlights three core pain points: unclear ordering of steps and dependencies (such as needing a Certificate of Zoning Compliance before BPOL), the use of multiple portals/logins, and long review cycles if a step is missed. Excerpts describing the move to an Online Permitting Portal for various permits and licenses illustrate portal fragmentation and multiple entry points. Specifically, the Online Permitting Portal is now the single channel for commercial/residential permits, CZCs, and related plans, which underscores the challenge of juggling multiple systems and potential login fatigue. Timelines are also touched upon, with processing times of up to two to three weeks and ordering of reviews based on when applications are received, indicating a non-trivial delay and a dependency on the sequence of submissions. There is explicit mention that zoning compliance precedes business licensing actions, signaling a prerequisite chain that could be easy to miss if not carefully followed. Additional sources describe the need to complete steps before license issuance and the existence of structured application processes (e.g., a new business license application with back-of-form steps), reinforcing that missing a step or misordering can stall the entire process. Taken together, these excerpts directly support the field value's claims about unclear sequencing, the fragmentation of access points (portals/logins), and elongated review cycles when steps are missed. They collectively illustrate practical manifestations of the JTBD pain point: a user attempting to navigate starting a business in Richmond encounters procedural complexity, multiple systems, and delays that constrain timely outcomes.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "All services are now being processed through the City of Richmond\u2019s Online Permitting Portal (OPP). Processing times for some application types may take as long as 2-3 weeks. Applications and plans are being reviewed in the order in which they are received.",
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s).",
+              "The Permit Center, located in City Hall Room 108, is open 8:00am-1:00pm ... To contact City of Richmond Customer Service, please call 804-646-7000 or 3"
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "We communicate with the Department of Planning and Development Review to ensure that anyone seeking to obtain a business license complies with the zoning laws in the City before we issue a business license.",
+              "Owners of businesses in the City of Richmond are required to obtain a Richmond business license annually. The business license identifies the business and",
+              "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance."
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+            "excerpts": [
+              "Prior to the issuance of a license to do business in the City of Richmond , the steps listed on the back of this form must be completed. Issuance of a business ... 2 pages"
+            ],
+            "title": "City of Richmond - New Business License Application 900 ..."
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+            "excerpts": [
+              "The CZC application is typically a one-time only process that lasts for the duration of the business, with some exceptions. You are required to apply for a NEW"
+            ],
+            "title": "[PDF] HOW TO APPLY FOR A CERTIFICATE OF ZONING COMPLIANCE ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license , and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses"
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue."
+            ],
+            "title": "Small Business"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "output_report.prior_art_questions",
+        "reasoning": "Direct references to the RVA Business Portal and related city resources provide concrete examples of current portal design, access points, and service scope that could inform where gaps or opportunities exist. For instance, a direct mention of a centralized RVA Business Portal suggests a precedent for single-access point and streamlined filing or submission workflows, which helps answer what gaps remain when considering complementary systems or sequencing. Mentions of the Office of Minority Business Development and the Capital Region Small Business Development Center indicate established support channels and potential data-sharing or coordination opportunities for a comprehensive career- and business-navigation tool. References to general small-business resources in Richmond illustrate the breadth of available portals and guidance that any new tool should consider to avoid duplication and to identify opportunities for integration or enhanced eligibility screening. Together, these excerpts collectively support evaluating how to complement existing portals (instead of duplicating them), identify useful integration points, and uncover common successful patterns (such as centralized access, status aggregation, and access to coaching or advisory services) that can be emulated in the JTBD framework for Richmond-specific entrepreneurship and small-business navigation.",
+        "citations": [
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community.",
+              "Attend a training workshop hosted by the City's [Office of Minority Business Development](https://www.rva.gov/mbd) or get expert advice from a business counselor at the [Capital Region Small Business Development Center](https://capitalregionvasbdc.com/) to jump-start your business and achieve your goals.",
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development launches ..."
+          },
+          {
+            "url": "https://www.rva.gov/minority-business/resources",
+            "excerpts": [
+              "Below are some resources and tools to help you and your small/minority-owned business navigate owning, operating, and thriving in the City of Richmond. Business"
+            ],
+            "title": "Resources | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "Our expanded programs now provide technical and business development assistance to minority-owned and emerging small businesses - talk to us today to see how we"
+            ],
+            "title": "Minority Business | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "output_report.functional_job_current_workaround",
+        "reasoning": "The most relevant pieces explicitly mention the Online Permit Portal and the Permit Center, which align directly with the user\u2019s described action of using an online system and calling a central help line to piece together steps: 'The Online Permit Portal should be used for... permits, CZCs, and PODs' and 'The Permit Center... is open 8:00am-1:00pm'. These provide the concrete channels the workaround relies on. The Office of Minority Business Development and the Capital Region SBDC are cited as avenues for guidance and support, matching the user\u2019s note of consulting peers and external sites for sequencing information. Centralized portals like the RVA Business Portal and notes about licensing and zoning workflows help explain why multiple sources (city and state sites) would be consulted to infer a sequence of steps. Peri-urban or peripheral business-resource excerpts (e.g., general small business resources and BPOL/licensing notes) substantiate the broader landscape a person would navigate when piecing together a workflow, even if they don\u2019t provide the exact step-by-step actions.\n",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+            "excerpts": [
+              "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC\u2019s), and Plan of Developments (POD\u2019s).",
+              "The Permit Center, located in City Hall Room 108, is open 8:00am-1:00pm ... To contact City of Richmond Customer Service, please call 804-646-7000 or 3"
+            ],
+            "title": "Permits and Inspections | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.richmondeda.com/small-business/",
+            "excerpts": [
+              "Attend a training workshop hosted by the City's [Office of Minority Business Development](https://www.rva.gov/mbd) or get expert advice from a business counselor at the [Capital Region Small Business Development Center](https://capitalregionvasbdc.com/) to jump-start your business and achieve your goals.",
+              "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community.",
+              "Small businesses are the lifeblood of our economy. In Richmond , we provide resources to help entrepreneurs transform real ideas into real revenue."
+            ],
+            "title": "Small Business"
+          },
+          {
+            "url": "https://www.rva.gov/finance/bpol-tax",
+            "excerpts": [
+              "We communicate with the Department of Planning and Development Review to ensure that anyone seeking to obtain a business license complies with the zoning laws in the City before we issue a business license.",
+              "Owners of businesses in the City of Richmond are required to obtain a Richmond business license annually. The business license identifies the business and"
+            ],
+            "title": "Business, Professional, and Occupational License (BPOL) ..."
+          },
+          {
+            "url": "https://www.rva.gov/finance/business",
+            "excerpts": [
+              "In this section you will find tax, fee, license , and other program information from the City of Richmond's Department of Finance specifically tailored to the"
+            ],
+            "title": "Department of Finance for Businesses"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "output_report": {
+          "type": "object",
+          "properties": {
+            "functional_job_to_be_done": {
+              "type": "string",
+              "description": "The functional job story for a first-time entrepreneur, formatted as 'When [situation], I [persona] want to [motivation], so I can [outcome].'"
+            },
+            "functional_job_current_workaround": {
+              "type": "string",
+              "description": "The current workaround used to accomplish the functional job."
+            },
+            "functional_job_core_pain": {
+              "type": "string",
+              "description": "The core pain point associated with the current workaround for the functional job."
+            },
+            "emotional_job_to_be_done": {
+              "type": "string",
+              "description": "The emotional/trust job story for a first-time entrepreneur, formatted as 'When [situation], I [persona] want to [motivation], so I can [outcome].'"
+            },
+            "emotional_job_current_workaround": {
+              "type": "string",
+              "description": "The current workaround used to accomplish the emotional/trust job."
+            },
+            "emotional_job_core_pain": {
+              "type": "string",
+              "description": "The core pain point associated with the current workaround for the emotional/trust job."
+            },
+            "systems_job_to_be_done": {
+              "type": "string",
+              "description": "The systems/coordination job story for a first-time entrepreneur, formatted as 'When [situation], I [persona] want to [motivation], so I can [outcome].'"
+            },
+            "systems_job_current_workaround": {
+              "type": "string",
+              "description": "The current workaround used to accomplish the systems/coordination job."
+            },
+            "systems_job_core_pain": {
+              "type": "string",
+              "description": "The core pain point associated with the current workaround for the systems/coordination job."
+            },
+            "data_questions": {
+              "type": "string",
+              "description": "A markdown-formatted list of open questions related to data for the project."
+            },
+            "user_questions": {
+              "type": "string",
+              "description": "A markdown-formatted list of open questions related to the user for the project."
+            },
+            "integration_questions": {
+              "type": "string",
+              "description": "A markdown-formatted list of open questions related to integration for the project."
+            },
+            "equity_questions": {
+              "type": "string",
+              "description": "A markdown-formatted list of open questions related to equity for the project."
+            },
+            "prior_art_questions": {
+              "type": "string",
+              "description": "A markdown-formatted list of open questions related to prior art for the project."
+            }
+          },
+          "required": [
+            "functional_job_to_be_done",
+            "functional_job_current_workaround",
+            "functional_job_core_pain",
+            "emotional_job_to_be_done",
+            "emotional_job_current_workaround",
+            "emotional_job_core_pain",
+            "systems_job_to_be_done",
+            "systems_job_current_workaround",
+            "systems_job_core_pain",
+            "data_questions",
+            "user_questions",
+            "integration_questions",
+            "equity_questions",
+            "prior_art_questions"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "output_report"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "jtbd_analysis.md"
+  }
+}

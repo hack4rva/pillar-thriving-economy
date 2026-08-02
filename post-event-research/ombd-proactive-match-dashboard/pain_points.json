@@ -1,0 +1,2029 @@
+{
+  "run_id": "trun_1848795af0f24b80a88e4253b6b1e476",
+  "interaction_id": "trun_1848795af0f24b80a88e4253b6b1e476",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b80a88e4253b6b1e476",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "executive_summary",
+        "reasoning": "The field value describes a core problem: fragmentation and lack of integration across procurement platforms (OpenGov for solicitations, eVA/state leads, iSupplier for vendor data, and B2Gnow for directories) that creates missed opportunities and administrative overhead. It also highlights issues with commodity code taxonomy (NIGP vs NAICS) and the resulting low-relevance notifications, plus data silos hindering proactive outreach and measurement of participation gaps. Excerpts that discuss OpenGov as the city\u2019s choice for solicitation development and notification, and the public-facing procurement portal that emphasizes transparency and electronic submissions, directly illustrate the fragmented, multi-system environment described. References to requiring OpenGov for solicitations, and the emphasis on supplier registration via iSupplier, demonstrate the daily workflow pain points for vendors and staff in managing multiple systems. Mentions of commodity codes and NIGP/NAICS coding highlight the root cause of misaligned notifications and trust erosion among vendors. The inclusion of OMBD directories and related supplier diversity certifications demonstrates the data sources that need to be integrated to enable unified vendor views and targeted outreach. Together, these excerpts support the claim that a centralized, integrated dashboard would alleviate data silos, improve matching accuracy, and enable better measurement of participation gaps. The strongest support comes from explicit notes about OpenGov being used for solicitations and the need for category/code alignment, while supplementary details about vendor portals and supplier directories reinforce the breadth of the fragmented ecosystem.",
+        "citations": [
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "Business Type\nCommodity Code(s)",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the"
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.nigp.org/our-profession/nigp-code",
+            "excerpts": [
+              "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+            ],
+            "title": "NIGP Code"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[MBD Directory](https://richmondombd.diversitycompliance.com/?TN=richmondombd \"Minority Business Directory\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond",
+              "*All dates and times in Eastern Time*"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "cross_cutting_equity_analysis",
+        "reasoning": "The most relevant content directly confirms systemic disparities in City contracting and the official acknowledgment of those disparities. Specifically, a city disparity study has been conducted and later accepted by the City Council, establishing formal evidence of gaps between the availability of MBEs and their utilization in contracting, which aligns with the claim that the most affected groups include MBEs and new market entrants. The referenced materials also discuss the taxonomy/code issue landscape (NIGP vs NAICS) and the importance of standardized coding for opportunities, which supports the stated exclusionary factor of mismatches between code taxonomies that lead to missed opportunities. Moreover, discussions around OpenGov and procurement portals illustrate how notification, data latency, and multi-system monitoring create barriers\u2014resonating with the claim that reliance on email-based notifications and scattered portals can hinder timely outreach. Finally, vendor onboarding and registration processes (iSupplier and related supplier portals) relate to the reported long lead times for registration approvals, which can cause missed solicitation windows. These threads collectively support the observed inequities and the operational frictions described in the field value. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
+            "excerpts": [
+              "Mar 22, 2022 \u2014 The City of Richmond has selected MGT, a public sector firm that specializes in disparity and availability studies, to perform a disparity study"
+            ],
+            "title": "City selects MGT to perform disparity study | Richmond"
+          },
+          {
+            "url": "https://www.nigp.org/our-profession/nigp-code",
+            "excerpts": [
+              "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+            ],
+            "title": "NIGP Code"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards."
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools"
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[Disparity Study](https://www.rva.gov/mbd \"City of Richmond Disparity Study\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/media/41571",
+            "excerpts": [
+              ""
+            ],
+            "title": "Minority Business Enterprise and Emerging Small Business Advisory Board | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "city_staff_persona_analysis",
+        "reasoning": "The most directly supportive information comes from excerpts that describe the City of Richmond using multiple procurement platforms (OpenGov for solicitations and transparency) and the existence of a supplier portal ecosystem (iSupplier, OMBD directories). For example, references to OpenGov handling solicitations and providing transparency align with the field value\u2019s point about fragmented systems and the need for integrated views of procurement data. Mentions of the Supplier Portal and iSupplier illustrate how vendors must interact with separate registration and engagement systems, which contributes to the current burden described in the field value. Content describing how commodity codes and procurement classifications are managed (commodity codes in directories, NIGP code discussions) supports the pain point around data standardization and taxonomy decisions. Also, the inclusion of disparity studies and discussions of participation gaps provides direct context for the referenced need to measure and address equity in procurement participation, which the field value identifies as a core concern. A few excerpts mention centralized dashboards or the broader goal of improving data integration for monitoring outreach and participation, which corroborates the \u201ccentralized dashboard\u201d concept in the field value. In sum, the most relevant excerpts collectively substantiate (a) data silos across B2Gnow, OpenGov, iSupplier, (b) the current manual and fragmented workflows, (c) the role of commodity code taxonomy and data standardization, and (d) the existence of disparity studies highlighting participation gaps that staff aim to translate into actionable dashboards and real-time insights.",
+        "citations": [
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "Business Type\nCommodity Code(s)",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier.",
+              "Session will terminate if inactive for 2 minutes. Unsaved information will be lost.",
+              "All email communication will come from RAPIDS Workflow Mailer not the City of Richmond. Please be sure to check Spam/Junk folders if you do not receive any email communication after creating your account.",
+              "The approval process will be completed within 3-5 business days."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.nigp.org/our-profession/nigp-code",
+            "excerpts": [
+              "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+            ],
+            "title": "NIGP Code"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://go.boarddocs.com/vsba/richmond/Board.nsf/files/DE5NTG6179A5/$file/3-3.18%20Minority%20Owned%20Business%20Participation%20-%202025%20Revisions.pdf",
+            "excerpts": [
+              "Based upon the findings of a disparity study conducted ... City of Richmond, Virginia Richmond School Board; and Richmond Redevelopment and."
+            ],
+            "title": "[PDF] 3-3.18 Minority Owned Business Participation - 2025 Revisions"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
+            "excerpts": [
+              "Mar 22, 2022 \u2014 The City of Richmond has selected MGT, a public sector firm that specializes in disparity and availability studies, to perform a disparity study"
+            ],
+            "title": "City selects MGT to perform disparity study | Richmond"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[MBD Directory](https://richmondombd.diversitycompliance.com/?TN=richmondombd \"Minority Business Directory\")",
+              "[Registration](https://richmondombd.diversitycompliance.com/?TN=richmondombd)",
+              "[Disparity Study](https://www.rva.gov/mbd \"City of Richmond Disparity Study\")"
+            ],
+            "title": "Minority Business | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "mbe_owner_persona_analysis",
+        "reasoning": "The core field value characterizes a Richmond MBE owner\u2019s experience as highly fragmented across multiple procurement platforms, with noisy alerts, tight deadlines, and onboarding friction. Excerpts describing OpenGov as the centralized solicitation and notification platform, including its subscription and follow model, provide direct evidence of notification fragmentation and dependence on commodity codes. Excerpts detailing the iSupplier portal\u2019s registration requirements and its penalties (timeouts, multi-day approvals, spam filtering) map cleanly to onboarding friction. References to OMBD directories illustrate data surface fragmentation and dependence on multiple data sources. Mentions of commodity code taxonomy and the need for standardization (NIGP vs NAICS) support the point about misalignment between codes and vendor capabilities. Additional excerpts about the City\u2019s procurement portal and OpenGov for solicitations reinforce the central role of these systems in the procurement workflow and why vendors experience overload and fragmented signals. Taken together, these excerpts coherently support the described pain points, current workarounds, and the costs of status quo in the finegrained field value.",
+        "citations": [
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "Business Type\nCommodity Code(s)",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "evidence_from_richmond_disparity_study",
+        "reasoning": "The most relevant excerpt clearly states the core finding of the disparity study\u2014that there are disparities between the availability of qualified MBEs and their actual utilization in City contracting\u2014and notes that the City of Richmond accepted these findings and directed OMBD to implement a comprehensive action plan and to conduct a disparity study every five years. This directly supports the field value\u2019s key finding and the city\u2019s response. The second excerpt corroborates the council\u2019s acceptance of the disparity study findings and specifies the five-year cadence for subsequent disparity studies, aligning with the field value\u2019s city-resolution component and cadence. The third excerpt provides contextual background that the disparity study was performed by MGT, which matches the field value\u2019s conducting_firm detail, though it predates the 2023 report and thus is slightly less directly tied to the stated 2023 study specifics. Together, these excerpts jointly support the named study, its principal finding, and the City\u2019s mandated response and cadence for future studies.",
+        "citations": [
+          {
+            "url": "https://richmondva.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=38934",
+            "excerpts": [
+              "WHEREAS, the findings of the disparity study concluded that disparities exist between the availability of qualified\nminority business enterprises and actual utilization in City contracting, suggesting the presence of barriers that impede full and fair participation by minority business enterprises in City contracting opportunities;",
+              "To express the Council's acceptance of the findings of the MGT Performance, City of Richmond, Virginia Minority Business Enterprise, 2023 Disparity Study and to request that the Chief Administrative Officer cause the Office of Minority Business Development to (i) develop and implement a comprehensive plan of action based on the recommendations of such disparity study to promote equity in the City's procurement practices and (ii) conduct a comprehensive minority business enterprise disparity study every five years beginning in Fiscal Year 2026-2027."
+            ],
+            "title": "City of Richmond - File #: RES. 2025-R040"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
+            "excerpts": [
+              "Mar 22, 2022 \u2014 The City of Richmond has selected MGT, a public sector firm that specializes in disparity and availability studies, to perform a disparity study"
+            ],
+            "title": "City selects MGT to perform disparity study | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "systemic_challenge_commodity_codes",
+        "reasoning": "The core issue is a lack of a single, standardized commodity code taxonomy across Richmond\u2019s procurement ecosystem, which includes OpenGov\u2019s category codes, vendor profiles in OMBD/B2Gnow, and other state systems. Evidence points to several taxonomies in play: the NIGP Code as a universal taxonomy for identifying commodities, and vendor-category code discussions that compare NIGP, NAICS, and other coding schemes. This directly supports the claim that multiple platforms use different coding standards, causing misalignment between solicitations and vendor capabilities. OpenGov\u2019s role in posting and managing solicitations underscores how mismatched codes can propagate alerts that are not aligned with vendor classifications. The existence of commodity codes in OMBD directories and the mention of multiple platforms (like iSupplier and OpenGov) further illustrate a multi-system environment where standardization is difficult. Together, these excerpts describe a systemic challenge where code mismatch leads to irrelevant alerts, missed opportunities, and barriers for MBEs, which aligns with the finegrained field value about the lack of standardized taxonomy and its procurement impact. The mention of NIGP as a universal code system and discussions of category/code selection reinforce that the taxonomy fragmentation is central to the problem. The references to the procurement portal and vendor directories provide contextual grounding for how and where these standards diverge across platforms. ",
+        "citations": [
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://www.nigp.org/our-profession/nigp-code",
+            "excerpts": [
+              "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+            ],
+            "title": "NIGP Code"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "Business Type\nCommodity Code(s)",
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards."
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the"
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Richmond, VA",
+              "*All dates and times in Eastern Time*"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use",
+        "reasoning": "The finegrained field value identifies the procurement platforms in use by the City of Richmond and describes four distinct systems: OpenGov for posting solicitations and managing procurement (including bids and Q&A), Oracle iSupplier as the mandatory supplier portal for vendor registration and paperwork, B2Gnow as the OMBD portal for MBE/ESB directories and registrations, and eVA (Virginia\u2019s statewide portal) for daily leads notifications. The most relevant excerpts directly document these platforms and their roles: OpenGov is described as the system used for posting solicitations, handling bids, questions, evaluations, and awards, and it is the source for posting solicitations and notification workflows; another excerpt notes that the City manages all formal invitations through OpenGov, confirming its central role in procurement transparency. Additional excerpts explicitly discuss the procurement portal\u2019s OpenGov integration, including the OpenGov-based solicitation posting process and the public-facing project lists or portals. The iSupplier portal is described as the mandatory registration point for suppliers, including vendor registration steps and the approval process, which aligns with the field\u2019s mention of the supplier registration function. The B2Gnow OMBD portal is described as a separate system managed by OMBD for MBE/ESB registration and searching directories, which matches the field\u2019s inclusion of a dedicated OMBD portal and its own commodity code listings. There are excerpts referencing the OMBD directory and related supplier diversity tools, supporting the idea of parallel platforms used for vendor outreach and certification. Finally, the excerpts referencing eVA (Virginia Business Opportunities) describe daily notifications and the statewide nature of that portal, which complements the field\u2019s mention of notification leads. Taken together, these excerpts substantiate the claimed set of platforms and their intended purposes, providing direct support for each platform listed in the field value. The ordering places the platform-centric excerpts at the top (OpenGov-related items), followed by the supplier registration (iSupplier), then the OMBD-specific portal (B2Gnow), and finally the statewide eVA notifications, with supporting references to vendor directories and related procurement tools as context.",
+        "citations": [
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:",
+              "Business Type\nCommodity Code(s)"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/embed/rva/project-list?departmentId=all&status=all",
+            "excerpts": [
+              "Skip to main content. Procurement. Procurement Portal. ProjectsCalendar. All Departments. All. Search Advanced Search. Search by Category. Select."
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier.",
+              "Session will terminate if inactive for 2 minutes. Unsaved information will be lost.",
+              "All email communication will come from RAPIDS Workflow Mailer not the City of Richmond. Please be sure to check Spam/Junk folders if you do not receive any email communication after creating your account.",
+              "The approval process will be completed within 3-5 business days."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[MBD Directory](https://richmondombd.diversitycompliance.com/?TN=richmondombd \"Minority Business Directory\")",
+              "[Registration](https://richmondombd.diversitycompliance.com/?TN=richmondombd)",
+              "Supplier Portal",
+              "[Disparity Study](https://www.rva.gov/mbd \"City of Richmond Disparity Study\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/mbd/forms",
+            "excerpts": [
+              "Supplier Portal"
+            ],
+            "title": "Forms | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparable_city_approaches",
+        "reasoning": "The finegrained field value describes Baltimore as using a primary online procurement system (Workday) to manage registrations and receive email notifications for new bids, alongside a separate diversity management system (B2Gnow) for monitoring MBE/WBE participation goals and related compliance emails. Direct evidence from the excerpts confirms this pattern: one excerpt explicitly states that Workday is Baltimore\u2019s online procurement system for purchases, demonstrating the primary procurement platform. Another excerpt notes that B2Gnow maintains a real-time certified vendor/supplier database, which aligns with a separate diversity/compliance system used for participation tracking. Additional excerpts indicate the presence of MBEs/WBEs data and directories in Baltimore, supporting the idea of parallel systems handling procurement and diversity oversight. Together, these excerpts illustrate the siloed approach where a main procurement portal (analogous to OpenGov in Richmond) is complemented by a separate compliance/diversity system (analogous to B2Gnow), reinforcing the need for Richmond to integrate data and workflows across such platforms to reduce vendor confusion and administrative burden. The most relevant pieces directly establish the Baltimore setup (Workday as the primary procurement platform, B2Gnow for certification and compliance data, and MBEs/WBEs directories). The other cited Baltimore-related items provide context about data directories and vendor registration that further illustrate the ecosystem Baltimore uses for procurement and diversity management.",
+        "citations": [
+          {
+            "url": "https://www.baltimorecity.gov/mwbd/our-work/bidding-contracting-opportunities",
+            "excerpts": [
+              "This business tool gives vendors easy access to most non-construction procurement opportunities with City agencies. Sign up for notifications on projects",
+              "Workday is the City of Baltimore's online procurement system for purchases."
+            ],
+            "title": "Bidding, Contracting, & Business Opportunities | Baltimore City"
+          },
+          {
+            "url": "https://b2gnow.com/products/vendor-management-software/certification-directories/",
+            "excerpts": [
+              "B2Gnow maintains the largest real-time certified vendor/supplier database. Your organization will save time and costs by accessing these more quickly, The largest platform of certified small, local, and diverse supplier directories. B2Gnow maintains the largest real-time certified vendor/supplier database."
+            ],
+            "title": "Supplier Diversity Certification Directories & Databases"
+          },
+          {
+            "url": "https://data.baltimorecity.gov/maps/baltimore::minority-and-womens-business-enterprises-mbe-wbe-certification-data",
+            "excerpts": [
+              "This dataset includes minority and women-owned business enterprises certified with the Minority and Women-owned Business Opportunity Office (MWBOO)."
+            ],
+            "title": "Minority and Women's Business Enterprises (MBE ... - Open Baltimore"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[MBD Directory](https://richmondombd.diversitycompliance.com/?TN=richmondombd \"Minority Business Directory\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://b2gnow.com/solutions/vendor-management-software/vendor-sourcing/",
+            "excerpts": [
+              "Our robust vendor management software enables complete compliance and process visibility, covering vendor registration, outreach, engagement, bidding, contract"
+            ],
+            "title": "Vendor Sourcing & Supplier Database Software - B2Gnow"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "systemic_challenge_data_fragmentation",
+        "reasoning": "The core finegrained field value asserts a highly fragmented procurement and vendor management ecosystem in Richmond, with siloed data across OpenGov for solicitations, an Oracle-based iSupplier for vendor profiles, B2Gnow for MBEs/ESBs, and the statewide eVA leads. The most directly supporting content points to each system and the lack of integration or real-time visibility: OpenGov is used for solicitations and procurement transparency, which indicates a primary channel for notices but not necessarily a unified view across platforms; the supplier/vendor portal and iSupplier registration underscore separate vendor data repositories; B2Gnow is referenced as the directory for MBE/ESB data, suggesting another silo; the Open Data Portal is noted as the place where contract data is updated monthly, highlighting a lag in transparency and timeliness. Together, these excerpts illustrate multiple discrete data hubs and the challenges they pose for matching vendors to solicitations, monitoring outreach, and evaluating equity initiatives. Additional excerpts referencing category codes and taxonomy (NIGP vs NAICS) reinforce the root cause of fragmentation: inconsistent codification across systems hampers cross-system matching and holistic insights. The combination of explicit mentions of these systems and the documented data flows supports the field value\u2019s claim of fragmentation and its consequences for both vendors and staff.",
+        "citations": [
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:",
+              "Through the **Open Data Portal** , you can explore both **active and inactive contracts** . This data is updated monthly and includes:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier.",
+              "Session will terminate if inactive for 2 minutes. Unsaved information will be lost."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "*All dates and times in Eastern Time*"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://www.nigp.org/our-profession/nigp-code",
+            "excerpts": [
+              "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+            ],
+            "title": "NIGP Code"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "evidence_from_richmond_disparity_study.conducting_firm",
+        "reasoning": "The target field value is the conducting firm for the Richmond disparity study. The excerpt that directly states that the City selected MGT to perform the disparity study provides a clear and explicit match to the field value. The other excerpts discuss the existence of a disparity study, its findings, and actions to be taken but do not name the conducting firm, so they offer only indirect or contextual relevance. By paraphrasing the explicit statement, we can confidently link the field value to the excerpt that mentions the conducting firm by name.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
+            "excerpts": [
+              "Mar 22, 2022 \u2014 The City of Richmond has selected MGT, a public sector firm that specializes in disparity and availability studies, to perform a disparity study"
+            ],
+            "title": "City selects MGT to perform disparity study | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "cross_cutting_equity_analysis.exclusionary_factors",
+        "reasoning": "The most relevant information directly addresses code taxonomy and its impact on matching opportunities. Excerpt describing NIGP Code as a universal taxonomy for identifying commodities and services provides a precise linkage to the issue of taxonomy mismatches across systems. The accompanying excerpt about vendor selection for category codes explicitly noting options like NIGP, NAICS, or UNSPSC reinforces the existence of multiple taxonomies and the potential for mismatches. Excerpts describing OpenGov as the platform for solicitations and noting that bids are submitted electronically through OpenGov illustrate how the timing and reach of notices are tied to a single system, which aligns with the latency and outreach constraints mentioned. Additional excerpts discussing the OpenGov-based solicitation process and its transparency emphasize how timely information and centralized access influence opportunities. Excerpts about the Supplier Portal and the need for vendor registration (iSupplier) illustrate onboarding delays that can affect when a vendor is eligible to bid, tying to the lead-time issue. Background excerpts about disparity studies and minority business programs provide context on the governing environment but are less directly tied to the operational exclusion mechanisms, though they support why consistent code usage and timely data matter in ensuring equitable access. In sum, the most relevant content directly supports taxonomy mismatch, platform-driven timing, and notification/registration workflows; adjacent excerpts add context about the procurement ecosystem and long-term equity considerations.",
+        "citations": [
+          {
+            "url": "https://www.nigp.org/our-profession/nigp-code",
+            "excerpts": [
+              "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+            ],
+            "title": "NIGP Code"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards."
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools"
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
+            "excerpts": [
+              "Mar 22, 2022 \u2014 The City of Richmond has selected MGT, a public sector firm that specializes in disparity and availability studies, to perform a disparity study"
+            ],
+            "title": "City selects MGT to perform disparity study | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[Disparity Study](https://www.rva.gov/mbd \"City of Richmond Disparity Study\")"
+            ],
+            "title": "Minority Business | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "failure_of_current_notification_systems",
+        "reasoning": "The core claim is that current notification mechanisms are flawed and burdensome, causing vendors to miss opportunities and staff to rely on ineffective outreach. The most directly relevant passages indicate that OpenGov requires vendors to register a subscription or actively follow specific solicitations to receive updates, which places the onus on the vendor and creates opportunities for missed alerts if they do not perform these actions. For example, one excerpt explains that notification updates are obtained by registering on the e-Procurement Portal and selecting Subscribe, while another notes that vendors must follow opportunities to get addendums automatically; both illustrate passive-notification gaps and user-dependent alerting. Additional excerpts point to spam issues and routing rules that can cause critical communications from iSupplier or RAPIDS to be filtered out as spam, thereby reducing reliable delivery of status updates. The existence of multiple portals and data sources (OpenGov, iSupplier, RAPIDS, and procurement portals) demonstrates a fragmented notification ecosystem, which can exacerbate alert fatigue and reduce trust in equitable opportunity. Taken together, these excerpts support the claim that the current notification system is largely ineffective, increases friction for local vendors, and undermines timely, relevant alerts that would enable more equitable participation in city contracting.",
+        "citations": [
+          {
+            "url": "https://www.citystaug.com/DocumentCenter/View/8886",
+            "excerpts": [
+              "What can OpenGov do for our Vendors: Receive notifications of future solicitation by registering on the e-Procurement Portal and selecting the \u201cSubscribe\u201d button to create an account. Follow existing opportunities and receive updates by finding the solicitation and clicking the \u201cFollow\u201d button.",
+              "Follow existing opportunities and receive updates by finding the solicitation and clicking the\n\u201cFollow\u201d button. This will allow all interested Respondents to receive addendums automatically,",
+              "Receive notifications of future solicitation by registering on the e-Procurement Portal and\nselecting the \u201cSubscribe\u201d button to create an account."
+            ],
+            "title": "Vendor Handout - How to register and subscribe to OpenGov"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "All email communication will come from RAPIDS Workflow Mailer not the City of Richmond. Please be sure to check Spam/Junk folders if you do not receive any email communication after creating your account."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond",
+              "*All dates and times in Eastern Time*",
+              "Subscribe",
+              "Search by Category"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "evidence_from_richmond_disparity_study.key_finding",
+        "reasoning": "The key claim is that there are meaningful gaps between the availability of qualified minority business enterprises (MBEs) and their actual participation in City contracting. The first excerpt explicitly states that the disparity study concluded disparities exist between availability and utilization, which directly confirms the fine-grained field value. The second excerpt reinforces the relevance by describing the Council\u2019s acceptance of the disparity study findings and calls for actions to promote equity in procurement practices, which relies on the existence of those disparities as established in the study. The third excerpt provides background on the city\u2019s selection of a firm to perform a disparity study, which supports the legitimacy and ongoing nature of the disparity assessment but is slightly less direct about the exact finding itself. Together, these excerpts triangulate the existence of disparities and the governance response without contradicting the stated field value.",
+        "citations": [
+          {
+            "url": "https://richmondva.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=38934",
+            "excerpts": [
+              "WHEREAS, the findings of the disparity study concluded that disparities exist between the availability of qualified\nminority business enterprises and actual utilization in City contracting, suggesting the presence of barriers that impede full and fair participation by minority business enterprises in City contracting opportunities;",
+              "To express the Council's acceptance of the findings of the MGT Performance, City of Richmond, Virginia Minority Business Enterprise, 2023 Disparity Study and to request that the Chief Administrative Officer cause the Office of Minority Business Development to (i) develop and implement a comprehensive plan of action based on the recommendations of such disparity study to promote equity in the City's procurement practices and (ii) conduct a comprehensive minority business enterprise disparity study every five years beginning in Fiscal Year 2026-2027."
+            ],
+            "title": "City of Richmond - File #: RES. 2025-R040"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
+            "excerpts": [
+              "Mar 22, 2022 \u2014 The City of Richmond has selected MGT, a public sector firm that specializes in disparity and availability studies, to perform a disparity study"
+            ],
+            "title": "City selects MGT to perform disparity study | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "evidence_from_richmond_disparity_study.study_name",
+        "reasoning": "The fine-grained field value specifies a specific disparity study name with the year 2023. The excerpt describes acceptance of the findings of the MGT Performance Minority Business Enterprise disparity study and explicitly states the year 2023 in the phrase \"2023 Disparity Study\". This provides direct alignment with the requested field value. While another excerpt mentions a disparity study, it does not specify the year, and a third excerpt references a disparity study from a different year (2022). Therefore, the most relevant excerpt directly supports the exact year-based study name in the field value, with other excerpts offering only contextual support about disparity studies in general.",
+        "citations": [
+          {
+            "url": "https://richmondva.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=38934",
+            "excerpts": [
+              "To express the Council's acceptance of the findings of the MGT Performance, City of Richmond, Virginia Minority Business Enterprise, 2023 Disparity Study and to request that the Chief Administrative Officer cause the Office of Minority Business Development to (i) develop and implement a comprehensive plan of action based on the recommendations of such disparity study to promote equity in the City's procurement practices and (ii) conduct a comprehensive minority business enterprise disparity study every five years beginning in Fiscal Year 2026-2027."
+            ],
+            "title": "City of Richmond - File #: RES. 2025-R040"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "city_staff_persona_analysis.pain_points",
+        "reasoning": "The pain points describe fragmented data spread across multiple platforms and mismatched or unclear data standards. Excerpts show that solicitations are developed and managed in OpenGov, while supplier information is handled through iSupplier, indicating data silos across systems. This directly supports the problem of siloed data across platforms, making it hard to obtain a unified procurement view. The presence of OpenGov as the electronic submission channel and its role in solicitations also ties to the difficulty in achieving real-time visibility, since procurement data are distributed across systems operated by different departments or vendors. The references to MBEs/ESBs directories maintained by OMBD align with the idea of multiple data sources about vendor eligibility and capability, contributing to fragmentation and the challenge of measuring participation gaps. Discussions about category code taxonomy (NIGP vs NAICS) and the existence of a NIGP code standard underpin the governance and definition confusion that complicates standardized measurement and dashboards, which connects to the need for canonical datasets and consistent definitions. Additionally, the mention that vendors must register in iSupplier and that OpenGov manages solicitations points to a layered workflow where staff must operate across separate systems, increasing the burden and friction described in the pain points. The combination of OpenGov for solicitations, iSupplier for registration, and B2Gnow-based vendor data (implied by the broader context) provides concrete evidence for siloed data, fragmented workflows, and the data governance questions raised in the pain points. The existence of commodity/code discussions and the OMBD directory reference supports the challenges around measurement definitions and overall transparency for participation metrics, tying back to the need for real-time insight and unified dashboards.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:",
+              "Business Type\nCommodity Code(s)"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://www.nigp.org/our-profession/nigp-code",
+            "excerpts": [
+              "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+            ],
+            "title": "NIGP Code"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.0",
+        "reasoning": "The finegrained field value describes OpenGov as the platform used for posting solicitations, receiving electronic bids and proposals, managing vendor Q&A, and handling evaluations and awards, with the related URL. The most directly supportive excerpts describe OpenGov as the system used for solicitation development, evaluations, and awards, and they state that bid submissions are electronic through OpenGov. This aligns exactly with the field value\u2019s description of OpenGov\u2019s purposes and capabilities. Additional excerpts describe OpenGov as the portal for posting solicitations and the broader procurement workflow, reinforcing that OpenGov is the central procurement platform in the Richmond ecosystem. The remaining excerpts touch on related procurement channels (e.g., iSupplier, B2GNow, supplier portals) but do not directly confirm the OpenGov-centric details, making them less relevant but still contextually supportive of the procurement platform landscape in which OpenGov operates. Collectively, the strongest support comes from statements about OpenGov enabling solicitation development, electronic submissions, and communication through a single system, including transparency and collaboration among project managers, procurement analysts, and vendors.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards."
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/embed/rva/project-list?departmentId=all&status=all",
+            "excerpts": [
+              "Skip to main content. Procurement. Procurement Portal. ProjectsCalendar. All Departments. All. Search Advanced Search. Search by Category. Select."
+            ],
+            "title": "City of Richmond Procurement Portal"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "city_staff_persona_analysis.cost_of_status_quo",
+        "reasoning": "The finegrained field value describes a status-quo that is inefficient due to manual data reconciliation across fragmented systems, reliance on broad or imprecise outreach, and lack of real-time integrated data to address participation gaps and equity goals. Excerpts show that solicitations are managed electronically through a centralized but external system (OpenGov), which governs the bidding process and user communications, indicating a single point of failure and potential misalignment with internal targeting needs. The existence of a Supplier Portal and mandatory iSupplier registration confirms multiple entry points and data silos that staff must navigate, contributing to inefficiency. The emphasis on OpenGov as the platform for solicitation development and bidder communications underscores limited integration with other data sources used by staff, making it harder to perform strategic outreach and measure impact. The references to NIGP/NIGP Code and vendor category code discussions highlight the lack of a single, canonical standard for commodity classification, which complicates data reconciliation and targeted outreach. Furthermore, OMBD directories are acknowledged as a data resource, suggesting there is relevant data available, but the need to harmonize and leverage it for equitable outreach remains unresolved in the current setup. Taken together, these excerpts support the idea that the status quo is characterized by fragmented tooling and data silos that impede strategic outreach, data-driven gap analysis, and equity-oriented outcomes.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:",
+              "Business Type\nCommodity Code(s)"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://www.nigp.org/our-profession/nigp-code",
+            "excerpts": [
+              "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+            ],
+            "title": "NIGP Code"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[MBD Directory](https://richmondombd.diversitycompliance.com/?TN=richmondombd \"Minority Business Directory\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier."
+            ],
+            "title": "Supplier Portal | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "cross_cutting_equity_analysis.most_affected_groups",
+        "reasoning": "The claim that the groups most negatively impacted include the smallest MBEs, new entrants to the contracting market, and firms without dedicated admin staff is supported by evidence that there have been formal disparity studies focusing on minority business participation and availability, indicating recognition of structural burdens on MBEs. That same financial and administrative strain is echoed by sources describing active minority business resources and governance bodies, underscoring ongoing attention to equity within Richmond\u2019s procurement ecosystem. The narrative that procurement and solicitation processes rely on multiple platforms (OpenGov for solicitations, iSupplier for vendor registration, and related directories) and that this multi-portal environment imposes heavy administrative tasks directly aligns with the field value\u2019s emphasis on administrative burden and the need for language access accommodations. OpenGov\u2019s central role in solicitations and the emphasis on vendor registration and portal complexity illustrate the concrete mechanisms by which smaller MBEs and new entrants face barriers. Collectively, these excerpts corroborate the specific groups most affected and the nature of the barriers (multiple portals, registration processes, and complex parsing of lengthy solicitations), as described in the target finegrained field value. Additionally, references to minority business initiatives and disparity studies provide broader context confirming that these are recognized issues within the Richmond procurement landscape.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
+            "excerpts": [
+              "Mar 22, 2022 \u2014 The City of Richmond has selected MGT, a public sector firm that specializes in disparity and availability studies, to perform a disparity study"
+            ],
+            "title": "City selects MGT to perform disparity study | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[Disparity Study](https://www.rva.gov/mbd \"City of Richmond Disparity Study\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards."
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the"
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools"
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.nigp.org/our-profession/nigp-code",
+            "excerpts": [
+              "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+            ],
+            "title": "NIGP Code"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://www.rva.gov/media/41571",
+            "excerpts": [
+              ""
+            ],
+            "title": "Minority Business Enterprise and Emerging Small Business Advisory Board | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "evidence_from_richmond_disparity_study.city_response_resolution",
+        "reasoning": "The finegrained field describes a City Council resolution that accepts the disparity study findings and directs OMBD to both develop and implement a comprehensive action plan and to conduct a new disparity study every five years. The excerpt describing the Council's acceptance of the disparity study findings and the explicit directive to OMBD to develop a comprehensive plan and to conduct a five-year disparity study aligns exactly with the field value. The other excerpts discuss the existence and planning surrounding disparity studies or the selection of a firm to perform a disparity study, which provide supporting context but do not directly confirm the resolution and mandated actions contained in the field value. Therefore, the most direct and strongest support comes from the excerpt stating the acceptance of findings and the dual directives to OMBD, followed by excerpts that establish the broader context of the disparity study process.",
+        "citations": [
+          {
+            "url": "https://richmondva.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=38934",
+            "excerpts": [
+              "To express the Council's acceptance of the findings of the MGT Performance, City of Richmond, Virginia Minority Business Enterprise, 2023 Disparity Study and to request that the Chief Administrative Officer cause the Office of Minority Business Development to (i) develop and implement a comprehensive plan of action based on the recommendations of such disparity study to promote equity in the City's procurement practices and (ii) conduct a comprehensive minority business enterprise disparity study every five years beginning in Fiscal Year 2026-2027.",
+              "WHEREAS, the findings of the disparity study concluded that disparities exist between the availability of qualified\nminority business enterprises and actual utilization in City contracting, suggesting the presence of barriers that impede full and fair participation by minority business enterprises in City contracting opportunities;"
+            ],
+            "title": "City of Richmond - File #: RES. 2025-R040"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
+            "excerpts": [
+              "Mar 22, 2022 \u2014 The City of Richmond has selected MGT, a public sector firm that specializes in disparity and availability studies, to perform a disparity study"
+            ],
+            "title": "City selects MGT to perform disparity study | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "city_staff_persona_analysis.current_workarounds",
+        "reasoning": "The most directly relevant excerpts describe the core systems involved in the procurement workflow and how staff interact with them. Specifically, the excerpts indicate that solicitations are submitted electronically through OpenGov, and that OpenGov is portrayed as a central, modern procurement tool used by the city. This supports the notion of a system in which staff must reconcile information across platforms rather than a single unified source. The supplier portal excerpt emphasizes that registration and access occur through iSupplier, underscoring the existence of multiple supplier-facing systems that contribute to a fragmented data landscape. Excerpts discussing the OpenGov-centric solicitation environment (and its stated role in transparency and collaboration) reinforce the idea that staff must navigate between OpenGov-related data and other sources. The OMBD directory excerpt points to separate data sources (MBE directories) that staff may need to cross-reference, aligning with the idea of disparate data sources requiring manual reconciliation. The NIGP/NAICS category code discussion (vendor code taxonomy) highlights a standardization issue that adds to the complexity staff face when reconciling data across systems. Finally, the supplier portal email communications note (RAPIDS-related messaging) shows that communications are channeled through separate systems, contributing to the fragmented workflow described in the field value.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "All suppliers and prospective suppliers must register on iSupplier.",
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All email communication will come from RAPIDS Workflow Mailer not the City of Richmond. Please be sure to check Spam/Junk folders if you do not receive any email communication after creating your account."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "cross_cutting_equity_analysis.evidence_of_systemic_issues",
+        "reasoning": "The finegrained field value asserts that the primary evidence of systemic issues is the city's own '2023 Disparity Study' and that the City Council accepted its findings showing disparities in MBE availability vs. utilization. The excerpt explicitly connecting to disparity studies is the closest to supporting systemic evidence, as it discusses a disparity study conducted for the City of Richmond. This provides a foundation for systemic concerns in procurement and minority business engagement. Excerpts discussing the minority business ecosystem, supplier portals, and OpenGov-based solicitations offer contextual support about the procurement environment and potential points where systemic issues could arise, but they do not directly confirm the 2023 finding or its official acceptance. Therefore, the strongest support comes from the disparity-study related mention, with progressively weaker support from excerpts describing procurement processes and minority business resources, which establish context rather than confirm the precise 2023 disparities claim.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
+            "excerpts": [
+              "Mar 22, 2022 \u2014 The City of Richmond has selected MGT, a public sector firm that specializes in disparity and availability studies, to perform a disparity study"
+            ],
+            "title": "City selects MGT to perform disparity study | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[Disparity Study](https://www.rva.gov/mbd \"City of Richmond Disparity Study\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/media/41571",
+            "excerpts": [
+              ""
+            ],
+            "title": "Minority Business Enterprise and Emerging Small Business Advisory Board | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools"
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the"
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards."
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://www.nigp.org/our-profession/nigp-code",
+            "excerpts": [
+              "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+            ],
+            "title": "NIGP Code"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "mbe_owner_persona_analysis.cost_of_status_quo",
+        "reasoning": "The finegrained field value describes substantial costs borne by MBEs due to the current procurement setup: missed revenue from missed bid notices and misaligned commodity codes, high administrative overhead from monitoring multiple systems, and erosion of vendor trust due to delays and irrelevant alerts. The most directly relevant support comes from excerpts that discuss: (a) the existence of multiple category/code systems and the decision tension between NIGP vs NAICS, which explains misalignment costs; (b) the use of OpenGov for solicitation development and bid submissions, illustrating the fragmentation and the potential for notices to be missed or delayed; (c) the OMBD directories and supplier-related portals that MBEs must navigate, which contributes to administrative overhead and complexity; and (d) the NP of vendor onboarding/registration processes (iSupplier) that add friction and potential delays. The supporting excerpts collectively paint a picture of a multi-system, code-mapping, and onboarding-heavy environment where MBEs face notification churn, misrouting, and time sunk in tracking opportunities. Excerpts that discuss the existence and role of OpenGov in solicitations help explain how notices are distributed, while excerpts on category/code choices and supplier portals explain where misalignment and onboarding friction originate. Excerpts describing the vendor directories and OMBD resources show the breadth of sources MBEs must monitor, reinforcing the administrative burden and trust risk. Excerpts about the procurement portal and supplier registration provide concrete touchpoints where delays and inefficiencies can occur. Overall, the most relevant evidence ties the described costs to the interplay of fragmented platforms, misaligned codes, and onboarding overhead, with less but still supportive context from general portal and directory references.",
+        "citations": [
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "Business Type\nCommodity Code(s)",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation.",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.3",
+        "reasoning": "The target field describes a specific procurement platform (eVA/VBO) with daily email leads about new solicitations, intended for MBE owners and vendors. The excerpts collectively describe how solicitations are developed, posted, and transmitted via procurement portals. The clearest connections are to excerpts that establish a workflow where solicitations are posted and notified electronically through a procurement platform (OpenGov in several excerpts), which demonstrates the general pattern of platform-driven notifications that the finegrained field value exemplifies in a Virginia context. Although none of the excerpts explicitly name eVA or Virginia\u2019s VBO in the same wording as the finegrained value, they corroborate the existence of centralized procurement portals that manage solicitations, enable electronic submissions, and provide notification-like mechanisms (for example, \u201cAll bids and proposals are to be submitted electronically through OpenGov,\u201d and references to a procurement portal with project lists and supplier portals). This supports the idea that a centralized, automated notification system exists within the procurement ecosystem and that vendors rely on portal-driven alerts to identify relevant opportunities. Excerpts mentioning the OMBD directory and commodity codes further anchor the user need for targeted opportunities for MBEs, which aligns with the overall concept of a leading platform that surfaces solicitations to eligible vendors, even if the exact platform name differs from eVA/VBO. The strongest direct relevance comes from descriptions of how solicitations are posted and how vendors interact with the platform to receive timely information, which is the core function described in the finegrained field value. Additional context from the supplier and OMBD portals supplements understanding of the ecosystem of notifications and vendor matching that the finegrained field envisions, illustrating the broader environment in which a state-level portal like eVA/VBO would operate.",
+        "citations": [
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:",
+              "Business Type\nCommodity Code(s)"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier.",
+              "All email communication will come from RAPIDS Workflow Mailer not the City of Richmond. Please be sure to check Spam/Junk folders if you do not receive any email communication after creating your account.",
+              "Session will terminate if inactive for 2 minutes. Unsaved information will be lost.",
+              "The approval process will be completed within 3-5 business days."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/embed/rva/project-list?departmentId=all&status=all",
+            "excerpts": [
+              "Skip to main content. Procurement. Procurement Portal. ProjectsCalendar. All Departments. All. Search Advanced Search. Search by Category. Select."
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[MBD Directory](https://richmondombd.diversitycompliance.com/?TN=richmondombd \"Minority Business Directory\")",
+              "[Registration](https://richmondombd.diversitycompliance.com/?TN=richmondombd)",
+              "Supplier Portal",
+              "[Disparity Study](https://www.rva.gov/mbd \"City of Richmond Disparity Study\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/mbd/forms",
+            "excerpts": [
+              "Supplier Portal"
+            ],
+            "title": "Forms | Richmond"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "mbe_owner_persona_analysis.pain_points",
+        "reasoning": "The most directly supportive content highlights the multi-platform reality that creates fragmentation and sign-up overhead: supplier access via iSupplier, OpenGov for solicitations, and other systems like EVA/VBO and OMBD; this aligns with the described pain point about needing to navigate and maintain profiles across multiple distinct platforms. Specific references describe the iSupplier portal and its registration friction, including data entry requirements and approval timelines, which match the registration friction item. Mentions of OpenGov as the primary portal for solicitations and the need to subscribe/follow projects explain why notification relevance is problematic, supporting the low signal-to-noise pain point. Timelines and large solicitation documents are hinted at by references to deadlines and the general procurement workflow within the portals, supporting the tight timelines/paperwork burden. Finally, the existence of directories and category code considerations (NIGP vs NAICS) supports the underlying data standardization/friction that contributes to fragmentation and misalignment of opportunities. Taken together, these excerpts collectively support each element of the fine-grained field value by illustrating where and how the pain points arise in the current system landscape.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "Business Type\nCommodity Code(s)",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation.",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.1",
+        "reasoning": "The finegrained field describes the Oracle iSupplier (Richmond Supplier Portal) as a mandatory registration portal for all suppliers, handling vendor information and form submissions with an approval window. Excerpts that explicitly state that all suppliers and prospective suppliers must register on iSupplier align directly with the portal's mandatory registration aspect and its role as a supplier portal. The passages note that the iSupplier portal is the registration portal for suppliers, which supports the core claim about portal participation and onboarding. While additional operational details such as forms (W-9, ACH) and approval timelines are not fully echoed in the excerpts, the core assertion about iSupplier being the mandatory supplier registration portal is well supported by these excerpts. Related content about the broader supplier ecosystem (e.g., OMBD\u2019s involvement via B2GNow) provides contextual relevance by illustrating adjacent procurement portals but does not pertain to Oracle iSupplier specifically, hence its lesser direct relevance.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "mbe_owner_persona_analysis.current_workarounds",
+        "reasoning": "The most directly supportive excerpts describe the portals and directories involved in the manual workflow of MBE opportunities. Excerpts that reference the OpenGov portal and its role in procurement provide direct evidence of why a user would need to monitor multiple online sources for solicitations, which aligns with the described manual monitoring across portals and the reliance on OpenGov for invitations and communications. The excerpts mentioning the OMBD directories corroborate the part of the workflow where the MBE owner must stay visible and connected through OMBD channels. Excerpts describing the iSupplier portal confirm the need to periodically update business capability codes across systems, which directly matches the stated code synchronization across iSupplier and OMBD. Excerpts illustrating the OpenGov-based solicitation process and deadlines further support why a manual, multi-platform approach is necessary in practice. The category/code taxonomy excerpt explains the existence of multiple coding schemes (NIGP/NAICS), which is relevant to the underpinnings of updating codes across systems. The general procurement portal excerpt adds context but is less directly tied to the exact manual workflow described. Taken together, these excerpts support the claim that MBE owners rely on a constellation of portals and directories and must regularly update capability codes to remain eligible and visible, matching the field value. The content quotes and paraphrases show the exact systems involved (OpenGov, eVA/VBO, OMBD, iSupplier) and the need to synchronize codes, confirming alignment with the described workarounds.",
+        "citations": [
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:",
+              "Business Type\nCommodity Code(s)"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation.",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+            "excerpts": [
+              "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+            ],
+            "title": "Vendor Selection of Category Codes"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparable_city_approaches.city_name",
+        "reasoning": "The finegrained field value asserts Baltimore, MD as a comparable city approach to how city procurement and vendor opportunity workflows are handled. Excerpts describing Baltimore City resources directly support this: one excerpt notes that the city provides vendors with easy access to most non-construction procurement opportunities and offers notifications on projects, illustrating a proactive, opaque-to-openness approach to alerting vendors about opportunities. Another Baltimore-focused excerpt identifies Workday as the city\u2019s online procurement system for purchases, indicating a centralized platform for managing procurement activities. A third Baltimore-related excerpt presents a data resource showing certified minority and women-owned business enterprises, highlighting official datasets that underpin outreach and supplier diversity efforts. While an excerpt about Richmond\u2019s minority business directory provides contextual contrast, it also demonstrates how cities curate and surface opportunities to diverse vendors, which is conceptually aligned with the Baltimore approach. Additional excerpts about vendor management software platforms (general, not city-specific) and certification directories reinforce the broader industry practices of centralized supplier data, notifications, and streamlined sourcing, which are common elements in comparable-city procurement ecosystems. Taken together, these excerpts collectively support the idea that Baltimore, MD is a relevant benchmark for city-led vendor outreach, certification data, and procurement notification mechanisms in the context of comparable-city approaches.",
+        "citations": [
+          {
+            "url": "https://www.baltimorecity.gov/mwbd/our-work/bidding-contracting-opportunities",
+            "excerpts": [
+              "This business tool gives vendors easy access to most non-construction procurement opportunities with City agencies. Sign up for notifications on projects",
+              "Workday is the City of Baltimore's online procurement system for purchases."
+            ],
+            "title": "Bidding, Contracting, & Business Opportunities | Baltimore City"
+          },
+          {
+            "url": "https://data.baltimorecity.gov/maps/baltimore::minority-and-womens-business-enterprises-mbe-wbe-certification-data",
+            "excerpts": [
+              "This dataset includes minority and women-owned business enterprises certified with the Minority and Women-owned Business Opportunity Office (MWBOO)."
+            ],
+            "title": "Minority and Women's Business Enterprises (MBE ... - Open Baltimore"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[MBD Directory](https://richmondombd.diversitycompliance.com/?TN=richmondombd \"Minority Business Directory\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://b2gnow.com/products/vendor-management-software/certification-directories/",
+            "excerpts": [
+              "B2Gnow maintains the largest real-time certified vendor/supplier database. Your organization will save time and costs by accessing these more quickly, The largest platform of certified small, local, and diverse supplier directories. B2Gnow maintains the largest real-time certified vendor/supplier database."
+            ],
+            "title": "Supplier Diversity Certification Directories & Databases"
+          },
+          {
+            "url": "https://b2gnow.com/solutions/vendor-management-software/vendor-sourcing/",
+            "excerpts": [
+              "Our robust vendor management software enables complete compliance and process visibility, covering vendor registration, outreach, engagement, bidding, contract"
+            ],
+            "title": "Vendor Sourcing & Supplier Database Software - B2Gnow"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.2",
+        "reasoning": "The most directly relevant excerpt states that the City of Richmond's Office of Minority Business Development (OMBD) launched a Supplier and Diversity Portal through B2GNow. This directly corroborates the existence of a B2GNow-based OMBD portal, aligning with the field value\u2019s description of a portal for MBE/ESB registration, certification, and vendor directory search. It also implies that this portal is a separate system managed by OMBD, which matches the attributed purpose and governance in the field value. An additional excerpt notes that OMBD provides directories of MBEs and ESBs, which supports the idea that the portal maintains its own vendor directories and commodity code listings, consistent with the stated portal\u2019s purpose of listings and search capabilities. Together, these excerpts reinforce the core elements of the field value: a B2GNow portal under OMBD for MBE/ESB registration and vendor directory functionality, plus the context that OMBD manages related vendor directories and codes.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.0.platform_name",
+        "reasoning": "The field value represents the City of Richmond\u2019s procurement platform, specifically identifying OpenGov as the platform in use for solicitations and related procurement activities. The most directly supportive statements are that: OpenGov is used for solicitation development and communication with bidders, and that bids and proposals are submitted electronically through OpenGov. Additional excerpts reinforce OpenGov as the central procurement platform by stating that the City manages formal invitations through OpenGov and provides procurement portal access via OpenGov, including a project list portal. These lines collectively corroborate that OpenGov is the platform in use in this context, aligning with the field value. Other excerpts mentioning the procurement portal and embedded project lists still reference OpenGov as the underlying platform, thereby supporting the same conclusion. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards."
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/embed/rva/project-list?departmentId=all&status=all",
+            "excerpts": [
+              "Skip to main content. Procurement. Procurement Portal. ProjectsCalendar. All Departments. All. Search Advanced Search. Search by Category. Select."
+            ],
+            "title": "City of Richmond Procurement Portal"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparable_city_approaches.relevance_to_richmond",
+        "reasoning": "The most relevant information directly demonstrates the comparative pattern between Baltimore and Richmond: a centralized procurement portal (Workday) used by a city, alongside a separate system handling diversity compliance and vendor data (B2Gnow). This aligns with the finegrained field value\u2019s claim that Richmond faces a fragmented, siloed setup requiring integration across distinct platforms to reduce vendor confusion and administrative burden. The cited Baltimore items illustrate how vendors access opportunities through a main procurement interface and rely on other systems for compliance and vendor data, which underpins the need for an integrated Richmond solution. Supporting details include: (a) Workday as the city\u2019s online procurement system for purchases, representing a central portal similar to what Richmond relies on or aspires to, and (b) B2Gnow offering a robust vendor management solution and the largest real-time certified vendor database, illustrating the kind of separate, specialized system that creates fragmentation when not integrated. Additionally, explicit mentions of vendors receiving notifications on projects reinforce the problem of fragmented access points and the value of streamlined, unified notifications. The Baltimore mindfulness of certification directories and diverse vendor data further demonstrates how multiple disparate data sources contribute to complexity, mirroring the Richmond context described. The direct Richmond reference to the MBD Directory highlights a local parallel that reinforces the relevance of examining Baltimore\u2019s model for lessons on integration. Finally, the Baltimore data set on minority- and women-owned enterprises provides a concrete example of the kinds of data sources that exist in parallel ecosystems, which a Richmond integrated dashboard would need to harmonize. Collectively, these excerpts support the claim that Baltimore\u2019s approach is highly relevant as a model to Richmond\u2019s fragmentation and the need for cross-platform integration across solicitation portals, vendor profiles, and compliance directories.",
+        "citations": [
+          {
+            "url": "https://www.baltimorecity.gov/mwbd/our-work/bidding-contracting-opportunities",
+            "excerpts": [
+              "Workday is the City of Baltimore's online procurement system for purchases.",
+              "This business tool gives vendors easy access to most non-construction procurement opportunities with City agencies. Sign up for notifications on projects"
+            ],
+            "title": "Bidding, Contracting, & Business Opportunities | Baltimore City"
+          },
+          {
+            "url": "https://b2gnow.com/solutions/vendor-management-software/vendor-sourcing/",
+            "excerpts": [
+              "Our robust vendor management software enables complete compliance and process visibility, covering vendor registration, outreach, engagement, bidding, contract"
+            ],
+            "title": "Vendor Sourcing & Supplier Database Software - B2Gnow"
+          },
+          {
+            "url": "https://b2gnow.com/products/vendor-management-software/certification-directories/",
+            "excerpts": [
+              "B2Gnow maintains the largest real-time certified vendor/supplier database. Your organization will save time and costs by accessing these more quickly, The largest platform of certified small, local, and diverse supplier directories. B2Gnow maintains the largest real-time certified vendor/supplier database."
+            ],
+            "title": "Supplier Diversity Certification Directories & Databases"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[MBD Directory](https://richmondombd.diversitycompliance.com/?TN=richmondombd \"Minority Business Directory\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://data.baltimorecity.gov/maps/baltimore::minority-and-womens-business-enterprises-mbe-wbe-certification-data",
+            "excerpts": [
+              "This dataset includes minority and women-owned business enterprises certified with the Minority and Women-owned Business Opportunity Office (MWBOO)."
+            ],
+            "title": "Minority and Women's Business Enterprises (MBE ... - Open Baltimore"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.2.platform_name",
+        "reasoning": "The field value specifies that the platform name at the OMBD portal is B2GNow. The most relevant excerpt explicitly states that the City of Richmond\u2019s OMBD has launched a Supplier and Diversity Portal through B2GNow, directly identifying B2GNow as the platform used by OMBD. The second excerpt describes the Procurement Transparency Dashboard and notes that OMBD provides directories of MBEs/ESBs, which is relevant context about OMBD\u2019s function and platforms but does not confirm the specific B2GNow portal name. Taken together, the first excerpt provides direct evidence supporting the target field value, while the second excerpt corroborates OMBD\u2019s involvement with platforms but lacks direct mention of the exact portal name. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.2.primary_users",
+        "reasoning": "The finegrained field seeks the primary users of the procurement platforms in use. The first excerpt states that the City of Richmond's Office of Minority Business Development (OMBD) launched a Supplier and Diversity Portal through B2GNow, indicating OMBD is a key facilitator and the portal is intended for use by stakeholders such as MBEs and staff. The second excerpt notes that OMBD provides directories of Minority Business Enterprises and Emerging Small Businesses, which implies MBEs are the end users engaging with procurement information through these platforms. Taken together, the content supports two primary user groups: MBE owners (the vendors/participants seeking opportunities) and OMBD staff (administrators/managers overseeing the platforms). The combination of an OMBD-led portal and MBEs/ESBs directories aligns with the finegrained field value listing MBEs and OMBD staff as the primary users.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.1.url",
+        "reasoning": "The fine-grained field value points to the City of Richmond's procurement supplier portal URL. The excerpt states: \"Supplier Portal | Richmond\" and includes the URL \"https://www.rva.gov/procurement-services/supplier-portal\" within a description of the portal where all suppliers must register on iSupplier. This directly supports the field value by confirming the exact URL for the Richmond procurement portal. Other excerpts mention the portal or related pages but do not present the exact URL, so they offer only contextual support rather than direct evidence for the specific field value.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools"
+            ],
+            "title": "Supplier Portal | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "current_workarounds_and_costs",
+        "reasoning": "The provided text describes the current workarounds and costs for minority-owned businesses (MBEs) in Richmond. It highlights the manual effort involved in monitoring various platforms such as OpenGov, eVA VBO, and OMBD communications, which is a significant drain on time and resources. The text also mentions the risk of missed opportunities due to late notifications or emails being sent to spam folders, and the lengthy registration process on systems like iSupplier. Furthermore, it points to the inefficiency of parsing high-volume, low-relevance emails from eVA and the systemic issue of underutilization of MBEs, as evidenced by the city's disparity study, which erodes vendor trust. Excerpts discussing the use of OpenGov for solicitations and notifications, the eVA system and its daily leads emails, the iSupplier portal and its registration timeline, and the OMBD's role in managing MBE directories and the disparity study all support these described workarounds and costs.",
+        "citations": [
+          {
+            "url": "https://dgs.virginia.gov/globalassets/business-units/dps/documents/vbo/how-to-respond-ifb.pdf",
+            "excerpts": [
+              "You received your daily Leads notification email or perhaps saw a solicitation posted on the. Virginia Business Opportunities (VBO) page of the eVA website",
+              "You received your daily *Leads* notification email or perhaps saw a solicitation posted on the\n*Virginia Business Opportunities* (VBO) page of the eVA website and you\u2019d like to submit a bid.",
+              "Make sure to\nthoroughly read all attachments under Documents.",
+              "It\u2019s important to read ALL\nDOCUMENTS THOROUGHLY!"
+            ],
+            "title": "[PDF] How to Respond to an IFB (Invitation for Bid) - Virginia.gov"
+          },
+          {
+            "url": "https://dgs.virginia.gov/globalassets/business-units/dps/documents/vbo/how-to-respond-to-rfp.pdf",
+            "excerpts": [
+              "o Receive daily updates on new solicitations via email. 2. Virginia Business Opportunities (VBO) Page o Visit the VBO page on the eVA website to view posted.",
+              "**Every RFP is unique** , and responses may not always be submitted\nelectronically through your eVA account. **Carefully read all solicitation**\n**documents** to ensure compliance with the instructions.",
+              "Receive daily updates on new solicitations via email."
+            ],
+            "title": "[PDF] How to respond to Request for Proposal (RFP) - Virginia.gov"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards.",
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:",
+              "The City of Richmond's Office of Minority Business Development (OMBD) ... To contact City of Richmond Customer Service , please call 804-646-7000 or 3-1-1."
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/mbd/forms",
+            "excerpts": [
+              "[Electronic Virginia (eVA)](https://eva.virginia.gov/)",
+              "Supplier Portal"
+            ],
+            "title": "Forms | Richmond"
+          },
+          {
+            "url": "https://www.citystaug.com/DocumentCenter/View/8886",
+            "excerpts": [
+              "What can OpenGov do for our Vendors: Receive notifications of future solicitation by registering on the e-Procurement Portal and selecting the \u201cSubscribe\u201d button to create an account. Follow existing opportunities and receive updates by finding the solicitation and clicking the \u201cFollow\u201d button.",
+              "Receive notifications of future solicitation by registering on the e-Procurement Portal and\nselecting the \u201cSubscribe\u201d button to create an account.",
+              "Follow existing opportunities and receive updates by finding the solicitation and clicking the\n\u201cFollow\u201d button. This will allow all interested Respondents to receive addendums automatically,"
+            ],
+            "title": "Vendor Handout - How to register and subscribe to OpenGov"
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier.",
+              "The approval process will be completed within 3-5 business days."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[MBD Directory](https://richmondombd.diversitycompliance.com/?TN=richmondombd \"Minority Business Directory\")",
+              "[Registration](https://richmondombd.diversitycompliance.com/?TN=richmondombd)",
+              "Supplier Portal",
+              "[Disparity Study](https://www.rva.gov/mbd \"City of Richmond Disparity Study\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond",
+              "Richmond, VA",
+              "*All dates and times in Eastern Time*",
+              "Subscribe",
+              "Questions?",
+              "[Visit Help Center](https://opengov.my.site.com/support/s/topic/0TO8X000000Mhi0WAC/vendor-guides)",
+              "Search by Category",
+              "Select...",
+              "View All Categories",
+              "Search by Line Items",
+              "Search Simple Search"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://richmondva.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=38934",
+            "excerpts": [
+              "WHEREAS, the findings of the disparity study concluded that disparities exist between the availability of qualified\nminority business enterprises and actual utilization in City contracting, suggesting the presence of barriers that impede full and fair participation by minority business enterprises in City contracting opportunities;",
+              "To express the Council's acceptance of the findings of the MGT Performance, City of Richmond, Virginia Minority Business Enterprise, 2023 Disparity Study and to request that the Chief Administrative Officer cause the Office of Minority Business Development to (i) develop and implement a comprehensive plan of action based on the recommendations of such disparity study to promote equity in the City's procurement practices and (ii) conduct a comprehensive minority business enterprise disparity study every five years beginning in Fiscal Year 2026-2027.",
+              "Aug 6, 2025 \u2014 To express the Council's acceptance of the findings of the MGT Performance, City of Richmond, Virginia Minority Business Enterprise, 2023",
+              "Title: To express the Council's acceptance of the findings of the MGT Performance, City of Richmond, Virginia Minority Business Enterprise, Aug 6, 2025 \u2014 To express the Council's acceptance of the findings of the MGT Performance, City of Richmond, Virginia Minority Business Enterprise, 2023"
+            ],
+            "title": "City of Richmond - File #: RES. 2025-R040"
+          },
+          {
+            "url": "https://www.mgt.us/insights/pioneering-disparity-studies-at-mgt/",
+            "excerpts": [
+              "Dec 20, 2024 \u2014 Recently, MGT completed the City of Richmond's first disparity study , to provide the city with actionable policy and programmatic"
+            ],
+            "title": "Pioneering Disparity Studies at MGT"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
+            "excerpts": [
+              "Mar 22, 2022 \u2014 The City of Richmond has selected MGT, a public sector firm that specializes in disparity and availability studies, to perform a disparity study"
+            ],
+            "title": "City selects MGT to perform disparity study | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/media/41571",
+            "excerpts": [
+              "",
+              "File\nMinorty Business Enterprise and ESB Small Business Advisory Board 2024_0.pdf"
+            ],
+            "title": "Minority Business Enterprise and Emerging Small Business Advisory Board | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.2.url",
+        "reasoning": "The requested field value is a URL associated with a procurement platform used by OMBD. The first excerpt states that the City of Richmond\u2019s Office of Minority Business Development launched a Supplier and Diversity Portal through B2GNow, which is a concrete procurement platform tied to OMBD and would be a direct candidate for the kind of URL the field value represents. The second excerpt describes the Procurement Transparency Dashboard and notes that OMBD provides directories of MBEs and ESBs, indicating additional procurement-related platforms and interfaces in use by the same office. While neither excerpt explicitly mentions the exact URL in question, both references describe platforms portals or dashboards associated with OMBD and Richmond procurement activities, supporting the notion that the organization utilizes dedicated procurement platforms beyond traditional channels. The exact URL in the field value (the diversity/compliance portal domain) is not named in the excerpts, but the content of both excerpts closely aligns with the idea of specific procurement platforms/platform portals used by OMBD, making them relevant to inferring what platform URLs might exist in this context.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.0.url",
+        "reasoning": "The specific field value identifies the procurement platform URL in use as the Richmond OpenGov portal for solicitations. Excerpts that state the procurement system is OpenGov and that solicitations are submitted through OpenGov directly support the existence and use of that platform. In particular, the excerpts that include the exact portal URL https://procurement.opengov.com/portal/rva provide concrete evidence for the requested field value, confirming the precise location of the procurement portal. Additional excerpts mentioning OpenGov in the context of solicitations and transparency corroborate that OpenGov is the platform used for procurement activities, which further validates the field value. The combination of a direct URL reference and contextual mentions establishes a coherent link to the known procurement platform used by the City of Richmond.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation.",
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards."
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/embed/rva/project-list?departmentId=all&status=all",
+            "excerpts": [
+              "Skip to main content. Procurement. Procurement Portal. ProjectsCalendar. All Departments. All. Search Advanced Search. Search by Category. Select."
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.2.purpose",
+        "reasoning": "The excerpts describe a City of Richmond initiative where the Office of Minority Business Development (OMBD) is involved in vendor-related platforms. The first excerpt notes that OMBD launched a Supplier and Diversity Portal through B2GNow, indicating a dedicated system under OMBD for supplier engagement. The second excerpt mentions procurement transparency and states that OMBD provides directories of MBEs and ESBs, which corroborates the existence of vendor directories under OMBD control. Together, these pieces support the notion of an OMBD-managed procurement ecosystem that includes registration/visibility features and directories for minority-owned businesses, which is consistent with the idea of a separate OMBD system with its own vendor data constructs. While the excerpts do not explicitly confirm a standalone commodity code listing exclusively owned by that system, they do establish OMBD\u2019s responsibility for vendor registration, directories, and procurement tools, which is relevant to the described fine-grained field value.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "comparable_city_approaches.approach_description",
+        "reasoning": "The most relevant excerpt explicitly states that Workday is the City of Baltimore\u2019s online procurement system for purchases, which directly supports the claim that Baltimore uses a primary online procurement platform. It also notes the general context of Baltimore\u2019s procurement ecosystem described in the same or nearby entries about bidding and contracting opportunities, which reinforces the relevance of a centralized procurement system. A separate excerpt references a dataset containing minority- and women-owned business certifications in Baltimore, aligning with the notion of a dedicated diversity-related data layer used for monitoring MBEs/WBEs. Additionally, there are excerpts describing B2Gnow as a vendor management and certification resource, which complements the overall description of how a city might manage supplier diversity, notifications, and compliance, even though they are not Baltimore-specific in every line. Together, these excerpts collectively corroborate the described Baltimore approach of combining a centralized procurement platform with a separate, diversity-oriented data and notification ecosystem. The connections are: (1) Baltimore uses a centralized online procurement system (Workday) for vendor registration and code-based notifications, (2) there exists a Baltimore MBE/WBE certification data resource, which would underpin diversity monitoring, and (3) vendor management and certification platforms (like B2Gnow) commonly support notification and compliance workflows that align with the described approach.",
+        "citations": [
+          {
+            "url": "https://www.baltimorecity.gov/mwbd/our-work/bidding-contracting-opportunities",
+            "excerpts": [
+              "Workday is the City of Baltimore's online procurement system for purchases.",
+              "This business tool gives vendors easy access to most non-construction procurement opportunities with City agencies. Sign up for notifications on projects"
+            ],
+            "title": "Bidding, Contracting, & Business Opportunities | Baltimore City"
+          },
+          {
+            "url": "https://data.baltimorecity.gov/maps/baltimore::minority-and-womens-business-enterprises-mbe-wbe-certification-data",
+            "excerpts": [
+              "This dataset includes minority and women-owned business enterprises certified with the Minority and Women-owned Business Opportunity Office (MWBOO)."
+            ],
+            "title": "Minority and Women's Business Enterprises (MBE ... - Open Baltimore"
+          },
+          {
+            "url": "https://b2gnow.com/products/vendor-management-software/certification-directories/",
+            "excerpts": [
+              "B2Gnow maintains the largest real-time certified vendor/supplier database. Your organization will save time and costs by accessing these more quickly, The largest platform of certified small, local, and diverse supplier directories. B2Gnow maintains the largest real-time certified vendor/supplier database."
+            ],
+            "title": "Supplier Diversity Certification Directories & Databases"
+          },
+          {
+            "url": "https://b2gnow.com/solutions/vendor-management-software/vendor-sourcing/",
+            "excerpts": [
+              "Our robust vendor management software enables complete compliance and process visibility, covering vendor registration, outreach, engagement, bidding, contract"
+            ],
+            "title": "Vendor Sourcing & Supplier Database Software - B2Gnow"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.1.platform_name",
+        "reasoning": "The targeted field value asserts a specific procurement platform name tied to the Richmond Supplier Portal. Excerpts that describe Richmond\u2019s supplier-related processes reference iSupplier, indicating that iSupplier is the procurement platform used by Richmond for supplier access and registration. Specifically, the first excerpt notes a Supplier Portal for Richmond and that suppliers must register on iSupplier, implying iSupplier is the underlying procurement platform for Richmond\u2019s supplier access. The second excerpt explicitly states that all suppliers must register on iSupplier within Richmond, reinforcing that iSupplier is the platform in use in this context. While the explicit mention of Oracle as the vendor behind iSupplier is not stated, these excerpts establish the Richmond procurement ecosystem\u2019s reliance on iSupplier, which is the core component of the referenced finegrained field value. The third excerpt discusses a different procurement portal (B2GNow) used by OMBD, which is less directly connected to the specific Oracle iSupplier Richmond portal in question, thus it provides contextual background but does not directly support the exact platform naming.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier."
+            ],
+            "title": "Supplier Portal | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.0.purpose",
+        "reasoning": "The field value describes a procurement platform that enables posting solicitations, accepting electronic bids and proposals, handling vendor Q&A, and managing evaluations and awards. The most directly relevant excerpts confirm OpenGov as the system used to develop solicitations, enable questions and responses between bidders and the city, and support electronic submission of bids/proposals. Additional excerpts reinforce the platform\u2019s role in providing a transparent process for bid invitations and related procurement activities, including a procurement dashboard overview and a portal that houses project lists and submission pathways. Together, these excerpts substantiate the end-to-end workflow implied by the field value: posting solicitations, electronic bid submission, vendor Q&A management, and the evaluation/awards phase via a centralized OpenGov-based solution. The content about a procurement transparency dashboard and a City procurement portal further corroborates the ecosystem surrounding the primary platform and its functions.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards."
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/embed/rva/project-list?departmentId=all&status=all",
+            "excerpts": [
+              "Skip to main content. Procurement. Procurement Portal. ProjectsCalendar. All Departments. All. Search Advanced Search. Search by Category. Select."
+            ],
+            "title": "City of Richmond Procurement Portal"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.1.purpose",
+        "reasoning": "The most relevant information directly confirms a mandatory registration requirement: the assertion that all suppliers must register on the city\u2019s procurement platform (iSupplier) aligns with the idea that there is a mandatory portal for supplier registration. The next excerpt reinforces the existence and purpose of the City of Richmond\u2019s procurement portal ecosystem, indicating a centralized entry point for suppliers. The third excerpt shows that OMBD has launched a supplier and diversity portal via B2GNow, which further supports the notion of standardized supplier registration channels in the city\u2019s procurement landscape. However, none of the excerpts explicitly describe the detailed operational claims in the fine-grained value\u2014specifically the handling of W-9 and ACH forms or a defined 3-5 business day approval process\u2014so those aspects are not directly evidenced. Collectively, the excerpts support the high-level claim of a mandatory registration portal and centralized supplier management, but do not fully corroborate all workflow specifics.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "All suppliers and prospective suppliers must register on iSupplier.",
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools"
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.0.primary_users",
+        "reasoning": "The most relevant content directly notes the roles and interactions of bidders/offerors and city officials with the procurement platform. One excerpt states that bidders and offerors have questions within OpenGov and that city officials, suppliers, and the community engage with the system, which aligns with the inclusion of Bidders/Offerors and DPS staff as primary users. Another excerpt emphasizes that the city manages solicitations through OpenGov, ensuring transparency and public visibility, which supports the presence of DPS staff and bidders/offerors as key platform users. Additional excerpts explicitly describe submitting bids and proposals electronically through OpenGov, and reference the procurement portal ecosystem, which further corroborates the involvement of bidders/offerors and procurement staff in the Richmond procurement workflow. Collectively, these excerpts indicate that OpenGov and related procurement portals are the central platforms used by the primary user groups identified in the field value, even though the precise term \u201cMBE Owners\u201d is not directly stated, the \u201cbidders/offerors\u201d category and procurement staff coverage are strongly supported by the excerpts. The gradual inclusion of portal-related content from broad to specific demonstrates a coherent mapping of the field value\u2019s user groups to the described systems and workflows.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/solicitations",
+            "excerpts": [
+              "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community. Project Managers and Procurement Analysts collaborate to develop solicitations within OpenGov. Bidders and Offerors questions are responded to in OpenGov, which allows open communication. OpenGov offers greater competition and better services for the City of Richmond.",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the",
+              "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+            ],
+            "title": "Solicitations | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards."
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/embed/rva/project-list?departmentId=all&status=all",
+            "excerpts": [
+              "Skip to main content. Procurement. Procurement Portal. ProjectsCalendar. All Departments. All. Search Advanced Search. Search by Category. Select."
+            ],
+            "title": "City of Richmond Procurement Portal"
+          },
+          {
+            "url": "https://procurement.opengov.com/portal/rva",
+            "excerpts": [
+              "Section Title: Procurement Portal > City of Richmond"
+            ],
+            "title": "City of Richmond Procurement Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.3.primary_users",
+        "reasoning": "The fine-grained field value identifies the primary users as MBE Owners and Vendors. Excerpt describing the OMBD providing directories of MBEs and ESBs directly supports MBEs as a user group. Excerpt about launching a Supplier and Diversity Portal through B2GNow indicates a dedicated platform for suppliers/MVEs to engage, aligning with vendors as primary users. Excerpts stating that suppliers must register on iSupplier and references to the Supplier Portal further support the notion that vendors/suppliers are key users who interact with procurement systems. Excerpts on Minority Business resources and registrations on minority-focused pages reinforce that MBEs are central to the user base. Collectively, these excerpts map well to a user base consisting of MBE owners and vendor/supplier participants who engage with portals, directories, and registration processes within the procurement ecosystem.",
+        "citations": [
+          {
+            "url": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+            "excerpts": [
+              "The City of Richmond's Office of Minority Business Development (OMBD) provides directories of Minority Business Enterprises (MBEs) and Emerging Small Businesses (ESBs). The directories include:"
+            ],
+            "title": "Procurement Transparency Dashboard | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          },
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business",
+            "excerpts": [
+              "[MBD Directory](https://richmondombd.diversitycompliance.com/?TN=richmondombd \"Minority Business Directory\")",
+              "[Registration](https://richmondombd.diversitycompliance.com/?TN=richmondombd)",
+              "Supplier Portal",
+              "[Disparity Study](https://www.rva.gov/mbd \"City of Richmond Disparity Study\")"
+            ],
+            "title": "Minority Business | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/mbd/forms",
+            "excerpts": [
+              "Supplier Portal"
+            ],
+            "title": "Forms | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_procurement_platforms_in_use.1.primary_users",
+        "reasoning": "The target field identifies the primary users of procurement platforms as MBE owners and prospective suppliers. The first two excerpts describe the supplier portal and the requirement for all suppliers to register on iSupplier, highlighting suppliers as the central user group of the procurement tools. The third excerpt mentions OMBD\u2019s Supplier and Diversity Portal operated through B2GNow, reinforcing that minority-focused supplier participation is a core user group of these systems. Taken together, these excerpts support the interpretation that the primary users are suppliers, including minority-owned businesses and prospective suppliers, aligning with the field value even though the exact phrasing is not identical across excerpts.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/procurement-services/supplier-portal",
+            "excerpts": [
+              "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools",
+              "All suppliers and prospective suppliers must register on iSupplier."
+            ],
+            "title": "Supplier Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+            "excerpts": [
+              "Sep 29, 2020 \u2014 The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+            ],
+            "title": "City of Richmond Office of Minority Business Development ..."
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "executive_summary": {
+          "type": "string",
+          "description": "A high-level overview of the primary pain points for both Minority-Owned Business (MBE) owners and city staff in Richmond, VA, regarding the discovery of and matching for city contracting opportunities."
+        },
+        "mbe_owner_persona_analysis": {
+          "type": "object",
+          "properties": {
+            "pain_points": {
+              "type": "string",
+              "description": "A list of specific, concrete pain points experienced by Minority-Owned Business (MBE) owners."
+            },
+            "current_workarounds": {
+              "type": "string",
+              "description": "Description of the manual processes and workarounds MBE owners use to find opportunities, such as monitoring multiple portals."
+            },
+            "cost_of_status_quo": {
+              "type": "string",
+              "description": "The negative impact of the current system on MBEs, including missed revenue opportunities and high administrative overhead."
+            }
+          },
+          "required": [
+            "pain_points",
+            "current_workarounds",
+            "cost_of_status_quo"
+          ],
+          "additionalProperties": false
+        },
+        "city_staff_persona_analysis": {
+          "type": "object",
+          "properties": {
+            "pain_points": {
+              "type": "string",
+              "description": "A list of specific, concrete pain points experienced by city staff in OMBD and Procurement."
+            },
+            "current_workarounds": {
+              "type": "string",
+              "description": "Description of the inefficient, manual workflows city staff rely on, such as using spreadsheets for tracking."
+            },
+            "cost_of_status_quo": {
+              "type": "string",
+              "description": "The negative impact of the current system on city operations, including inefficiency and a lack of strategic insight into participation gaps."
+            }
+          },
+          "required": [
+            "pain_points",
+            "current_workarounds",
+            "cost_of_status_quo"
+          ],
+          "additionalProperties": false
+        },
+        "cross_cutting_equity_analysis": {
+          "type": "object",
+          "properties": {
+            "most_affected_groups": {
+              "type": "string",
+              "description": "Identifies the specific demographics most negatively impacted, such as smaller or newer MBEs with less administrative capacity."
+            },
+            "exclusionary_factors": {
+              "type": "string",
+              "description": "Details the specific barriers, like high administrative burden and system complexity, that exclude certain businesses."
+            },
+            "evidence_of_systemic_issues": {
+              "type": "string",
+              "description": "Reference to official acknowledgements of inequity, such as the city's disparity study."
+            }
+          },
+          "required": [
+            "most_affected_groups",
+            "exclusionary_factors",
+            "evidence_of_systemic_issues"
+          ],
+          "additionalProperties": false
+        },
+        "key_procurement_platforms_in_use": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "platform_name": {
+                "type": "string",
+                "description": "The name of the digital procurement platform (e.g., OpenGov, Oracle iSupplier)."
+              },
+              "purpose": {
+                "type": "string",
+                "description": "The primary function of this platform in the procurement ecosystem (e.g., posting solicitations, vendor registration)."
+              },
+              "primary_users": {
+                "type": "string",
+                "description": "The main user groups that interact with this platform (e.g., MBE Owners, City Staff)."
+              },
+              "url": {
+                "type": "string",
+                "description": "The direct URL to the platform's portal for Richmond."
+              }
+            },
+            "required": [
+              "platform_name",
+              "purpose",
+              "primary_users",
+              "url"
+            ],
+            "additionalProperties": false
+          },
+          "description": "A list of the fragmented digital platforms that vendors and staff must currently navigate for Richmond and Virginia procurement, such as OpenGov, Oracle iSupplier, B2Gnow, and eVA."
+        },
+        "systemic_challenge_commodity_codes": {
+          "type": "string",
+          "description": "An explanation of the critical challenge posed by inconsistent commodity code taxonomies (e.g., NIGP vs. NAICS) across different systems, leading to missed matches and irrelevant alerts for MBEs."
+        },
+        "systemic_challenge_data_fragmentation": {
+          "type": "string",
+          "description": "A description of the problems caused by data being siloed across multiple, non-integrated city and state systems, creating inefficiencies for both city staff and business owners."
+        },
+        "evidence_from_richmond_disparity_study": {
+          "type": "object",
+          "properties": {
+            "study_name": {
+              "type": "string",
+              "description": "The official name of the disparity study."
+            },
+            "conducting_firm": {
+              "type": "string",
+              "description": "The firm that conducted the study (e.g., MGT)."
+            },
+            "key_finding": {
+              "type": "string",
+              "description": "A summary of the study's main conclusion regarding disparities in city contracting."
+            },
+            "city_response_resolution": {
+              "type": "string",
+              "description": "The official City Council resolution number (e.g., RES. 2025-R040) that acknowledges the study's findings."
+            }
+          },
+          "required": [
+            "study_name",
+            "conducting_firm",
+            "key_finding",
+            "city_response_resolution"
+          ],
+          "additionalProperties": false
+        },
+        "current_workarounds_and_costs": {
+          "type": "string",
+          "description": "A summary of the specific workarounds employed by MBEs (e.g., daily manual portal checks, reliance on word-of-mouth) and the associated costs in terms of time, resources, and missed revenue opportunities."
+        },
+        "comparable_city_approaches": {
+          "type": "object",
+          "properties": {
+            "city_name": {
+              "type": "string",
+              "description": "The name of the comparable US city (e.g., Baltimore, Pittsburgh)."
+            },
+            "approach_description": {
+              "type": "string",
+              "description": "A description of the city's approach to MBE procurement, such as the use of specific software or the commissioning of disparity studies."
+            },
+            "relevance_to_richmond": {
+              "type": "string",
+              "description": "How this city's approach provides context or a potential model for Richmond."
+            }
+          },
+          "required": [
+            "city_name",
+            "approach_description",
+            "relevance_to_richmond"
+          ],
+          "additionalProperties": false
+        },
+        "failure_of_current_notification_systems": {
+          "type": "string",
+          "description": "A specific examination of why existing notification mechanisms (e.g., automated emails from OpenGov or eVA) are ineffective, often delivering low-relevance opportunities and eroding vendor trust in the process."
+        }
+      },
+      "required": [
+        "executive_summary",
+        "mbe_owner_persona_analysis",
+        "city_staff_persona_analysis",
+        "cross_cutting_equity_analysis",
+        "key_procurement_platforms_in_use",
+        "systemic_challenge_commodity_codes",
+        "systemic_challenge_data_fragmentation",
+        "evidence_from_richmond_disparity_study",
+        "current_workarounds_and_costs",
+        "comparable_city_approaches",
+        "failure_of_current_notification_systems"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "pain_points.md"
+  }
+}
