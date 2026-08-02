@@ -1,9 +1,25 @@
 {
- "generatedAt": "2026-08-02T10:53:31.172Z",
+ "generatedAt": "2026-08-02T14:50:51.536Z",
  "repo": "pillar-thriving-economy",
  "filesExamined": [
   "admin/evidence_log.md",
-  "data/source_inventory.csv"
+  "data/source_inventory.csv",
+  "post-event-research/career-bridge/jtbd_analysis.md",
+  "post-event-research/career-bridge/pain_points.md",
+  "post-event-research/ibuild/jtbd_analysis.md",
+  "post-event-research/ibuild/pain_points.md",
+  "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+  "post-event-research/ombd-proactive-match-dashboard/pain_points.md",
+  "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+  "post-event-research/richmond-business-launch-wizard/pain_points.md",
+  "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+  "post-event-research/richmond-contract-navigator/pain_points.md",
+  "post-event-research/tradepath-rva/jtbd_analysis.md",
+  "post-event-research/tradepath-rva/pain_points.md",
+  "post-event-research/vendor-onboarding-wizard/jtbd_analysis.md",
+  "post-event-research/vendor-onboarding-wizard/pain_points.md",
+  "post-event-research/you-get-what-you-give/jtbd_analysis.md",
+  "post-event-research/you-get-what-you-give/pain_points.md"
  ],
  "provenanceVerification": {
   "exact": 0,
