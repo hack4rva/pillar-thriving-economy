@@ -1,1 +1,1022 @@
-[]
+[
+ {
+  "id": "q:ombd-proactive-match-dashboard-data-questions-0",
+  "question": "Which taxonomy should the dashboard standardize on for matching—NIGP (used by eVA/OpenGov postings) vs any NAICS captured in OMBD/B2Gnow—and what is the approved crosswalk for code normalization?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:which-taxonomy-should-the-dashboard-standardize-on-for-matching-nigp-used-by-eva",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 107-107",
+    "excerpt": "Which taxonomy should the dashboard standardize on for matching—NIGP (used by eVA/OpenGov postings) vs any NAICS captured in OMBD/B2Gnow—and what is the approved crosswalk for code normalization?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-data-questions-1",
+  "question": "Can we access OpenGov’s Richmond portal via API or feeds to pull new/updated solicitations (title, description, attachments, commodity/NIGP codes, due dates) in near real-time?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-we-access-opengov-s-richmond-portal-via-api-or-feeds-to-pull-new-updated-sol",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 107-107",
+    "excerpt": "Can we access OpenGov’s Richmond portal via API or feeds to pull new/updated solicitations (title, description, attachments, commodity/NIGP codes, due dates) in near real-time?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-data-questions-2",
+  "question": "What vendor attributes are available from Oracle iSupplier for matching (commodity codes, business categories, address, SWaM/MBE flags) and are there read-only interfaces or exports?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-vendor-attributes-are-available-from-oracle-isupplier-for-matching-commodit",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 107-107",
+    "excerpt": "What vendor attributes are available from Oracle iSupplier for matching (commodity codes, business categories, address, SWaM/MBE flags) and are there read-only interfaces or exports?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-data-questions-3",
+  "question": "What OMBD directory fields (via B2Gnow) can be used for matching (commodities, certifications, geographies), and can we automate refreshes (API/scheduled export)?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-ombd-directory-fields-via-b2gnow-can-be-used-for-matching-commodities-certi",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 107-107",
+    "excerpt": "What OMBD directory fields (via B2Gnow) can be used for matching (commodities, certifications, geographies), and can we automate refreshes (API/scheduled export)?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-data-questions-4",
+  "question": "How will the “participation gap” be defined numerically (availability vs utilization) and which datasets (City Contracts Open Data, awardees, bidder lists) are canonical for baselining and trend analysis?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-will-the-participation-gap-be-defined-numerically-availability-vs-utilizatio",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 107-107",
+    "excerpt": "How will the “participation gap” be defined numerically (availability vs utilization) and which datasets (City Contracts Open Data, awardees, bidder lists) are canonical for baselining and trend analysis?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-data-questions-5",
+  "question": "Are there authoritative award histories and unsuccessful bidder lists we can join to vendor attributes for precision/recall evaluation of matching?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:are-there-authoritative-award-histories-and-unsuccessful-bidder-lists-we-can-joi",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 107-107",
+    "excerpt": "Are there authoritative award histories and unsuccessful bidder lists we can join to vendor attributes for precision/recall evaluation of matching?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-data-questions-6",
+  "question": "What privacy/PII constraints apply to storing contact emails/phone numbers and sending notifications; is vendor opt-in required and how is consent captured/logged?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-privacy-pii-constraints-apply-to-storing-contact-emails-phone-numbers-and-s",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 107-107",
+    "excerpt": "What privacy/PII constraints apply to storing contact emails/phone numbers and sending notifications; is vendor opt-in required and how is consent captured/logged?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-data-questions-7",
+  "question": "How will we prevent “spray and pray” blasts—what precision threshold is acceptable for a match, and what audit trail is required to demonstrate fair, non-discriminatory outreach?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-will-we-prevent-spray-and-pray-blasts-what-precision-threshold-is-acceptable",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 107-107",
+    "excerpt": "How will we prevent “spray and pray” blasts—what precision threshold is acceptable for a match, and what audit trail is required to demonstrate fair, non-discriminatory outreach?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-data-questions-8",
+  "question": "Can the dashboard identify unregistered but Richmond-based MBEs for proactive onboarding (e.g., from business license or OMBD outreach lists) while complying with privacy rules?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-the-dashboard-identify-unregistered-but-richmond-based-mbes-for-proactive-on",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 107-107",
+    "excerpt": "Can the dashboard identify unregistered but Richmond-based MBEs for proactive onboarding (e.g., from business license or OMBD outreach lists) while complying with privacy rules?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-data-questions-9",
+  "question": "Which municipalities using OpenGov or statewide systems like eVA have implemented commodity-code matching or supplier recommendation tools, and what were their measured outcomes (increased MBE bids/awards, reduced time-to-award)?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:which-municipalities-using-opengov-or-statewide-systems-like-eva-have-implemente",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 107-107",
+    "excerpt": "Which municipalities using OpenGov or statewide systems like eVA have implemented commodity-code matching or supplier recommendation tools, and what were their measured outcomes (increased MBE bids/awards, reduced time-to-award)?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-user-questions-0",
+  "question": "Primary users for phase 1: OMBD staff, DPS buyers/analysts, or vendors? What are their top tasks (e.g., generate targeted lists, send one‑click notices, track responses, export reports)?",
+  "category": "user",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:primary-users-for-phase-1-ombd-staff-dps-buyers-analysts-or-vendors-what-are-the",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 190-190",
+    "excerpt": "Primary users for phase 1: OMBD staff, DPS buyers/analysts, or vendors? What are their top tasks (e.g., generate targeted lists, send one‑click notices, track responses, export reports)?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-user-questions-1",
+  "question": "Vendor notification preferences: channel (email/SMS), language support (per City Language Access policy), frequency limits, and ability to pause/feedback on “not relevant” matches.",
+  "category": "user",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:vendor-notification-preferences-channel-email-sms-language-support-per-city-lang",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 190-190",
+    "excerpt": "Vendor notification preferences: channel (email/SMS), language support (per City Language Access policy), frequency limits, and ability to pause/feedback on “not relevant” matches."
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-user-questions-2",
+  "question": "What support is needed to help vendors choose precise commodity codes (guided selection, examples, code validation) and keep profiles up to date across iSupplier and OMBD?",
+  "category": "user",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-support-is-needed-to-help-vendors-choose-precise-commodity-codes-guided-sel",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 190-190",
+    "excerpt": "What support is needed to help vendors choose precise commodity codes (guided selection, examples, code validation) and keep profiles up to date across iSupplier and OMBD?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-user-questions-3",
+  "question": "How does the tool align with Richmond’s MBE/ESB goals and Title VI language access—e.g., thresholds for targeted outreach, documentation required for audits, and processes for non-digital vendors?",
+  "category": "user",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-does-the-tool-align-with-richmond-s-mbe-esb-goals-and-title-vi-language-acce",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 190-190",
+    "excerpt": "How does the tool align with Richmond’s MBE/ESB goals and Title VI language access—e.g., thresholds for targeted outreach, documentation required for audits, and processes for non-digital vendors?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-integration-questions-0",
+  "question": "What single sign-on (if any) is available across Oracle iSupplier, OpenGov, and B2Gnow for staff, and what’s the lowest-friction approach for logging outreach in the source system of record?",
+  "category": "integration",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-single-sign-on-if-any-is-available-across-oracle-isupplier-opengov-and-b2gn",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 225-225",
+    "excerpt": "What single sign-on (if any) is available across Oracle iSupplier, OpenGov, and B2Gnow for staff, and what’s the lowest-friction approach for logging outreach in the source system of record?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-integration-questions-1",
+  "question": "Can we receive webhooks or scheduled data pulls from OpenGov; if not, is email parsing or scraping permitted by policy?",
+  "category": "integration",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-we-receive-webhooks-or-scheduled-data-pulls-from-opengov-if-not-is-email-par",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 225-225",
+    "excerpt": "Can we receive webhooks or scheduled data pulls from OpenGov; if not, is email parsing or scraping permitted by policy?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-integration-questions-2",
+  "question": "Should outreach events (notices sent, opens, replies) be written back to B2Gnow or stored in a City CRM; who owns that record and retention?",
+  "category": "integration",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:should-outreach-events-notices-sent-opens-replies-be-written-back-to-b2gnow-or-s",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 225-225",
+    "excerpt": "Should outreach events (notices sent, opens, replies) be written back to B2Gnow or stored in a City CRM; who owns that record and retention?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-integration-questions-3",
+  "question": "Can eVA’s existing NIGP alert capabilities be leveraged or mirrored just for City of Richmond opportunities to reduce duplication and vendor fatigue?",
+  "category": "integration",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-eva-s-existing-nigp-alert-capabilities-be-leveraged-or-mirrored-just-for-cit",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 225-225",
+    "excerpt": "Can eVA’s existing NIGP alert capabilities be leveraged or mirrored just for City of Richmond opportunities to reduce duplication and vendor fatigue?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-equity-questions-0",
+  "question": "How does the tool align with Richmond’s MBE/ESB goals and Title VI language access—e.g., thresholds for targeted outreach, documentation required for audits, and processes for non-digital vendors?",
+  "category": "equity",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-does-the-tool-align-with-richmond-s-mbe-esb-goals-and-title-vi-language-acce",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 260-260",
+    "excerpt": "How does the tool align with Richmond’s MBE/ESB goals and Title VI language access—e.g., thresholds for targeted outreach, documentation required for audits, and processes for non-digital vendors?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-equity-questions-1",
+  "question": "How will we prevent “spray and pray” blasts—what precision threshold is acceptable for a match, and what audit trail is required to demonstrate fair, non-discriminatory outreach?",
+  "category": "equity",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-will-we-prevent-spray-and-pray-blasts-what-precision-threshold-is-acceptable",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 260-260",
+    "excerpt": "How will we prevent “spray and pray” blasts—what precision threshold is acceptable for a match, and what audit trail is required to demonstrate fair, non-discriminatory outreach?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-equity-questions-2",
+  "question": "Can the dashboard identify unregistered but Richmond-based MBEs for proactive onboarding (e.g., from business license or OMBD outreach lists) while complying with privacy rules?",
+  "category": "equity",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-the-dashboard-identify-unregistered-but-richmond-based-mbes-for-proactive-on",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 260-260",
+    "excerpt": "Can the dashboard identify unregistered but Richmond-based MBEs for proactive onboarding (e.g., from business license or OMBD outreach lists) while complying with privacy rules?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-prior-art-questions-0",
+  "question": "Which municipalities using OpenGov or statewide systems like eVA have implemented commodity-code matching or supplier recommendation tools, and what were their measured outcomes (increased MBE bids/awards, reduced time-to-award)?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:which-municipalities-using-opengov-or-statewide-systems-like-eva-have-implemente",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 287-287",
+    "excerpt": "Which municipalities using OpenGov or statewide systems like eVA have implemented commodity-code matching or supplier recommendation tools, and what were their measured outcomes (increased MBE bids/awards, reduced time-to-award)?"
+   }
+  ]
+ },
+ {
+  "id": "q:ombd-proactive-match-dashboard-prior-art-questions-1",
+  "question": "Can eVA’s existing NIGP alert capabilities be leveraged or mirrored just for City of Richmond opportunities to reduce duplication and vendor fatigue?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-eva-s-existing-nigp-alert-capabilities-be-leveraged-or-mirrored-just-for-cit",
+   "n:proposal:ombd-proactive-match-dashboard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
+    "sourceLocation": "lines 287-287",
+    "excerpt": "Can eVA’s existing NIGP alert capabilities be leveraged or mirrored just for City of Richmond opportunities to reduce duplication and vendor fatigue?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-data-related-questions-0",
+  "question": "What is the authoritative data model for Richmond permit types in OPP (including Certificates of Zoning Compliance, Certificates of Occupancy, sign permits, trade permits) and their prerequisites? Can we access it via API or scheduled export?",
+  "category": "data_related",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-is-the-authoritative-data-model-for-richmond-permit-types-in-opp-including-",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "What is the authoritative data model for Richmond permit types in OPP (including Certificates of Zoning Compliance, Certificates of Occupancy, sign permits, trade permits) and their prerequisites? Can we access it via API or scheduled export?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-data-related-questions-1",
+  "question": "Can the Finance Business Unit expose BPOL categories, rates, and documentation requirements as structured data, including the “BPOL within 30 days” rule and penalties, to drive rules logic?",
+  "category": "data_related",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-the-finance-business-unit-expose-bpol-categories-rates-and-documentation-req",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "Can the Finance Business Unit expose BPOL categories, rates, and documentation requirements as structured data, including the “BPOL within 30 days” rule and penalties, to drive rules logic?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-data-related-questions-2",
+  "question": "How will we keep time-sensitive content current (e.g., processing times 2–3 weeks, portal upgrades, fees, forms)? What’s the change-notification source of truth?",
+  "category": "data_related",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-will-we-keep-time-sensitive-content-current-e-g-processing-times-2-3-weeks-p",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "How will we keep time-sensitive content current (e.g., processing times 2–3 weeks, portal upgrades, fees, forms)? What’s the change-notification source of truth?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-data-related-questions-3",
+  "question": "Can the RVA Business Portal (2025) surface machine-readable statuses for BPOL filings to the wizard for real-time checklist updates?",
+  "category": "data_related",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-the-rva-business-portal-2025-surface-machine-readable-statuses-for-bpol-fili",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "Can the RVA Business Portal (2025) surface machine-readable statuses for BPOL filings to the wizard for real-time checklist updates?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-user-centric-questions-0",
+  "question": "Which top Richmond business archetypes should the wizard optimize for first (e.g., small restaurant, retail, contractor, sidewalk vendor, home occupation, salon, professional services), based on volume and failure points?",
+  "category": "user_centric",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:which-top-richmond-business-archetypes-should-the-wizard-optimize-for-first-e-g-",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 148-148",
+    "excerpt": "Which top Richmond business archetypes should the wizard optimize for first (e.g., small restaurant, retail, contractor, sidewalk vendor, home occupation, salon, professional services), based on volume and failure points?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-user-centric-questions-1",
+  "question": "What language accessibility and reading-level targets are needed (e.g., Spanish, Vietnamese)? Any required plain-language standards for City content?",
+  "category": "user_centric",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-language-accessibility-and-reading-level-targets-are-needed-e-g-spanish-vie",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 148-148",
+    "excerpt": "What language accessibility and reading-level targets are needed (e.g., Spanish, Vietnamese)? Any required plain-language standards for City content?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-user-centric-questions-2",
+  "question": "What are the most common first-time errors (e.g., starting work before permits, skipping CZC, wrong occupancy type) that we should preempt with questions/tooltips?",
+  "category": "user_centric",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-are-the-most-common-first-time-errors-e-g-starting-work-before-permits-skip",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 148-148",
+    "excerpt": "What are the most common first-time errors (e.g., starting work before permits, skipping CZC, wrong occupancy type) that we should preempt with questions/tooltips?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-0",
+  "question": "What is the authoritative data model for Richmond permit types in OPP (including Certificates of Zoning Compliance, Certificates of Occupancy, sign permits, trade permits) and their prerequisites? Can we access it via API or scheduled export?",
+  "category": "integration_and_systems",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-is-the-authoritative-data-model-for-richmond-permit-types-in-opp-including-",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 175-175",
+    "excerpt": "What is the authoritative data model for Richmond permit types in OPP (including Certificates of Zoning Compliance, Certificates of Occupancy, sign permits, trade permits) and their prerequisites? Can we access it via API or scheduled export?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-1",
+  "question": "Can the Finance Business Unit expose BPOL categories, rates, and documentation requirements as structured data, including the “BPOL within 30 days” rule and penalties, to drive rules logic?",
+  "category": "integration_and_systems",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-the-finance-business-unit-expose-bpol-categories-rates-and-documentation-req",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 175-175",
+    "excerpt": "Can the Finance Business Unit expose BPOL categories, rates, and documentation requirements as structured data, including the “BPOL within 30 days” rule and penalties, to drive rules logic?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-2",
+  "question": "How will we keep time-sensitive content current (e.g., processing times 2–3 weeks, portal upgrades, fees, forms)? What’s the change-notification source of truth?",
+  "category": "integration_and_systems",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-will-we-keep-time-sensitive-content-current-e-g-processing-times-2-3-weeks-p",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 175-175",
+    "excerpt": "How will we keep time-sensitive content current (e.g., processing times 2–3 weeks, portal upgrades, fees, forms)? What’s the change-notification source of truth?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-3",
+  "question": "Can the RVA Business Portal (2025) surface machine-readable statuses for BPOL filings to the wizard for real-time checklist updates?",
+  "category": "integration_and_systems",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-the-rva-business-portal-2025-surface-machine-readable-statuses-for-bpol-fili",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 175-175",
+    "excerpt": "Can the RVA Business Portal (2025) surface machine-readable statuses for BPOL filings to the wizard for real-time checklist updates?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-4",
+  "question": "Can we integrate with OPP for account linking, pre-populated applications, and status checks for CZC/permits/inspections, and with Finance for BPOL validation? What authentication is required?",
+  "category": "integration_and_systems",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-we-integrate-with-opp-for-account-linking-pre-populated-applications-and-sta",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 175-175",
+    "excerpt": "Can we integrate with OPP for account linking, pre-populated applications, and status checks for CZC/permits/inspections, and with Finance for BPOL validation? What authentication is required?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-5",
+  "question": "How will the wizard incorporate state-level steps (SCC/CIS, Virginia Business One Stop, DPOR, VDACS, VDH, ABC) without duplicating or conflicting with state portals? Deep links vs. data integration?",
+  "category": "integration_and_systems",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-will-the-wizard-incorporate-state-level-steps-scc-cis-virginia-business-one-",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 175-175",
+    "excerpt": "How will the wizard incorporate state-level steps (SCC/CIS, Virginia Business One Stop, DPOR, VDACS, VDH, ABC) without duplicating or conflicting with state portals? Deep links vs. data integration?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-6",
+  "question": "Can the wizard capture location context (address/APN, zoning district, use table) to recommend the correct path (e.g., when a Special Use Permit might be needed) and generate a location-specific checklist?",
+  "category": "integration_and_systems",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-the-wizard-capture-location-context-address-apn-zoning-district-use-table-to",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 175-175",
+    "excerpt": "Can the wizard capture location context (address/APN, zoning district, use table) to recommend the correct path (e.g., when a Special Use Permit might be needed) and generate a location-specific checklist?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-equity-and-accessibility-questions-0",
+  "question": "What language accessibility and reading-level targets are needed (e.g., Spanish, Vietnamese)? Any required plain-language standards for City content?",
+  "category": "equity_and_accessibility",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-language-accessibility-and-reading-level-targets-are-needed-e-g-spanish-vie",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 234-234",
+    "excerpt": "What language accessibility and reading-level targets are needed (e.g., Spanish, Vietnamese)? Any required plain-language standards for City content?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-equity-and-accessibility-questions-1",
+  "question": "How will the wizard surface OMBD, SBDC, Enterprise Zone/CARE, and Revolving Loan supports at the right moment (e.g., before build-out, before BPOL) for SWaM, micro, and LMI founders?",
+  "category": "equity_and_accessibility",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-will-the-wizard-surface-ombd-sbdc-enterprise-zone-care-and-revolving-loan-su",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 234-234",
+    "excerpt": "How will the wizard surface OMBD, SBDC, Enterprise Zone/CARE, and Revolving Loan supports at the right moment (e.g., before build-out, before BPOL) for SWaM, micro, and LMI founders?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-equity-and-accessibility-questions-2",
+  "question": "What barriers most affect home occupations and micro-retailers in Richmond (fees, inspections scheduling, documentation, digital access), and how can the wizard mitigate them (fee transparency, appointment help, printable packets)?",
+  "category": "equity_and_accessibility",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-barriers-most-affect-home-occupations-and-micro-retailers-in-richmond-fees-",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 234-234",
+    "excerpt": "What barriers most affect home occupations and micro-retailers in Richmond (fees, inspections scheduling, documentation, digital access), and how can the wizard mitigate them (fee transparency, appointment help, printable packets)?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-equity-and-accessibility-questions-3",
+  "question": "What accommodations are needed for founders without reliable broadband or who prefer in-person help (e.g., printable checklists, SMS reminders, referrals to OMBD counselors)?",
+  "category": "equity_and_accessibility",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-accommodations-are-needed-for-founders-without-reliable-broadband-or-who-pr",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 234-234",
+    "excerpt": "What accommodations are needed for founders without reliable broadband or who prefer in-person help (e.g., printable checklists, SMS reminders, referrals to OMBD counselors)?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-prior-art-and-learning-questions-0",
+  "question": "Which top Richmond business archetypes should the wizard optimize for first (e.g., small restaurant, retail, contractor, sidewalk vendor, home occupation, salon, professional services), based on volume and failure points?",
+  "category": "prior_art_and_learning",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:which-top-richmond-business-archetypes-should-the-wizard-optimize-for-first-e-g-",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 269-269",
+    "excerpt": "Which top Richmond business archetypes should the wizard optimize for first (e.g., small restaurant, retail, contractor, sidewalk vendor, home occupation, salon, professional services), based on volume and failure points?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-prior-art-and-learning-questions-1",
+  "question": "What are the most common first-time errors (e.g., starting work before permits, skipping CZC, wrong occupancy type) that we should preempt with questions/tooltips?",
+  "category": "prior_art_and_learning",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-are-the-most-common-first-time-errors-e-g-starting-work-before-permits-skip",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 269-269",
+    "excerpt": "What are the most common first-time errors (e.g., starting work before permits, skipping CZC, wrong occupancy type) that we should preempt with questions/tooltips?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-prior-art-and-learning-questions-2",
+  "question": "Which elements of NYC’s MyCity Step-by-Step should be replicated (personalized checklist, permit/licensing consolidation, status) and which must adapt to Richmond’s CZC/BPOL specifics?",
+  "category": "prior_art_and_learning",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:which-elements-of-nyc-s-mycity-step-by-step-should-be-replicated-personalized-ch",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 269-269",
+    "excerpt": "Which elements of NYC’s MyCity Step-by-Step should be replicated (personalized checklist, permit/licensing consolidation, status) and which must adapt to Richmond’s CZC/BPOL specifics?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-business-launch-wizard-prior-art-and-learning-questions-3",
+  "question": "How should the wizard sequence Richmond’s unique dependencies (CZC/CO before BPOL issuance; health/ABC prerequisites) in contrast to general state guidance from Virginia Business One Stop?",
+  "category": "prior_art_and_learning",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-should-the-wizard-sequence-richmond-s-unique-dependencies-czc-co-before-bpol",
+   "n:proposal:richmond-business-launch-wizard"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 269-269",
+    "excerpt": "How should the wizard sequence Richmond’s unique dependencies (CZC/CO before BPOL issuance; health/ABC prerequisites) in contrast to general state guidance from Virginia Business One Stop?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-data-questions-0",
+  "question": "Which classification systems and fields are authoritative for Richmond solicitations: NIGP commodity codes, NAICS, or custom categories? How consistently are they populated in OpenGov and in the Open Data City Contracts dataset?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:which-classification-systems-and-fields-are-authoritative-for-richmond-solicitat",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 101-101",
+    "excerpt": "Which classification systems and fields are authoritative for Richmond solicitations: NIGP commodity codes, NAICS, or custom categories? How consistently are they populated in OpenGov and in the Open Data City Contracts dataset?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-data-questions-1",
+  "question": "What fields exist in the City Contracts Open Data dataset (e.g., contract number, vendor, department, start/end dates, amount, status), what is its true update frequency, and how can we reliably join it to OpenGov solicitations/awards? Is there a unique key like a solicitation or contract ID?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-fields-exist-in-the-city-contracts-open-data-dataset-e-g-contract-number-ve",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 101-101",
+    "excerpt": "What fields exist in the City Contracts Open Data dataset (e.g., contract number, vendor, department, start/end dates, amount, status), what is its true update frequency, and how can we reliably join it to OpenGov solicitations/awards? Is there a unique key like a solicitation or contract ID?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-data-questions-2",
+  "question": "Is there a public data feed or API for Richmond’s OpenGov portal that provides access to projects, Q&A, addenda, and awards? What are the rate limits and terms of use?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:is-there-a-public-data-feed-or-api-for-richmond-s-opengov-portal-that-provides-a",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 101-101",
+    "excerpt": "Is there a public data feed or API for Richmond’s OpenGov portal that provides access to projects, Q&A, addenda, and awards? What are the rate limits and terms of use?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-data-questions-3",
+  "question": "Does the OMBD’s MBD directory, hosted on diversitycompliance.com, expose an API or data export for firm capabilities, NAICS codes, or NIGP codes to enable capability matching?",
+  "category": "data",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:does-the-ombd-s-mbd-directory-hosted-on-diversitycompliance-com-expose-an-api-or",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 101-101",
+    "excerpt": "Does the OMBD’s MBD directory, hosted on diversitycompliance.com, expose an API or data export for firm capabilities, NAICS codes, or NIGP codes to enable capability matching?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-user-questions-0",
+  "question": "For primary personas like emerging MBEs versus experienced primes, what search filters are most critical locally (e.g., filtering by department, commodity code, small purchase thresholds, bonding requirements)?",
+  "category": "user",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:for-primary-personas-like-emerging-mbes-versus-experienced-primes-what-search-fi",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 136-136",
+    "excerpt": "For primary personas like emerging MBEs versus experienced primes, what search filters are most critical locally (e.g., filtering by department, commodity code, small purchase thresholds, bonding requirements)?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-user-questions-1",
+  "question": "What language access is most needed (e.g., Spanish, Arabic) based on OMBD's engagement with the community? Are there specific Title VI requirements for the tool's content?",
+  "category": "user",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-language-access-is-most-needed-e-g-spanish-arabic-based-on-ombd-s-engagemen",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 136-136",
+    "excerpt": "What language access is most needed (e.g., Spanish, Arabic) based on OMBD's engagement with the community? Are there specific Title VI requirements for the tool's content?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-user-questions-2",
+  "question": "What specific proof points or features would most effectively reduce anxiety for first-time MBE bidders (e.g., interactive checklists, visible status of steps from iSupplier/OpenGov, deadline reminders, prominent addenda alerts)?",
+  "category": "user",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-specific-proof-points-or-features-would-most-effectively-reduce-anxiety-for",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 136-136",
+    "excerpt": "What specific proof points or features would most effectively reduce anxiety for first-time MBE bidders (e.g., interactive checklists, visible status of steps from iSupplier/OpenGov, deadline reminders, prominent addenda alerts)?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-integration-questions-0",
+  "question": "How should the navigator reconcile user identities across the different systems: the OpenGov account, the iSupplier vendor ID (from RAPIDS/Oracle), and the OMBD directory profile? Can we match on Tax ID or legal name, or must we rely on user-asserted mapping?",
+  "category": "integration",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-should-the-navigator-reconcile-user-identities-across-the-different-systems-",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 163-163",
+    "excerpt": "How should the navigator reconcile user identities across the different systems: the OpenGov account, the iSupplier vendor ID (from RAPIDS/Oracle), and the OMBD directory profile? Can we match on Tax ID or legal name, or must we rely on user-asserted mapping?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-integration-questions-1",
+  "question": "Can we embed or deep-link to the OpenGov Advanced Search with pre-filled filters? Are there any Single Sign-On (SSO) possibilities with City systems, or must users maintain separate logins for OpenGov and iSupplier?",
+  "category": "integration",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:can-we-embed-or-deep-link-to-the-opengov-advanced-search-with-pre-filled-filters",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 163-163",
+    "excerpt": "Can we embed or deep-link to the OpenGov Advanced Search with pre-filled filters? Are there any Single Sign-On (SSO) possibilities with City systems, or must users maintain separate logins for OpenGov and iSupplier?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-integration-questions-2",
+  "question": "Is it possible for the navigator to surface payment or Purchase Order (PO) status from the iSupplier portal for active or closed contracts as a trust-building signal, or is that information restricted?",
+  "category": "integration",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:is-it-possible-for-the-navigator-to-surface-payment-or-purchase-order-po-status-",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 163-163",
+    "excerpt": "Is it possible for the navigator to surface payment or Purchase Order (PO) status from the iSupplier portal for active or closed contracts as a trust-building signal, or is that information restricted?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-equity-questions-0",
+  "question": "What specific barriers did Richmond’s past disparity or availability studies identify (e.g., underutilization in certain industries, complex procedural hurdles) that the navigator can be designed to specifically mitigate through features like tutorials, terminology glossaries, or bid/no-bid wizards?",
+  "category": "equity",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-specific-barriers-did-richmond-s-past-disparity-or-availability-studies-ide",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 190-190",
+    "excerpt": "What specific barriers did Richmond’s past disparity or availability studies identify (e.g., underutilization in certain industries, complex procedural hurdles) that the navigator can be designed to specifically mitigate through features like tutorials, terminology glossaries, or bid/no-bid wizards?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-equity-questions-1",
+  "question": "How will the tool support firms with limited broadband or device access? Will it be mobile-first, offer SMS/email alerts, provide printable checklists, or integrate with in-person OMBD support workflows?",
+  "category": "equity",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-will-the-tool-support-firms-with-limited-broadband-or-device-access-will-it-",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 190-190",
+    "excerpt": "How will the tool support firms with limited broadband or device access? Will it be mobile-first, offer SMS/email alerts, provide printable checklists, or integrate with in-person OMBD support workflows?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-equity-questions-2",
+  "question": "How will the tool's notification system be designed to ensure fairness, guaranteeing that all users receive critical updates like addenda or deadline changes promptly and simultaneously to avoid advantaging firms that are already better connected?",
+  "category": "equity",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:how-will-the-tool-s-notification-system-be-designed-to-ensure-fairness-guarantee",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 190-190",
+    "excerpt": "How will the tool's notification system be designed to ensure fairness, guaranteeing that all users receive critical updates like addenda or deadline changes promptly and simultaneously to avoid advantaging firms that are already better connected?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-prior-art-questions-0",
+  "question": "What aspects of Philadelphia’s Contracts Hub, which acts as an aggregator for multi-site searches and provides plain-language guides, are technically feasible to implement for Richmond’s specific stack (OpenGov + Open Data + OMBD directory)?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-aspects-of-philadelphia-s-contracts-hub-which-acts-as-an-aggregator-for-mul",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 217-217",
+    "excerpt": "What aspects of Philadelphia’s Contracts Hub, which acts as an aggregator for multi-site searches and provides plain-language guides, are technically feasible to implement for Richmond’s specific stack (OpenGov + Open Data + OMBD directory)?"
+   }
+  ]
+ },
+ {
+  "id": "q:richmond-contract-navigator-prior-art-questions-1",
+  "question": "What procurement guidance patterns from the Boston Supplier Portal and Long Beach Buys, such as onboarding flows and vendor help content, should be adapted for Richmond’s specific terminology and statutory context (e.g., VPPA, City Code Ch. 21)?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-economy",
+  "relatedNodeIds": [
+   "n:question:what-procurement-guidance-patterns-from-the-boston-supplier-portal-and-long-beac",
+   "n:proposal:richmond-contract-navigator"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
+    "sourceLocation": "lines 217-217",
+    "excerpt": "What procurement guidance patterns from the Boston Supplier Portal and Long Beach Buys, such as onboarding flows and vendor help content, should be adapted for Richmond’s specific terminology and statutory context (e.g., VPPA, City Code Ch. 21)?"
+   }
+  ]
+ }
+]
