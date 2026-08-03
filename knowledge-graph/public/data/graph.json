@@ -1,7 +1,7 @@
 {
  "meta": {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-08-03T01:24:07.192Z",
+  "generatedAt": "2026-08-03T02:19:52.436Z",
   "repos": [
    "pillar-thriving-economy"
   ],
@@ -36,7 +36,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:ai-driven-visualisation",
@@ -59,7 +59,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:ai-generated-visualisations",
@@ -93,7 +93,7 @@
     "claimCount": 2,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:archetype-taxonomy",
@@ -116,7 +116,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:bpol-tax-incentive-program-new-business",
@@ -142,7 +142,7 @@
     "keyFields": "eligibility_criteria, fee_amount, application_process",
     "available": true
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:city-of-richmond-contracts-spending-socrata",
@@ -168,7 +168,7 @@
     "keyFields": "agency, contract_id, vendor, amount, status",
     "available": true
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:city-of-richmond-open-data-portal",
@@ -191,7 +191,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:city-vendor-isupplier-portal",
@@ -217,7 +217,7 @@
     "keyFields": "vendor_id, W-9, ACH/EDI form, voided check",
     "available": true
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:elite-visual-overlay",
@@ -243,7 +243,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:ombd-mbe-esb-supplier-diversity-portal",
@@ -269,7 +269,7 @@
     "keyFields": "business_name, cert_type, naics/nigp, contact",
     "available": true
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:opengov-procurement-portal-active-bids",
@@ -295,7 +295,7 @@
     "keyFields": "solicitation_id, title, category, deadline, attachments",
     "available": true
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:research-index",
@@ -318,7 +318,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:rva-business-portal-bpol-bpp",
@@ -344,7 +344,7 @@
     "keyFields": "account_id, license_type, gross_receipts, status",
     "available": true
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:sbsd-swam-directory",
@@ -370,7 +370,7 @@
     "keyFields": "business_name, cert_type, naics, location",
     "available": true
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:vdh-food-establishment-permit-rchd",
@@ -396,7 +396,7 @@
     "keyFields": "plan_review_fee, permit_fee, timeline, inspection_requirements",
     "available": true
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:virginia-abc-retail-license",
@@ -422,7 +422,7 @@
     "keyFields": "license_type, processing_time, notice_requirements, fees",
     "available": true
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:dataset:virginia-eva-state-procurement",
@@ -448,7 +448,7 @@
     "keyFields": "solicitation_id, agency, category, deadline",
     "available": true
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:baltimore",
@@ -486,7 +486,7 @@
     "confidence": "high",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:durham",
@@ -524,7 +524,7 @@
     "confidence": "high",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:e-001",
@@ -546,7 +546,7 @@
     "url": "https://data.richmondgov.com/Well-Managed-Government/City-Contracts/xqn7-jvv2",
     "source": "City of Richmond Open Data Portal"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:e-002",
@@ -568,7 +568,7 @@
     "url": "https://www.rva.gov/procurement-services/solicitations",
     "source": "City of Richmond Procurement"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:e-003",
@@ -590,7 +590,7 @@
     "url": "https://flyrichmond.com/business/contracting-procurement/",
     "source": "Richmond International Airport / eVA"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:e-004",
@@ -612,7 +612,7 @@
     "url": "https://rva.gov/procurement-services/supplier-portal",
     "source": "City of Richmond Supplier Portal"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:e-005",
@@ -634,7 +634,7 @@
     "url": "https://www.rva.gov/minority-business",
     "source": "City of Richmond OMBD"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:e-006",
@@ -656,7 +656,7 @@
     "url": "https://sbsd.virginia.gov/certification-division/faqs/",
     "source": "Virginia SBSD"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:e-007",
@@ -678,7 +678,7 @@
     "url": "https://www.rva.gov/finance/bpol-tax",
     "source": "City of Richmond Finance"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:e-008",
@@ -700,7 +700,7 @@
     "url": "https://www.rva.gov/finance/bpol-exemption",
     "source": "City of Richmond Finance"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:e-009",
@@ -722,7 +722,7 @@
     "url": "https://www.vdh.virginia.gov/environmental-health/food-safety-in-virginia/foodapplication/",
     "source": "VDH / Richmond City Health District"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:e-010",
@@ -744,7 +744,7 @@
     "url": "https://www.abc.virginia.gov/licenses/retail-licenses",
     "source": "Virginia ABC Authority"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:evidence:national-state-local-governments",
@@ -782,7 +782,7 @@
     "confidence": "high",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:governmentagency:ffiec",
@@ -808,7 +808,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:governmentagency:ftc",
@@ -842,7 +842,7 @@
     "claimCount": 2,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:governmentagency:united-states-patent-and-trademark-office",
@@ -892,7 +892,7 @@
     "claimCount": 4,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:group:anxious-owner-persona",
@@ -908,7 +908,7 @@
     }
    ],
    "description": "Population scoped by the post-event research when documenting pain points.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:group:entrepreneur-segment",
@@ -924,7 +924,7 @@
     }
    ],
    "description": "Population scoped by the post-event research when documenting pain points.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:group:executive-summary-of",
@@ -940,7 +940,7 @@
     }
    ],
    "description": "Population scoped by the post-event research when documenting pain points.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:group:founder-persona",
@@ -956,7 +956,7 @@
     }
    ],
    "description": "Population scoped by the post-event research when documenting pain points.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:group:identified-entrepreneur",
@@ -972,7 +972,7 @@
     }
    ],
    "description": "Population scoped by the post-event research when documenting pain points.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:group:key-entrepreneur",
@@ -988,7 +988,7 @@
     }
    ],
    "description": "Population scoped by the post-event research when documenting pain points.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:group:mbe-owner-persona",
@@ -1004,7 +1004,7 @@
     }
    ],
    "description": "Population scoped by the post-event research when documenting pain points.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:group:summary-of-entrepreneur",
@@ -1020,7 +1020,7 @@
     }
    ],
    "description": "Population scoped by the post-event research when documenting pain points.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:legislation:102-b-1-a",
@@ -1043,7 +1043,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:legislation:102-b-1-rebuttal",
@@ -1069,7 +1069,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:legislation:102-b-2-a",
@@ -1092,7 +1092,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:legislation:37-cfr-1-7",
@@ -1115,7 +1115,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:legislation:blue-calypso",
@@ -1138,7 +1138,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:legislation:leahy-smith-america-invents-act",
@@ -1180,7 +1180,7 @@
     "claimCount": 3,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:need:anxiety-and-fear-of-non-compliance",
@@ -1218,7 +1218,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:need:confusing-and-rigid-process-sequencing",
@@ -1256,7 +1256,7 @@
     "confidence": "high",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:need:confusion-over-trade-specific-requirements",
@@ -1294,7 +1294,7 @@
     "confidence": "high",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:need:divergent-paths-for-different-business-uses",
@@ -1332,7 +1332,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:need:duplicative-data-entry-across-multiple-systems",
@@ -1370,7 +1370,7 @@
     "confidence": "high",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:need:fragmented-guidance-and-information",
@@ -1408,7 +1408,7 @@
     "confidence": "medium",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:need:opaque-permitting-portal-and-rework-risk",
@@ -1446,7 +1446,7 @@
     "confidence": "high",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:need:strict-deadlines-and-financial-penalties",
@@ -1484,7 +1484,7 @@
     "confidence": "high",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:need:trade-specific-licensing-and-insurance-ambiguity",
@@ -1522,7 +1522,7 @@
     "confidence": "high",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:need:unclear-dependencies-and-mismatched-timelines",
@@ -1560,7 +1560,7 @@
     "confidence": "high",
     "citationCount": 12
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:need:unclear-sequencing-of-required-steps",
@@ -1598,7 +1598,7 @@
     "confidence": "medium",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:city-of-richmond",
@@ -1614,7 +1614,7 @@
     }
    ],
    "description": "Publisher or owner of inventoried data sources for this pillar.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:city-of-richmond-finance",
@@ -1635,7 +1635,7 @@
     }
    ],
    "description": "Named in the evidence log as the source of one or more claims.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:city-of-richmond-ombd",
@@ -1656,7 +1656,7 @@
     }
    ],
    "description": "Named in the evidence log as the source of one or more claims.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:city-of-richmond-open-data-portal",
@@ -1672,7 +1672,7 @@
     }
    ],
    "description": "Named in the evidence log as the source of one or more claims.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:city-of-richmond-procurement",
@@ -1688,7 +1688,7 @@
     }
    ],
    "description": "Named in the evidence log as the source of one or more claims.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:city-of-richmond-supplier-portal",
@@ -1704,7 +1704,7 @@
     }
    ],
    "description": "Named in the evidence log as the source of one or more claims.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:city-of-richmond-via-opengov",
@@ -1720,7 +1720,7 @@
     }
    ],
    "description": "Publisher or owner of inventoried data sources for this pillar.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:commonwealth-of-virginia",
@@ -1736,7 +1736,7 @@
     }
    ],
    "description": "Publisher or owner of inventoried data sources for this pillar.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:dept-of-general-services",
@@ -1752,7 +1752,7 @@
     }
    ],
    "description": "Publisher or owner of inventoried data sources for this pillar.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:eva",
@@ -1768,7 +1768,7 @@
     }
    ],
    "description": "Named in the evidence log as the source of one or more claims.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:richmond-city-health-district",
@@ -1789,7 +1789,7 @@
     }
    ],
    "description": "Named in the evidence log as the source of one or more claims.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:richmond-international-airport",
@@ -1805,7 +1805,7 @@
     }
    ],
    "description": "Named in the evidence log as the source of one or more claims.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:vdh",
@@ -1821,7 +1821,7 @@
     }
    ],
    "description": "Named in the evidence log as the source of one or more claims.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:virginia-abc-authority",
@@ -1842,7 +1842,7 @@
     }
    ],
    "description": "Named in the evidence log as the source of one or more claims.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:virginia-dept-of-health",
@@ -1858,7 +1858,7 @@
     }
    ],
    "description": "Publisher or owner of inventoried data sources for this pillar.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:org:virginia-sbsd",
@@ -1879,7 +1879,7 @@
     }
    ],
    "description": "Named in the evidence log as the source of one or more claims.",
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:organization:github",
@@ -1902,7 +1902,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:organization:patently",
@@ -1925,7 +1925,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:organization:patsnap",
@@ -1948,7 +1948,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:organization:scribbr",
@@ -1979,7 +1979,7 @@
     "claimCount": 2,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:policy:certificate-of-mailing",
@@ -2002,7 +2002,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:policy:github-s-acceptable-use-policies",
@@ -2028,7 +2028,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:policy:mpep-2153",
@@ -2051,7 +2051,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:policy:richmond-s-300-year-master-plan",
@@ -2074,7 +2074,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:policy:zero-placeholders-policy",
@@ -2097,7 +2097,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:problem:information-fragmentation-and-system-disconnectivity",
@@ -2135,7 +2135,7 @@
     "confidence": "high",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:program:ai-enrichment",
@@ -2158,7 +2158,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:program:archetype",
@@ -2181,7 +2181,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:program:identity-theft-prevention-program",
@@ -2207,7 +2207,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:program:r-markdown",
@@ -2230,7 +2230,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:program:thriving-economy",
@@ -2253,7 +2253,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:project:metaphor-refantazio",
@@ -2276,7 +2276,7 @@
     "claimCount": 1,
     "origin": "research corpus"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:proposal:career-bridge",
@@ -2296,7 +2296,7 @@
     "origin": "post-event research",
     "project": "career-bridge"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:proposal:ibuild",
@@ -2316,7 +2316,7 @@
     "origin": "post-event research",
     "project": "ibuild"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:proposal:ombd-proactive-match-dashboard",
@@ -2336,7 +2336,7 @@
     "origin": "post-event research",
     "project": "ombd-proactive-match-dashboard"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:proposal:richmond-business-launch-wizard",
@@ -2356,7 +2356,7 @@
     "origin": "post-event research",
     "project": "richmond-business-launch-wizard"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:proposal:richmond-contract-navigator",
@@ -2376,7 +2376,7 @@
     "origin": "post-event research",
     "project": "richmond-contract-navigator"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:proposal:tradepath-rva",
@@ -2396,7 +2396,7 @@
     "origin": "post-event research",
     "project": "tradepath-rva"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:proposal:vendor-onboarding-wizard",
@@ -2416,7 +2416,7 @@
     "origin": "post-event research",
     "project": "vendor-onboarding-wizard"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:proposal:you-get-what-you-give",
@@ -2436,7 +2436,7 @@
     "origin": "post-event research",
     "project": "you-get-what-you-give"
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:are-there-authoritative-award-histories-and-unsuccessful-bidder-lists-we-can-joi",
@@ -2464,7 +2464,7 @@
     "confidence": "high",
     "citationCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:can-eva-s-existing-nigp-alert-capabilities-be-leveraged-or-mirrored-just-for-cit",
@@ -2502,7 +2502,7 @@
     "confidence": "medium",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:can-the-dashboard-identify-unregistered-but-richmond-based-mbes-for-proactive-on",
@@ -2540,7 +2540,7 @@
     "confidence": "medium",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:can-the-finance-business-unit-expose-bpol-categories-rates-and-documentation-req",
@@ -2568,7 +2568,7 @@
     "confidence": "high",
     "citationCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:can-the-rva-business-portal-2025-surface-machine-readable-statuses-for-bpol-fili",
@@ -2606,7 +2606,7 @@
     "confidence": "medium",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:can-the-wizard-capture-location-context-address-apn-zoning-district-use-table-to",
@@ -2639,7 +2639,7 @@
     "confidence": "high",
     "citationCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:can-we-access-opengov-s-richmond-portal-via-api-or-feeds-to-pull-new-updated-sol",
@@ -2667,7 +2667,7 @@
     "confidence": "medium",
     "citationCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:can-we-embed-or-deep-link-to-the-opengov-advanced-search-with-pre-filled-filters",
@@ -2705,7 +2705,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:can-we-integrate-with-opp-for-account-linking-pre-populated-applications-and-sta",
@@ -2743,7 +2743,7 @@
     "confidence": "medium",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:can-we-receive-webhooks-or-scheduled-data-pulls-from-opengov-if-not-is-email-par",
@@ -2771,7 +2771,7 @@
     "confidence": "medium",
     "citationCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:does-the-ombd-s-mbd-directory-hosted-on-diversitycompliance-com-expose-an-api-or",
@@ -2809,7 +2809,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:for-primary-personas-like-emerging-mbes-versus-experienced-primes-what-search-fi",
@@ -2847,7 +2847,7 @@
     "confidence": "medium",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:how-does-the-tool-align-with-richmond-s-mbe-esb-goals-and-title-vi-language-acce",
@@ -2885,7 +2885,7 @@
     "confidence": "medium",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:how-should-the-navigator-reconcile-user-identities-across-the-different-systems-",
@@ -2923,7 +2923,7 @@
     "confidence": "high",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:how-should-the-wizard-sequence-richmond-s-unique-dependencies-czc-co-before-bpol",
@@ -2961,7 +2961,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:how-will-the-participation-gap-be-defined-numerically-availability-vs-utilizatio",
@@ -2999,7 +2999,7 @@
     "confidence": "high",
     "citationCount": 7
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:how-will-the-tool-s-notification-system-be-designed-to-ensure-fairness-guarantee",
@@ -3037,7 +3037,7 @@
     "confidence": "medium",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:how-will-the-tool-support-firms-with-limited-broadband-or-device-access-will-it-",
@@ -3075,7 +3075,7 @@
     "confidence": "medium",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:how-will-the-wizard-incorporate-state-level-steps-scc-cis-virginia-business-one-",
@@ -3113,7 +3113,7 @@
     "confidence": "medium",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:how-will-the-wizard-surface-ombd-sbdc-enterprise-zone-care-and-revolving-loan-su",
@@ -3151,7 +3151,7 @@
     "confidence": "high",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:how-will-we-keep-time-sensitive-content-current-e-g-processing-times-2-3-weeks-p",
@@ -3189,7 +3189,7 @@
     "confidence": "medium",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:how-will-we-prevent-spray-and-pray-blasts-what-precision-threshold-is-acceptable",
@@ -3227,7 +3227,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:is-it-possible-for-the-navigator-to-surface-payment-or-purchase-order-po-status-",
@@ -3265,7 +3265,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:is-there-a-public-data-feed-or-api-for-richmond-s-opengov-portal-that-provides-a",
@@ -3303,7 +3303,7 @@
     "confidence": "medium",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:primary-users-for-phase-1-ombd-staff-dps-buyers-analysts-or-vendors-what-are-the",
@@ -3341,7 +3341,7 @@
     "confidence": "medium",
     "citationCount": 6
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:should-outreach-events-notices-sent-opens-replies-be-written-back-to-b2gnow-or-s",
@@ -3374,7 +3374,7 @@
     "confidence": "medium",
     "citationCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:vendor-notification-preferences-channel-email-sms-language-support-per-city-lang",
@@ -3402,7 +3402,7 @@
     "confidence": "medium",
     "citationCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-accommodations-are-needed-for-founders-without-reliable-broadband-or-who-pr",
@@ -3440,7 +3440,7 @@
     "confidence": "medium",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-are-the-most-common-first-time-errors-e-g-starting-work-before-permits-skip",
@@ -3478,7 +3478,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-aspects-of-philadelphia-s-contracts-hub-which-acts-as-an-aggregator-for-mul",
@@ -3516,7 +3516,7 @@
     "confidence": "high",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-barriers-most-affect-home-occupations-and-micro-retailers-in-richmond-fees-",
@@ -3554,7 +3554,7 @@
     "confidence": "medium",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-fields-exist-in-the-city-contracts-open-data-dataset-e-g-contract-number-ve",
@@ -3592,7 +3592,7 @@
     "confidence": "high",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-is-the-authoritative-data-model-for-richmond-permit-types-in-opp-including-",
@@ -3630,7 +3630,7 @@
     "confidence": "medium",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-language-access-is-most-needed-e-g-spanish-arabic-based-on-ombd-s-engagemen",
@@ -3668,7 +3668,7 @@
     "confidence": "medium",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-language-accessibility-and-reading-level-targets-are-needed-e-g-spanish-vie",
@@ -3706,7 +3706,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-ombd-directory-fields-via-b2gnow-can-be-used-for-matching-commodities-certi",
@@ -3744,7 +3744,7 @@
     "confidence": "medium",
     "citationCount": 8
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-privacy-pii-constraints-apply-to-storing-contact-emails-phone-numbers-and-s",
@@ -3782,7 +3782,7 @@
     "confidence": "low",
     "citationCount": 8
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-procurement-guidance-patterns-from-the-boston-supplier-portal-and-long-beac",
@@ -3820,7 +3820,7 @@
     "confidence": "low",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-single-sign-on-if-any-is-available-across-oracle-isupplier-opengov-and-b2gn",
@@ -3853,7 +3853,7 @@
     "confidence": "medium",
     "citationCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-specific-barriers-did-richmond-s-past-disparity-or-availability-studies-ide",
@@ -3891,7 +3891,7 @@
     "confidence": "high",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-specific-proof-points-or-features-would-most-effectively-reduce-anxiety-for",
@@ -3929,7 +3929,7 @@
     "confidence": "medium",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-support-is-needed-to-help-vendors-choose-precise-commodity-codes-guided-sel",
@@ -3967,7 +3967,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:what-vendor-attributes-are-available-from-oracle-isupplier-for-matching-commodit",
@@ -4005,7 +4005,7 @@
     "confidence": "low",
     "citationCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:which-classification-systems-and-fields-are-authoritative-for-richmond-solicitat",
@@ -4043,7 +4043,7 @@
     "confidence": "medium",
     "citationCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:which-elements-of-nyc-s-mycity-step-by-step-should-be-replicated-personalized-ch",
@@ -4081,7 +4081,7 @@
     "confidence": "medium",
     "citationCount": 11
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:which-municipalities-using-opengov-or-statewide-systems-like-eva-have-implemente",
@@ -4109,7 +4109,7 @@
     "confidence": "medium",
     "citationCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:which-taxonomy-should-the-dashboard-standardize-on-for-matching-nigp-used-by-eva",
@@ -4147,7 +4147,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:question:which-top-richmond-business-archetypes-should-the-wizard-optimize-for-first-e-g-",
@@ -4185,7 +4185,7 @@
     "confidence": "medium",
     "citationCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:blueironip-com-f9a8ae3e",
@@ -4212,7 +4212,7 @@
     ],
     "claimCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:bsaaml-ffiec-gov-87b1bdff",
@@ -4239,7 +4239,7 @@
     ],
     "claimCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:data-richmondgov-com-9d019a98",
@@ -4266,7 +4266,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:docs-github-com-d2c74448",
@@ -4293,7 +4293,7 @@
     ],
     "claimCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:finra-org-10cb1d74",
@@ -4320,7 +4320,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:game8-co-f6f39bc8",
@@ -4347,7 +4347,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:github-com-64012f95",
@@ -4374,7 +4374,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:github-com-e62135a3",
@@ -4401,7 +4401,7 @@
     ],
     "claimCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:github-com-fbab3b07",
@@ -4428,7 +4428,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:ign-com-cd49a27d",
@@ -4455,7 +4455,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:law-cornell-edu-0ba9eac8",
@@ -4482,7 +4482,7 @@
     ],
     "claimCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:law-cornell-edu-65e9896c",
@@ -4509,7 +4509,7 @@
     ],
     "claimCount": 5
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:link-springer-com-64e77c8c",
@@ -4536,7 +4536,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:nature-com-7551a31d",
@@ -4563,7 +4563,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:patently-com-6268167a",
@@ -4590,7 +4590,7 @@
     ],
     "claimCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:patsnap-com-7a78c98c",
@@ -4617,7 +4617,7 @@
     ],
     "claimCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:pmc-ncbi-nlm-nih-gov-cce09360",
@@ -4644,7 +4644,7 @@
     ],
     "claimCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:reddit-com-1d750612",
@@ -4671,7 +4671,7 @@
     ],
     "claimCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:reddit-com-8afbde6e",
@@ -4698,7 +4698,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:rockpapershotgun-com-63b1b0c3",
@@ -4725,7 +4725,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:rva-gov-90824803",
@@ -4752,7 +4752,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:scribbr-com-a308887c",
@@ -4779,7 +4779,7 @@
     ],
     "claimCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:sec-gov-dee87fad",
@@ -4806,7 +4806,7 @@
     ],
     "claimCount": 4
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:supreme-justia-com-e62fdaec",
@@ -4833,7 +4833,7 @@
     ],
     "claimCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:uspto-gov-2b2e618e",
@@ -4868,7 +4868,7 @@
     ],
     "claimCount": 3
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:uspto-gov-3a4ea67a",
@@ -4895,7 +4895,7 @@
     ],
     "claimCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:uspto-gov-7f864b0d",
@@ -4922,7 +4922,7 @@
     ],
     "claimCount": 2
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:uspto-gov-800839d8",
@@ -4957,7 +4957,7 @@
     ],
     "claimCount": 6
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:uspto-gov-81c1110e",
@@ -4984,7 +4984,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "n:source:uspto-gov-e2bca3cb",
@@ -5011,7 +5011,7 @@
     ],
     "claimCount": 1
    },
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   }
  ],
  "edges": [
@@ -5034,7 +5034,7 @@
      "sourceTitle": "10 Research Question Examples to Guide your Research Project"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:00c61cf4377d",
@@ -5055,7 +5055,7 @@
      "sourceTitle": "Ultimate Guide to AI-Based Prior Art Visualization - Patently"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:023bfa1edc9b",
@@ -5073,7 +5073,7 @@
      "excerpt": "iSupplier required for vendor registration; 2-minute session timeout"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:03a296c81521",
@@ -5091,7 +5091,7 @@
      "excerpt": "Active solicitations managed via OpenGov procurement portal"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:060c54804d05",
@@ -5109,7 +5109,7 @@
      "excerpt": "SBSD SWaM Directory"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:06fb1dbe80a4",
@@ -5127,7 +5127,7 @@
      "excerpt": "OMBD maintains MBE/ESB directory"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:0798ca98b928",
@@ -5145,7 +5145,7 @@
      "excerpt": "How should the navigator reconcile user identities across the different systems: the OpenGov account, the iSupplier vendor ID (from RAPIDS/Oracle), and the OMBD directory profile? Can we match on Tax ID or legal name, or must we rely on user-asserted mapping?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:08893b71fa75",
@@ -5163,7 +5163,7 @@
      "excerpt": "BPOL new-business incentive: $30 flat for first 2 years"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:09af10417eca",
@@ -5181,7 +5181,7 @@
      "excerpt": "Can we access OpenGov’s Richmond portal via API or feeds to pull new/updated solicitations (title, description, attachments, commodity/NIGP codes, due dates) in near real-time?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:0a5df03d7298",
@@ -5202,7 +5202,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:0e4ecad22c37",
@@ -5223,7 +5223,7 @@
      "sourceTitle": "Ultimate Guide to AI-Based Prior Art Visualization - Patently"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:107d1b4c4172",
@@ -5241,7 +5241,7 @@
      "excerpt": "Should outreach events (notices sent, opens, replies) be written back to B2Gnow or stored in a City CRM; who owns that record and retention?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:10e6fd8ff7c7",
@@ -5259,7 +5259,7 @@
      "excerpt": "What barriers most affect home occupations and micro-retailers in Richmond (fees, inspections scheduling, documentation, digital access), and how can the wizard mitigate them (fee transparency, appointment help, printable packets)?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:14419c245973",
@@ -5280,7 +5280,7 @@
      "sourceTitle": "Ultimate Guide to AI-Based Prior Art Visualization - Patently"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:1b983189a7d5",
@@ -5301,7 +5301,7 @@
      "sourceTitle": "10 Research Question Examples to Guide your Research Project"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:1cfaf64b21bc",
@@ -5322,7 +5322,7 @@
      "sourceTitle": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:1e330ef95bd9",
@@ -5343,7 +5343,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:1e816362afb8",
@@ -5361,7 +5361,7 @@
      "excerpt": "VDH Food Establishment Permit (RCHD)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:1f12505a5379",
@@ -5379,7 +5379,7 @@
      "excerpt": "How does the tool align with Richmond’s MBE/ESB goals and Title VI language access—e.g., thresholds for targeted outreach, documentation required for audits, and processes for non-digital vendors?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:1f4c434b8bd2",
@@ -5397,7 +5397,7 @@
      "excerpt": "Which elements of NYC’s MyCity Step-by-Step should be replicated (personalized checklist, permit/licensing consolidation, status) and which must adapt to Richmond’s CZC/BPOL specifics?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:1fd1375edf5f",
@@ -5415,7 +5415,7 @@
      "excerpt": "City procurement contracts available via Socrata API (SODA/OData)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:21fb30d5f39f",
@@ -5433,7 +5433,7 @@
      "excerpt": "Vendor notification preferences: channel (email/SMS), language support (per City Language Access policy), frequency limits, and ability to pause/feedback on “not relevant” matches."
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:22e4eebddd95",
@@ -5451,7 +5451,7 @@
      "excerpt": "Trade-Specific Licensing and Insurance Ambiguity"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:23a0288369b8",
@@ -5469,7 +5469,7 @@
      "excerpt": "Which top Richmond business archetypes should the wizard optimize for first (e.g., small restaurant, retail, contractor, sidewalk vendor, home occupation, salon, professional services), based on volume and failure points?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:23cb7c60c99b",
@@ -5487,7 +5487,7 @@
      "excerpt": "How should the wizard sequence Richmond’s unique dependencies (CZC/CO before BPOL issuance; health/ABC prerequisites) in contrast to general state guidance from Virginia Business One Stop?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:2700af4ef000",
@@ -5508,7 +5508,7 @@
      "sourceTitle": "Identity Theft Red Flags Rules"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:292bb5a1e1c6",
@@ -5529,7 +5529,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:2bc7584532f1",
@@ -5550,7 +5550,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:2d7f816276ed",
@@ -5568,7 +5568,7 @@
      "excerpt": "Virginia eVA (State Procurement)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:2d86f91393b6",
@@ -5586,7 +5586,7 @@
      "excerpt": "Divergent Paths for Different Business Uses"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:2ff0447024ab",
@@ -5607,7 +5607,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:302443b5f304",
@@ -5625,7 +5625,7 @@
      "excerpt": "How will we prevent “spray and pray” blasts—what precision threshold is acceptable for a match, and what audit trail is required to demonstrate fair, non-discriminatory outreach?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:323288ce3e95",
@@ -5646,7 +5646,7 @@
      "sourceTitle": "Basic writing and formatting syntax - GitHub Docs"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:323831166956",
@@ -5664,7 +5664,7 @@
      "excerpt": "BPOL new-business incentive: $30 flat for first 2 years"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:3239fbccd9cc",
@@ -5682,7 +5682,7 @@
      "excerpt": "Baltimore"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:329264c16391",
@@ -5700,7 +5700,7 @@
      "excerpt": "Can the dashboard identify unregistered but Richmond-based MBEs for proactive onboarding (e.g., from business license or OMBD outreach lists) while complying with privacy rules?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:32da5a2bcba0",
@@ -5718,7 +5718,7 @@
      "excerpt": "What accommodations are needed for founders without reliable broadband or who prefer in-person help (e.g., printable checklists, SMS reminders, referrals to OMBD counselors)?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:33c6f2d9ee64",
@@ -5739,7 +5739,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:35239aacb1da",
@@ -5760,7 +5760,7 @@
      "sourceTitle": "Royal Archetypes - Metaphor: ReFantazio Guide - IGN"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:372d89d58ca4",
@@ -5778,7 +5778,7 @@
      "excerpt": "What is the authoritative data model for Richmond permit types in OPP (including Certificates of Zoning Compliance, Certificates of Occupancy, sign permits, trade permits) and their prerequisites? Can we access it via API or scheduled export?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:37483bd9b7b8",
@@ -5796,7 +5796,7 @@
      "excerpt": "RVA Business Portal launched for BPP/BPOL (January 2025)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:3a416c65a01c",
@@ -5817,7 +5817,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:3c33c1149c2a",
@@ -5838,7 +5838,7 @@
      "sourceTitle": "Patent Mapping 2025: Cut Prior Art Search Time by 70% - Patsnap"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:3c4e66797562",
@@ -5856,7 +5856,7 @@
      "excerpt": "Food establishment plan review: submit permit at least 30 days before opening"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:3cf34dc8ce6d",
@@ -5877,7 +5877,7 @@
      "sourceTitle": "Identity Theft Red Flags Rules"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:3d021bef9655",
@@ -5895,7 +5895,7 @@
      "excerpt": "Information Fragmentation and System Disconnectivity"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:3dba3684e455",
@@ -5915,7 +5915,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:3e00ebb5c5a8",
@@ -5936,7 +5936,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:3f0430a17ad1",
@@ -5954,7 +5954,7 @@
      "excerpt": "RVA Business Portal launched for BPP/BPOL (January 2025)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:40070c106dbd",
@@ -5972,7 +5972,7 @@
      "excerpt": "iSupplier required for vendor registration; 2-minute session timeout"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:4197639034aa",
@@ -5990,7 +5990,7 @@
      "excerpt": "SBSD SWaM certification processing time ~60 business days"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:4213cbaba062",
@@ -6011,7 +6011,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:431e930fb0a0",
@@ -6032,7 +6032,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:436a3e4d5c84",
@@ -6050,7 +6050,7 @@
      "excerpt": "National (State/Local Governments)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:43ffeaa96a59",
@@ -6071,7 +6071,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:44807360ee85",
@@ -6089,7 +6089,7 @@
      "excerpt": "What fields exist in the City Contracts Open Data dataset (e.g., contract number, vendor, department, start/end dates, amount, status), what is its true update frequency, and how can we reliably join it to OpenGov solicitations/awards? Is there a unique key like a solicitation or contract ID?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:459fad7bd015",
@@ -6107,7 +6107,7 @@
      "excerpt": "RVA Business Portal (BPOL/BPP)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:4679fad08425",
@@ -6125,7 +6125,7 @@
      "excerpt": "Can the Finance Business Unit expose BPOL categories, rates, and documentation requirements as structured data, including the “BPOL within 30 days” rule and penalties, to drive rules logic?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:483beb5fb208",
@@ -6143,7 +6143,7 @@
      "excerpt": "Confusion over trade-specific requirements"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:49e4c591bc55",
@@ -6161,7 +6161,7 @@
      "excerpt": "eVA used by Richmond regional entities (e.g., RAA)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:4bb015552b68",
@@ -6179,7 +6179,7 @@
      "excerpt": "Food establishment plan review: submit permit at least 30 days before opening"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:50e8902fcef2",
@@ -6197,7 +6197,7 @@
      "excerpt": "What aspects of Philadelphia’s Contracts Hub, which acts as an aggregator for multi-site searches and provides plain-language guides, are technically feasible to implement for Richmond’s specific stack (OpenGov + Open Data + OMBD directory)?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:512cf07ec1eb",
@@ -6218,7 +6218,7 @@
      "sourceTitle": "Ultimate Guide to AI-Based Prior Art Visualization - Patently"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:51473d2d72cd",
@@ -6236,7 +6236,7 @@
      "excerpt": "Can we embed or deep-link to the OpenGov Advanced Search with pre-filled filters? Are there any Single Sign-On (SSO) possibilities with City systems, or must users maintain separate logins for OpenGov and iSupplier?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:521f1527077f",
@@ -6254,7 +6254,7 @@
      "excerpt": "How will the wizard surface OMBD, SBDC, Enterprise Zone/CARE, and Revolving Loan supports at the right moment (e.g., before build-out, before BPOL) for SWaM, micro, and LMI founders?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:536f413bbb77",
@@ -6272,7 +6272,7 @@
      "excerpt": "Are there authoritative award histories and unsuccessful bidder lists we can join to vendor attributes for precision/recall evaluation of matching?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:5386f23c75d1",
@@ -6293,7 +6293,7 @@
      "sourceTitle": "Royal Archetypes - Metaphor: ReFantazio Guide - IGN"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:54c29544ff4f",
@@ -6314,7 +6314,7 @@
      "sourceTitle": "Royal Archetypes - Metaphor: ReFantazio Guide - IGN"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:56c46bdd170d",
@@ -6335,7 +6335,7 @@
      "sourceTitle": "github-misinformation-and-disinformation.md"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:58d2354bd330",
@@ -6353,7 +6353,7 @@
      "excerpt": "Unclear sequencing of required steps"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:59c32817654e",
@@ -6374,7 +6374,7 @@
      "sourceTitle": "Identity Theft Red Flags Rules"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:5b23684e27ba",
@@ -6395,7 +6395,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:5c021762817c",
@@ -6416,7 +6416,7 @@
      "sourceTitle": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:605b5454a98e",
@@ -6437,7 +6437,7 @@
      "sourceTitle": "2152-Detailed Discussion of AIA 35 U.S.C. 102(a) and (b)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:60fe902434a8",
@@ -6458,7 +6458,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:6139726abbd4",
@@ -6476,7 +6476,7 @@
      "excerpt": "Confusing and Rigid Process Sequencing"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:63cb6a38ce5c",
@@ -6494,7 +6494,7 @@
      "excerpt": "Virginia eVA (State Procurement)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:640b0a56f9af",
@@ -6515,7 +6515,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:664d54679192",
@@ -6533,7 +6533,7 @@
      "excerpt": "Fragmented guidance and information"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:66e26b0a2ebf",
@@ -6554,7 +6554,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:68275010b23f",
@@ -6572,7 +6572,7 @@
      "excerpt": "What specific proof points or features would most effectively reduce anxiety for first-time MBE bidders (e.g., interactive checklists, visible status of steps from iSupplier/OpenGov, deadline reminders, prominent addenda alerts)?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:6b628a26af57",
@@ -6590,7 +6590,7 @@
      "excerpt": "Is it possible for the navigator to surface payment or Purchase Order (PO) status from the iSupplier portal for active or closed contracts as a trust-building signal, or is that information restricted?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:6bc2a5dac272",
@@ -6608,7 +6608,7 @@
      "excerpt": "Duplicative data entry across multiple systems"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:6bf911720c35",
@@ -6629,7 +6629,7 @@
      "sourceTitle": "Identity Theft Red Flags Rules"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:6bfcab1d9493",
@@ -6650,7 +6650,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:6c4d3110235f",
@@ -6668,7 +6668,7 @@
      "excerpt": "ABC licensing: up to 60-day processing; 10 consecutive days public notice; 30-day objection window"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:6ca964ed58db",
@@ -6686,7 +6686,7 @@
      "excerpt": "iSupplier required for vendor registration; 2-minute session timeout"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:6ce093019f01",
@@ -6707,7 +6707,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:6ceda61f7202",
@@ -6725,7 +6725,7 @@
      "excerpt": "Can we receive webhooks or scheduled data pulls from OpenGov; if not, is email parsing or scraping permitted by policy?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:6d732d11355f",
@@ -6746,7 +6746,7 @@
      "sourceTitle": "Identity Theft Red Flags Rules"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:70d976c8b25b",
@@ -6764,7 +6764,7 @@
      "excerpt": "Durham"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:71ab0884699c",
@@ -6782,7 +6782,7 @@
      "excerpt": "Unclear sequencing of required steps"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:71e30ab21732",
@@ -6803,7 +6803,7 @@
      "sourceTitle": "2152-Detailed Discussion of AIA 35 U.S.C. 102(a) and (b)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:75a7e2a76447",
@@ -6821,7 +6821,7 @@
      "excerpt": "What language accessibility and reading-level targets are needed (e.g., Spanish, Vietnamese)? Any required plain-language standards for City content?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:7cbd15aae728",
@@ -6839,7 +6839,7 @@
      "excerpt": "Active solicitations managed via OpenGov procurement portal"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:7e4a3782f3af",
@@ -6860,7 +6860,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:7f405f8ad236",
@@ -6881,7 +6881,7 @@
      "sourceTitle": "512-Certificate of Mailing or Transmission - USPTO"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:8042627adb61",
@@ -6899,7 +6899,7 @@
      "excerpt": "City procurement contracts available via Socrata API (SODA/OData)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:80de24b8b181",
@@ -6917,7 +6917,7 @@
      "excerpt": "Duplicative data entry across multiple systems"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:8649c5c60ea4",
@@ -6935,7 +6935,7 @@
      "excerpt": "How will the wizard incorporate state-level steps (SCC/CIS, Virginia Business One Stop, DPOR, VDACS, VDH, ABC) without duplicating or conflicting with state portals? Deep links vs. data integration?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:878e4e2bf9a5",
@@ -6953,7 +6953,7 @@
      "excerpt": "How will we keep time-sensitive content current (e.g., processing times 2–3 weeks, portal upgrades, fees, forms)? What’s the change-notification source of truth?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:883baa2846e7",
@@ -6971,7 +6971,7 @@
      "excerpt": "Unclear dependencies and mismatched timelines"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:8be416fab59f",
@@ -6992,7 +6992,7 @@
      "sourceTitle": "512-Certificate of Mailing or Transmission - USPTO"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:8d14e8b7dfa4",
@@ -7010,7 +7010,7 @@
      "excerpt": "How will the “participation gap” be defined numerically (availability vs utilization) and which datasets (City Contracts Open Data, awardees, bidder lists) are canonical for baselining and trend analysis?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:8f384b954106",
@@ -7028,7 +7028,7 @@
      "excerpt": "Fragmented guidance and information"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:9153aebf01a0",
@@ -7046,7 +7046,7 @@
      "excerpt": "How will the tool support firms with limited broadband or device access? Will it be mobile-first, offer SMS/email alerts, provide printable checklists, or integrate with in-person OMBD support workflows?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:932faf020898",
@@ -7064,7 +7064,7 @@
      "excerpt": "Can the wizard capture location context (address/APN, zoning district, use table) to recommend the correct path (e.g., when a Special Use Permit might be needed) and generate a location-specific checklist?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:93ddd90bf7ab",
@@ -7085,7 +7085,7 @@
      "sourceTitle": "Royal Archetypes - Metaphor: ReFantazio Guide - IGN"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:96eda5d85377",
@@ -7106,7 +7106,7 @@
      "sourceTitle": "Identity Theft Red Flags Rules"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:9735624b6a24",
@@ -7127,7 +7127,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:97a24da4720d",
@@ -7148,7 +7148,7 @@
      "sourceTitle": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:98c1a8ce40f6",
@@ -7166,7 +7166,7 @@
      "excerpt": "OpenGov Procurement Portal (Active Bids)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:9c89c0455b53",
@@ -7187,7 +7187,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:a11cb1a21ddc",
@@ -7208,7 +7208,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:a3594c018fc2",
@@ -7226,7 +7226,7 @@
      "excerpt": "Can we integrate with OPP for account linking, pre-populated applications, and status checks for CZC/permits/inspections, and with Finance for BPOL validation? What authentication is required?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:a36b854814fb",
@@ -7244,7 +7244,7 @@
      "excerpt": "Which classification systems and fields are authoritative for Richmond solicitations: NIGP commodity codes, NAICS, or custom categories? How consistently are they populated in OpenGov and in the Open Data City Contracts dataset?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:a420f16f1624",
@@ -7262,7 +7262,7 @@
      "excerpt": "ABC licensing: up to 60-day processing; 10 consecutive days public notice; 30-day objection window"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:a72c385b7fbb",
@@ -7280,7 +7280,7 @@
      "excerpt": "Active solicitations managed via OpenGov procurement portal"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:a832fc45c6ed",
@@ -7298,7 +7298,7 @@
      "excerpt": "Primary users for phase 1: OMBD staff, DPS buyers/analysts, or vendors? What are their top tasks (e.g., generate targeted lists, send one‑click notices, track responses, export reports)?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:a8402cc0571a",
@@ -7316,7 +7316,7 @@
      "excerpt": "Opaque Permitting Portal and Rework Risk"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:aa74c4accfce",
@@ -7337,7 +7337,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:abbaac08b6fd",
@@ -7358,7 +7358,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:aee6b73a3d18",
@@ -7379,7 +7379,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:afd7dfbee17a",
@@ -7397,7 +7397,7 @@
      "excerpt": "RVA Business Portal launched for BPP/BPOL (January 2025)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:b10f2757c353",
@@ -7418,7 +7418,7 @@
      "sourceTitle": "Small-sided games in volleyball: A systematic review of the state of"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:b1bd2c2bba23",
@@ -7439,7 +7439,7 @@
      "sourceTitle": "Basic writing and formatting syntax - GitHub Docs"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:b42b2cf5b36c",
@@ -7457,7 +7457,7 @@
      "excerpt": "Confusion over trade-specific requirements"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:b43ce1fed2af",
@@ -7475,7 +7475,7 @@
      "excerpt": "Strict Deadlines and Financial Penalties"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:b44005a02f39",
@@ -7496,7 +7496,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:b66f52088e02",
@@ -7514,7 +7514,7 @@
      "excerpt": "What support is needed to help vendors choose precise commodity codes (guided selection, examples, code validation) and keep profiles up to date across iSupplier and OMBD?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:b7c21007f469",
@@ -7532,7 +7532,7 @@
      "excerpt": "What are the most common first-time errors (e.g., starting work before permits, skipping CZC, wrong occupancy type) that we should preempt with questions/tooltips?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:b8041ea52573",
@@ -7550,7 +7550,7 @@
      "excerpt": "What procurement guidance patterns from the Boston Supplier Portal and Long Beach Buys, such as onboarding flows and vendor help content, should be adapted for Richmond’s specific terminology and statutory context (e.g., VPPA, City Code Ch. 21)?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:b8153b843a5e",
@@ -7571,7 +7571,7 @@
      "sourceTitle": "github-misinformation-and-disinformation.md"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:ba85a70557f0",
@@ -7592,7 +7592,7 @@
      "sourceTitle": "Patent Mapping 2025: Cut Prior Art Search Time by 70% - Patsnap"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:bb15e4d2430a",
@@ -7610,7 +7610,7 @@
      "excerpt": "eVA used by Richmond regional entities (e.g., RAA)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:bb8c4e850647",
@@ -7628,7 +7628,7 @@
      "excerpt": "What OMBD directory fields (via B2Gnow) can be used for matching (commodities, certifications, geographies), and can we automate refreshes (API/scheduled export)?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:bbfabbf0f96e",
@@ -7646,7 +7646,7 @@
      "excerpt": "How will the tool's notification system be designed to ensure fairness, guaranteeing that all users receive critical updates like addenda or deadline changes promptly and simultaneously to avoid advantaging firms that are already better connected?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:bc89e94359fe",
@@ -7666,7 +7666,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:bcf1f9af1593",
@@ -7687,7 +7687,7 @@
      "sourceTitle": "2128-“Printed Publications” as Prior Art"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:be8d5ddbbe66",
@@ -7705,7 +7705,7 @@
      "excerpt": "OMBD maintains MBE/ESB directory"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:bf1043a67482",
@@ -7723,7 +7723,7 @@
      "excerpt": "What specific barriers did Richmond’s past disparity or availability studies identify (e.g., underutilization in certain industries, complex procedural hurdles) that the navigator can be designed to specifically mitigate through features like tutorials, terminology glossaries, or bid/no-bid wizards?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:c14f6122fe18",
@@ -7744,7 +7744,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:c2d9036df8b6",
@@ -7765,7 +7765,7 @@
      "sourceTitle": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:c5075767b270",
@@ -7786,7 +7786,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:c5b755b02324",
@@ -7804,7 +7804,7 @@
      "excerpt": "OMBD maintains MBE/ESB directory"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:c638b7fb1cb6",
@@ -7822,7 +7822,7 @@
      "excerpt": "What privacy/PII constraints apply to storing contact emails/phone numbers and sending notifications; is vendor opt-in required and how is consent captured/logged?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:c74b588bf17a",
@@ -7840,7 +7840,7 @@
      "excerpt": "Is there a public data feed or API for Richmond’s OpenGov portal that provides access to projects, Q&A, addenda, and awards? What are the rate limits and terms of use?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:c7704f7e6f13",
@@ -7861,7 +7861,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:ca72e7d9e31c",
@@ -7882,7 +7882,7 @@
      "sourceTitle": "github-misinformation-and-disinformation.md"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:cb9208e473c6",
@@ -7900,7 +7900,7 @@
      "excerpt": "Which taxonomy should the dashboard standardize on for matching—NIGP (used by eVA/OpenGov postings) vs any NAICS captured in OMBD/B2Gnow—and what is the approved crosswalk for code normalization?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:cc02b8d76ed3",
@@ -7921,7 +7921,7 @@
      "sourceTitle": "Ultimate Guide to AI-Based Prior Art Visualization - Patently"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:cc42c70f9513",
@@ -7939,7 +7939,7 @@
      "excerpt": "Does the OMBD’s MBD directory, hosted on diversitycompliance.com, expose an API or data export for firm capabilities, NAICS codes, or NIGP codes to enable capability matching?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:cf38ebf035d3",
@@ -7960,7 +7960,7 @@
      "sourceTitle": "Ultimate Guide to AI-Based Prior Art Visualization - Patently"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:cf7c68f6baa5",
@@ -7978,7 +7978,7 @@
      "excerpt": "City of Richmond Contracts/Spending (Socrata)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:d1147d1ff8a5",
@@ -7999,7 +7999,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:d5bdafc882ca",
@@ -8017,7 +8017,7 @@
      "excerpt": "Virginia ABC Retail License"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:d5faf9e40f5e",
@@ -8038,7 +8038,7 @@
      "sourceTitle": "Royal Archetypes - Metaphor: ReFantazio Guide - IGN"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:d7b04951f875",
@@ -8056,7 +8056,7 @@
      "excerpt": "Anxiety and fear of non-compliance"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:d7e79d4956e1",
@@ -8077,7 +8077,7 @@
      "sourceTitle": "Royal Archetypes - Metaphor: ReFantazio Guide - IGN"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:d83f14cdf6a7",
@@ -8095,7 +8095,7 @@
      "excerpt": "What single sign-on (if any) is available across Oracle iSupplier, OpenGov, and B2Gnow for staff, and what’s the lowest-friction approach for logging outreach in the source system of record?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:d9140887f8a3",
@@ -8113,7 +8113,7 @@
      "excerpt": "Can eVA’s existing NIGP alert capabilities be leveraged or mirrored just for City of Richmond opportunities to reduce duplication and vendor fatigue?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:d9a9a7aceca5",
@@ -8134,7 +8134,7 @@
      "sourceTitle": "Identity Theft Red Flags Rules"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:da4acb7bc600",
@@ -8155,7 +8155,7 @@
      "sourceTitle": "Small-sided games in volleyball: A systematic review of the state of"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:db0fc8a4baa0",
@@ -8173,7 +8173,7 @@
      "excerpt": "For primary personas like emerging MBEs versus experienced primes, what search filters are most critical locally (e.g., filtering by department, commodity code, small purchase thresholds, bonding requirements)?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:dbab23b7ef89",
@@ -8191,7 +8191,7 @@
      "excerpt": "VDH Food Establishment Permit (RCHD)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:dc7099b7d495",
@@ -8212,7 +8212,7 @@
      "sourceTitle": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:dc9670501be8",
@@ -8233,7 +8233,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:e086ed221052",
@@ -8254,7 +8254,7 @@
      "sourceTitle": "Identity Theft Red Flags Rules"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:e108d3d8c782",
@@ -8272,7 +8272,7 @@
      "excerpt": "Can the RVA Business Portal (2025) surface machine-readable statuses for BPOL filings to the wizard for real-time checklist updates?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:e21f0d7424a5",
@@ -8290,7 +8290,7 @@
      "excerpt": "Food establishment plan review: submit permit at least 30 days before opening"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:e8bed7f2a99a",
@@ -8311,7 +8311,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:e92b66ae46a7",
@@ -8329,7 +8329,7 @@
      "excerpt": "Anxiety and fear of non-compliance"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:eb736029e54e",
@@ -8347,7 +8347,7 @@
      "excerpt": "BPOL new-business incentive: $30 flat for first 2 years"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:ed7865aec9bc",
@@ -8365,7 +8365,7 @@
      "excerpt": "OMBD MBE/ESB Supplier & Diversity Portal"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:ed7bf5718ec2",
@@ -8386,7 +8386,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:ef595f77a266",
@@ -8404,7 +8404,7 @@
      "excerpt": "City Vendor iSupplier Portal"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:effd7f8dbb6b",
@@ -8422,7 +8422,7 @@
      "excerpt": "What vendor attributes are available from Oracle iSupplier for matching (commodity codes, business categories, address, SWaM/MBE flags) and are there read-only interfaces or exports?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:f116e6f79620",
@@ -8440,7 +8440,7 @@
      "excerpt": "Which municipalities using OpenGov or statewide systems like eVA have implemented commodity-code matching or supplier recommendation tools, and what were their measured outcomes (increased MBE bids/awards, reduced time-to-award)?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:f3c25612093a",
@@ -8458,7 +8458,7 @@
      "excerpt": "BPOL Tax Incentive Program (New Business)"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:f5db80c02f8a",
@@ -8476,7 +8476,7 @@
      "excerpt": "What language access is most needed (e.g., Spanish, Arabic) based on OMBD's engagement with the community? Are there specific Title VI requirements for the tool's content?"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:f7490807c939",
@@ -8497,7 +8497,7 @@
      "sourceTitle": "ArcheType uses LLMs to automatically assign custom"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:f7ff31e1c246",
@@ -8517,7 +8517,7 @@
      "sourceTitle": "Open Data Portal | City of Richmond, Virginia | Open Data"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:f8112bea437e",
@@ -8538,7 +8538,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:f8a40e47374f",
@@ -8559,7 +8559,7 @@
      "sourceTitle": "Ultimate Guide to AI-Based Prior Art Visualization - Patently"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:fa09894c60fc",
@@ -8577,7 +8577,7 @@
      "excerpt": "Unclear dependencies and mismatched timelines"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:faa868f7aac9",
@@ -8598,7 +8598,7 @@
      "sourceTitle": "Patent Mapping 2025: Cut Prior Art Search Time by 70% - Patsnap"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:fc04eb2b93f2",
@@ -8619,7 +8619,7 @@
      "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:fc78c03fb64a",
@@ -8640,7 +8640,7 @@
      "sourceTitle": "Ultimate Guide to AI-Based Prior Art Visualization - Patently"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   },
   {
    "id": "e:fffcc1768e5d",
@@ -8661,7 +8661,7 @@
      "sourceTitle": "Master Plan - Richmond 300"
     }
    ],
-   "extractedAt": "2026-08-03T01:24:07.192Z"
+   "extractedAt": "2026-08-03T02:19:52.436Z"
   }
  ],
  "financialFlows": []
