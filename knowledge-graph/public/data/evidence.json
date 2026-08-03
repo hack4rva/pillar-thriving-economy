@@ -148,5 +148,1724 @@
     "excerpt": "ABC licensing: up to 60-day processing; 10 consecutive days public notice; 30-day objection window"
    }
   ]
+ },
+ {
+  "id": "ev:R-1",
+  "claim": "**Citation Integration:** Authoritative sources, including Scribbr's research question guidelines and peer-reviewed studies on pedagogy , were integrated to establish credibility.",
+  "status": "confirmed",
+  "source": "10 Research Question Examples to Guide your Research Project",
+  "url": "https://www.scribbr.com/research-process/research-question-examples/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/90_top_10_research_questions.md",
+    "sourceLocation": "lines 12-12",
+    "excerpt": "* **Citation Integration:** Authoritative sources, including Scribbr's research question guidelines [1] and peer-reviewed studies on pedagogy [2], were integrated to establish credibility.",
+    "url": "https://www.scribbr.com/research-process/research-question-examples/",
+    "sourceTitle": "10 Research Question Examples to Guide your Research Project"
+   }
+  ],
+  "notes": "Cites 2 sources: https://www.scribbr.com/research-process/research-question-examples/ https://pmc.ncbi.nlm.nih.gov/articles/PMC9536375/"
+ },
+ {
+  "id": "ev:R-2",
+  "claim": "Takeaway:* The integration of these specific, source-backed questions transforms the document from a structural shell into a valuable research asset, covering diverse fields from machine learning to sports pedagogy .",
+  "status": "confirmed",
+  "source": "facebookresearch/DrQA: Reading Wikipedia to Answer ... - GitHub",
+  "url": "https://github.com/facebookresearch/DrQA",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/90_top_10_research_questions.md",
+    "sourceLocation": "lines 35-35",
+    "excerpt": "*Takeaway:* The integration of these specific, source-backed questions transforms the document from a structural shell into a valuable research asset, covering diverse fields from machine learning [4] to sports pedagogy [2].",
+    "url": "https://github.com/facebookresearch/DrQA",
+    "sourceTitle": "facebookresearch/DrQA: Reading Wikipedia to Answer ... - GitHub"
+   }
+  ],
+  "notes": "Cites 2 sources: https://github.com/facebookresearch/DrQA https://pmc.ncbi.nlm.nih.gov/articles/PMC9536375/"
+ },
+ {
+  "id": "ev:R-3",
+  "claim": "All temporal references within the document have been standardized to the ISO-8601 format (YYYY-MM-DD). For instances where only the year and month are known, the YYYY-MM format is applied. The document's primary metadata date has been set to 2026-03-24. Citations have been embedded using standard academic referencing formats, ensuring that claims—such as the pedagogical benefits of small-sided games in volleyball or the utility of R Markdown for academic formatting —are easily verifiable.",
+  "status": "confirmed",
+  "source": "Small-sided games in volleyball: A systematic review of the state of",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9536375/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/90_top_10_research_questions.md",
+    "sourceLocation": "lines 39-39",
+    "excerpt": "All temporal references within the document have been standardized to the ISO-8601 format (YYYY-MM-DD). For instances where only the year and month are known, the YYYY-MM format is applied. The document's primary metadata date has been set to 2026-03-24. Citations have been embedded using standard academic referencing formats, ensuring that claims—such as the pedagogical benefits of small-sided ga",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9536375/",
+    "sourceTitle": "Small-sided games in volleyball: A systematic review of the state of"
+   }
+  ],
+  "notes": "Cites 2 sources: https://pmc.ncbi.nlm.nih.gov/articles/PMC9536375/ https://www.reddit.com/r/Markdown/comments/sdkxtp/outside_of_reddit_what_do_you_use_markdown_for/"
+ },
+ {
+  "id": "ev:R-4",
+  "claim": "A comprehensive review of all embedded URLs and references was conducted. Broken links to outdated repositories or deleted forum threads were removed or replaced with stable, authoritative alternatives. For example, the reference to research question formulation is now securely backed by the Scribbr guide , ensuring readers have access to reliable supplementary material.",
+  "status": "likely",
+  "source": "10 Research Question Examples to Guide your Research Project",
+  "url": "https://www.scribbr.com/research-process/research-question-examples/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/90_top_10_research_questions.md",
+    "sourceLocation": "lines 47-47",
+    "excerpt": "A comprehensive review of all embedded URLs and references was conducted. Broken links to outdated repositories or deleted forum threads were removed or replaced with stable, authoritative alternatives. For example, the reference to research question formulation is now securely backed by the Scribbr guide [1], ensuring readers have access to reliable supplementary material.",
+    "url": "https://www.scribbr.com/research-process/research-question-examples/",
+    "sourceTitle": "10 Research Question Examples to Guide your Research Project"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-5",
+  "claim": "(Items 1-20 are derived from FTC Section II (c) examples and FINRA watch-list guidance .)*",
+  "status": "confirmed",
+  "source": "Watch for Red Flags",
+  "url": "https://www.finra.org/investors/protect-your-money/watch-red-flags",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/92_red_flags.md",
+    "sourceLocation": "lines 53-53",
+    "excerpt": "*(Items 1-20 are derived from FTC Section II (c) examples and FINRA watch-list guidance [2] [1].)*",
+    "url": "https://www.finra.org/investors/protect-your-money/watch-red-flags",
+    "sourceTitle": "Watch for Red Flags"
+   }
+  ],
+  "notes": "Cites 2 sources: https://www.finra.org/investors/protect-your-money/watch-red-flags https://www.sec.gov/files/rules/final/2013/34-69359.pdf"
+ },
+ {
+  "id": "ev:R-6",
+  "claim": "(Based on FFIEC \"suspicious documents\" narrative and SEC red-flag guidance .)*",
+  "status": "confirmed",
+  "source": "Identity Theft Red Flags Rules",
+  "url": "https://www.sec.gov/files/rules/final/2013/34-69359.pdf",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/92_red_flags.md",
+    "sourceLocation": "lines 64-64",
+    "excerpt": "*(Based on FFIEC \"suspicious documents\" narrative and SEC red-flag guidance [1] [3].)*",
+    "url": "https://www.sec.gov/files/rules/final/2013/34-69359.pdf",
+    "sourceTitle": "Identity Theft Red Flags Rules"
+   }
+  ],
+  "notes": "Cites 2 sources: https://www.sec.gov/files/rules/final/2013/34-69359.pdf https://bsaaml.ffiec.gov/manual/Appendices/07"
+ },
+ {
+  "id": "ev:R-7",
+  "claim": "**Governance** – Secure board approval of the written Identity-Theft Prevention Program (required by FTC) .",
+  "status": "confirmed",
+  "source": "Identity Theft Red Flags Rules",
+  "url": "https://www.sec.gov/files/rules/final/2013/34-69359.pdf",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/92_red_flags.md",
+    "sourceLocation": "lines 129-129",
+    "excerpt": "1. **Governance** – Secure board approval of the written Identity-Theft Prevention Program (required by FTC) [1].",
+    "url": "https://www.sec.gov/files/rules/final/2013/34-69359.pdf",
+    "sourceTitle": "Identity Theft Red Flags Rules"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-8",
+  "claim": "**Continuous Update** – Review and refresh the red-flag list annually, incorporating new FFIEC advisories or FTC updates .",
+  "status": "confirmed",
+  "source": "Identity Theft Red Flags Rules",
+  "url": "https://www.sec.gov/files/rules/final/2013/34-69359.pdf",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/92_red_flags.md",
+    "sourceLocation": "lines 135-135",
+    "excerpt": "7. **Continuous Update** – Review and refresh the red-flag list annually, incorporating new FFIEC advisories or FTC updates [1] [3].",
+    "url": "https://www.sec.gov/files/rules/final/2013/34-69359.pdf",
+    "sourceTitle": "Identity Theft Red Flags Rules"
+   }
+  ],
+  "notes": "Cites 2 sources: https://www.sec.gov/files/rules/final/2013/34-69359.pdf https://bsaaml.ffiec.gov/manual/Appendices/07"
+ },
+ {
+  "id": "ev:R-9",
+  "claim": "This report provides a comprehensive blueprint for eradicating these information gaps. By implementing a \"Zero-Placeholders\" policy, standardizing markdown formatting (such as utilizing double spaces for line breaks ), and enforcing strict AI-generated content disclaimers , organizations can drastically reduce release latency. Pilot programs have already demonstrated a 40% reduction in time-to-merge when automated remediation and strict pre-commit hooks are applied.",
+  "status": "likely",
+  "source": "Basic writing and formatting syntax - GitHub Docs",
+  "url": "https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/93_missing_information_gaps.md",
+    "sourceLocation": "lines 9-9",
+    "excerpt": "This report provides a comprehensive blueprint for eradicating these information gaps. By implementing a \"Zero-Placeholders\" policy, standardizing markdown formatting (such as utilizing double spaces for line breaks [1]), and enforcing strict AI-generated content disclaimers [2], organizations can drastically reduce release latency. Pilot programs have already demonstrated a 40% reduction in time-",
+    "url": "https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+    "sourceTitle": "Basic writing and formatting syntax - GitHub Docs"
+   }
+  ],
+  "notes": "Cites 2 sources: https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax https://github.com/github/docs/blob/main/content/site-policy/acceptable-use-policies/github-misinformation-and-disinformation.md"
+ },
+ {
+  "id": "ev:R-10",
+  "claim": "*Compliance and Legal Exposure:** The failure to replace AI-disclaimer stubs with proper legal text exposes the organization to platform penalties. For instance, GitHub's acceptable use policies strictly govern misinformation and manipulated media . Publishing AI-generated content without the required disclosures violates these terms.",
+  "status": "likely",
+  "source": "github-misinformation-and-disinformation.md",
+  "url": "https://github.com/github/docs/blob/main/content/site-policy/acceptable-use-policies/github-misinformation-and-disinformation.md",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/93_missing_information_gaps.md",
+    "sourceLocation": "lines 44-44",
+    "excerpt": "**Compliance and Legal Exposure:** The failure to replace AI-disclaimer stubs with proper legal text exposes the organization to platform penalties. For instance, GitHub's acceptable use policies strictly govern misinformation and manipulated media [2]. Publishing AI-generated content without the required disclosures violates these terms.",
+    "url": "https://github.com/github/docs/blob/main/content/site-policy/acceptable-use-policies/github-misinformation-and-disinformation.md",
+    "sourceTitle": "github-misinformation-and-disinformation.md"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-11",
+  "claim": "**Markdown Linting Standards:** Enforce strict markdown formatting rules to prevent rendering bugs. For example, to create a line break in an `.md` file, authors must include two spaces at the end of the line .",
+  "status": "likely",
+  "source": "Basic writing and formatting syntax - GitHub Docs",
+  "url": "https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/93_missing_information_gaps.md",
+    "sourceLocation": "lines 55-55",
+    "excerpt": "* **Markdown Linting Standards:** Enforce strict markdown formatting rules to prevent rendering bugs. For example, to create a line break in an `.md` file, authors must include two spaces at the end of the line [1].",
+    "url": "https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+    "sourceTitle": "Basic writing and formatting syntax - GitHub Docs"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-12",
+  "claim": "**AI Disclaimer Standard:** Replace all disclaimer stubs with the full, legally approved text required by platform policies regarding AI-generated content .",
+  "status": "likely",
+  "source": "github-misinformation-and-disinformation.md",
+  "url": "https://github.com/github/docs/blob/main/content/site-policy/acceptable-use-policies/github-misinformation-and-disinformation.md",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/93_missing_information_gaps.md",
+    "sourceLocation": "lines 56-56",
+    "excerpt": "* **AI Disclaimer Standard:** Replace all disclaimer stubs with the full, legally approved text required by platform policies regarding AI-generated content [2].",
+    "url": "https://github.com/github/docs/blob/main/content/site-policy/acceptable-use-policies/github-misinformation-and-disinformation.md",
+    "sourceTitle": "github-misinformation-and-disinformation.md"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-13",
+  "claim": "**CI Lint Stage:** Configure `markdownlint` to enforce spacing, line-break , and code-block rules automatically during the CI build.",
+  "status": "likely",
+  "source": "Basic writing and formatting syntax - GitHub Docs",
+  "url": "https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/93_missing_information_gaps.md",
+    "sourceLocation": "lines 63-63",
+    "excerpt": "* **CI Lint Stage:** Configure `markdownlint` to enforce spacing, line-break [1], and code-block rules automatically during the CI build.",
+    "url": "https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+    "sourceTitle": "Basic writing and formatting syntax - GitHub Docs"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-14",
+  "claim": "This document maps the major archetype categories used in contemporary prior-art analysis to the underlying data-source structures, including patent families, citation networks, AI-generated visualisations, and domain-specific taxonomies. By standardising these classifications, patent analysts and IP strategists can reduce prior-art search times by up to 60-70% . This reference clarifies terminology, highlights common pitfalls, and points to authoritative resources for further exploration, ensuring that teams can transition from manual keyword scans to multi-modal mapping frameworks efficiently.",
+  "status": "likely",
+  "source": "Patent Mapping 2025: Cut Prior Art Search Time by 70% - Patsnap",
+  "url": "https://www.patsnap.com/resources/blog/articles/patent-mapping-guide-2025/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E3_prior_art_archetype_mapping.md",
+    "sourceLocation": "lines 9-9",
+    "excerpt": "This document maps the major archetype categories used in contemporary prior-art analysis to the underlying data-source structures, including patent families, citation networks, AI-generated visualisations, and domain-specific taxonomies. By standardising these classifications, patent analysts and IP strategists can reduce prior-art search times by up to 60-70% [1]. This reference clarifies termin",
+    "url": "https://www.patsnap.com/resources/blog/articles/patent-mapping-guide-2025/",
+    "sourceTitle": "Patent Mapping 2025: Cut Prior Art Search Time by 70% - Patsnap"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-15",
+  "claim": "Prior-art searches have evolved from manual keyword scans to multi-modal mapping frameworks that combine relational databases, AI-driven visualisation, and domain-specific ontologies . Understanding the archetype taxonomy—the reusable patterns of how prior-art information is organised—enables faster, more accurate searches and clearer communication of findings.",
+  "status": "likely",
+  "source": "Ultimate Guide to AI-Based Prior Art Visualization - Patently",
+  "url": "https://patently.com/industry-news/prior-art-visualization-ai-based-guide",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E3_prior_art_archetype_mapping.md",
+    "sourceLocation": "lines 13-13",
+    "excerpt": "Prior-art searches have evolved from manual keyword scans to multi-modal mapping frameworks that combine relational databases, AI-driven visualisation, and domain-specific ontologies [2] [3]. Understanding the archetype taxonomy—the reusable patterns of how prior-art information is organised—enables faster, more accurate searches and clearer communication of findings.",
+    "url": "https://patently.com/industry-news/prior-art-visualization-ai-based-guide",
+    "sourceTitle": "Ultimate Guide to AI-Based Prior Art Visualization - Patently"
+   }
+  ],
+  "notes": "Cites 2 sources: https://patently.com/industry-news/prior-art-visualization-ai-based-guide https://www.nature.com/articles/s40494-025-02210-y.pdf"
+ },
+ {
+  "id": "ev:R-16",
+  "claim": "\"This work presents an archetype relational mapping (ARM) persistence solution based on a relational database that can achieve similar performance to specialised graph databases while remaining compatible with existing relational infrastructures.\" – *Springer, 2015*",
+  "status": "likely",
+  "source": "Archetype relational mapping - a practical openEHR persistence",
+  "url": "https://link.springer.com/article/10.1186/s12911-015-0212-0",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E3_prior_art_archetype_mapping.md",
+    "sourceLocation": "lines 15-15",
+    "excerpt": "> \"This work presents an archetype relational mapping (ARM) persistence solution based on a relational database that can achieve similar performance to specialised graph databases while remaining compatible with existing relational infrastructures.\" – *Springer, 2015* [4]",
+    "url": "https://link.springer.com/article/10.1186/s12911-015-0212-0",
+    "sourceTitle": "Archetype relational mapping - a practical openEHR persistence"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-17",
+  "claim": "The following taxonomy categorises the primary structures used in prior-art mapping. The naming convention mirrors the archetype hierarchy identified in popular media (such as the *Metaphor: ReFantazio* community), where categories denote increasingly rare and powerful entities .",
+  "status": "likely",
+  "source": "Royal Archetypes - Metaphor: ReFantazio Guide - IGN",
+  "url": "https://www.ign.com/wikis/metaphor-refantazio/Royal_Archetypes",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E3_prior_art_archetype_mapping.md",
+    "sourceLocation": "lines 19-19",
+    "excerpt": "The following taxonomy categorises the primary structures used in prior-art mapping. The naming convention mirrors the archetype hierarchy identified in popular media (such as the *Metaphor: ReFantazio* community), where categories denote increasingly rare and powerful entities [5] [6] [7].",
+    "url": "https://www.ign.com/wikis/metaphor-refantazio/Royal_Archetypes",
+    "sourceTitle": "Royal Archetypes - Metaphor: ReFantazio Guide - IGN"
+   }
+  ],
+  "notes": "Cites 3 sources: https://www.ign.com/wikis/metaphor-refantazio/Royal_Archetypes https://www.rockpapershotgun.com/metaphor-refantazio-all-archetypes-list https://game8.co/games/Metaphor-ReFantazio/archives/474598"
+ },
+ {
+  "id": "ev:R-18",
+  "claim": "**AI-Enrichment** – Run a transformer-based similarity model to generate the **Elite** visual overlay. Tools like Patently turn patent documents into interactive maps and citation networks to speed prior art searches .",
+  "status": "likely",
+  "source": "Ultimate Guide to AI-Based Prior Art Visualization - Patently",
+  "url": "https://patently.com/industry-news/prior-art-visualization-ai-based-guide",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E3_prior_art_archetype_mapping.md",
+    "sourceLocation": "lines 37-37",
+    "excerpt": "4. **AI-Enrichment** – Run a transformer-based similarity model to generate the **Elite** visual overlay. Tools like Patently turn patent documents into interactive maps and citation networks to speed prior art searches [2].",
+    "url": "https://patently.com/industry-news/prior-art-visualization-ai-based-guide",
+    "sourceTitle": "Ultimate Guide to AI-Based Prior Art Visualization - Patently"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-19",
+  "claim": "**Patsnap** – Patent mapping reduces prior art search time by 60-70%, enabling faster patentability assessments .",
+  "status": "likely",
+  "source": "Patent Mapping 2025: Cut Prior Art Search Time by 70% - Patsnap",
+  "url": "https://www.patsnap.com/resources/blog/articles/patent-mapping-guide-2025/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E3_prior_art_archetype_mapping.md",
+    "sourceLocation": "lines 41-41",
+    "excerpt": "- **Patsnap** – Patent mapping reduces prior art search time by 60-70%, enabling faster patentability assessments [1].",
+    "url": "https://www.patsnap.com/resources/blog/articles/patent-mapping-guide-2025/",
+    "sourceTitle": "Patent Mapping 2025: Cut Prior Art Search Time by 70% - Patsnap"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-20",
+  "claim": "**ArcheType** – An open-source framework for column type annotation using large language models, useful for automated data tagging .",
+  "status": "likely",
+  "source": "ArcheType uses LLMs to automatically assign custom",
+  "url": "https://github.com/penfever/ArcheType",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E3_prior_art_archetype_mapping.md",
+    "sourceLocation": "lines 42-42",
+    "excerpt": "- **ArcheType** – An open-source framework for column type annotation using large language models, useful for automated data tagging [8].",
+    "url": "https://github.com/penfever/ArcheType",
+    "sourceTitle": "ArcheType uses LLMs to automatically assign custom"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-21",
+  "claim": "**Integrate AI visualisations early** (post-citation graph) to surface hidden cross-domain links and reduce overall search time by up to 70% .",
+  "status": "likely",
+  "source": "Patent Mapping 2025: Cut Prior Art Search Time by 70% - Patsnap",
+  "url": "https://www.patsnap.com/resources/blog/articles/patent-mapping-guide-2025/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E3_prior_art_archetype_mapping.md",
+    "sourceLocation": "lines 74-74",
+    "excerpt": "2. **Integrate AI visualisations early** (post-citation graph) to surface hidden cross-domain links and reduce overall search time by up to 70% [1].",
+    "url": "https://www.patsnap.com/resources/blog/articles/patent-mapping-guide-2025/",
+    "sourceTitle": "Patent Mapping 2025: Cut Prior Art Search Time by 70% - Patsnap"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-22",
+  "claim": "**Helsinn Healthcare S.A. v. Teva** (U.S. Supreme Ct., 2019) – *On-sale* bar applies even when the sale is confidential; the \"otherwise available to the public\" phrase in the AIA does **not** narrow the on-sale definition .",
+  "status": "confirmed",
+  "source": "17-1229 Helsinn Healthcare S. A. v. Teva Pharmaceuticals",
+  "url": "https://supreme.justia.com/cases/federal/us/586/17-1229/case.pdf",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E4_prior_art_pitfalls.md",
+    "sourceLocation": "lines 46-46",
+    "excerpt": "1. **Helsinn Healthcare S.A. v. Teva** (U.S. Supreme Ct., 2019) – *On-sale* bar applies even when the sale is confidential; the \"otherwise available to the public\" phrase in the AIA does **not** narrow the on-sale definition [4] [5].",
+    "url": "https://supreme.justia.com/cases/federal/us/586/17-1229/case.pdf",
+    "sourceTitle": "17-1229 Helsinn Healthcare S. A. v. Teva Pharmaceuticals"
+   }
+  ],
+  "notes": "Cites 2 sources: https://supreme.justia.com/cases/federal/us/586/17-1229/case.pdf https://www.uspto.gov/sites/default/files/documents/helsinn_memo_2019feb19.pdf"
+ },
+ {
+  "id": "ev:R-23",
+  "claim": "**Pfaff v. Wells Electronics** (U.S. Supreme Ct., 1998) – *Secret commercial use* can be an on-sale bar .",
+  "status": "likely",
+  "source": "17-1229 Helsinn Healthcare S. A. v. Teva Pharmaceuticals",
+  "url": "https://supreme.justia.com/cases/federal/us/586/17-1229/case.pdf",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E4_prior_art_pitfalls.md",
+    "sourceLocation": "lines 47-47",
+    "excerpt": "2. **Pfaff v. Wells Electronics** (U.S. Supreme Ct., 1998) – *Secret commercial use* can be an on-sale bar [4].",
+    "url": "https://supreme.justia.com/cases/federal/us/586/17-1229/case.pdf",
+    "sourceTitle": "17-1229 Helsinn Healthcare S. A. v. Teva Pharmaceuticals"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-24",
+  "claim": "**Blue Calypso** (Fed. Cir., 2015) – *Public accessibility* is the \"touchstone\" for determining a printed publication .",
+  "status": "confirmed",
+  "source": "2128-“Printed Publications” as Prior Art",
+  "url": "https://www.uspto.gov/web/offices/pac/mpep/s2128.html",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E4_prior_art_pitfalls.md",
+    "sourceLocation": "lines 48-48",
+    "excerpt": "3. **Blue Calypso** (Fed. Cir., 2015) – *Public accessibility* is the \"touchstone\" for determining a printed publication [1].",
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s2128.html",
+    "sourceTitle": "2128-“Printed Publications” as Prior Art"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-25",
+  "claim": "To **exclude** an inventor-originated disclosure within the grace period (§ 102(b)(1)(A)) .",
+  "status": "confirmed",
+  "source": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA",
+  "url": "https://www.uspto.gov/web/offices/pac/mpep/s2153.html",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E4_prior_art_pitfalls.md",
+    "sourceLocation": "lines 58-58",
+    "excerpt": "- To **exclude** an inventor-originated disclosure within the grace period (§ 102(b)(1)(A)) [3] [6].",
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s2153.html",
+    "sourceTitle": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA"
+   }
+  ],
+  "notes": "Cites 2 sources: https://www.uspto.gov/web/offices/pac/mpep/s2153.html https://www.law.cornell.edu/cfr/text/37/1.130"
+ },
+ {
+  "id": "ev:R-26",
+  "claim": "To **disqualify** a reference that was **obtained directly from the inventor** (§ 102(b)(2)(A)) .",
+  "status": "confirmed",
+  "source": "2152-Detailed Discussion of AIA 35 U.S.C. 102(a) and (b)",
+  "url": "https://www.uspto.gov/web/offices/pac/mpep/s2152.html",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E4_prior_art_pitfalls.md",
+    "sourceLocation": "lines 59-59",
+    "excerpt": "- To **disqualify** a reference that was **obtained directly from the inventor** (§ 102(b)(2)(A)) [2] [6].",
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s2152.html",
+    "sourceTitle": "2152-Detailed Discussion of AIA 35 U.S.C. 102(a) and (b)"
+   }
+  ],
+  "notes": "Cites 2 sources: https://www.uspto.gov/web/offices/pac/mpep/s2152.html https://www.law.cornell.edu/cfr/text/37/1.130"
+ },
+ {
+  "id": "ev:R-27",
+  "claim": "Identify the subject matter and exact disclosure date .",
+  "status": "likely",
+  "source": "37 CFR § 1.130 - Affidavit or declaration of attribution or prior",
+  "url": "https://www.law.cornell.edu/cfr/text/37/1.130",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E4_prior_art_pitfalls.md",
+    "sourceLocation": "lines 62-62",
+    "excerpt": "- Identify the subject matter and exact disclosure date [6].",
+    "url": "https://www.law.cornell.edu/cfr/text/37/1.130",
+    "sourceTitle": "37 CFR § 1.130 - Affidavit or declaration of attribution or prior"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-28",
+  "claim": "Attach a **copy of the printed publication** (if any) .",
+  "status": "likely",
+  "source": "37 CFR § 1.130 - Affidavit or declaration of attribution or prior",
+  "url": "https://www.law.cornell.edu/cfr/text/37/1.130",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E4_prior_art_pitfalls.md",
+    "sourceLocation": "lines 63-63",
+    "excerpt": "- Attach a **copy of the printed publication** (if any) [6].",
+    "url": "https://www.law.cornell.edu/cfr/text/37/1.130",
+    "sourceTitle": "37 CFR § 1.130 - Affidavit or declaration of attribution or prior"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-29",
+  "claim": "Provide a **statement of attribution** (inventor, joint inventor, or derived from them) .",
+  "status": "likely",
+  "source": "37 CFR § 1.130 - Affidavit or declaration of attribution or prior",
+  "url": "https://www.law.cornell.edu/cfr/text/37/1.130",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E4_prior_art_pitfalls.md",
+    "sourceLocation": "lines 64-64",
+    "excerpt": "- Provide a **statement of attribution** (inventor, joint inventor, or derived from them) [6].",
+    "url": "https://www.law.cornell.edu/cfr/text/37/1.130",
+    "sourceTitle": "37 CFR § 1.130 - Affidavit or declaration of attribution or prior"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-30",
+  "claim": "Flag any references published **≤ 1 yr** before filing for possible § 102(b)(1) rebuttal .",
+  "status": "confirmed",
+  "source": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA",
+  "url": "https://www.uspto.gov/web/offices/pac/mpep/s2153.html",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E4_prior_art_pitfalls.md",
+    "sourceLocation": "lines 68-68",
+    "excerpt": "- Flag any references published **≤ 1 yr** before filing for possible § 102(b)(1) rebuttal [3].",
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s2153.html",
+    "sourceTitle": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-31",
+  "claim": "Under the Leahy-Smith America Invents Act (AIA), patent applicants are afforded a one-year grace period for public disclosures under 35 U.S.C. 102(b)(1)(A) . A critical operational question arises when this exact one-year deadline falls on a weekend or federal holiday. According to 37 CFR 1.7 and MPEP 2153, if the one-year grace period ends on a Saturday, Sunday, or federal holiday, the deadline is officially extended to the next succeeding business day . This rule provides a vital strategic buffer for patent practitioners, ensuring that inventors do not lose their grace period simply because the United States Patent and Trademark Office (USPTO) is closed . However, practitioners must carefully navigate filing mechanics, particularly avoiding paper mail deposits on weekends, to ensure the effective filing date is properly recorded without requiring costly petitions for correction .",
+  "status": "confirmed",
+  "source": "r/Patents on Reddit: Does the time in the day of a public disclosure",
+  "url": "https://www.reddit.com/r/Patents/comments/16j05kp/does_the_time_in_the_day_of_a_public_disclosure/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E5_prior_art_weekend_viability.md",
+    "sourceLocation": "lines 7-7",
+    "excerpt": "Under the Leahy-Smith America Invents Act (AIA), patent applicants are afforded a one-year grace period for public disclosures under 35 U.S.C. 102(b)(1)(A) [1] [2]. A critical operational question arises when this exact one-year deadline falls on a weekend or federal holiday. According to 37 CFR 1.7 and MPEP 2153, if the one-year grace period ends on a Saturday, Sunday, or federal holiday, the dea",
+    "url": "https://www.reddit.com/r/Patents/comments/16j05kp/does_the_time_in_the_day_of_a_public_disclosure/",
+    "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
+   }
+  ],
+  "notes": "Cites 6 sources: https://www.reddit.com/r/Patents/comments/16j05kp/does_the_time_in_the_day_of_a_public_disclosure/ https://www.uspto.gov/web/offices/pac/mpep/s2152.html https://www.uspto.gov/web/offices/pac/mpep/s2153.html https://www.law.cornell.edu/cfr/text/37/1.7 https://www.uspto.gov/web/offices/pac/mpep/s505.html https://www.uspto.gov/web/offices/pac/mpep/s512.html"
+ },
+ {
+  "id": "ev:R-32",
+  "claim": "The America Invents Act (AIA) preserved a one-year grace period under 35 U.S.C. 102(b)(1)(A) . When the effective filing date of a patent application is calculated, the deadline is exactly one year after the earliest public disclosure by the inventor, unless an exception applies .",
+  "status": "confirmed",
+  "source": "r/Patents on Reddit: Does the time in the day of a public disclosure",
+  "url": "https://www.reddit.com/r/Patents/comments/16j05kp/does_the_time_in_the_day_of_a_public_disclosure/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E5_prior_art_weekend_viability.md",
+    "sourceLocation": "lines 22-22",
+    "excerpt": "The America Invents Act (AIA) preserved a one-year grace period under 35 U.S.C. 102(b)(1)(A) [1]. When the effective filing date of a patent application is calculated, the deadline is exactly one year after the earliest public disclosure by the inventor, unless an exception applies [2].",
+    "url": "https://www.reddit.com/r/Patents/comments/16j05kp/does_the_time_in_the_day_of_a_public_disclosure/",
+    "sourceTitle": "r/Patents on Reddit: Does the time in the day of a public disclosure"
+   }
+  ],
+  "notes": "Cites 2 sources: https://www.reddit.com/r/Patents/comments/16j05kp/does_the_time_in_the_day_of_a_public_disclosure/ https://www.uspto.gov/web/offices/pac/mpep/s2152.html"
+ },
+ {
+  "id": "ev:R-33",
+  "claim": "A critical exception occurs when that date lands on a non-business day. The one-year grace period in AIA 35 U.S.C. 102(b)(1)(A) is extended to the next succeeding business day if the end of the one-year grace period otherwise falls on a Saturday, Sunday, or federal holiday . This statutory safeguard prevents inventors from being penalized by the USPTO's operating schedule, ensuring they receive the full benefit of the 365-day window to file their application after a public disclosure .",
+  "status": "confirmed",
+  "source": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA",
+  "url": "https://www.uspto.gov/web/offices/pac/mpep/s2153.html",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E5_prior_art_weekend_viability.md",
+    "sourceLocation": "lines 24-24",
+    "excerpt": "A critical exception occurs when that date lands on a non-business day. The one-year grace period in AIA 35 U.S.C. 102(b)(1)(A) is extended to the next succeeding business day if the end of the one-year grace period otherwise falls on a Saturday, Sunday, or federal holiday [3]. This statutory safeguard prevents inventors from being penalized by the USPTO's operating schedule, ensuring they receive",
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s2153.html",
+    "sourceTitle": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA"
+   }
+  ],
+  "notes": "Cites 2 sources: https://www.uspto.gov/web/offices/pac/mpep/s2153.html https://blueironip.com/ufaqs/how-does-the-saturday-sunday-or-federal-holiday-exception-work-for-the-one-year-grace-period/"
+ },
+ {
+  "id": "ev:R-34",
+  "claim": "**Predictability:** Inventors can plan disclosures without fearing a weekend cliff where they effectively lose one or two days of their grace period .",
+  "status": "likely",
+  "source": "How does the Saturday, Sunday, or federal holiday exception work",
+  "url": "https://blueironip.com/ufaqs/how-does-the-saturday-sunday-or-federal-holiday-exception-work-for-the-one-year-grace-period/",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E5_prior_art_weekend_viability.md",
+    "sourceLocation": "lines 40-40",
+    "excerpt": "* **Predictability:** Inventors can plan disclosures without fearing a weekend cliff where they effectively lose one or two days of their grace period [7].",
+    "url": "https://blueironip.com/ufaqs/how-does-the-saturday-sunday-or-federal-holiday-exception-work-for-the-one-year-grace-period/",
+    "sourceTitle": "How does the Saturday, Sunday, or federal holiday exception work"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-35",
+  "claim": "**Determine the critical date:** Take the disclosure date, add one calendar year, then check the day of the week. If it lands on a Saturday, Sunday, or Federal holiday, shift the deadline to the next business day .",
+  "status": "confirmed",
+  "source": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA",
+  "url": "https://www.uspto.gov/web/offices/pac/mpep/s2153.html",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E5_prior_art_weekend_viability.md",
+    "sourceLocation": "lines 49-49",
+    "excerpt": "1. **Determine the critical date:** Take the disclosure date, add one calendar year, then check the day of the week. If it lands on a Saturday, Sunday, or Federal holiday, shift the deadline to the next business day [3] [4].",
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s2153.html",
+    "sourceTitle": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA"
+   }
+  ],
+  "notes": "Cites 2 sources: https://www.uspto.gov/web/offices/pac/mpep/s2153.html https://www.law.cornell.edu/cfr/text/37/1.7"
+ },
+ {
+  "id": "ev:R-36",
+  "claim": "**Document the actual filing date:** The USPTO's Certificate of Mailing or electronic filing timestamp serves as the official record of submission .",
+  "status": "confirmed",
+  "source": "512-Certificate of Mailing or Transmission - USPTO",
+  "url": "https://www.uspto.gov/web/offices/pac/mpep/s512.html",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E5_prior_art_weekend_viability.md",
+    "sourceLocation": "lines 51-51",
+    "excerpt": "2. **Document the actual filing date:** The USPTO's Certificate of Mailing or electronic filing timestamp serves as the official record of submission [6].",
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s512.html",
+    "sourceTitle": "512-Certificate of Mailing or Transmission - USPTO"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-37",
+  "claim": "**Leverage the extension intentionally:** When a disclosure occurs on a Friday, filing on the following Monday (instead of the preceding Friday) still satisfies the one-year deadline, providing an extra weekend buffer for application preparation .",
+  "status": "confirmed",
+  "source": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA",
+  "url": "https://www.uspto.gov/web/offices/pac/mpep/s2153.html",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E5_prior_art_weekend_viability.md",
+    "sourceLocation": "lines 53-53",
+    "excerpt": "3. **Leverage the extension intentionally:** When a disclosure occurs on a Friday, filing on the following Monday (instead of the preceding Friday) still satisfies the one-year deadline, providing an extra weekend buffer for application preparation [3].",
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s2153.html",
+    "sourceTitle": "2153 Prior Art Exceptions Under 35 USC 102(b)(1) to AIA"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-38",
+  "claim": "**Beware of mail-room timing:** Paper filings deposited on a Saturday are not considered received until the next business day, as the USPTO is not open for filing correspondence on weekends .",
+  "status": "confirmed",
+  "source": "505-Date of Receipt Stamp - USPTO",
+  "url": "https://www.uspto.gov/web/offices/pac/mpep/s505.html",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/E5_prior_art_weekend_viability.md",
+    "sourceLocation": "lines 55-55",
+    "excerpt": "4. **Beware of mail-room timing:** Paper filings deposited on a Saturday are not considered received until the next business day, as the USPTO is not open for filing correspondence on weekends [5].",
+    "url": "https://www.uspto.gov/web/offices/pac/mpep/s505.html",
+    "sourceTitle": "505-Date of Receipt Stamp - USPTO"
+   }
+  ]
+ },
+ {
+  "id": "ev:R-39",
+  "claim": "*Description:** This Research Index aggregates all primary research artifacts, analyses, and strategic recommendations for the *Thriving Economy* pillar of Richmond's 300-Year Master Plan . It serves as a single, navigable reference for city officials, program staff, and civic-tech partners seeking to understand problem spaces, user needs, existing services, data assets (such as the City of Richmond Open Data Portal ), and viable rapid-prototype opportunities.",
+  "status": "confirmed",
+  "source": "Master Plan - Richmond 300",
+  "url": "https://www.rva.gov/planning-development-review/master-plan",
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "research/README.md",
+    "sourceLocation": "lines 115-115",
+    "excerpt": "**Description:** This Research Index aggregates all primary research artifacts, analyses, and strategic recommendations for the *Thriving Economy* pillar of Richmond's 300-Year Master Plan [1]. It serves as a single, navigable reference for city officials, program staff, and civic-tech partners seeking to understand problem spaces, user needs, existing services, data assets (such as the City of Ri",
+    "url": "https://www.rva.gov/planning-development-review/master-plan",
+    "sourceTitle": "Master Plan - Richmond 300"
+   }
+  ],
+  "notes": "Cites 2 sources: https://www.rva.gov/planning-development-review/master-plan https://data.richmondgov.com/"
+ },
+ {
+  "id": "ev:P-1",
+  "claim": "The entrepreneurial communities most negatively affected by the current system's complexity are those with systemic disadvantages. This includes founders with limited English proficiency and those without digital access, who face significant friction navigating multiple, English-only government portals (OPP, RVA Business Portal, B2GNow). Low-capital founders, such as those starting home-based businesses, micro-enterprise food operators, and mobile food vendors, are disproportionately impacted by unexpected costs, review delays, and fees. Small, minority-owned contractors are similarly harmed by review delays and missed rebates that affect their thin profit margins. Additionally, founders with limited professional networks or administrative capacity are more likely to miss out on complex incentives like the CARE and Enterprise Zone programs, which have strict eligibility, documentation, a",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/career-bridge/pain_points.md",
+    "sourceLocation": "lines 196-196",
+    "excerpt": "The entrepreneurial communities most negatively affected by the current system's complexity are those with systemic disadvantages. This includes founders with limited English proficiency and those without digital access, who face significant friction navigating multiple, English-only government portals (OPP, RVA Business Portal, B2GNow). Low-capital founders, such as those starting home-based businesses, micro-enterprise food operators, and mobile food vendors, are disproportionately impacted by unexpected costs, review delays, and fees. Small, minority-owned contractors are similarly harmed by review delays and missed rebates that affect their thin profit margins. Additionally, founders with limited professional networks or administrative capacity are more likely to miss out on complex incentives like the CARE and Enterprise Zone programs, which have strict eligibility, documentation, and timing requirements, thus increasing their upfront capital pressure."
+   },
+   {
+    "sourceDoc": "https://richmondombd.diversitycompliance.com/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Sep 15, 2022 — City of Richmond http://www.rva.gov/mbd Our Main Site Supplier Diversity Management System OMBD – Minority Business Enterprise (MBE) REGISTRATION Join our"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Sep 29, 2020 — The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow."
+   },
+   {
+    "sourceDoc": "https://www.richmondeda.com/wp-content/uploads/2024/11/FY25-CARE-Application-and-Guidelines-Package-Fillable.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Eligible Applicants: The legal entity or individual that owns, or leases (with a lease for more than one\nyear) a commercial property within a CARE area; or the legal entity or individual that operates the\nbusiness at the property, as evidenced by a City of Richmond business license, are eligible to apply for\nthe CARE Rebate Program."
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-2",
+  "claim": "When I’m a first-time entrepreneur choosing a location in Richmond",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ibuild/jtbd_analysis.md",
+    "sourceLocation": "lines 23-23",
+    "excerpt": "When I’m a first-time entrepreneur choosing a location in Richmond"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/zoning-administration",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "You can access zoning information for any property in the City through the Zoning Map . Zoning regulates private property, it cannot regulate City streets A Certificate of Occupancy (H-CO) is required for these uses and must be submitted through the Online Permit Portal. Click here to learn more about what is"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "All services are now being processed through the City of Richmond’s Online Permitting Portal (OPP)."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/finance/bpol-tax",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Owners of businesses in the City of Richmond are required to obtain a Richmond business license annually. The business license identifies the business and"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-3",
+  "claim": "When I’m submitting my first applications to the City and State",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ibuild/jtbd_analysis.md",
+    "sourceLocation": "lines 50-50",
+    "excerpt": "When I’m submitting my first applications to the City and State"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC’s), and Plan of Developments (POD’s)."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/finance/bpol-tax",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Owners of businesses in the City of Richmond are required to obtain a Richmond business license annually. The business license identifies the business and"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2023-01/2023%20NewBusinessLicenseApplication.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "❖ License Fee: Businesses with gross receipts greater than or equal to $5,000, but less than. $250,000, pay only the $30 license fee. Businesses with receipts"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-4",
+  "claim": "When I’m preparing to open (e.g., restaurant/retail) in Richmond",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ibuild/jtbd_analysis.md",
+    "sourceLocation": "lines 77-77",
+    "excerpt": "When I’m preparing to open (e.g., restaurant/retail) in Richmond"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "All services are now being processed through the City of Richmond’s Online Permitting Portal (OPP). Processing times for some application types may take as long as 2-3 weeks."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/zoning-administration",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "e **Online Permit Portal (OPP)** shall be used for submitting applications for all Certificates of Zoning Compliances (CZCs"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/finance/bpol-tax",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance."
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-5",
+  "claim": "Entrepreneurs face fragmented and unclear information, making it difficult to find a single, authoritative source that outlines the entire process from zoning verification to obtaining a business license. — Evidence: The research indicates that information is scattered across various city department websites, including the Planning and Development Review and the Department of Finance. This requires entrepreneurs to consult multiple sources to piece together the full scope of requirements. · Cost Of Status Quo: This fragmented process leads to a significant administrative burden, taking time away from critical startup activities. It also creates uncertainty and anxiety, and can lead to costly delays in opening the business if steps are missed or done out of order.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ibuild/pain_points.md",
+    "sourceLocation": "lines 50-50",
+    "excerpt": "Entrepreneurs face fragmented and unclear information, making it difficult to find a single, authoritative source that outlines the entire process from zoning verification to obtaining a business license."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2024-07/20240722%20Customer%20Guide%20-%20COs%20and%20HCOs.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Often for Business or Retail Use this can be done with a Certificate of Zoning. Compliance (CZC). A CZC can be applied for in the Online Permit Portal."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Online Permit Portal: The Online Permit Portal (OPP) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-6",
+  "claim": "There is significant confusion regarding when a Certificate of Zoning Compliance (CZC) is sufficient versus when a more involved Certificate of Occupancy (CO) or a change of occupancy/use permit (HCO) is required. — Evidence: A city guide is mentioned that clarifies the distinction (e.g., CZC for Business/Retail Use, CO/HCO for Assembly/Education), but the fact that a separate guide is needed proves the initial process is not clear to new business owners. · Cost Of Status Quo: The lack of clarity creates a risk of applying for the wrong permit, which can result in wasted time, lost application fees, and significant delays that jeopardize the business's launch timeline and financial stability.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ibuild/pain_points.md",
+    "sourceLocation": "lines 70-70",
+    "excerpt": "There is significant confusion regarding when a Certificate of Zoning Compliance (CZC) is sufficient versus when a more involved Certificate of Occupancy (CO) or a change of occupancy/use permit (HCO) is required."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2024-07/20240722%20Customer%20Guide%20-%20COs%20and%20HCOs.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "***Owner or Tenant Changes requiring a Certificate of Occupancy***\nThese may be requested when a Business has to present a CO.\nOften for Business or Retail Use this can be done with a Certificate of Zoning\nCompliance (CZC). A CZC can be applied for in the Online Permit Portal.\nHowever, for Assembly, Education, and Institutional Uses, the CO must be obtained\nvia the HCO process, outlined here."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "... Certificates of Zoning Compliance (CZC's), and Plan of Developments (POD's). Verifying Business Licenses: The City Finance Business Unit has Customer "
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Feb 28, 2022 — The CZC application is typically a one-time only process that lasts for the duration of the business, with some exceptions. You are required to apply for a NEW"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-7",
+  "claim": "Entrepreneurs experience anxiety due to uncertain timelines and the city's historical reputation for significant permitting delays. — Evidence: The research cites Richmond's past 'pretty poor reputation' for business and development, with historical permit processing times ranging from 45 days to two months. While a 2022 report shows improvement, the memory and reputation persist, creating a lack of trust. · Cost Of Status Quo: The primary costs are significant stress and anxiety for the entrepreneur. This uncertainty makes it difficult to create accurate financial projections and business plans, and any actual delays directly result in lost revenue and increased pre-opening expenses.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ibuild/pain_points.md",
+    "sourceLocation": "lines 90-90",
+    "excerpt": "Entrepreneurs experience anxiety due to uncertain timelines and the city's historical reputation for significant permitting delays."
+   },
+   {
+    "sourceDoc": "https://richmondbizsense.com/2022/11/16/we-took-that-as-a-challenge-to-change-richmond-reduces-permit-backlog-delays/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "When David Alley was put in charge of Richmond’s beleaguered permits and inspections office a year ago, the time it took his then-shorthanded staff to process building permits ranged from as long as 45 days to two months, he said."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Jul 26, 2024 — Planning & Development Review ... Permit Center Open for Walk-in: Monday-Friday 8:00 a.m. - 1:00 p.m.. Phone Line Open: Monday-Friday 8:00 a.m. - 5:00 p.m"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2024-07/20240722%20Customer%20Guide%20-%20COs%20and%20HCOs.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "***Owner or Tenant Changes requiring a Certificate of Occupancy***\nThese may be requested when a Business has to present a CO.\nOften for Business or Retail Use this can be done with a Certificate of Zoning\nCompliance (CZC). A CZC can be applied for in the Online Permit Portal.\nHowever, for Assembly, Education, and Institutional Uses, the CO must be obtained\nvia the HCO process, outlined here."
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-8",
+  "claim": "The city's primary tool for applications, the Online Permit Portal (OPP), is ineffective and not user-friendly, creating a frustrating and confusing experience for new business owners.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ibuild/pain_points.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "The city's primary tool for applications, the Online Permit Portal (OPP), is ineffective and not user-friendly, creating a frustrating and confusing experience for new business owners."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC’s), and Plan of Developments (POD’s)."
+   },
+   {
+    "sourceDoc": "https://richmondbizsense.com/2022/11/16/we-took-that-as-a-challenge-to-change-richmond-reduces-permit-backlog-delays/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Nov 16, 2022 — The reductions followed complaints from developers and other applicants about slow turnaround times in permit ting and inspections and costs of outsourcing"
+   },
+   {
+    "sourceDoc": "https://rva.gov/finance-press-releases-and-announcements/news/city-richmond-launches-upgraded-rva-business-portal",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Jan 5, 2026 — Richmond, VA - The City's Department of Finance has launched upgrades to its RVA Business Portal (rvapay.rva.gov/bpp), making it easier for businesses to"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-9",
+  "claim": "There is a lack of clear and real-time visibility into the status of submitted applications, leaving entrepreneurs in the dark about their progress.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ibuild/pain_points.md",
+    "sourceLocation": "lines 129-129",
+    "excerpt": "There is a lack of clear and real-time visibility into the status of submitted applications, leaving entrepreneurs in the dark about their progress."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Our intake, review and inspection times have never been better than now. Please see our current review times below: • Online submittal review: 3-5 business days"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/finance/bpol-tax",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Jan 12, 2025 — The City's BPOL Tax is managed by the Department of Finance's Business Unit. Owners of businesses in the City of Richmond are required to obtain a Richmond Jan 12, 2025 · The City's BPOL Tax is managed by the Department of Finance's Business Unit. Owners of businesses in the City of Richmond are required to obtain a Richmond"
+   },
+   {
+    "sourceDoc": "https://richmondbizsense.com/2022/11/16/we-took-that-as-a-challenge-to-change-richmond-reduces-permit-backlog-delays/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Nov 16, 2022 — The reductions followed complaints from developers and other applicants about slow turnaround times in permit ting and inspections and costs of outsourcing"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-10",
+  "claim": "Entrepreneurs are forced to interact with multiple, siloed city departments without a single, consistent point of contact to guide them through the entire process.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ibuild/pain_points.md",
+    "sourceLocation": "lines 145-145",
+    "excerpt": "Entrepreneurs are forced to interact with multiple, siloed city departments without a single, consistent point of contact to guide them through the entire process."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC’s), and Plan of Developments (POD’s)."
+   },
+   {
+    "sourceDoc": "https://rva.gov/finance-press-releases-and-announcements/news/city-richmond-launches-upgraded-rva-business-portal",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Jan 5, 2026 — Richmond, VA - The City's Department of Finance has launched upgrades to its RVA Business Portal (rvapay.rva.gov/bpp), making it easier for businesses to"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/finance/bpol-tax",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Jan 12, 2025 — The City's BPOL Tax is managed by the Department of Finance's Business Unit. Owners of businesses in the City of Richmond are required to obtain a Richmond Jan 12, 2025 · The City's BPOL Tax is managed by the Department of Finance's Business Unit. Owners of businesses in the City of Richmond are required to obtain a Richmond"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-11",
+  "claim": "The complexities and fragmented nature of Richmond's business permitting and licensing process have significant equity implications, disproportionately affecting specific entrepreneurial groups. The system's challenges are most acutely felt by minority-owned and women-owned businesses, as well as entrepreneurs from lower-income backgrounds. These individuals and groups often have less access to the critical resources—such as capital for legal or consulting services, established professional networks, and the time to navigate a convoluted bureaucracy—that can make the process more manageable. The provided research highlights that a 2026 city report acknowledged 'significant economic disparities between minority and non-minority communities' in Richmond. The current system, with its scattered information, unclear requirements (e.g., CZC vs. CO), and historical delays, functions as a signif",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ibuild/pain_points.md",
+    "sourceLocation": "lines 196-196",
+    "excerpt": "The complexities and fragmented nature of Richmond's business permitting and licensing process have significant equity implications, disproportionately affecting specific entrepreneurial groups. The system's challenges are most acutely felt by minority-owned and women-owned businesses, as well as entrepreneurs from lower-income backgrounds. These individuals and groups often have less access to the critical resources—such as capital for legal or consulting services, established professional networks, and the time to navigate a convoluted bureaucracy—that can make the process more manageable. The provided research highlights that a 2026 city report acknowledged 'significant economic disparities between minority and non-minority communities' in Richmond. The current system, with its scattered information, unclear requirements (e.g., CZC vs. CO), and historical delays, functions as a significant barrier to entry. This barrier can stifle entrepreneurship within these communities, hindering economic mobility, wealth creation, and the overall diversity of the local business landscape, thereby exacerbating the very inequalities the city aims to address."
+   },
+   {
+    "sourceDoc": "https://rva.gov/sites/default/files/2025-10/OCWB%202025%20Annual%20Report%20Draft%203.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Oct 31, 2025 — This report was produced by the City of Richmond's Office ... Economic Development, the Office of Minority Business Development , and Housing and Community ... 29 pages"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2024-07/20240722%20Customer%20Guide%20-%20COs%20and%20HCOs.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Often for Business or Retail Use this can be done with a Certificate of Zoning. Compliance (CZC). A CZC can be applied for in the Online Permit Portal."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "*Verifying Business Licenses:*\nThe City Finance Business Unit has Customer Service Representatives available with access to MUNIS to verify if a business has a valid business license in the City of Richmond. They can be reached by telephone at (804) 646-6662. The door to Room 103 is open, please come in and ask for assistance should you have additional questions or concerns, or wish to speak to a Customer Service Supervisor."
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-12",
+  "claim": "The groups most negatively impacted are the smallest Minority Business Enterprises (MBEs), new entrants to the city contracting market, and firms that lack dedicated administrative or proposal staff. These businesses bear the brunt of the administrative burden required for multi-portal monitoring, multiple registration processes, and parsing extensive solicitation documents. The summary also notes that language access needs can further compound these barriers.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/pain_points.md",
+    "sourceLocation": "lines 45-45",
+    "excerpt": "The groups most negatively impacted are the smallest Minority Business Enterprises (MBEs), new entrants to the city contracting market, and firms that lack dedicated administrative or proposal staff. These businesses bear the brunt of the administrative burden required for multi-portal monitoring, multiple registration processes, and parsing extensive solicitation documents. The summary also notes that language access needs can further compound these barriers."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Mar 22, 2022 — The City of Richmond has selected MGT, a public sector firm that specializes in disparity and availability studies, to perform a disparity study"
+   },
+   {
+    "sourceDoc": "https://www.nigp.org/our-profession/nigp-code",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+   },
+   {
+    "sourceDoc": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-13",
+  "claim": "A critical systemic challenge in Richmond's procurement process is the lack of a standardized commodity code taxonomy across its various platforms. Systems like OpenGov use their own category codes for subscriptions and matching, while vendor profiles in other databases like the OMBD's B2Gnow directory or state-level systems may be organized by different standards, such as the National Institute of Governmental Purchasing (NIGP) codes or North American Industry Classification System (NAICS) codes. This inconsistency is a primary driver of failure in the discovery process. For MBEs, it means that automated alerts from platforms like OpenGov or eVA are often irrelevant, as the codes selected by the city for a solicitation may not align with the codes the vendor used to register their capabilities. This 'code mismatch' leads to vendors receiving a high volume of low-relevance opportunities,",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/pain_points.md",
+    "sourceLocation": "lines 124-124",
+    "excerpt": "A critical systemic challenge in Richmond's procurement process is the lack of a standardized commodity code taxonomy across its various platforms. Systems like OpenGov use their own category codes for subscriptions and matching, while vendor profiles in other databases like the OMBD's B2Gnow directory or state-level systems may be organized by different standards, such as the National Institute of Governmental Purchasing (NIGP) codes or North American Industry Classification System (NAICS) codes. This inconsistency is a primary driver of failure in the discovery process. For MBEs, it means that automated alerts from platforms like OpenGov or eVA are often irrelevant, as the codes selected by the city for a solicitation may not align with the codes the vendor used to register their capabilities. This 'code mismatch' leads to vendors receiving a high volume of low-relevance opportunities, forcing them to spend valuable time parsing useless information and simultaneously risking that they will miss relevant solicitations that were coded differently. This ultimately lowers competition and creates significant barriers for small firms with limited administrative resources."
+   },
+   {
+    "sourceDoc": "https://opengov.my.site.com/support/s/article/fb581c18-5508-40d7-b714-c753af6514a1",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "This article discusses the process of vendor selection for category codes, outlining the options available to vendors such as NIGP , NAICS , or UNSPSC codes."
+   },
+   {
+    "sourceDoc": "https://www.nigp.org/our-profession/nigp-code",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "NIGP Code is a universal taxonomy for identifying commodities and services in procurement operations for both public and private sector."
+   },
+   {
+    "sourceDoc": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Business Type\nCommodity Code(s)"
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-14",
+  "claim": "The procurement and vendor management ecosystem for the City of Richmond is highly fragmented, with essential data siloed across at least four distinct, non-integrated systems. Solicitations and bid submissions are managed through OpenGov. Vendor registration and payment details are handled in a separate Oracle-based system, iSupplier. MBE/ESB certification and directories are maintained in B2Gnow. And statewide opportunity leads are distributed via the state's eVA platform. This data fragmentation creates significant inefficiencies for all parties. MBE owners are forced to create and maintain profiles on multiple sites and must actively monitor each one to ensure they don't miss notices. For OMBD and DPS staff, the silos make it nearly impossible to get a holistic, real-time view of the procurement landscape. They cannot easily match vendors from the B2Gnow directory to new solicitation",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/pain_points.md",
+    "sourceLocation": "lines 128-128",
+    "excerpt": "The procurement and vendor management ecosystem for the City of Richmond is highly fragmented, with essential data siloed across at least four distinct, non-integrated systems. Solicitations and bid submissions are managed through OpenGov. Vendor registration and payment details are handled in a separate Oracle-based system, iSupplier. MBE/ESB certification and directories are maintained in B2Gnow. And statewide opportunity leads are distributed via the state's eVA platform. This data fragmentation creates significant inefficiencies for all parties. MBE owners are forced to create and maintain profiles on multiple sites and must actively monitor each one to ensure they don't miss notices. For OMBD and DPS staff, the silos make it nearly impossible to get a holistic, real-time view of the procurement landscape. They cannot easily match vendors from the B2Gnow directory to new solicitations in OpenGov or track an MBE's journey from initial outreach to final award. Furthermore, key transparency data on contracts is only updated monthly on the Open Data Portal, introducing a critical lag that prevents proactive, data-driven engagement with suppliers and makes it difficult to measure the impact of equity initiatives in a timely manner."
+   },
+   {
+    "sourceDoc": "https://rva.gov/procurement-services/procurement-transparency-dashboard",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The City manages all formal invitations for bids through **OpenGov** . This ensures transparency in the competitive process and lets the public see details about invitation for bid contract awards."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/supplier-portal",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Welcome to the City of Richmond's Supplier Portal. All suppliers and prospective suppliers must register on iSupplier. The portal provides easy access to tools"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/solicitations",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the"
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-15",
+  "claim": "When I’m a first-time entrepreneur in Richmond picking a location and preparing to open.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 31-31",
+    "excerpt": "When I’m a first-time entrepreneur in Richmond picking a location and preparing to open."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "A CERTIFICATE OF ZONING COMPLIANCE (CZC) is a permit issued by the Zoning Administration Office that certifies conformance with the City's Zoning Ordinance, and is typically required to obtain a license to operate a business in the City of Richmond (the CZC also certifies conformance of a business at the respective"
+   },
+   {
+    "sourceDoc": "https://www.virginiaregisteredagent.com/how-to-start-a-business-in-virginia/richmond/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "1. File your Initial Formation Documents · 2. Get an EIN (Employer Identification Number) · 3. Register with the Virginia Department of Taxation · 4. Apply for a New businesses are required to apply for a Business, Professional, & Occupational License with the City of Richmond within 30 days after opening your business."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2025-01/25%27%20New%20Business%20License%20Checklist%20%26%20Application.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "FICTICIOUS TRADE NAME: If you will be operating a business under an assumed or fictitious trade name, it must be registered with the SCC. Read more 2 pages 1 COMPLETED New Business License Application (answer all questions and sign) and ensure address is in the City of Richmond. Richmond Finance Revenue Division."
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-16",
+  "claim": "When I’m investing my limited savings into my first storefront or home-based business.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 58-58",
+    "excerpt": "When I’m investing my limited savings into my first storefront or home-based business."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/finance/bpol-tax",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "In January 2025 the City of Richmond Department of Finance launched a new RVA Business Portal for the 2025 filing period."
+   },
+   {
+    "sourceDoc": "https://www.richmondeda.com/small-business/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "In January 2025, the City of Richmond Department of Finance launched a new [RVA Business Portal](https://rvapay.rva.gov/BPP) for the 2025 filing period. The new City portal provides a single access point for immediate filing and invoice generation for Business Personal Property and Business, Professional, and Occupational Licenses and have been developed to simplify, ease, and replace the previously manual filing process for the business community."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2025-01/25%27%20New%20Business%20License%20Checklist%20%26%20Application.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "PPROVED ZONING CERTIFICATE:** Home Occupation or Commercial Building clearance for\ncompliance with zoning and building code regulations"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-17",
+  "claim": "When multiple agencies are involved in the business launch process, including Planning and Development Review (PDR) for Permits & Inspections, Zoning, Fire, Health, ABC, the Department of Finance, the Office of Minority Business Development (OMBD), and state-level bodies like the SCC and Virginia Tax.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
+    "sourceLocation": "lines 85-85",
+    "excerpt": "When multiple agencies are involved in the business launch process, including Planning and Development Review (PDR) for Permits & Inspections, Zoning, Fire, Health, ABC, the Department of Finance, the Office of Minority Business Development (OMBD), and state-level bodies like the SCC and Virginia Tax."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "A CERTIFICATE OF ZONING COMPLIANCE (CZC) is a permit issued by the Zoning Administration Office that certifies conformance with the City's Zoning Ordinance, and is typically required to obtain a license to operate a business in the City of Richmond (the CZC also certifies conformance of a business at the respective"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC’s), and Plan of Developments (POD’s)."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/finance/bpol-tax",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Owners of businesses in the City of Richmond are required to obtain a Richmond business license annually. The business license identifies the business and To contact City of Richmond Customer Service, please call 804-646-7000 or 3-1-1."
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-18",
+  "claim": "The primary functional job for the entrepreneur is to obtain a single, accurate, and correctly sequenced checklist of all city and state requirements needed to launch their business. This includes understanding and completing tasks in the correct dependency order, such as state-level registration with the State Corporation Commission (SCC), followed by city-level applications for a Certificate of Zoning Compliance (CZC), any necessary building or trade permits, and potentially health or ABC permits for food and beverage establishments. The final critical step is securing a Business, Professional, and Occupational License (BPOL) within 30 days of opening. The ultimate outcome the user seeks is to successfully open their business legally and on schedule, without encountering costly rework, failed inspections, or financial penalties for non-compliance.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/pain_points.md",
+    "sourceLocation": "lines 9-9",
+    "excerpt": "The primary functional job for the entrepreneur is to obtain a single, accurate, and correctly sequenced checklist of all city and state requirements needed to launch their business. This includes understanding and completing tasks in the correct dependency order, such as state-level registration with the State Corporation Commission (SCC), followed by city-level applications for a Certificate of Zoning Compliance (CZC), any necessary building or trade permits, and potentially health or ABC permits for food and beverage establishments. The final critical step is securing a Business, Professional, and Occupational License (BPOL) within 30 days of opening. The ultimate outcome the user seeks is to successfully open their business legally and on schedule, without encountering costly rework, failed inspections, or financial penalties for non-compliance."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/finance/bpol-tax",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "s. New businesses must obtain a license within 30 days of the date of opening. Before you make the business license renewal, you must obtain your Certificate of Zoning Compliance. Please see the Department of Planning and Development Review’s [Zoning Administration Division](https://rva.gov/"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2022-02/City%20of%20Richmond%20-%20How%20to%20apply%20for%20a%20CZC-Commercial.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "You are required to apply for a NEW CZC permit pending any changes to the following: ▫ Address/Location/Tenancy of the business. ▫ Name of the business. ▫ ... Read more 17 pages"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Online submittal review: 3-5 business days. ... Initial Plan Review: 5-10 business days for projects $1-$1.5 mil. ... Initial Plan Review: 10-20 business days for Commissioner of Buildings - David L. · Our permitting system was upgraded on November 14, 2024. · This upgrade will include a new login process for our online"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-19",
+  "claim": "The entrepreneur's emotional job is to gain confidence and reduce the significant anxiety associated with starting a new business. As they invest their limited personal savings, they need to feel in control of the process and secure in the knowledge that they are not making critical, costly mistakes. This involves moving from a state of fear about unknown requirements, potential penalties for late filings (such as the 10% penalty for a late BPOL), and long, uncertain delays (like the 60-90 day ABC license processing time) to a feeling of empowerment. The user wants to feel that the city's process is a supportive and transparent guide, not an 'onerous' and punitive barrier. Ultimately, they need to build trust in the system so they can focus on building their business, rather than worrying about compliance pitfalls.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-business-launch-wizard/pain_points.md",
+    "sourceLocation": "lines 13-13",
+    "excerpt": "The entrepreneur's emotional job is to gain confidence and reduce the significant anxiety associated with starting a new business. As they invest their limited personal savings, they need to feel in control of the process and secure in the knowledge that they are not making critical, costly mistakes. This involves moving from a state of fear about unknown requirements, potential penalties for late filings (such as the 10% penalty for a late BPOL), and long, uncertain delays (like the 60-90 day ABC license processing time) to a feeling of empowerment. The user wants to feel that the city's process is a supportive and transparent guide, not an 'onerous' and punitive barrier. Ultimately, they need to build trust in the system so they can focus on building their business, rather than worrying about compliance pitfalls."
+   },
+   {
+    "sourceDoc": "https://www.facebook.com/RVAGov/posts/hey-rva-business-ownersa-friendly-reminder-from-our-department-of-finance-that-t/1490884553044356/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "For brand new businesses, the deadline to file is 30 days from becoming a legal business in 2024. ... Late filing penalties can apply per partner,"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/finance/bpol-tax",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Any renewal submitted after March 1st is subject to a 10% late filing penalty and interest up to 10% per annum. Business Portal Assistance Frequently Asked"
+   },
+   {
+    "sourceDoc": "https://richmondbizsense.com/2017/08/23/the-worst-it-has-ever-been-developers-face-permit-delays-as-city-tries-to-meet-demand/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Aug 23, 2017 — With the recent increase in activity in the city, developers say the delays have gotten worse, costing them money and slowing down projects"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-20",
+  "claim": "A core pain point identified is that 'inconsistent metadata' across the fragmented systems hinders a vendor's ability to get a complete and accurate picture of an opportunity. This problem is compounded by the fact that information is spread across OpenGov, a separate open data portal for historical awards, and a PDF forecast, each with potentially different data standards and update cadences.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/pain_points.md",
+    "sourceLocation": "lines 132-132",
+    "excerpt": "A core pain point identified is that 'inconsistent metadata' across the fragmented systems hinders a vendor's ability to get a complete and accurate picture of an opportunity. This problem is compounded by the fact that information is spread across OpenGov, a separate open data portal for historical awards, and a PDF forecast, each with potentially different data standards and update cadences."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/solicitations",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the"
+   },
+   {
+    "sourceDoc": "https://data.richmondgov.com/Well-Managed-Government/City-Contracts/xqn7-jvv2",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Oct 19, 2022 — The Open Data portal provides a list of open and closed city contracts for the past 5 years . This data is updated monthly and includes the following: Oct 19, 2022 — The Open Data portal provides a list of open and closed city contracts for the past 5 years. This data is updated monthly and includes the following:"
+   },
+   {
+    "sourceDoc": "https://rva.gov/sites/default/files/2026-02/Forecast%20Projects%20Calendar%20-%20Feb%202026.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Feb 3, 2026 — City of Richmond - Forecast Calendar for Anticipated Solicitations. Information subject to change at anytime. Not an all inclusive list. Document Revised - 2"
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-21",
+  "claim": "There are direct contradictions in the city's instructions for bidders. While the main solicitations page mandates that 'All bids and proposals are to be submitted electronically through OpenGov,' the Invitation for Bid (IFB) page simultaneously references an 'official, hard copy, solicitation document' located at City Hall. This ambiguity creates confusion and risk for bidders, especially those new to the process.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/pain_points.md",
+    "sourceLocation": "lines 147-147",
+    "excerpt": "There are direct contradictions in the city's instructions for bidders. While the main solicitations page mandates that 'All bids and proposals are to be submitted electronically through OpenGov,' the Invitation for Bid (IFB) page simultaneously references an 'official, hard copy, solicitation document' located at City Hall. This ambiguity creates confusion and risk for bidders, especially those new to the process."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/solicitations",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/invitation-bid-ifb-open",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The official, hard copy, solicitation document is located in the Procurement Services office at 900 E. Broad Street, Room 1104, Richmond, Virginia 23219."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/supplier-portal",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "May 16, 2020 — All suppliers and prospective suppliers must register on iSupplier . The portal provides easy access to tools that will make doing business with the City"
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-22",
+  "claim": "The burdens of the current system disproportionately affect the most vulnerable businesses. This includes micro and small MBE/ESB firms that lack dedicated administrative or procurement staff, first-time bidders and new-to-city vendors navigating the complex process for the first time, and firms not yet connected to the informal networks of prime contractors. Evidence from peer cities like Durham suggests that Black-owned businesses in particular report lower success rates, indicating they are among the most affected groups.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/richmond-contract-navigator/pain_points.md",
+    "sourceLocation": "lines 231-231",
+    "excerpt": "The burdens of the current system disproportionately affect the most vulnerable businesses. This includes micro and small MBE/ESB firms that lack dedicated administrative or procurement staff, first-time bidders and new-to-city vendors navigating the complex process for the first time, and firms not yet connected to the informal networks of prime contractors. Evidence from peer cities like Durham suggests that Black-owned businesses in particular report lower success rates, indicating they are among the most affected groups."
+   },
+   {
+    "sourceDoc": "https://www.urban.org/sites/default/files/2024-04/Removing%20Barriers%20to%20Participation%20in%20Local%20and%20State%20Government%20Procurement%20and%20Contracting%20for%20Entrepreneurs%20of%20Color.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "by B Theodos · Cited by 10 — This study sheds light on the generalized challenges inherent to public procurement and those facing minority-owned business enterprises (MBEs) specifically."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/minority-business",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Mar 8, 2020 — Your success is our success - the City and OMBD are committed to increasing contracting opportunities for all minority-owned and emerging small businesses."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/rvaequity",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Feb 23, 2021 — The city's working definition of true equity is the empowerment of communities that have experienced past injustices by removing barriers to access and"
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-23",
+  "claim": "A primary challenge for first-time entrepreneurs in Richmond is navigating the confusing and fragmented sequence of steps between state and city requirements. The process begins with registering the business entity with the Virginia State Corporation Commission (SCC). However, there is a lack of clear, integrated guidance on how this state-level registration connects to the subsequent, mandatory city-level processes. Entrepreneurs are often unaware that state registration is merely the first step and does not clear them to operate. The SCC website itself notes that after state registration, businesses may need to contact other federal, state, and local agencies, which underscores the decentralized nature of the compliance journey. This creates a significant pain point, as new business owners do not have a single, authoritative source to understand the complete, ordered checklist, leading",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/tradepath-rva/pain_points.md",
+    "sourceLocation": "lines 161-161",
+    "excerpt": "A primary challenge for first-time entrepreneurs in Richmond is navigating the confusing and fragmented sequence of steps between state and city requirements. The process begins with registering the business entity with the Virginia State Corporation Commission (SCC). However, there is a lack of clear, integrated guidance on how this state-level registration connects to the subsequent, mandatory city-level processes. Entrepreneurs are often unaware that state registration is merely the first step and does not clear them to operate. The SCC website itself notes that after state registration, businesses may need to contact other federal, state, and local agencies, which underscores the decentralized nature of the compliance journey. This creates a significant pain point, as new business owners do not have a single, authoritative source to understand the complete, ordered checklist, leading to uncertainty and potential missteps from the very beginning of their venture."
+   },
+   {
+    "sourceDoc": "https://www.scc.virginia.gov/businesses/new-business-resources/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Out-of-State Businesses\nBusinesses that are formed in another state or jurisdiction must register with the SCC to transact business in Virginia."
+   },
+   {
+    "sourceDoc": "https://www.scc.virginia.gov/businesses/forms-and-fees/virginia-limited-liability-companies/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "This page lists the filings that you may need during the lifecycle of your Virginia LLC. We encourage you to file online to save time and prevent processing"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/planning-development-review/permits-and-inspections",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The [Online Permit Portal (OPP)](http://rvagov.prod.acquia-sites.com/planning-development-review/online-permit-portal) should be used for Commercial and Residential Building permits, Commercial, Electrical and Mechanical permits, all Residential trade permits (Electrical, Gas Piping, Mechanical, Plumbing), Certificates of Zoning Compliance (CZC’s), and Plan of Developments (POD’s)."
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-24",
+  "claim": "Fragmented, multi-portal sequence with unclear handoffs and sequencing risk. — Evidence: The vendor onboarding process is spread across at least five different systems: the City Finance portal for the Business, Professional and Occupational License (BPOL), the state's SBSD portal for SWaM certification, the City's Office of Minority Business Development (OMBD) B2GNow portal for local registration/certification, the OpenGov portal for bidding, and the iSupplier portal for payments. There is no single, unified guide that sequences these steps. For example, the state SWaM certification has a lead time of approximately 60 business days for initial review, creating a significant risk if not started well in advance of any potential bid deadlines. · Cost Of Status Quo: The tangible costs are significant delays, including a 60-90 calendar day wait for SWaM certification and a 3-5 business day ap",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/vendor-onboarding-wizard/pain_points.md",
+    "sourceLocation": "lines 57-57",
+    "excerpt": "Fragmented, multi-portal sequence with unclear handoffs and sequencing risk."
+   },
+   {
+    "sourceDoc": "https://sbsd.virginia.gov/certification-division/swam/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The time until the initial review for both SWaM initial applications and for recertifications is approximately 60 business days from the time that we received a completed SWaM application AND the required supporting documents."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/solicitations",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the ... OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/supplier-portal",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "All suppliers and prospective suppliers must register on iSupplier."
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-25",
+  "claim": "Confusion between different types of 'certifications' and 'registrations' from city and state entities. — Evidence: There is a lack of clarity between the city's local MBE/ESB certification and registry managed by OMBD via the B2GNow portal, and the state-level SWaM certification managed by the SBSD. Furthermore, these are distinct from system-specific 'registrations' for the OpenGov bidding portal and the iSupplier payment portal. Each serves a different purpose and requires different data, but the city's websites discuss them on separate pages without providing a consolidated, step-by-step guide explaining the differences and requirements. · Cost Of Status Quo: The cost includes wasted time and money pursuing a certification that may not be necessary for a particular opportunity, delays in becoming fully eligible to bid, and the potential for bid disqualification due to not meeting the",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/vendor-onboarding-wizard/pain_points.md",
+    "sourceLocation": "lines 77-77",
+    "excerpt": "Confusion between different types of 'certifications' and 'registrations' from city and state entities."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Sep 29, 2020 — The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow . 29 Sept 2020 — The City of Richmond's Office of Minority Business Development ( OMBD ) has launched a new Supplier and Diversity Portal through B2GNow ."
+   },
+   {
+    "sourceDoc": "https://sbsd.virginia.gov/certification-division/swam/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The time until the initial review for both SWaM initial applications and for recertifications is approximately 60 business days from the time that we received a completed SWaM application AND the required supporting documents."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/supplier-portal",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "All suppliers and prospective suppliers must register on iSupplier."
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-26",
+  "claim": "Erosion of trust due to historical underutilization of MBEs and unofficial-looking communications. — Evidence: MBE owners' trust is undermined by historical data, with local press reporting that in a prior fiscal year, only 'about 5 cents of every $1' of city spending went to nonwhite-owned companies. This fosters skepticism about whether the difficult registration process will yield any real opportunities. This is compounded by communications from multiple unfamiliar brands (OpenGov, B2GNow) and critical emails for supplier approval coming from a sender named 'RAPIDS Workflow Mailer,' which can be mistaken for phishing or spam. · Cost Of Status Quo: The primary cost is lower participation from first-time MBEs who are discouraged by the perceived complexity and low expected return on investment. This creates delays, duplicated efforts, and a high cognitive load for those who do attempt t",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/vendor-onboarding-wizard/pain_points.md",
+    "sourceLocation": "lines 97-97",
+    "excerpt": "Erosion of trust due to historical underutilization of MBEs and unofficial-looking communications."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Sep 29, 2020 — The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow . 29 Sept 2020 — The City of Richmond's Office of Minority Business Development ( OMBD ) has launched a new Supplier and Diversity Portal through B2GNow ."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/solicitations",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the ... OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/sites/default/files/2025-05/Supplier%20Registration%20Guide.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Here you will add your W - 9 and ACH form that you saved at the beginning. Click “Add Attachment” and choose file to locate your saved document. Click “Apply”. Step 4: After your W-9 and ACH forms are completed and saved, click the link for “Supplier. Registration”. This will take you to the Prospective Supplier"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-27",
+  "claim": "Lack of data integration across portals requires duplicative data entry and document uploads. — Evidence: There is no cross-portal data sharing. Core business information and documents must be entered and uploaded separately into each system: W-9 and ACH forms into iSupplier; SWaM certification documents into the SBSD portal; OMBD certification documents into B2GNow; and bid-specific information into OpenGov. The iSupplier portal further complicates this by having a session timeout of only 2 minutes of inactivity, which can cause users to lose their work. · Cost Of Status Quo: This inefficiency translates directly into additional administrative hours spent per opportunity. It causes delays in onboarding and increases the risk of submitting a non-responsive bid if a required certificate or registration isn't correctly in place across all relevant systems by the deadline.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/vendor-onboarding-wizard/pain_points.md",
+    "sourceLocation": "lines 117-117",
+    "excerpt": "Lack of data integration across portals requires duplicative data entry and document uploads."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/supplier-portal",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "All suppliers and prospective suppliers must register on iSupplier."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Sep 29, 2020 — The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow . 29 Sept 2020 — The City of Richmond's Office of Minority Business Development ( OMBD ) has launched a new Supplier and Diversity Portal through B2GNow ."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/solicitations",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "All bids and proposals are to be submitted electronically through OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the ... OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community."
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-28",
+  "claim": "Minority-owned business (MBE) newcomers, micro-businesses, very small firms, and sole proprietors who lack dedicated back-office or administrative capacity are most negatively impacted. This group also includes new immigrant entrepreneurs and non-native English speakers who face a higher cognitive load from specialized acronyms (BPOL, SWaM, OMBD, etc.), and firms with limited digital access or literacy who risk missing critical notifications from disparate systems.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/vendor-onboarding-wizard/pain_points.md",
+    "sourceLocation": "lines 171-171",
+    "excerpt": "Minority-owned business (MBE) newcomers, micro-businesses, very small firms, and sole proprietors who lack dedicated back-office or administrative capacity are most negatively impacted. This group also includes new immigrant entrepreneurs and non-native English speakers who face a higher cognitive load from specialized acronyms (BPOL, SWaM, OMBD, etc.), and firms with limited digital access or literacy who risk missing critical notifications from disparate systems."
+   },
+   {
+    "sourceDoc": "https://sbsd.virginia.gov/certification-division/swam/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The time until the initial review for both SWaM initial applications and for recertifications is approximately 60 business days from the time that we received a Application Portal Instructions. You do NOT need to read through the entire document, as many sections may not be applicable to you. Clicking on a section in"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-richmond-office-minority-business",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Sep 29, 2020 — The City of Richmond's Office of Minority Business Development (OMBD) has launched a new Supplier and Diversity Portal through B2GNow . 29 Sept 2020 — The City of Richmond's Office of Minority Business Development ( OMBD ) has launched a new Supplier and Diversity Portal through B2GNow ."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/solicitations",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The City of Richmond is currently using OpenGov for solicitation development, to include evaluations and awards. OpenGov is a best-in-class automated, OpenGov is a best-in-class automated, procurement software solution. The system is intuitive and transparent for city officials, suppliers and the community."
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-29",
+  "claim": "When I’m a Richmond-based, SWaM/MBE-certified contractor scanning for upcoming City work across construction, professional, and small-purchase categories,",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/you-get-what-you-give/jtbd_analysis.md",
+    "sourceLocation": "lines 23-23",
+    "excerpt": "When I’m a Richmond-based, SWaM/MBE-certified contractor scanning for upcoming City work across construction, professional, and small-purchase categories,"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/solicitations",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The Department of Procurement Services is transitioning to a new electronic Invitation for Bid and RFP system called OpenGov. During this transition some solicitations will be submitted electronically through the OpenGov, and some will be submitted through the paper submission process."
+   },
+   {
+    "sourceDoc": "https://www.bidnetdirect.com/mitn/city-of-richmond",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Feb 19, 2026 — City of Richmond's Open and Closed Solicitations are posted below. Please register or login to see details of all open opportunities."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/minority-business",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Your success is our success - the City and OMBD are committed to increasing contracting opportunities for all minority-owned and emerging small businesses."
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-30",
+  "claim": "When I’m an underrepresented supplier who’s had limited success winning City work,",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/you-get-what-you-give/jtbd_analysis.md",
+    "sourceLocation": "lines 50-50",
+    "excerpt": "When I’m an underrepresented supplier who’s had limited success winning City work,"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/minority-business",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Your success is our success - the City and OMBD are committed to increasing contracting opportunities for all minority-owned and emerging small businesses."
+   },
+   {
+    "sourceDoc": "https://data.richmondgov.com/Well-Managed-Government/City-Contracts/xqn7-jvv2",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The Open Data portal provides a list of open and closed city contracts for the past 5 years. This data is updated monthly and includes the following:"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/solicitations",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The Department of Procurement Services is transitioning to a new electronic Invitation for Bid and RFP system called OpenGov. During this transition some solicitations will be submitted electronically through the OpenGov, and some will be submitted through the paper submission process."
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-31",
+  "claim": "When I’m a prime contractor forming a local team in Richmond,",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/you-get-what-you-give/jtbd_analysis.md",
+    "sourceLocation": "lines 77-77",
+    "excerpt": "When I’m a prime contractor forming a local team in Richmond,"
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/minority-business",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Your success is our success - the City and OMBD are committed to increasing contracting opportunities for all minority-owned and emerging small businesses."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/solicitations",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The Department of Procurement Services is transitioning to a new electronic Invitation for Bid and RFP system called OpenGov. During this transition some solicitations will be submitted electronically through the OpenGov, and some will be submitted through the paper submission process."
+   },
+   {
+    "sourceDoc": "https://data.richmondgov.com/Well-Managed-Government/City-Contracts/xqn7-jvv2",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The Open Data portal provides a list of open and closed city contracts for the past 5 years. This data is updated monthly and includes the following:"
+   }
+  ],
+  "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-32",
+  "claim": "### Who is most affected/excluded\nMBEs, ESBs, DBEs, and newer/smaller local firms without established procurement networks or administrative capacity face higher risks of missing addenda, mis-submitting (paper vs electronic), and failing to meet bonding/insurance hurdles. Richmond’s OMBD explicitly targets these groups for support, indicating recognized need.\n\n### System-level contributors\nSplit systems (OpenGov and eVA/VBO), persistence of paper-based requirements, and vendor-borne responsibility for addenda compound barriers. National research recommends fully digitizing processes, simplifying steps, and addressing bonding/insurance burdens to improve MBE participation.\n\n### Implications for design\nA single, unified feed with NAICS/NIGP mapping and readiness filters; explicit addenda tracking/alerts; countdowns for deadlines; plain-language checklists for submission method; bonding/ins",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/you-get-what-you-give/pain_points.md",
+    "sourceLocation": "lines 55-55",
+    "excerpt": "### Who is most affected/excluded\nMBEs, ESBs, DBEs, and newer/smaller local firms without established procurement networks or administrative capacity face higher risks of missing addenda, mis-submitting (paper vs electronic), and failing to meet bonding/insurance hurdles. Richmond’s OMBD explicitly targets these groups for support, indicating recognized need.\n\n### System-level contributors\nSplit systems (OpenGov and eVA/VBO), persistence of paper-based requirements, and vendor-borne responsibility for addenda compound barriers. National research recommends fully digitizing processes, simplifying steps, and addressing bonding/insurance burdens to improve MBE participation.\n\n### Implications for design\nA single, unified feed with NAICS/NIGP mapping and readiness filters; explicit addenda tracking/alerts; countdowns for deadlines; plain-language checklists for submission method; bonding/insurance readiness guidance; and OMBD-integrated coaching can reduce inequities and increase fair access."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/mbd/about-us",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "OMBD is dedicated to advancing opportunities for Minority Business Enterprises (MBEs), Emerging Small Businesses (ESBs), and Disadvantaged Business Enterprises (DBEs) to fully participate in contracting opportunities available within the City of Richmond."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/minority-business",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Mar 8, 2020 — Your success is our success - the City and OMBD are committed to increasing contracting opportunities for all minority -owned and emerging small businesses ."
+   },
+   {
+    "sourceDoc": "https://www.urban.org/sites/default/files/2024-04/Removing%20Barriers%20to%20Participation%20in%20Local%20and%20State%20Government%20Procurement%20and%20Contracting%20for%20Entrepreneurs%20of%20Color.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "May 15, 2024 · This study sheds light on the generalized challenges inherent to public procurement and those facing minority-owned business enterprises (MBEs) specifically. We"
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-33",
+  "claim": "The pain points faced by Minority-Owned Businesses (MBEs) in Richmond are rooted in several systemic barriers that create an inequitable contracting landscape. A primary issue is the fragmented and inconsistent procurement infrastructure, where opportunities are split between the city's new OpenGov portal and the state's legacy eVA/VBO system, with a mix of electronic and paper-based submission requirements. This creates confusion and a high administrative burden. Compounding this is the city's policy that places the entire risk of tracking solicitation addenda on the vendor, where a single oversight can lead to disqualification. Furthermore, national research highlights that cumbersome insurance and bonding requirements act as significant financial hurdles for smaller firms that may lack the necessary capital or credit history. Ineffective government outreach networks also perpetuate an",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/you-get-what-you-give/pain_points.md",
+    "sourceLocation": "lines 117-117",
+    "excerpt": "The pain points faced by Minority-Owned Businesses (MBEs) in Richmond are rooted in several systemic barriers that create an inequitable contracting landscape. A primary issue is the fragmented and inconsistent procurement infrastructure, where opportunities are split between the city's new OpenGov portal and the state's legacy eVA/VBO system, with a mix of electronic and paper-based submission requirements. This creates confusion and a high administrative burden. Compounding this is the city's policy that places the entire risk of tracking solicitation addenda on the vendor, where a single oversight can lead to disqualification. Furthermore, national research highlights that cumbersome insurance and bonding requirements act as significant financial hurdles for smaller firms that may lack the necessary capital or credit history. Ineffective government outreach networks also perpetuate an 'insider's game,' limiting awareness of opportunities for firms not already connected. These systemic issues collectively disadvantage smaller, newer, and minority-owned firms that have less capacity to navigate the complexity, absorb the risks, and meet the financial prerequisites, thereby hindering equitable participation in city contracting."
+   },
+   {
+    "sourceDoc": "https://www.rva.gov/procurement-services/solicitations",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "For solicitations posted on eVA **REQUIRING** **ELECTRONIC SUBMISSION** , all bids and proposals are to be submitted electronically through the City’s e-Procurement Portal, OpenGov, located at https://procurement.opengov.com/portal/rva until, but no later than the time and date listed for the solicitation."
+   },
+   {
+    "sourceDoc": "https://eva.virginia.gov/i-sell-to-virginia.html",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Free to join, eVA registration gives you access to many free services and tools including automated placement on bidders list and email/fax notifications for business opportunities with Virginia State Agencies, Colleges and Universities, as well as many Local Governments."
+   },
+   {
+    "sourceDoc": "https://www.urban.org/sites/default/files/2024-04/Removing%20Barriers%20to%20Participation%20in%20Local%20and%20State%20Government%20Procurement%20and%20Contracting%20for%20Entrepreneurs%20of%20Color.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "May 15, 2024 · This study sheds light on the generalized challenges inherent to public procurement and those facing minority-owned business enterprises (MBEs) specifically. We"
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-34",
+  "claim": "A critical financial barrier for Minority-Owned Businesses (MBEs) is navigating the readiness requirements related to capital and bonding for public contracts. National procurement research, applicable to Richmond's context, identifies 'cumbersome insurance or bonding requirements' as a significant hurdle that can prevent smaller firms and entrepreneurs of color from competing for government work. These requirements often demand a level of financial standing, credit history, or available capital that newer or smaller businesses may not possess. This effectively filters out many MBEs before they can even submit a bid, as they lack the resources to meet these prerequisites. The difficulty in accessing capital and meeting these often-stringent financial stipulations represents a systemic barrier that limits the pool of eligible bidders and hinders efforts to increase diversity in city contr",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-economy",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/you-get-what-you-give/pain_points.md",
+    "sourceLocation": "lines 178-178",
+    "excerpt": "A critical financial barrier for Minority-Owned Businesses (MBEs) is navigating the readiness requirements related to capital and bonding for public contracts. National procurement research, applicable to Richmond's context, identifies 'cumbersome insurance or bonding requirements' as a significant hurdle that can prevent smaller firms and entrepreneurs of color from competing for government work. These requirements often demand a level of financial standing, credit history, or available capital that newer or smaller businesses may not possess. This effectively filters out many MBEs before they can even submit a bid, as they lack the resources to meet these prerequisites. The difficulty in accessing capital and meeting these often-stringent financial stipulations represents a systemic barrier that limits the pool of eligible bidders and hinders efforts to increase diversity in city contracting."
+   },
+   {
+    "sourceDoc": "https://www.urban.org/sites/default/files/2024-04/Removing%20Barriers%20to%20Participation%20in%20Local%20and%20State%20Government%20Procurement%20and%20Contracting%20for%20Entrepreneurs%20of%20Color.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "\nremoving requirements that could present potential barriers (e.g., cumbersome insurance or\nbonding requirements)"
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  }
 ]

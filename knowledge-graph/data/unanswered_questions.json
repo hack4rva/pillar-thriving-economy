@@ -306,91 +306,6 @@
   ]
  },
  {
-  "id": "q:ombd-proactive-match-dashboard-equity-questions-0",
-  "question": "How does the tool align with Richmond’s MBE/ESB goals and Title VI language access—e.g., thresholds for targeted outreach, documentation required for audits, and processes for non-digital vendors?",
-  "category": "equity",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:how-does-the-tool-align-with-richmond-s-mbe-esb-goals-and-title-vi-language-acce",
-   "n:proposal:ombd-proactive-match-dashboard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
-    "sourceLocation": "lines 260-260",
-    "excerpt": "How does the tool align with Richmond’s MBE/ESB goals and Title VI language access—e.g., thresholds for targeted outreach, documentation required for audits, and processes for non-digital vendors?"
-   }
-  ]
- },
- {
-  "id": "q:ombd-proactive-match-dashboard-equity-questions-1",
-  "question": "How will we prevent “spray and pray” blasts—what precision threshold is acceptable for a match, and what audit trail is required to demonstrate fair, non-discriminatory outreach?",
-  "category": "equity",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:how-will-we-prevent-spray-and-pray-blasts-what-precision-threshold-is-acceptable",
-   "n:proposal:ombd-proactive-match-dashboard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
-    "sourceLocation": "lines 260-260",
-    "excerpt": "How will we prevent “spray and pray” blasts—what precision threshold is acceptable for a match, and what audit trail is required to demonstrate fair, non-discriminatory outreach?"
-   }
-  ]
- },
- {
-  "id": "q:ombd-proactive-match-dashboard-equity-questions-2",
-  "question": "Can the dashboard identify unregistered but Richmond-based MBEs for proactive onboarding (e.g., from business license or OMBD outreach lists) while complying with privacy rules?",
-  "category": "equity",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:can-the-dashboard-identify-unregistered-but-richmond-based-mbes-for-proactive-on",
-   "n:proposal:ombd-proactive-match-dashboard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
-    "sourceLocation": "lines 260-260",
-    "excerpt": "Can the dashboard identify unregistered but Richmond-based MBEs for proactive onboarding (e.g., from business license or OMBD outreach lists) while complying with privacy rules?"
-   }
-  ]
- },
- {
-  "id": "q:ombd-proactive-match-dashboard-prior-art-questions-0",
-  "question": "Which municipalities using OpenGov or statewide systems like eVA have implemented commodity-code matching or supplier recommendation tools, and what were their measured outcomes (increased MBE bids/awards, reduced time-to-award)?",
-  "category": "prior_art",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:which-municipalities-using-opengov-or-statewide-systems-like-eva-have-implemente",
-   "n:proposal:ombd-proactive-match-dashboard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
-    "sourceLocation": "lines 287-287",
-    "excerpt": "Which municipalities using OpenGov or statewide systems like eVA have implemented commodity-code matching or supplier recommendation tools, and what were their measured outcomes (increased MBE bids/awards, reduced time-to-award)?"
-   }
-  ]
- },
- {
-  "id": "q:ombd-proactive-match-dashboard-prior-art-questions-1",
-  "question": "Can eVA’s existing NIGP alert capabilities be leveraged or mirrored just for City of Richmond opportunities to reduce duplication and vendor fatigue?",
-  "category": "prior_art",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:can-eva-s-existing-nigp-alert-capabilities-be-leveraged-or-mirrored-just-for-cit",
-   "n:proposal:ombd-proactive-match-dashboard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
-    "sourceLocation": "lines 287-287",
-    "excerpt": "Can eVA’s existing NIGP alert capabilities be leveraged or mirrored just for City of Richmond opportunities to reduce duplication and vendor fatigue?"
-   }
-  ]
- },
- {
   "id": "q:richmond-business-launch-wizard-data-related-questions-0",
   "question": "What is the authoritative data model for Richmond permit types in OPP (including Certificates of Zoning Compliance, Certificates of Occupancy, sign permits, trade permits) and their prerequisites? Can we access it via API or scheduled export?",
   "category": "data_related",
@@ -510,74 +425,6 @@
   ]
  },
  {
-  "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-0",
-  "question": "What is the authoritative data model for Richmond permit types in OPP (including Certificates of Zoning Compliance, Certificates of Occupancy, sign permits, trade permits) and their prerequisites? Can we access it via API or scheduled export?",
-  "category": "integration_and_systems",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:what-is-the-authoritative-data-model-for-richmond-permit-types-in-opp-including-",
-   "n:proposal:richmond-business-launch-wizard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
-    "sourceLocation": "lines 175-175",
-    "excerpt": "What is the authoritative data model for Richmond permit types in OPP (including Certificates of Zoning Compliance, Certificates of Occupancy, sign permits, trade permits) and their prerequisites? Can we access it via API or scheduled export?"
-   }
-  ]
- },
- {
-  "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-1",
-  "question": "Can the Finance Business Unit expose BPOL categories, rates, and documentation requirements as structured data, including the “BPOL within 30 days” rule and penalties, to drive rules logic?",
-  "category": "integration_and_systems",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:can-the-finance-business-unit-expose-bpol-categories-rates-and-documentation-req",
-   "n:proposal:richmond-business-launch-wizard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
-    "sourceLocation": "lines 175-175",
-    "excerpt": "Can the Finance Business Unit expose BPOL categories, rates, and documentation requirements as structured data, including the “BPOL within 30 days” rule and penalties, to drive rules logic?"
-   }
-  ]
- },
- {
-  "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-2",
-  "question": "How will we keep time-sensitive content current (e.g., processing times 2–3 weeks, portal upgrades, fees, forms)? What’s the change-notification source of truth?",
-  "category": "integration_and_systems",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:how-will-we-keep-time-sensitive-content-current-e-g-processing-times-2-3-weeks-p",
-   "n:proposal:richmond-business-launch-wizard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
-    "sourceLocation": "lines 175-175",
-    "excerpt": "How will we keep time-sensitive content current (e.g., processing times 2–3 weeks, portal upgrades, fees, forms)? What’s the change-notification source of truth?"
-   }
-  ]
- },
- {
-  "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-3",
-  "question": "Can the RVA Business Portal (2025) surface machine-readable statuses for BPOL filings to the wizard for real-time checklist updates?",
-  "category": "integration_and_systems",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:can-the-rva-business-portal-2025-surface-machine-readable-statuses-for-bpol-fili",
-   "n:proposal:richmond-business-launch-wizard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
-    "sourceLocation": "lines 175-175",
-    "excerpt": "Can the RVA Business Portal (2025) surface machine-readable statuses for BPOL filings to the wizard for real-time checklist updates?"
-   }
-  ]
- },
- {
   "id": "q:richmond-business-launch-wizard-integration-and-systems-questions-4",
   "question": "Can we integrate with OPP for account linking, pre-populated applications, and status checks for CZC/permits/inspections, and with Finance for BPOL validation? What authentication is required?",
   "category": "integration_and_systems",
@@ -629,23 +476,6 @@
   ]
  },
  {
-  "id": "q:richmond-business-launch-wizard-equity-and-accessibility-questions-0",
-  "question": "What language accessibility and reading-level targets are needed (e.g., Spanish, Vietnamese)? Any required plain-language standards for City content?",
-  "category": "equity_and_accessibility",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:what-language-accessibility-and-reading-level-targets-are-needed-e-g-spanish-vie",
-   "n:proposal:richmond-business-launch-wizard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
-    "sourceLocation": "lines 234-234",
-    "excerpt": "What language accessibility and reading-level targets are needed (e.g., Spanish, Vietnamese)? Any required plain-language standards for City content?"
-   }
-  ]
- },
- {
   "id": "q:richmond-business-launch-wizard-equity-and-accessibility-questions-1",
   "question": "How will the wizard surface OMBD, SBDC, Enterprise Zone/CARE, and Revolving Loan supports at the right moment (e.g., before build-out, before BPOL) for SWaM, micro, and LMI founders?",
   "category": "equity_and_accessibility",
@@ -693,40 +523,6 @@
     "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
     "sourceLocation": "lines 234-234",
     "excerpt": "What accommodations are needed for founders without reliable broadband or who prefer in-person help (e.g., printable checklists, SMS reminders, referrals to OMBD counselors)?"
-   }
-  ]
- },
- {
-  "id": "q:richmond-business-launch-wizard-prior-art-and-learning-questions-0",
-  "question": "Which top Richmond business archetypes should the wizard optimize for first (e.g., small restaurant, retail, contractor, sidewalk vendor, home occupation, salon, professional services), based on volume and failure points?",
-  "category": "prior_art_and_learning",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:which-top-richmond-business-archetypes-should-the-wizard-optimize-for-first-e-g-",
-   "n:proposal:richmond-business-launch-wizard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
-    "sourceLocation": "lines 269-269",
-    "excerpt": "Which top Richmond business archetypes should the wizard optimize for first (e.g., small restaurant, retail, contractor, sidewalk vendor, home occupation, salon, professional services), based on volume and failure points?"
-   }
-  ]
- },
- {
-  "id": "q:richmond-business-launch-wizard-prior-art-and-learning-questions-1",
-  "question": "What are the most common first-time errors (e.g., starting work before permits, skipping CZC, wrong occupancy type) that we should preempt with questions/tooltips?",
-  "category": "prior_art_and_learning",
-  "repo": "pillar-thriving-economy",
-  "relatedNodeIds": [
-   "n:question:what-are-the-most-common-first-time-errors-e-g-starting-work-before-permits-skip",
-   "n:proposal:richmond-business-launch-wizard"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
-    "sourceLocation": "lines 269-269",
-    "excerpt": "What are the most common first-time errors (e.g., starting work before permits, skipping CZC, wrong occupancy type) that we should preempt with questions/tooltips?"
    }
   ]
  },

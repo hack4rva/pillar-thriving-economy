@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-02T21:03:29.605Z",
+ "generatedAt": "2026-08-02T23:12:25.242Z",
  "repo": "pillar-thriving-economy",
  "filesExamined": [
   "admin/evidence_log.md",
@@ -9,7 +9,6 @@
   "post-event-research/ibuild/jtbd_analysis.md",
   "post-event-research/ibuild/pain_points.md",
   "post-event-research/ombd-proactive-match-dashboard/jtbd_analysis.md",
-  "post-event-research/ombd-proactive-match-dashboard/pain_points.md",
   "post-event-research/richmond-business-launch-wizard/jtbd_analysis.md",
   "post-event-research/richmond-business-launch-wizard/pain_points.md",
   "post-event-research/richmond-contract-navigator/jtbd_analysis.md",
@@ -19,8 +18,211 @@
   "post-event-research/vendor-onboarding-wizard/jtbd_analysis.md",
   "post-event-research/vendor-onboarding-wizard/pain_points.md",
   "post-event-research/you-get-what-you-give/jtbd_analysis.md",
-  "post-event-research/you-get-what-you-give/pain_points.md"
+  "research/90_top_10_research_questions.md",
+  "research/92_red_flags.md",
+  "research/93_missing_information_gaps.md",
+  "research/E3_prior_art_archetype_mapping.md",
+  "research/E4_prior_art_pitfalls.md",
+  "research/E5_prior_art_weekend_viability.md",
+  "research/README.md"
  ],
+ "researchCorpus": {
+  "reportsRead": 7,
+  "reportsOffBrief": [
+   {
+    "file": "research/A1_problem_landscape_mbe_contracting.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/A3_problem_landscape_compare_targeted.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/A4_problem_landscape_problem_types.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/A5_problem_landscape_root_causes.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/B1_users_personas_contracting.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/B2_users_personas_setup.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/B4_users_stakeholder_priorities.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/B5_users_staff_knowledge.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/C4_services_hidden_gaps.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/C5_services_duplication_risk.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/D1_data_inventory_contracting.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/D3_data_inventory_business_setup.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/D4_data_structured_vs_manual.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/D5_data_quality_assessment.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F1_opportunity_spaces_ranked.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F2_opportunity_mbe_framing.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F3_opportunity_setup_framing.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F4_opportunity_where_software_helps.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F5_opportunity_do_not_build.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G1_risks_ai_heavy.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G2_risks_harm_cases.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G3_risks_inclusion_accessibility.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G4_risks_matching_bias.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G5_risks_practical_guardrails.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/H1_mvp_feasibility_shape.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/H2_mvp_mbe_public_data.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/H3_mvp_setup_rule_based.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/H4_mvp_minimums.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/H5_mvp_scope_boundaries.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/I1_demo_judging_easiest.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/I2_demo_evidence_of_credibility.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/I3_demo_prove_usefulness.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/I4_demo_best_archetypes.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/I5_demo_judging_framing_language.md",
+    "localMentionsPerKWord": 0
+   }
+  ],
+  "reportsWithoutReferences": [
+   {
+    "file": "research/00_pillar_summary_context.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/01_master_research_prompt.md",
+    "reason": "corpus scaffolding, not findings"
+   },
+   {
+    "file": "research/91_top_10_hypotheses_to_test.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/A2_problem_landscape_small_business_journey.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/B3_users_stakeholders_map.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/C1_services_existing_landscape.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/C2_services_contracting_support.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/C3_services_front_door.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/D2_data_formats_procurement.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/E1_prior_art_catalog.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/E2_prior_art_pattern_transfer.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/INDEX.md",
+    "reason": "corpus scaffolding, not findings"
+   },
+   {
+    "file": "research/validation_report.md",
+    "reason": "corpus scaffolding, not findings"
+   }
+  ],
+  "claimsIndexed": 39,
+  "primarySourcesCited": 30
+ },
  "provenanceVerification": {
   "exact": 0,
   "moved": 0,
@@ -29,6 +231,8 @@
   "external": 0
  },
  "warnings": [
+  "[demote] 34 sentence-shaped Problem/Need nodes moved to the evidence layer",
+  "[corpus] dropped 0 stale-anchor, 12 unresolved-endpoint, 0 not-an-organization and 16 not-a-name records",
   "[merge] duplicate node id n:org:city-of-richmond-ombd: provenance merged",
   "[merge] duplicate node id n:org:virginia-sbsd: provenance merged",
   "[merge] duplicate node id n:org:city-of-richmond-finance: provenance merged",
@@ -36,8 +240,8 @@
   "[merge] duplicate node id n:org:virginia-abc-authority: provenance merged"
  ],
  "metrics": {
-  "totalNodes": 149,
-  "totalEdges": 150,
+  "totalNodes": 176,
+  "totalEdges": 189,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -47,41 +251,20 @@
   "flowsWithUnknownDestination": 0,
   "flowsWithUnknownSource": 0,
   "fundingWithUnknownDestinationUSD": 0,
-  "intendedBeneficiaryNodes": 8,
-  "needsTotal": 32,
+  "intendedBeneficiaryNodes": 9,
+  "needsTotal": 11,
   "needsWithNoFunding": [
    "n:need:anxiety-and-fear-of-non-compliance",
    "n:need:confusing-and-rigid-process-sequencing",
-   "n:need:confusion-between-different-types-of-certifications-and-registrations-from-city-",
    "n:need:confusion-over-trade-specific-requirements",
    "n:need:divergent-paths-for-different-business-uses",
    "n:need:duplicative-data-entry-across-multiple-systems",
-   "n:need:entrepreneurs-are-forced-to-interact-with-multiple-siloed-city-departments-witho",
-   "n:need:entrepreneurs-experience-anxiety-due-to-uncertain-timelines-and-the-city-s-histo",
-   "n:need:entrepreneurs-face-fragmented-and-unclear-information-making-it-difficult-to-fin",
-   "n:need:erosion-of-trust-due-to-historical-underutilization-of-mbes-and-unofficial-looki",
    "n:need:fragmented-guidance-and-information",
-   "n:need:fragmented-multi-portal-sequence-with-unclear-handoffs-and-sequencing-risk",
-   "n:need:lack-of-data-integration-across-portals-requires-duplicative-data-entry-and-docu",
    "n:need:opaque-permitting-portal-and-rework-risk",
    "n:need:strict-deadlines-and-financial-penalties",
-   "n:need:the-city-s-primary-tool-for-applications-the-online-permit-portal-opp-is-ineffec",
-   "n:need:the-entrepreneur-s-emotional-job-is-to-gain-confidence-and-reduce-the-significan",
-   "n:need:the-primary-functional-job-for-the-entrepreneur-is-to-obtain-a-single-accurate-a",
-   "n:need:there-is-a-lack-of-clear-and-real-time-visibility-into-the-status-of-submitted-a",
-   "n:need:there-is-significant-confusion-regarding-when-a-certificate-of-zoning-compliance",
    "n:need:trade-specific-licensing-and-insurance-ambiguity",
    "n:need:unclear-dependencies-and-mismatched-timelines",
-   "n:need:unclear-sequencing-of-required-steps",
-   "n:need:when-i-m-a-first-time-entrepreneur-choosing-a-location-in-richmond",
-   "n:need:when-i-m-a-first-time-entrepreneur-in-richmond-picking-a-location-and-preparing-",
-   "n:need:when-i-m-a-prime-contractor-forming-a-local-team-in-richmond",
-   "n:need:when-i-m-a-richmond-based-swam-mbe-certified-contractor-scanning-for-upcoming-ci",
-   "n:need:when-i-m-an-underrepresented-supplier-who-s-had-limited-success-winning-city-wor",
-   "n:need:when-i-m-investing-my-limited-savings-into-my-first-storefront-or-home-based-bus",
-   "n:need:when-i-m-preparing-to-open-e-g-restaurant-retail-in-richmond",
-   "n:need:when-i-m-submitting-my-first-applications-to-the-city-and-state",
-   "n:need:when-multiple-agencies-are-involved-in-the-business-launch-process-including-pla"
+   "n:need:unclear-sequencing-of-required-steps"
   ],
   "fundingFlowsWithNoDocumentedOutcome": 0,
   "outcomeNote": "No outcome measurements are documented anywhere in the corpus (see q:outcome-measurements).",
@@ -89,11 +272,11 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 125,
+  "reportedButUnverifiedRelationships": 91,
   "brokenReferences": 0,
-  "duplicateCandidates": 0,
-  "reviewQueueSize": 0,
-  "evidenceRecords": 10,
+  "duplicateCandidates": 1,
+  "reviewQueueSize": 1,
+  "evidenceRecords": 83,
   "provenanceCoverage": 100,
   "provenanceVerification": {
    "exact": 0,
@@ -102,6 +285,8 @@
    "missing": 0,
    "external": 0
   },
+  "questionsDeduplicated": 12,
+  "questionsResolvedSinceLogged": 0,
   "externalResearch": {
    "researchedAt": null,
    "evidenceRecords": 0,

@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "id": "r:dup-city-of-richmond-open-data-portal",
+  "itemType": "node",
+  "proposed": "n:org:city-of-richmond-open-data-portal vs n:dataset:city-of-richmond-open-data-portal",
+  "sourceExcerpt": "City of Richmond Open Data Portal",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ }
+]

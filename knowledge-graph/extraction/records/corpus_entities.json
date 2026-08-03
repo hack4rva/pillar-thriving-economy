@@ -1,0 +1,681 @@
+{
+ "generatedAt": "2026-08-02T22:31:57.071Z",
+ "model": "gpt-5.4-mini",
+ "claimsSubmitted": 39,
+ "batches": 7,
+ "batchFailures": 0,
+ "rejected": {
+  "unanchored": 0,
+  "foreignClaim": 0,
+  "unknownEntity": 13,
+  "selfLoop": 0,
+  "sentenceName": 6,
+  "generic": 0
+ },
+ "usage": {
+  "inputTokens": 7540,
+  "outputTokens": 4222
+ },
+ "entities": [
+  {
+   "name": "United States Patent and Trademark Office",
+   "type": "GovernmentAgency",
+   "aliases": [
+    "USPTO"
+   ],
+   "description": "The agency whose closure on weekends or holidays affects filing deadlines and filing receipt rules.",
+   "claimIds": [
+    "ev:R-31",
+    "ev:R-33",
+    "ev:R-36",
+    "ev:R-38"
+   ]
+  },
+  {
+   "name": "Leahy-Smith America Invents Act",
+   "type": "Legislation",
+   "aliases": [
+    "AIA"
+   ],
+   "description": "The legislation under which patent applicants are afforded a one-year grace period for public disclosures.",
+   "claimIds": [
+    "ev:R-31",
+    "ev:R-32",
+    "ev:R-33"
+   ]
+  },
+  {
+   "name": "AI-generated visualisations",
+   "type": "Dataset",
+   "aliases": [
+    "AI visualisations"
+   ],
+   "description": "Underlying data-source structures used in contemporary prior-art analysis and used early to surface hidden cross-domain links.",
+   "claimIds": [
+    "ev:R-14",
+    "ev:R-21"
+   ]
+  },
+  {
+   "name": "citation networks",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "Underlying data-source structures used in contemporary prior-art analysis.",
+   "claimIds": [
+    "ev:R-14",
+    "ev:R-18"
+   ]
+  },
+  {
+   "name": "domain-specific taxonomies",
+   "type": "Dataset",
+   "aliases": [
+    "domain-specific ontologies"
+   ],
+   "description": "Underlying data-source structures and multi-modal mapping components used in prior-art analysis.",
+   "claimIds": [
+    "ev:R-14",
+    "ev:R-15"
+   ]
+  },
+  {
+   "name": "FTC",
+   "type": "GovernmentAgency",
+   "aliases": [
+    "Federal Trade Commission"
+   ],
+   "description": "The agency that requires board approval of the written Identity-Theft Prevention Program.",
+   "claimIds": [
+    "ev:R-7",
+    "ev:R-8"
+   ]
+  },
+  {
+   "name": "relational databases",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "A component combined in multi-modal mapping frameworks for prior-art searches.",
+   "claimIds": [
+    "ev:R-15",
+    "ev:R-16"
+   ]
+  },
+  {
+   "name": "Scribbr",
+   "type": "Organization",
+   "aliases": [],
+   "description": "An authoritative source cited for research question guidelines and research question formulation.",
+   "claimIds": [
+    "ev:R-1",
+    "ev:R-4"
+   ]
+  },
+  {
+   "name": "§ 102(b)(1) rebuttal",
+   "type": "Legislation",
+   "aliases": [
+    "§ 102(b)(1)"
+   ],
+   "description": "A rebuttal provision mentioned for references published within one year before filing.",
+   "claimIds": [
+    "ev:R-30"
+   ]
+  },
+  {
+   "name": "§ 102(b)(1)(A)",
+   "type": "Legislation",
+   "aliases": [],
+   "description": "A statutory provision referenced as the grace-period exclusion for inventor-originated disclosures.",
+   "claimIds": [
+    "ev:R-25"
+   ]
+  },
+  {
+   "name": "§ 102(b)(2)(A)",
+   "type": "Legislation",
+   "aliases": [],
+   "description": "A statutory provision referenced as disqualifying references obtained directly from the inventor.",
+   "claimIds": [
+    "ev:R-26"
+   ]
+  },
+  {
+   "name": "37 CFR 1.7",
+   "type": "Legislation",
+   "aliases": [],
+   "description": "A regulation stating that when the one-year grace period ends on a Saturday, Sunday, or federal holiday, the deadline is extended to the next succeeding business day.",
+   "claimIds": [
+    "ev:R-31"
+   ]
+  },
+  {
+   "name": "AI-driven visualisation",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "A component combined in multi-modal mapping frameworks for prior-art searches.",
+   "claimIds": [
+    "ev:R-15"
+   ]
+  },
+  {
+   "name": "AI-Enrichment",
+   "type": "Program",
+   "aliases": [],
+   "description": "A step that runs a transformer-based similarity model to generate the Elite visual overlay.",
+   "claimIds": [
+    "ev:R-18"
+   ]
+  },
+  {
+   "name": "ArcheType",
+   "type": "Program",
+   "aliases": [],
+   "description": "An open-source framework for column type annotation using large language models.",
+   "claimIds": [
+    "ev:R-20"
+   ]
+  },
+  {
+   "name": "archetype relational mapping (ARM) persistence solution",
+   "type": "Program",
+   "aliases": [
+    "ARM persistence solution"
+   ],
+   "description": "A persistence solution based on a relational database that can achieve similar performance to specialised graph databases while remaining compatible with existing relational infrastructures.",
+   "claimIds": [
+    "ev:R-16"
+   ]
+  },
+  {
+   "name": "Archetype taxonomy",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "The reusable patterns of how prior-art information is organised.",
+   "claimIds": [
+    "ev:R-15"
+   ]
+  },
+  {
+   "name": "automated data tagging",
+   "type": "Program",
+   "aliases": [],
+   "description": "The use case for ArcheType.",
+   "claimIds": [
+    "ev:R-20"
+   ]
+  },
+  {
+   "name": "Blue Calypso",
+   "type": "Legislation",
+   "aliases": [],
+   "description": "A Federal Circuit case from 2015 stating that public accessibility is the touchstone for a printed publication.",
+   "claimIds": [
+    "ev:R-24"
+   ]
+  },
+  {
+   "name": "Certificate of Mailing",
+   "type": "Policy",
+   "aliases": [],
+   "description": "A USPTO certificate that serves as the official record of submission for document filing.",
+   "claimIds": [
+    "ev:R-36"
+   ]
+  },
+  {
+   "name": "City of Richmond Open Data Portal",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "A data asset named as an example in the Research Index description.",
+   "claimIds": [
+    "ev:R-39"
+   ]
+  },
+  {
+   "name": "column type annotation",
+   "type": "Program",
+   "aliases": [],
+   "description": "The task that ArcheType is designed for.",
+   "claimIds": [
+    "ev:R-20"
+   ]
+  },
+  {
+   "name": "Elite visual overlay",
+   "type": "Dataset",
+   "aliases": [
+    "Elite"
+   ],
+   "description": "The visual overlay generated by the transformer-based similarity model.",
+   "claimIds": [
+    "ev:R-18"
+   ]
+  },
+  {
+   "name": "FFIEC",
+   "type": "GovernmentAgency",
+   "aliases": [
+    "Federal Financial Institutions Examination Council"
+   ],
+   "description": "An agency whose advisories are incorporated when reviewing and refreshing the red-flag list annually.",
+   "claimIds": [
+    "ev:R-8"
+   ]
+  },
+  {
+   "name": "GitHub",
+   "type": "Organization",
+   "aliases": [],
+   "description": "A platform whose acceptable use policies are mentioned as governing misinformation and manipulated media.",
+   "claimIds": [
+    "ev:R-10"
+   ]
+  },
+  {
+   "name": "GitHub's acceptable use policies",
+   "type": "Policy",
+   "aliases": [
+    "acceptable use policies"
+   ],
+   "description": "Policies that strictly govern misinformation and manipulated media.",
+   "claimIds": [
+    "ev:R-10"
+   ]
+  },
+  {
+   "name": "Identity-Theft Prevention Program",
+   "type": "Program",
+   "aliases": [
+    "written Identity-Theft Prevention Program"
+   ],
+   "description": "A written program whose board approval is required by the FTC.",
+   "claimIds": [
+    "ev:R-7"
+   ]
+  },
+  {
+   "name": "interactive maps",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "Maps produced from patent documents by Patently.",
+   "claimIds": [
+    "ev:R-18"
+   ]
+  },
+  {
+   "name": "large language models",
+   "type": "Dataset",
+   "aliases": [
+    "LLMs"
+   ],
+   "description": "The models used for automated data tagging in ArcheType.",
+   "claimIds": [
+    "ev:R-20"
+   ]
+  },
+  {
+   "name": "markdownlint",
+   "type": "Program",
+   "aliases": [],
+   "description": "A tool configured to enforce markdown rules automatically during CI build.",
+   "claimIds": [
+    "ev:R-13"
+   ]
+  },
+  {
+   "name": "Metaphor: ReFantazio",
+   "type": "Project",
+   "aliases": [],
+   "description": "A community referenced as the source of the naming convention's archetype hierarchy.",
+   "claimIds": [
+    "ev:R-17"
+   ]
+  },
+  {
+   "name": "Metaphor: ReFantazio community",
+   "type": "Community",
+   "aliases": [],
+   "description": "The community where the archetype hierarchy is identified.",
+   "claimIds": [
+    "ev:R-17"
+   ]
+  },
+  {
+   "name": "MPEP 2153",
+   "type": "Policy",
+   "aliases": [],
+   "description": "A manual provision stating that when the one-year grace period ends on a Saturday, Sunday, or federal holiday, the deadline is extended to the next succeeding business day.",
+   "claimIds": [
+    "ev:R-31"
+   ]
+  },
+  {
+   "name": "patent documents",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "Documents turned into interactive maps and citation networks by Patently.",
+   "claimIds": [
+    "ev:R-18"
+   ]
+  },
+  {
+   "name": "patent families",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "Underlying data-source structures used in contemporary prior-art analysis.",
+   "claimIds": [
+    "ev:R-14"
+   ]
+  },
+  {
+   "name": "Patently",
+   "type": "Organization",
+   "aliases": [],
+   "description": "A tool that turns patent documents into interactive maps and citation networks to speed prior art searches.",
+   "claimIds": [
+    "ev:R-18"
+   ]
+  },
+  {
+   "name": "Patsnap",
+   "type": "Organization",
+   "aliases": [],
+   "description": "A patent mapping tool referenced as reducing prior art search time.",
+   "claimIds": [
+    "ev:R-19"
+   ]
+  },
+  {
+   "name": "peer-reviewed studies on pedagogy",
+   "type": "Dataset",
+   "aliases": [
+    "studies on pedagogy"
+   ],
+   "description": "Peer-reviewed studies cited as authoritative sources on pedagogy.",
+   "claimIds": [
+    "ev:R-1"
+   ]
+  },
+  {
+   "name": "R Markdown",
+   "type": "Program",
+   "aliases": [],
+   "description": "A tool cited for academic formatting.",
+   "claimIds": [
+    "ev:R-3"
+   ]
+  },
+  {
+   "name": "relational database",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "The database basis for the archetype relational mapping (ARM) persistence solution.",
+   "claimIds": [
+    "ev:R-16"
+   ]
+  },
+  {
+   "name": "Research Index",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "Aggregates primary research artifacts, analyses, and strategic recommendations for the Thriving Economy pillar of Richmond's 300-Year Master Plan.",
+   "claimIds": [
+    "ev:R-39"
+   ]
+  },
+  {
+   "name": "Richmond's 300-Year Master Plan",
+   "type": "Policy",
+   "aliases": [],
+   "description": "The master plan whose Thriving Economy pillar is referenced.",
+   "claimIds": [
+    "ev:R-39"
+   ]
+  },
+  {
+   "name": "small-sided games in volleyball",
+   "type": "Program",
+   "aliases": [],
+   "description": "A pedagogical topic cited for its benefits in volleyball.",
+   "claimIds": [
+    "ev:R-3"
+   ]
+  },
+  {
+   "name": "specialised graph databases",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "Databases used as a performance comparison for the archetype relational mapping (ARM) persistence solution.",
+   "claimIds": [
+    "ev:R-16"
+   ]
+  },
+  {
+   "name": "Thriving Economy",
+   "type": "Program",
+   "aliases": [],
+   "description": "A pillar of Richmond's 300-Year Master Plan.",
+   "claimIds": [
+    "ev:R-39"
+   ]
+  },
+  {
+   "name": "transformer-based similarity model",
+   "type": "Dataset",
+   "aliases": [],
+   "description": "The model run to generate the Elite visual overlay.",
+   "claimIds": [
+    "ev:R-18"
+   ]
+  },
+  {
+   "name": "Zero-Placeholders policy",
+   "type": "Policy",
+   "aliases": [],
+   "description": "A policy for eliminating information gaps by removing placeholders and standardizing formatting and disclaimers.",
+   "claimIds": [
+    "ev:R-9"
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "source": "scribbr",
+   "target": "peer reviewed studies on pedagogy",
+   "type": "SUPPORTS",
+   "description": "Authoritative sources including Scribbr's research question guidelines and peer-reviewed studies on pedagogy were integrated to establish credibility.",
+   "claimIds": [
+    "ev:R-1"
+   ]
+  },
+  {
+   "source": "ftc",
+   "target": "identity theft prevention program",
+   "type": "RESTRICTS",
+   "description": "The FTC requires board approval of the written Identity-Theft Prevention Program.",
+   "claimIds": [
+    "ev:R-7"
+   ]
+  },
+  {
+   "source": "ffiec",
+   "target": "identity theft prevention program",
+   "type": "SUPPORTS",
+   "description": "FFIEC advisories are incorporated when reviewing and refreshing the red-flag list for the program.",
+   "claimIds": [
+    "ev:R-8"
+   ]
+  },
+  {
+   "source": "ftc",
+   "target": "identity theft prevention program",
+   "type": "SUPPORTS",
+   "description": "FTC updates are incorporated when reviewing and refreshing the red-flag list for the program.",
+   "claimIds": [
+    "ev:R-8"
+   ]
+  },
+  {
+   "source": "github",
+   "target": "github s acceptable use policies",
+   "type": "GOVERNS",
+   "description": "GitHub has acceptable use policies that strictly govern misinformation and manipulated media.",
+   "claimIds": [
+    "ev:R-10"
+   ]
+  },
+  {
+   "source": "united states patent and trademark office",
+   "target": "certificate of mailing",
+   "type": "PUBLISHES",
+   "description": "The USPTO's Certificate of Mailing serves as the official record of submission.",
+   "claimIds": [
+    "ev:R-36"
+   ]
+  },
+  {
+   "source": "research index",
+   "target": "thriving economy",
+   "type": "ASSOCIATED_WITH",
+   "description": "The Research Index aggregates materials for the Thriving Economy pillar.",
+   "claimIds": [
+    "ev:R-39"
+   ]
+  },
+  {
+   "source": "thriving economy",
+   "target": "richmond s 300 year master plan",
+   "type": "ASSOCIATED_WITH",
+   "description": "Thriving Economy is identified as a pillar of Richmond's 300-Year Master Plan.",
+   "claimIds": [
+    "ev:R-39"
+   ]
+  },
+  {
+   "source": "research index",
+   "target": "city of richmond open data portal",
+   "type": "ASSOCIATED_WITH",
+   "description": "The Research Index description cites the City of Richmond Open Data Portal as a data asset.",
+   "claimIds": [
+    "ev:R-39"
+   ]
+  },
+  {
+   "source": "archetype taxonomy",
+   "target": "patent families",
+   "type": "ASSOCIATED_WITH",
+   "description": "The document maps the archetype taxonomy to underlying data-source structures including patent families.",
+   "claimIds": [
+    "ev:R-14"
+   ]
+  },
+  {
+   "source": "archetype taxonomy",
+   "target": "citation networks",
+   "type": "ASSOCIATED_WITH",
+   "description": "The document maps the archetype taxonomy to underlying data-source structures including citation networks.",
+   "claimIds": [
+    "ev:R-14"
+   ]
+  },
+  {
+   "source": "archetype taxonomy",
+   "target": "ai generated visualisations",
+   "type": "ASSOCIATED_WITH",
+   "description": "The document maps the archetype taxonomy to underlying data-source structures including AI-generated visualisations.",
+   "claimIds": [
+    "ev:R-14"
+   ]
+  },
+  {
+   "source": "archetype taxonomy",
+   "target": "domain specific taxonomies",
+   "type": "ASSOCIATED_WITH",
+   "description": "The document maps the archetype taxonomy to underlying data-source structures including domain-specific taxonomies.",
+   "claimIds": [
+    "ev:R-14"
+   ]
+  },
+  {
+   "source": "patently",
+   "target": "patent documents",
+   "type": "PUBLISHES",
+   "description": "Patently turns patent documents into interactive maps and citation networks.",
+   "claimIds": [
+    "ev:R-18"
+   ]
+  },
+  {
+   "source": "patently",
+   "target": "interactive maps",
+   "type": "PRODUCES",
+   "description": "Patently turns patent documents into interactive maps.",
+   "claimIds": [
+    "ev:R-18"
+   ]
+  },
+  {
+   "source": "patently",
+   "target": "citation networks",
+   "type": "PRODUCES",
+   "description": "Patently turns patent documents into citation networks.",
+   "claimIds": [
+    "ev:R-18"
+   ]
+  },
+  {
+   "source": "ai enrichment",
+   "target": "elite visual overlay",
+   "type": "PRODUCES",
+   "description": "AI-Enrichment runs a transformer-based similarity model to generate the Elite visual overlay.",
+   "claimIds": [
+    "ev:R-18"
+   ]
+  },
+  {
+   "source": "ai enrichment",
+   "target": "transformer based similarity model",
+   "type": "DEPENDS_ON",
+   "description": "AI-Enrichment runs a transformer-based similarity model.",
+   "claimIds": [
+    "ev:R-18"
+   ]
+  },
+  {
+   "source": "archetype",
+   "target": "column type annotation",
+   "type": "SUPPORTS",
+   "description": "ArcheType is an open-source framework for column type annotation using large language models.",
+   "claimIds": [
+    "ev:R-20"
+   ]
+  },
+  {
+   "source": "archetype",
+   "target": "large language models",
+   "type": "DEPENDS_ON",
+   "description": "ArcheType uses large language models for automated data tagging.",
+   "claimIds": [
+    "ev:R-20"
+   ]
+  },
+  {
+   "source": "archetype",
+   "target": "automated data tagging",
+   "type": "SUPPORTS",
+   "description": "ArcheType is useful for automated data tagging.",
+   "claimIds": [
+    "ev:R-20"
+   ]
+  },
+  {
+   "source": "ai generated visualisations",
+   "target": "citation networks",
+   "type": "ASSOCIATED_WITH",
+   "description": "The claim says AI visualisations are integrated early, post-citation graph, to surface hidden links.",
+   "claimIds": [
+    "ev:R-21"
+   ]
+  }
+ ]
+}
