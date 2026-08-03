@@ -1,0 +1,34 @@
+{
+  "career-bridge": {
+    "name": "CareerBridge",
+    "fullTitle": "CareerBridge"
+  },
+  "ibuild": {
+    "name": "iBuild",
+    "fullTitle": "iBuild"
+  },
+  "ombd-proactive-match-dashboard": {
+    "name": "OMBD Proactive Match Dashboard",
+    "fullTitle": "OMBD Proactive Match Dashboard"
+  },
+  "richmond-business-launch-wizard": {
+    "name": "Richmond Business Launch Wizard",
+    "fullTitle": "Richmond Business Launch Wizard"
+  },
+  "richmond-contract-navigator": {
+    "name": "Richmond Contract Navigator",
+    "fullTitle": "Richmond Contract Navigator"
+  },
+  "tradepath-rva": {
+    "name": "TradePath RVA",
+    "fullTitle": "TradePath RVA — Pathway to Skilled Trades Careers"
+  },
+  "vendor-onboarding-wizard": {
+    "name": "Vendor Onboarding Wizard",
+    "fullTitle": "Vendor Onboarding Wizard"
+  },
+  "you-get-what-you-give": {
+    "name": "You Get What You Give RVA",
+    "fullTitle": "You Get What You Give RVA — Business Partnership Finder"
+  }
+}

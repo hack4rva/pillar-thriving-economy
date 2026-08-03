@@ -1167,7 +1167,7 @@
  },
  {
   "id": "ev:P-12",
-  "claim": "The groups most negatively impacted are the smallest Minority Business Enterprises (MBEs), new entrants to the city contracting market, and firms that lack dedicated administrative or proposal staff. These businesses bear the brunt of the administrative burden required for multi-portal monitoring, multiple registration processes, and parsing extensive solicitation documents. The summary also notes that language access needs can further compound these barriers.",
+  "claim": "The primary evidence of systemic issues is the city's own '2023 Disparity Study'. The City Council officially accepted the study's findings, which concluded that there are significant disparities between the availability of qualified MBEs and their actual utilization in city contracts. This official acknowledgement validates the anecdotal evidence and pain points identified in the research.",
   "status": "unverified",
   "source": "post-event research",
   "url": null,
@@ -1176,7 +1176,7 @@
    {
     "sourceDoc": "post-event-research/ombd-proactive-match-dashboard/pain_points.md",
     "sourceLocation": "lines 45-45",
-    "excerpt": "The groups most negatively impacted are the smallest Minority Business Enterprises (MBEs), new entrants to the city contracting market, and firms that lack dedicated administrative or proposal staff. These businesses bear the brunt of the administrative burden required for multi-portal monitoring, multiple registration processes, and parsing extensive solicitation documents. The summary also notes that language access needs can further compound these barriers."
+    "excerpt": "The primary evidence of systemic issues is the city's own '2023 Disparity Study'. The City Council officially accepted the study's findings, which concluded that there are significant disparities between the availability of qualified MBEs and their actual utilization in city contracts. This official acknowledgement validates the anecdotal evidence and pain points identified in the research."
    },
    {
     "sourceDoc": "https://www.rva.gov/minority-business-press-releases-and-announcements/news/city-selects-mgt-perform-disparity-study",
